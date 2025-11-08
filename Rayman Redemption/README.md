@@ -1,5 +1,5 @@
 # Rayman Redemption Manual Archipelago
-<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/0bfc83ac-b0c9-47a2-a3fe-59096f4629f8" />
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/d2b0201b-bf77-4440-9ef4-dc6c07946c57" />
 
 A manual apworld for [Rayman Redemption](https://gamejolt.com/games/raymanredemption/340532)!
 
