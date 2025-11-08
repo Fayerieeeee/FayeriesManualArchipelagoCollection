@@ -12,7 +12,6 @@ The apworld expects the player to have a save file with all the levels pre-unloc
 
 World progression is locked by cages. Getting more cages allows the player to enter the next major area. Each level's logic is based on what items are needed for said cages/tokens/giftboxes and proceeding throughout the later sections of a level, so if you can't get past a pit because you need pink rings then the rest of the level's logic will require the pink rings.
 
-Here's the list of the current items in the randomizer:
 ## 📝 Common Progression Items:
 - Cages (168)
 - Magician Tokens (40)
