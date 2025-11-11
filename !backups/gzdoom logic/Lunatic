@@ -1,0 +1,720 @@
+AP-MAP { "map": "MAP01", "checksum": "ed05d0351450fa643da4e3edaab4e19e", "rank": 0, "monster_count": 100, "info": { "levelnum": 1, "title": "One Small Step...", "is_lookup": false, "sky1": "ZDOOMSKY", "sky1speed": "0.000000", "sky2": "ZDOOMSKY", "sky2speed": "0.000000", "music": "D_RUNNIN", "music_track": "0", "cluster": 0, "flags": [] } }
+AP-ITEM { "map": "MAP01", "category": "weapon", "typename": "Shotgun", "tag": "Shotgun", "position": { "x": 1520, "y": -6712, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "powerup", "typename": "Berserk", "tag": "Berserk", "position": { "x": 2112, "y": -8256, "z": -112 } }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "BlueCard", "tag": "BlueCard", "position": { "x": 1824, "y": -8672, "z": -32 } }
+AP-KEY { "map": "MAP01", "typename": "BlueCard", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 1280, "y": -8256, "z": -112 } }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "RedCard", "tag": "RedCard", "position": { "x": 1160, "y": -5568, "z": -7 } }
+AP-KEY { "map": "MAP01", "typename": "RedCard", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1600, "y": -5612, "z": -119 } }
+AP-ITEM { "map": "MAP01", "category": "big-armor", "typename": "GreenArmor", "tag": "GreenArmor", "position": { "x": 2544, "y": -6896, "z": -24 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": 2560, "y": -5440, "z": -160 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": 2560, "y": -5392, "z": -160 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2992, "y": -8192, "z": -104 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2992, "y": -8192, "z": -104 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2992, "y": -8192, "z": -104 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 3120, "y": -8432, "z": -88 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 3120, "y": -8432, "z": -88 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 3120, "y": -8432, "z": -88 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2864, "y": -8852, "z": -72 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2864, "y": -8852, "z": -72 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2864, "y": -8852, "z": -72 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 3088, "y": -8656, "z": -80 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 3088, "y": -8656, "z": -80 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 3088, "y": -8656, "z": -80 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2624, "y": -8960, "z": -64 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2624, "y": -8960, "z": -64 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2624, "y": -8960, "z": -64 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 3104, "y": -8304, "z": -96 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 3104, "y": -8304, "z": -96 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 3104, "y": -8304, "z": -96 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1760, "y": -6200, "z": -119 } }
+AP-ITEM { "map": "MAP01", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1696, "y": -7232, "z": -8 } }
+AP-ITEM { "map": "MAP01", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 480, "y": -7136, "z": -120 } }
+AP-ITEM { "map": "MAP01", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2648, "y": -8056, "z": -120 } }
+AP-ITEM { "map": "MAP01", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2704, "y": -8128, "z": -112 } }
+AP-ITEM { "map": "MAP01", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 544, "y": -7072, "z": -120 } }
+AP-ITEM { "map": "MAP01", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 512, "y": -7104, "z": -120 } }
+AP-ITEM { "map": "MAP01", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 480, "y": -7072, "z": -120 } }
+AP-ITEM { "map": "MAP01", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2448, "y": -8024, "z": -120 } }
+AP-ITEM { "map": "MAP01", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 544, "y": -7136, "z": -120 } }
+AP-ITEM { "map": "MAP01", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2560, "y": -8024, "z": -120 } }
+AP-ITEM { "map": "MAP01", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 512, "y": -7104, "z": -120 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1440, "y": -6200, "z": -119 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 1880, "y": -5920, "z": -160 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 1928, "y": -5920, "z": -160 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 592, "y": -5928, "z": -128 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 656, "y": -5936, "z": -128 } }
+AP-ITEM { "map": "MAP01", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1984, "y": -5312, "z": -152 } }
+AP-ITEM { "map": "MAP01", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 2848, "y": -5344, "z": -160 } }
+AP-ITEM { "map": "MAP01", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 2272, "y": -5472, "z": -160 } }
+AP-ITEM { "map": "MAP01", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 0, "y": -5952, "z": -136 } }
+AP-ITEM { "map": "MAP01", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 0, "y": -5952, "z": -136 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1376, "y": -4704, "z": -124 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 1272, "y": -4912, "z": -124 } }
+AP-ITEM { "map": "MAP01", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 1280, "y": -4976, "z": -124 } }
+AP-ITEM { "map": "MAP01", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2032, "y": -4552, "z": -128 } }
+AP-ITEM { "map": "MAP01", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2008, "y": -4608, "z": -128 } }
+AP-ITEM { "map": "MAP01", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 1992, "y": -4656, "z": -128 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 1936, "y": -4688, "z": -128 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 1952, "y": -4640, "z": -128 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 1968, "y": -4592, "z": -128 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 1992, "y": -4544, "z": -128 } }
+AP-ITEM { "map": "MAP01", "category": "weapon", "typename": "Chaingun", "tag": "Chaingun", "position": { "x": 2560, "y": -5488, "z": -160 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "secret": true,"position": { "x": 1920, "y": -7224, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "secret": true,"position": { "x": 1920, "y": -7224, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "secret": true,"position": { "x": 1920, "y": -7224, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "secret": true,"position": { "x": 1920, "y": -7224, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "secret": true,"position": { "x": 1920, "y": -7224, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "secret": true,"position": { "x": 1920, "y": -7224, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "secret": true,"position": { "x": 1920, "y": -7224, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "secret": true,"position": { "x": 1920, "y": -7224, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "secret": true,"position": { "x": 1920, "y": -7224, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "secret": true,"position": { "x": 1920, "y": -7224, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 1920, "y": -7160, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "big-armor", "typename": "GreenArmor", "tag": "GreenArmor", "secret": true,"position": { "x": 1600, "y": -5568, "z": 40 } }
+AP-SECRET { "map": "MAP01", "sector": 161 }
+AP-SECRET { "map": "MAP01", "sector": 370 }
+AP-MAP { "map": "MAP02", "checksum": "f726bbf367c1d3a22460fd4753c08ba5", "rank": 1, "monster_count": 102, "info": { "levelnum": 2, "title": "Space Weapon Research", "is_lookup": false, "sky1": "ZDOOMSKY", "sky1speed": "0.000000", "sky2": "ZDOOMSKY", "sky2speed": "0.000000", "music": "D_STALKS", "music_track": "0", "cluster": 0, "flags": [] } }
+AP-ITEM { "map": "MAP02", "category": "big-armor", "typename": "GreenArmor", "tag": "GreenArmor", "position": { "x": 288, "y": 856, "z": 58 } }
+AP-ITEM { "map": "MAP02", "category": "weapon", "typename": "SuperShotgun", "tag": "Super Shotgun", "position": { "x": 1008, "y": 448, "z": 16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "secret": true,"position": { "x": 736, "y": 176, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "key", "typename": "RedCard", "tag": "RedCard", "position": { "x": -32, "y": 256, "z": 84 } }
+AP-KEY { "map": "MAP02", "typename": "RedCard", "scopename": "MAP02", "cluster": 0, "maps": ["MAP02"] }
+AP-ITEM { "map": "MAP02", "category": "key", "typename": "BlueCard", "tag": "BlueCard", "position": { "x": 256, "y": -1120, "z": -128 } }
+AP-KEY { "map": "MAP02", "typename": "BlueCard", "scopename": "MAP02", "cluster": 0, "maps": ["MAP02"] }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": -704, "y": -48, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": -704, "y": -48, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": -704, "y": -48, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": -704, "y": -48, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": -704, "y": -48, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": -704, "y": -48, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": -704, "y": -48, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": -704, "y": -48, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": -704, "y": -48, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": -704, "y": -48, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": -704, "y": -48, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": -704, "y": -48, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": -704, "y": -48, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": -704, "y": -48, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": -704, "y": -48, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": -704, "y": -48, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": -704, "y": -48, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": -704, "y": -48, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": -704, "y": -48, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": -704, "y": -48, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "key", "typename": "YellowCard", "tag": "YellowCard", "position": { "x": -1184, "y": 544, "z": 224 } }
+AP-KEY { "map": "MAP02", "typename": "YellowCard", "scopename": "MAP02", "cluster": 0, "maps": ["MAP02"] }
+AP-ITEM { "map": "MAP02", "category": "weapon", "typename": "Shotgun", "tag": "Shotgun", "position": { "x": 560, "y": -112, "z": 16 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 616, "y": 112, "z": 16 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 616, "y": 80, "z": 16 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 616, "y": 48, "z": 16 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 616, "y": 16, "z": 16 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 616, "y": -16, "z": 16 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 616, "y": -48, "z": 16 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 616, "y": -80, "z": 16 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 628, "y": 96, "z": 16 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 628, "y": 64, "z": 16 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 628, "y": 32, "z": 16 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 628, "y": 0, "z": 16 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 628, "y": -32, "z": 16 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 628, "y": -64, "z": 16 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 496, "y": -112, "z": 16 } }
+AP-ITEM { "map": "MAP02", "category": "weapon", "typename": "Chaingun", "tag": "Chaingun", "position": { "x": 424, "y": -112, "z": 16 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 624, "y": 624, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -1520, "y": 16, "z": 96 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": 768, "y": 768, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 768, "y": 448, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 448, "y": 768, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 768, "y": 608, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 608, "y": 768, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 288, "y": 768, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 768, "y": 288, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 256, "y": -832, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -32, "y": 112, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -1520, "y": 496, "z": 96 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -288, "y": 688, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 272, "y": 624, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -32, "y": 416, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -32, "y": 336, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -32, "y": 192, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -1184, "y": 32, "z": 96 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -1184, "y": 480, "z": 96 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -2272, "y": 480, "z": 96 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -2272, "y": 32, "z": 96 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": -1632, "y": 32, "z": 96 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -1632, "y": 480, "z": 96 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -1952, "y": 32, "z": 96 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -1952, "y": 480, "z": 96 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 96, "y": 1056, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 160, "y": 1056, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 304, "y": -832, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 208, "y": -832, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 960, "y": 960, "z": 40 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 128, "y": 592, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 256, "y": -1168, "z": -128 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -192, "y": -128, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -128, "y": -128, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -432, "y": 608, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 624, "y": 272, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -600, "y": 64, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 528, "y": -112, "z": 16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -704, "y": 672, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -704, "y": 672, "z": 84 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 464, "y": -112, "z": 16 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -2384, "y": 496, "z": 96 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -2384, "y": 16, "z": 96 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -384, "y": -48, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 128, "y": 768, "z": 0 } }
+AP-SECRET { "map": "MAP02", "sector": 272 }
+AP-SECRET { "map": "MAP02", "sector": 708 }
+AP-MAP { "map": "MAP03", "checksum": "39a668f1e221a734fdea33f4029a8b58", "rank": 2, "monster_count": 350, "info": { "levelnum": 3, "title": "Rocket Zone", "is_lookup": false, "sky1": "ZDOOMSKY", "sky1speed": "0.000000", "sky2": "ZDOOMSKY", "sky2speed": "0.000000", "music": "D_COUNTD", "music_track": "0", "cluster": 0, "flags": [] } }
+AP-ITEM { "map": "MAP03", "category": "key", "typename": "BlueCard", "tag": "BlueCard", "position": { "x": 4560, "y": 6096, "z": -224 } }
+AP-KEY { "map": "MAP03", "typename": "BlueCard", "scopename": "MAP03", "cluster": 0, "maps": ["MAP03"] }
+AP-ITEM { "map": "MAP03", "category": "key", "typename": "RedCard", "tag": "RedCard", "position": { "x": 4040, "y": 7312, "z": -96 } }
+AP-KEY { "map": "MAP03", "typename": "RedCard", "scopename": "MAP03", "cluster": 0, "maps": ["MAP03"] }
+AP-ITEM { "map": "MAP03", "category": "powerup", "typename": "Berserk", "tag": "Berserk", "secret": true,"position": { "x": 4368, "y": 1456, "z": -128 } }
+AP-ITEM { "map": "MAP03", "category": "key", "typename": "YellowCard", "tag": "YellowCard", "position": { "x": 1152, "y": 2592, "z": -152 } }
+AP-KEY { "map": "MAP03", "typename": "YellowCard", "scopename": "MAP03", "cluster": 0, "maps": ["MAP03"] }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 4344, "y": 6624, "z": -64 } }
+AP-ITEM { "map": "MAP03", "category": "weapon", "typename": "RocketLauncher", "tag": "Rocket Launcher", "position": { "x": 4240, "y": 48, "z": 0 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 4688, "y": 16, "z": 3 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 4688, "y": -144, "z": 3 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": 4304, "y": 80, "z": 0 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": 4400, "y": 80, "z": 0 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": 4512, "y": 96, "z": 0 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 4000, "y": 3208, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 3872, "y": 480, "z": 0 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 3904, "y": 512, "z": 0 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 3944, "y": 536, "z": 0 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 3984, "y": 544, "z": 0 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 4032, "y": 552, "z": 0 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 4080, "y": 544, "z": 0 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 4136, "y": 544, "z": 0 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 4176, "y": 512, "z": 0 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 4208, "y": 480, "z": 0 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 4240, "y": 448, "z": 0 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 4288, "y": 432, "z": 0 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 4336, "y": 416, "z": 0 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 4392, "y": 392, "z": 0 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 4432, "y": 344, "z": 0 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 4456, "y": 304, "z": 0 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 4480, "y": 256, "z": 0 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 4488, "y": 208, "z": 0 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 4688, "y": -64, "z": 3 } }
+AP-ITEM { "map": "MAP03", "category": "weapon", "typename": "SuperShotgun", "tag": "Super Shotgun", "position": { "x": 3448, "y": 1056, "z": -95 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 3392, "y": 1056, "z": -95 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 3488, "y": 1104, "z": -95 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 3464, "y": 3080, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1216, "y": 1832, "z": -184 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 616, "y": 1792, "z": -184 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 5184, "y": 1200, "z": -96 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 3536, "y": 992, "z": -95 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 3616, "y": 1072, "z": -95 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 2688, "y": 6208, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 4040, "y": 4464, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 3896, "y": 4464, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "big-health", "typename": "Soulsphere", "tag": "Soulsphere", "position": { "x": 4568, "y": 6568, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "big-armor", "typename": "GreenArmor", "tag": "GreenArmor", "position": { "x": 5312, "y": 4720, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": 2912, "y": 7312, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 4016, "y": 864, "z": -96 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 3632, "y": 512, "z": -96 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 3552, "y": 1520, "z": -95 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 3600, "y": 1520, "z": -95 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 4208, "y": 1616, "z": -95 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 4256, "y": 1616, "z": -95 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 2752, "y": 1232, "z": -94 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 2640, "y": 1216, "z": -94 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 2480, "y": 1552, "z": -94 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 2528, "y": 1488, "z": -94 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 2768, "y": 1120, "z": -94 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 3296, "y": 1056, "z": -95 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 3536, "y": 1152, "z": -95 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 4256, "y": -224, "z": -88 } }
+AP-ITEM { "map": "MAP03", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 2568, "y": 440, "z": -160 } }
+AP-ITEM { "map": "MAP03", "category": "big-armor", "typename": "GreenArmor", "tag": "GreenArmor", "position": { "x": 4240, "y": 96, "z": 0 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 992, "y": 2608, "z": -272 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 944, "y": 2704, "z": -272 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 928, "y": 2496, "z": -272 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 848, "y": 2752, "z": -272 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 752, "y": 2704, "z": -272 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 704, "y": 2608, "z": -272 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 768, "y": 2496, "z": -272 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 848, "y": 2480, "z": -272 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 720, "y": 2544, "z": -272 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 720, "y": 2656, "z": -272 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 800, "y": 2736, "z": -272 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 896, "y": 2736, "z": -272 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 976, "y": 2656, "z": -272 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 976, "y": 2560, "z": -272 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 2640, "y": 2528, "z": -168 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 2704, "y": 2560, "z": -168 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 4608, "y": 2928, "z": -208 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 4656, "y": 2880, "z": -208 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 4544, "y": 2976, "z": -208 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 4464, "y": 3024, "z": -208 } }
+AP-ITEM { "map": "MAP03", "category": "weapon", "typename": "SuperShotgun", "tag": "Super Shotgun", "position": { "x": 3632, "y": 4160, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 3568, "y": 4144, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 3632, "y": 4112, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 3680, "y": 4192, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 3680, "y": 4192, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 3680, "y": 4192, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 3632, "y": 4112, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 3520, "y": 3040, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": 3728, "y": 3152, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 3952, "y": 3184, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 2928, "y": 5200, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 3008, "y": 5200, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 4704, "y": 4976, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 5104, "y": 5200, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 4672, "y": 6336, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 2464, "y": 5984, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 2528, "y": 5920, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 5072, "y": 4944, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 6224, "y": 7120, "z": -200 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 4784, "y": 8240, "z": -112 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 5056, "y": 8224, "z": -120 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 5376, "y": 8128, "z": -128 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 5664, "y": 8016, "z": -136 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 3712, "y": 5952, "z": -129 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 3040, "y": 5408, "z": -129 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 2720, "y": 5408, "z": -129 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 2896, "y": 7360, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 5056, "y": -128, "z": 0 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 3264, "y": 248, "z": -96 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 2640, "y": 1392, "z": -94 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 5184, "y": 1248, "z": -96 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 3912, "y": 1704, "z": -95 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 3576, "y": 1032, "z": -95 } }
+AP-ITEM { "map": "MAP03", "category": "big-armor", "typename": "GreenArmor", "tag": "GreenArmor", "position": { "x": 848, "y": 2808, "z": -272 } }
+AP-ITEM { "map": "MAP03", "category": "big-armor", "typename": "GreenArmor", "tag": "GreenArmor", "position": { "x": 856, "y": 2408, "z": -272 } }
+AP-ITEM { "map": "MAP03", "category": "big-health", "typename": "Soulsphere", "tag": "Soulsphere", "position": { "x": 1056, "y": 2608, "z": -272 } }
+AP-ITEM { "map": "MAP03", "category": "big-health", "typename": "Soulsphere", "tag": "Soulsphere", "position": { "x": 648, "y": 2608, "z": -272 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 3240, "y": 3904, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 3272, "y": 3600, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 3920, "y": 3792, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 3992, "y": 3600, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 3200, "y": 4928, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 2816, "y": 5712, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 2904, "y": 6768, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 3208, "y": 6768, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 3800, "y": 6560, "z": -33 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 5192, "y": 4616, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 6424, "y": 7600, "z": -176 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 5848, "y": 8016, "z": -144 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 4112, "y": 8264, "z": -104 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 4048, "y": 8200, "z": -104 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 2400, "y": 6224, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 2400, "y": 6224, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 2528, "y": 5984, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 3664, "y": 1480, "z": -95 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 3136, "y": 1024, "z": -95 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 3584, "y": 1320, "z": -95 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 3560, "y": 4464, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 3728, "y": 4464, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 56, "y": 2488, "z": -184 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 472, "y": 3392, "z": -184 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1240, "y": 3440, "z": -184 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1608, "y": 2960, "z": -184 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1616, "y": 2464, "z": -184 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 3200, "y": 248, "z": -96 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 3584, "y": 1960, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 2976, "y": 1792, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 4840, "y": 1472, "z": -224 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 2648, "y": 288, "z": -160 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 3776, "y": 2200, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "big-health", "typename": "Soulsphere", "tag": "Soulsphere", "position": { "x": 3032, "y": 6312, "z": -32 } }
+AP-ITEM { "map": "MAP03", "category": "weapon", "typename": "PlasmaRifle", "tag": "Plasma Rifle", "secret": true,"position": { "x": 3088, "y": 4880, "z": -144 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "secret": true,"position": { "x": 3040, "y": 4896, "z": -144 } }
+AP-SECRET { "map": "MAP03", "sector": 742 }
+AP-SECRET { "map": "MAP03", "sector": 1134 }
+AP-SECRET { "map": "MAP03", "sector": 1325 }
+AP-MAP { "map": "MAP04", "checksum": "3ad68508e1a6fa2de93fbce65e4abadd", "rank": 3, "monster_count": 259, "info": { "levelnum": 4, "title": "Super Lunarcomputer", "is_lookup": false, "sky1": "ZDOOMSKY", "sky1speed": "0.000000", "sky2": "ZDOOMSKY", "sky2speed": "0.000000", "music": "D_BETWEE", "music_track": "0", "cluster": 0, "flags": [] } }
+AP-ITEM { "map": "MAP04", "category": "key", "typename": "YellowCard", "tag": "YellowCard", "position": { "x": 2240, "y": 1472, "z": 176 } }
+AP-KEY { "map": "MAP04", "typename": "YellowCard", "scopename": "MAP04", "cluster": 0, "maps": ["MAP04"] }
+AP-ITEM { "map": "MAP04", "category": "key", "typename": "BlueCard", "tag": "BlueCard", "position": { "x": 472, "y": 2472, "z": 64 } }
+AP-KEY { "map": "MAP04", "typename": "BlueCard", "scopename": "MAP04", "cluster": 0, "maps": ["MAP04"] }
+AP-ITEM { "map": "MAP04", "category": "key", "typename": "RedCard", "tag": "RedCard", "position": { "x": 192, "y": 1344, "z": 64 } }
+AP-KEY { "map": "MAP04", "typename": "RedCard", "scopename": "MAP04", "cluster": 0, "maps": ["MAP04"] }
+AP-ITEM { "map": "MAP04", "category": "big-health", "typename": "Soulsphere", "tag": "Soulsphere", "secret": true,"position": { "x": -864, "y": 544, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "weapon", "typename": "SuperShotgun", "tag": "Super Shotgun", "position": { "x": 992, "y": 1952, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "weapon", "typename": "RocketLauncher", "tag": "Rocket Launcher", "position": { "x": 1952, "y": 1952, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "weapon", "typename": "PlasmaRifle", "tag": "Plasma Rifle", "position": { "x": 1472, "y": 2128, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "weapon", "typename": "Shotgun", "tag": "Shotgun", "position": { "x": 1472, "y": 1088, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "weapon", "typename": "Chaingun", "tag": "Chaingun", "position": { "x": 1472, "y": 1088, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": 1472, "y": 1088, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": 1472, "y": 1088, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 1472, "y": 1088, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "big-armor", "typename": "GreenArmor", "tag": "GreenArmor", "position": { "x": 1504, "y": 1376, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 1992, "y": 1992, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 1912, "y": 1912, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 1912, "y": 1992, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 1992, "y": 1912, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 1032, "y": 1992, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 952, "y": 1992, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 952, "y": 1912, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 1032, "y": 1912, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 672, "y": 1472, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 2848, "y": 1184, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 1376, "y": 2208, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 1568, "y": 2208, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 1184, "y": 2464, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 1184, "y": 2336, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 1184, "y": 2208, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 1184, "y": 2272, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 1184, "y": 2400, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 1184, "y": 2528, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 1312, "y": 2656, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 1440, "y": 2656, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 1568, "y": 2656, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": 1376, "y": 2656, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": 1504, "y": 2656, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": 1632, "y": 2656, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": 2400, "y": 1664, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 2400, "y": 1280, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 720, "y": 2224, "z": -72 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 736, "y": 2464, "z": -64 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 480, "y": 2208, "z": -64 } }
+AP-ITEM { "map": "MAP04", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 2816, "y": 2816, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 2784, "y": 1760, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 2848, "y": 1760, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 2784, "y": 1184, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 224, "y": 928, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 352, "y": 928, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 480, "y": 704, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 352, "y": 480, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -608, "y": 544, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -736, "y": 544, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "big-armor", "typename": "BlueArmor", "tag": "BlueArmor", "position": { "x": -416, "y": 1824, "z": 66 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -416, "y": 1568, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -416, "y": 1312, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 112, "y": 2512, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 32, "y": 2144, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 424, "y": 2832, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 800, "y": 2928, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1312, "y": 992, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1312, "y": 928, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1312, "y": 736, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1312, "y": 672, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -1312, "y": 800, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": -1312, "y": 864, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": 64, "y": 1088, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -816, "y": 1936, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -816, "y": 1888, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -768, "y": 1936, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": -816, "y": 1840, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": -816, "y": 1792, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": -720, "y": 1936, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": -672, "y": 1936, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Clip", "tag": "Bullets", "position": { "x": -624, "y": 1936, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Clip", "tag": "Bullets", "position": { "x": -816, "y": 1744, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -128, "y": 2048, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 896, "y": 3072, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -672, "y": -944, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -912, "y": -976, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -432, "y": -976, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -1072, "y": -832, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -272, "y": -832, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1472, "y": 504, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1472, "y": 504, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 2304, "y": 1768, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 2304, "y": 1176, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 856, "y": 2200, "z": -72 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 744, "y": 2088, "z": -72 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 720, "y": 2224, "z": -72 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 720, "y": 2224, "z": -72 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 720, "y": 2224, "z": -72 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 720, "y": 2224, "z": -72 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 720, "y": 2224, "z": -72 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 720, "y": 2224, "z": -72 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 720, "y": 2224, "z": -72 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 720, "y": 2224, "z": -72 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 720, "y": 2224, "z": -72 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 720, "y": 2224, "z": -72 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 632, "y": 2312, "z": -72 } }
+AP-ITEM { "map": "MAP04", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1024, "y": 1344, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1024, "y": 1600, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1920, "y": 1472, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1472, "y": 2368, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 2912, "y": 2656, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 2784, "y": 2912, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2248, "y": 2376, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2248, "y": 2376, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2240, "y": 2408, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2240, "y": 2408, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2260, "y": 2348, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2260, "y": 2348, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2276, "y": 2320, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2276, "y": 2320, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2292, "y": 2292, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2292, "y": 2292, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2320, "y": 2272, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2320, "y": 2272, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2348, "y": 2252, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2348, "y": 2252, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2376, "y": 2248, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2376, "y": 2248, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2408, "y": 2244, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2408, "y": 2244, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 2656, "y": 2656, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2752, "y": 1664, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2752, "y": 1664, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2752, "y": 1664, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2752, "y": 1664, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2752, "y": 1664, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2880, "y": 1536, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2880, "y": 1536, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2880, "y": 1536, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2880, "y": 1536, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2880, "y": 1536, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2880, "y": 1408, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2880, "y": 1408, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2880, "y": 1408, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2880, "y": 1408, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2880, "y": 1408, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2752, "y": 1280, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2752, "y": 1280, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2752, "y": 1280, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2752, "y": 1280, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 2752, "y": 1280, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 2720, "y": 1552, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 2720, "y": 1392, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 672, "y": 1808, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 672, "y": 1136, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 480, "y": 744, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 480, "y": 664, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -1312, "y": 1440, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -1120, "y": 1568, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -1312, "y": 160, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -1120, "y": -32, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -672, "y": 544, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -488, "y": 1128, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -344, "y": 1128, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -568, "y": 1688, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -936, "y": -1224, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -408, "y": -1224, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "big-health", "typename": "Soulsphere", "tag": "Soulsphere", "position": { "x": 1440, "y": 1376, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 328, "y": 2456, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 488, "y": 2616, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "big-armor", "typename": "GreenArmor", "tag": "GreenArmor", "position": { "x": 400, "y": 2544, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 904, "y": 2888, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 904, "y": 2744, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 904, "y": 2816, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 736, "y": 1120, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 608, "y": 1120, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -864, "y": -160, "z": 224 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -480, "y": -96, "z": 224 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -480, "y": -224, "z": 224 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "secret": true,"position": { "x": 2208, "y": 1112, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "secret": true,"position": { "x": 2208, "y": 1112, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "secret": true,"position": { "x": 2400, "y": 1112, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "secret": true,"position": { "x": 2400, "y": 1112, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 2464, "y": 2400, "z": 192 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 2464, "y": 2400, "z": 192 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 2464, "y": 2400, "z": 192 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 2464, "y": 2400, "z": 192 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 2464, "y": 2400, "z": 192 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 2464, "y": 2400, "z": 192 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 2464, "y": 2400, "z": 192 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 2464, "y": 2400, "z": 192 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 2464, "y": 2400, "z": 192 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 2464, "y": 2400, "z": 192 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 2464, "y": 2400, "z": 192 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 2464, "y": 2400, "z": 192 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 2464, "y": 2400, "z": 192 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 2464, "y": 2400, "z": 192 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 2464, "y": 2400, "z": 192 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 2464, "y": 2400, "z": 192 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 2464, "y": 2400, "z": 192 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 2464, "y": 2400, "z": 192 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 2464, "y": 2400, "z": 192 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "secret": true,"position": { "x": 2464, "y": 2400, "z": 192 } }
+AP-SECRET { "map": "MAP04", "sector": 799 }
+AP-SECRET { "map": "MAP04", "sector": 1067 }
+AP-SECRET { "map": "MAP04", "sector": 1069 }
+AP-MAP { "map": "MAP05", "checksum": "3ba9b0eeb026258ff6b65a9a96d2da04", "rank": 4, "monster_count": 485, "info": { "levelnum": 5, "title": "The Final Countdown", "is_lookup": false, "sky1": "ZDOOMSKY", "sky1speed": "0.000000", "sky2": "ZDOOMSKY", "sky2speed": "0.000000", "music": "D_DOOM", "music_track": "0", "cluster": 0, "flags": [] } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -2608, "y": 6992, "z": -8 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -1856, "y": 7792, "z": -8 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -64, "y": 7488, "z": -8 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 240, "y": 6960, "z": -8 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -1152, "y": 7040, "z": -4 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -1152, "y": 7040, "z": -4 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -1152, "y": 7040, "z": -4 } }
+AP-ITEM { "map": "MAP05", "category": "weapon", "typename": "Shotgun", "tag": "Shotgun", "position": { "x": -112, "y": 624, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "weapon", "typename": "Chaingun", "tag": "Chaingun", "position": { "x": 304, "y": 624, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "weapon", "typename": "SuperShotgun", "tag": "Super Shotgun", "position": { "x": -112, "y": 1200, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "weapon", "typename": "RocketLauncher", "tag": "Rocket Launcher", "position": { "x": 304, "y": 1200, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -112, "y": 1088, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 96, "y": 448, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -120, "y": 72, "z": 16 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 312, "y": 72, "z": 16 } }
+AP-ITEM { "map": "MAP05", "category": "big-armor", "typename": "BlueArmor", "tag": "BlueArmor", "position": { "x": -120, "y": 312, "z": 16 } }
+AP-ITEM { "map": "MAP05", "category": "big-health", "typename": "Soulsphere", "tag": "Soulsphere", "position": { "x": 312, "y": 312, "z": 16 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": -120, "y": 192, "z": 16 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": 312, "y": 192, "z": 16 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -112, "y": 736, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 304, "y": 1088, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 304, "y": 736, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": -112, "y": 832, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": 304, "y": 1008, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": -112, "y": 1008, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": 304, "y": 816, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -112, "y": 912, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 304, "y": 912, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": -1152, "y": 5696, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": -576, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": -1728, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -1024, "y": 5776, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -688, "y": 6048, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -944, "y": 5808, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -832, "y": 5872, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -752, "y": 5952, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -656, "y": 6144, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -1278, "y": 5776, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -1614, "y": 6048, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -1358, "y": 5808, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -1470, "y": 5872, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -1550, "y": 5952, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -1646, "y": 6144, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": -1152, "y": 6848, "z": -4 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -1024, "y": 6768, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -688, "y": 6496, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -944, "y": 6736, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -832, "y": 6672, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -752, "y": 6592, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -656, "y": 6400, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -1278, "y": 6768, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -1614, "y": 6496, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -1358, "y": 6736, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -1470, "y": 6672, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -1550, "y": 6592, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -1646, "y": 6400, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1152, "y": 5648, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1152, "y": 5648, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1152, "y": 5600, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1152, "y": 5600, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 96, "y": 1408, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1152, "y": 5552, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1152, "y": 5504, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1152, "y": 5504, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1152, "y": 5456, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1152, "y": 5456, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -1152, "y": 5408, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -1152, "y": 5408, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -1152, "y": 5408, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -1152, "y": 5408, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": -1152, "y": 5360, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": -1152, "y": 5360, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": -1152, "y": 5360, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": -1152, "y": 5312, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": -1152, "y": 5312, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1776, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1776, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1776, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1776, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1824, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1824, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1824, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1824, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1872, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1872, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1872, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1920, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1920, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1920, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -1968, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -1968, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -1968, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -1968, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -2016, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -2016, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -2064, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -2064, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -2112, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -528, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -528, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -528, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -528, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -480, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -480, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -480, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -480, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -432, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -432, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -432, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -384, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -384, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -384, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -336, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -336, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -336, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -336, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -288, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -288, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -240, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -240, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -192, "y": 6272, "z": 60 } }
+AP-ITEM { "map": "MAP05", "category": "weapon", "typename": "PlasmaRifle", "tag": "Plasma Rifle", "position": { "x": -1152, "y": 6896, "z": -4 } }
+AP-ITEM { "map": "MAP05", "category": "weapon", "typename": "BFG9000", "tag": "BFG 9000", "position": { "x": -1760, "y": 7536, "z": -6 } }
+AP-ITEM { "map": "MAP05", "category": "big-armor", "typename": "GreenArmor", "tag": "GreenArmor", "position": { "x": -2336, "y": 6544, "z": -8 } }
+AP-ITEM { "map": "MAP05", "category": "big-armor", "typename": "GreenArmor", "tag": "GreenArmor", "position": { "x": 160, "y": 6672, "z": -8 } }
+AP-ITEM { "map": "MAP05", "category": "big-health", "typename": "Soulsphere", "tag": "Soulsphere", "position": { "x": 112, "y": 6656, "z": -8 } }
+AP-ITEM { "map": "MAP05", "category": "big-health", "typename": "Soulsphere", "tag": "Soulsphere", "position": { "x": -2288, "y": 6496, "z": -8 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -1808, "y": 7504, "z": -6 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -1792, "y": 7584, "z": -6 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -1568, "y": 6272, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -736, "y": 6272, "z": 0 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1152, "y": 7232, "z": -4 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1152, "y": 7184, "z": -4 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1152, "y": 7136, "z": -4 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1152, "y": 7088, "z": -4 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1152, "y": 7232, "z": -4 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1152, "y": 7184, "z": -4 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1152, "y": 7136, "z": -4 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -1152, "y": 7088, "z": -4 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": -1152, "y": 6944, "z": -4 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": -1152, "y": 6944, "z": -4 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": -1152, "y": 6944, "z": -4 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": -1152, "y": 6992, "z": -4 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": -1152, "y": 6992, "z": -4 } }
+AP-ITEM { "map": "MAP05", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -1152, "y": 7040, "z": -4 } }
+AP-SCAN-DONE {}

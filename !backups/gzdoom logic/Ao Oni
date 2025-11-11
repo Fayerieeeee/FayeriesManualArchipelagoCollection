@@ -1,0 +1,519 @@
+AP-MAP { "map": "MAP01", "checksum": "f3ef2db3635a17a904d59517f3a91929", "rank": 0, "monster_count": 17, "info": { "levelnum": 1, "title": "The Mansion - Part 1", "is_lookup": false, "sky1": "Skymp01", "sky1speed": "0.000000", "sky2": "Skymp01", "sky2speed": "0.000000", "music": "D_RUNNIN", "music_track": "0", "cluster": 0, "flags": [] } }
+AP-ITEM { "map": "MAP01", "category": "medium-health", "typename": "Sushi", "tag": "Sushi", "position": { "x": 4632, "y": -4144, "z": 40 } }
+AP-ITEM { "map": "MAP01", "category": "weapon", "typename": "Lighter", "tag": "Lighter", "position": { "x": -992, "y": 2000, "z": 16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "position": { "x": -1776, "y": 3232, "z": -128 } }
+AP-ITEM { "map": "MAP01", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "position": { "x": -1824, "y": 3232, "z": -128 } }
+AP-ITEM { "map": "MAP01", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "position": { "x": -1872, "y": 3232, "z": -128 } }
+AP-ITEM { "map": "MAP01", "category": "weapon", "typename": "Lighter", "tag": "Lighter", "position": { "x": 1068, "y": 3287, "z": 168 } }
+AP-ITEM { "map": "MAP01", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "position": { "x": -2032, "y": 3112, "z": -128 } }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "GoldKey1", "tag": "GoldKey1", "position": { "x": 2336, "y": 4400, "z": 0 } }
+AP-KEY { "map": "MAP01", "typename": "GoldKey1", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "BrownKey", "tag": "BrownKey", "position": { "x": 2292, "y": -3728, "z": 24 } }
+AP-KEY { "map": "MAP01", "typename": "BrownKey", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "SilverKey1", "tag": "SilverKey1", "position": { "x": -4192, "y": 792, "z": 0 } }
+AP-KEY { "map": "MAP01", "typename": "SilverKey1", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "Gasoline", "tag": "Gasoline", "position": { "x": 272, "y": 3888, "z": 216 } }
+AP-ITEM { "map": "MAP01", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "position": { "x": -2032, "y": 3352, "z": -128 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "Gasoline", "tag": "Gasoline", "position": { "x": -1616, "y": 1264, "z": 96 } }
+AP-ITEM { "map": "MAP01", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "position": { "x": -2032, "y": 3400, "z": -128 } }
+AP-ITEM { "map": "MAP01", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "position": { "x": -2032, "y": 3064, "z": -128 } }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "EmeraldKey", "tag": "EmeraldKey", "position": { "x": -352, "y": 2016, "z": 0 } }
+AP-KEY { "map": "MAP01", "typename": "EmeraldKey", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "RubyKey", "tag": "RubyKey", "position": { "x": 896, "y": 3872, "z": 128 } }
+AP-KEY { "map": "MAP01", "typename": "RubyKey", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "WeirdKey", "tag": "WeirdKey", "position": { "x": 3568, "y": -3376, "z": 40 } }
+AP-KEY { "map": "MAP01", "typename": "WeirdKey", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "UselessKey", "tag": "UselessKey", "position": { "x": -3872, "y": 2816, "z": 0 } }
+AP-KEY { "map": "MAP01", "typename": "UselessKey", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "UselessKey", "tag": "UselessKey", "position": { "x": -2368, "y": 2784, "z": 0 } }
+AP-KEY { "map": "MAP01", "typename": "UselessKey", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "UselessKey", "tag": "UselessKey", "position": { "x": -2336, "y": -864, "z": 0 } }
+AP-KEY { "map": "MAP01", "typename": "UselessKey", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "position": { "x": 8256, "y": -6720, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 8576, "y": -7584, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "weapon", "typename": "Crowbar", "tag": "Crowbar", "position": { "x": 7744, "y": -6592, "z": 0 } }
+AP-MAP { "map": "MAP02", "checksum": "bb913f32524d670629815db04c9b3d52", "rank": 1, "monster_count": 30, "info": { "levelnum": 2, "title": "The Mansion - Part 2", "is_lookup": false, "sky1": "Skymp02", "sky1speed": "0.000000", "sky2": "Skymp02", "sky2speed": "0.000000", "music": "QUAKE", "music_track": "0", "cluster": 0, "flags": [] } }
+AP-ITEM { "map": "MAP02", "category": "powerup", "typename": "Berserk", "tag": "Berserk", "position": { "x": 4192, "y": 3104, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "Gasoline", "tag": "Gasoline", "position": { "x": -3284, "y": -458, "z": 200 } }
+AP-ITEM { "map": "MAP02", "category": "key", "typename": "BrownKey", "tag": "BrownKey", "position": { "x": 134, "y": 5648, "z": 24 } }
+AP-KEY { "map": "MAP02", "typename": "BrownKey", "scopename": "MAP02", "cluster": 0, "maps": ["MAP02"] }
+AP-ITEM { "map": "MAP02", "category": "key", "typename": "GoldKey1", "tag": "GoldKey1", "position": { "x": 500, "y": 4900, "z": 24 } }
+AP-KEY { "map": "MAP02", "typename": "GoldKey1", "scopename": "MAP02", "cluster": 0, "maps": ["MAP02"] }
+AP-ITEM { "map": "MAP02", "category": "key", "typename": "SilverKey1", "tag": "SilverKey1", "position": { "x": 768, "y": 6688, "z": 24 } }
+AP-KEY { "map": "MAP02", "typename": "SilverKey1", "scopename": "MAP02", "cluster": 0, "maps": ["MAP02"] }
+AP-ITEM { "map": "MAP02", "category": "key", "typename": "RubyKey", "tag": "RubyKey", "position": { "x": -42, "y": 6580, "z": -16 } }
+AP-KEY { "map": "MAP02", "typename": "RubyKey", "scopename": "MAP02", "cluster": 0, "maps": ["MAP02"] }
+AP-ITEM { "map": "MAP02", "category": "key", "typename": "WeirdKey", "tag": "WeirdKey", "position": { "x": 2368, "y": 4576, "z": 0 } }
+AP-KEY { "map": "MAP02", "typename": "WeirdKey", "scopename": "MAP02", "cluster": 0, "maps": ["MAP02"] }
+AP-ITEM { "map": "MAP02", "category": "key", "typename": "EmeraldKey", "tag": "EmeraldKey", "position": { "x": 2544, "y": 688, "z": 0 } }
+AP-KEY { "map": "MAP02", "typename": "EmeraldKey", "scopename": "MAP02", "cluster": 0, "maps": ["MAP02"] }
+AP-ITEM { "map": "MAP02", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": 4144, "y": 2552, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "weapon", "typename": "Lighter", "tag": "Lighter", "position": { "x": -3508, "y": -1076, "z": 240 } }
+AP-ITEM { "map": "MAP02", "category": "weapon", "typename": "Crowbar", "tag": "Crowbar", "position": { "x": -2272, "y": -356, "z": 200 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Sushi", "tag": "Sushi", "position": { "x": -2016, "y": 224, "z": 240 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": 2760, "y": 1744, "z": 24 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 2920, "y": 1744, "z": 24 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Sushi", "tag": "Sushi", "position": { "x": -1952, "y": 224, "z": 240 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Sushi", "tag": "Sushi", "position": { "x": -1952, "y": 352, "z": 240 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Sushi", "tag": "Sushi", "position": { "x": -2016, "y": 352, "z": 240 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Sushi", "tag": "Sushi", "position": { "x": -1952, "y": 480, "z": 240 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Sushi", "tag": "Sushi", "position": { "x": -2016, "y": 480, "z": 240 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 3080, "y": 1744, "z": 24 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 3240, "y": 1744, "z": 24 } }
+AP-MAP { "map": "MAP03", "checksum": "b9fe0e98335c3ded2239536514395528", "rank": 2, "monster_count": 218, "info": { "levelnum": 3, "title": "Green Hill Zone", "is_lookup": false, "sky1": "GHZSKY01", "sky1speed": "0.000000", "sky2": "GHZSKY02", "sky2speed": "0.003500", "music": "GRNHLZE", "music_track": "0", "cluster": 0, "flags": ["doublesky", "baronspecial", "cyberdemonspecial"] } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 6568, "y": -10520, "z": -2688 } }
+AP-ITEM { "map": "MAP03", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 7008, "y": -10720, "z": -2688 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 7008, "y": -10664, "z": -2688 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 6968, "y": -10680, "z": -2688 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 6952, "y": -10720, "z": -2688 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 6968, "y": -10760, "z": -2688 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 7008, "y": -10776, "z": -2688 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 7048, "y": -10760, "z": -2688 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 7064, "y": -10720, "z": -2688 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 7048, "y": -10680, "z": -2688 } }
+AP-ITEM { "map": "MAP03", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": 7360, "y": -10304, "z": -2688 } }
+AP-ITEM { "map": "MAP03", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": 7760, "y": -10656, "z": -1408 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 7760, "y": -10704, "z": -1408 } }
+AP-ITEM { "map": "MAP03", "category": "weapon", "typename": "RocketLauncher", "tag": "Rocket Launcher", "position": { "x": 7824, "y": -10704, "z": -1408 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 6272, "y": -10720, "z": -1663 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 6656, "y": -10944, "z": -2368 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 6976, "y": -10944, "z": -2368 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 6432, "y": -10720, "z": -1663 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 6432, "y": -10880, "z": -1663 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 6816, "y": -10944, "z": -2368 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 6352, "y": -10720, "z": -1663 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 6432, "y": -10800, "z": -1663 } }
+AP-ITEM { "map": "MAP03", "category": "weapon", "typename": "BFG9000", "tag": "BFG 9000", "position": { "x": 6528, "y": -10560, "z": -2688 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 6528, "y": -10504, "z": -2688 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 6488, "y": -10520, "z": -2688 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 6472, "y": -10560, "z": -2688 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 6488, "y": -10600, "z": -2688 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 6528, "y": -10616, "z": -2688 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 6568, "y": -10600, "z": -2688 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 6584, "y": -10560, "z": -2688 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 6432, "y": -10760, "z": -1663 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 6432, "y": -10840, "z": -1663 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 6392, "y": -10720, "z": -1663 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 6312, "y": -10720, "z": -1663 } }
+AP-ITEM { "map": "MAP03", "category": "big-health", "typename": "Soulsphere", "tag": "Soulsphere", "position": { "x": 6368, "y": -10784, "z": -1663 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 6736, "y": -10944, "z": -2368 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 6896, "y": -10944, "z": -2368 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 6552, "y": -10536, "z": -2688 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 6552, "y": -10584, "z": -2688 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 6504, "y": -10584, "z": -2688 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 6504, "y": -10536, "z": -2688 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": 7936, "y": -10592, "z": -1408 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": 7968, "y": -10592, "z": -1408 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": 7936, "y": -10624, "z": -1408 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": 7968, "y": -10624, "z": -1408 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": 7936, "y": -10656, "z": -1408 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": 7968, "y": -10656, "z": -1408 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 7616, "y": -5504, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "skill": [1], "position": { "x": 7456, "y": -11232, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "skill": [1], "position": { "x": 7584, "y": -11232, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "skill": [1], "position": { "x": 7712, "y": -11232, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "skill": [1], "position": { "x": 7840, "y": -11232, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 6400, "y": -11872, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 6784, "y": -11872, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 6016, "y": -11872, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 5600, "y": -11872, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "weapon", "typename": "Crowbar", "tag": "Crowbar", "position": { "x": 6688, "y": -11968, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "weapon", "typename": "Chaingun7", "tag": "Chaingun", "position": { "x": 6016, "y": -12288, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 6016, "y": -12352, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": 6048, "y": -12256, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": 6016, "y": -12224, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": 5984, "y": -12256, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": 5824, "y": -12064, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": 6304, "y": -11776, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": 6496, "y": -11968, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": 5920, "y": -11776, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": 6784, "y": -12064, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": 6208, "y": -12064, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": 6112, "y": -12160, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": 6016, "y": -12064, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": 5728, "y": -11968, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 9984, "y": -5056, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 12768, "y": -4448, "z": -1024 } }
+AP-ITEM { "map": "MAP03", "category": "big-armor", "typename": "GreenArmor", "tag": "GreenArmor", "position": { "x": 12800, "y": -3968, "z": -256 } }
+AP-ITEM { "map": "MAP03", "category": "map", "typename": "Allmap", "tag": "Allmap", "position": { "x": 13024, "y": -4448, "z": -1024 } }
+AP-ITEM { "map": "MAP03", "category": "big-health", "typename": "Soulsphere", "tag": "Soulsphere", "position": { "x": 12896, "y": -4512, "z": -1024 } }
+AP-ITEM { "map": "MAP03", "category": "weapon", "typename": "SuperShotgun7", "tag": "Super Shotgun", "position": { "x": 12640, "y": -4384, "z": -1024 } }
+AP-ITEM { "map": "MAP03", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 12704, "y": -4384, "z": -1024 } }
+AP-ITEM { "map": "MAP03", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 12704, "y": -4448, "z": -1024 } }
+AP-ITEM { "map": "MAP03", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 12768, "y": -4384, "z": -1024 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": 9984, "y": -5248, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": 9984, "y": -5152, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 7552, "y": -10112, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 8704, "y": -4928, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 8512, "y": -4992, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 8384, "y": -5120, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 8896, "y": -4992, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 9088, "y": -4992, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 9280, "y": -4992, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 9472, "y": -4992, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 8256, "y": -5248, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 8128, "y": -5376, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 8000, "y": -5504, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 7808, "y": -5504, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 7584, "y": -5024, "z": 640 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 7584, "y": -5088, "z": 640 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 7648, "y": -5088, "z": 640 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 7584, "y": -5152, "z": 640 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 7520, "y": -5088, "z": 640 } }
+AP-ITEM { "map": "MAP03", "category": "big-armor", "typename": "BlueArmor", "tag": "BlueArmor", "position": { "x": 12832, "y": -7200, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 11488, "y": -6752, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 11488, "y": -5664, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "position": { "x": 12256, "y": -5024, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 11808, "y": -4704, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "position": { "x": 10592, "y": -6304, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 12512, "y": -6432, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 5408, "y": -9248, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 8032, "y": -6304, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 8096, "y": -6304, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 8032, "y": -6240, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 7968, "y": -6304, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 8032, "y": -6368, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 8096, "y": -6368, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 8096, "y": -6240, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 7968, "y": -6240, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 7968, "y": -6368, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "skill": [1], "position": { "x": 8160, "y": -6368, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "skill": [1], "position": { "x": 8160, "y": -6304, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "skill": [1], "position": { "x": 8160, "y": -6240, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "skill": [1], "position": { "x": 8160, "y": -6176, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "skill": [1], "position": { "x": 8160, "y": -6432, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "skill": [1], "position": { "x": 8096, "y": -6432, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "skill": [1], "position": { "x": 8032, "y": -6432, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "skill": [1], "position": { "x": 7968, "y": -6432, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "skill": [1], "position": { "x": 8096, "y": -6176, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "skill": [1], "position": { "x": 8032, "y": -6176, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "skill": [1], "position": { "x": 7968, "y": -6176, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "skill": [1], "position": { "x": 7904, "y": -6176, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "skill": [1], "position": { "x": 7904, "y": -6240, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "skill": [1], "position": { "x": 7904, "y": -6304, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "skill": [1], "position": { "x": 7904, "y": -6368, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "skill": [1], "position": { "x": 7904, "y": -6432, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 6176, "y": -864, "z": 576 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 8960, "y": -832, "z": 576 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 8960, "y": -704, "z": 576 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 9088, "y": -832, "z": 576 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 9088, "y": -704, "z": 576 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 6176, "y": -672, "z": 576 } }
+AP-ITEM { "map": "MAP03", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": 7248, "y": 1008, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 8352, "y": 1200, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 8032, "y": 1200, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 7712, "y": 1200, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 7392, "y": 1200, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 7072, "y": 1200, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 2176, "y": 640, "z": 264 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "position": { "x": 2304, "y": 640, "z": 264 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "position": { "x": 2176, "y": 512, "z": 264 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "position": { "x": 2048, "y": 640, "z": 264 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "position": { "x": 2176, "y": 768, "z": 264 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 4544, "y": 640, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 5312, "y": 832, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 4032, "y": 704, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 4224, "y": 896, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "skill": [1], "position": { "x": 4096, "y": 768, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "skill": [1], "position": { "x": 4160, "y": 832, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 6336, "y": -576, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 6400, "y": -576, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 6464, "y": -576, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 2272, "y": -2592, "z": 456 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": 2208, "y": -2656, "z": 456 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": 2336, "y": -2528, "z": 456 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "skill": [1], "position": { "x": 2272, "y": -2592, "z": 456 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": -4512, "y": -3168, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": -4576, "y": -3168, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -4384, "y": -3360, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -4320, "y": -3360, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -4640, "y": -3232, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -4576, "y": -3232, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -4512, "y": -3232, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -4448, "y": -3232, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -4448, "y": -3296, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -4512, "y": -3296, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -4576, "y": -3296, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -4640, "y": -3296, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -4384, "y": -3296, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -4704, "y": -3296, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -4768, "y": -3360, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -4704, "y": -3360, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -4640, "y": -3360, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -4576, "y": -3360, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -4512, "y": -3360, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -4448, "y": -3360, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4592, "y": -3456, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4496, "y": -3456, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4400, "y": -3456, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4304, "y": -3456, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4688, "y": -3456, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4784, "y": -3456, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -4576, "y": -1696, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -4512, "y": -1696, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -4512, "y": -1632, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -4576, "y": -1632, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -4448, "y": -1632, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -4448, "y": -1568, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -4384, "y": -1568, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -4512, "y": -1568, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -4576, "y": -1568, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -4640, "y": -1568, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -4640, "y": -1632, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -4704, "y": -1568, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -4768, "y": -1504, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -4704, "y": -1504, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -4640, "y": -1504, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -4576, "y": -1504, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -4512, "y": -1504, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -4448, "y": -1504, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -4384, "y": -1504, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -4320, "y": -1504, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "weapon", "typename": "SuperShotgun7", "tag": "Super Shotgun", "position": { "x": -4544, "y": -1408, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "big-health", "typename": "Soulsphere", "tag": "Soulsphere", "position": { "x": -6752, "y": -2432, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "position": { "x": -7520, "y": -3104, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "position": { "x": -6304, "y": -1440, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -5984, "y": -992, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -6688, "y": -3232, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -6048, "y": -3424, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -8000, "y": -2432, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -6528, "y": -960, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -6528, "y": -3904, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -7136, "y": -1760, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -5920, "y": -2464, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -7072, "y": -2464, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -6432, "y": -960, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -6624, "y": -960, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -8000, "y": -2336, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -8000, "y": -2528, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -6624, "y": -3904, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -6432, "y": -3904, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4032, "y": -2432, "z": 394 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4160, "y": -2432, "z": -160 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4288, "y": -2432, "z": -631 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4416, "y": -2432, "z": -1013 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4544, "y": -2432, "z": -1365 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4672, "y": -2432, "z": -1686 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4800, "y": -2432, "z": -2001 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4928, "y": -2432, "z": -2308 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": -6144, "y": -2432, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": -6144, "y": -2496, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": -6144, "y": -2368, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -6144, "y": -2336, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -6144, "y": -2528, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 5664, "y": -6240, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -4096, "y": -2432, "z": 76 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4928, "y": -2368, "z": -2308 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4800, "y": -2368, "z": -2001 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4672, "y": -2368, "z": -1686 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 9952, "y": -992, "z": 640 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4544, "y": -2496, "z": -1365 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -4864, "y": -2432, "z": -2154 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -4736, "y": -2432, "z": -1847 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -4608, "y": -2432, "z": -1526 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 9888, "y": -928, "z": 640 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": 9024, "y": -960, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4784, "y": -3504, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4544, "y": -2368, "z": -1365 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4416, "y": -2368, "z": -1013 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": 4896, "y": -6048, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -4224, "y": -2432, "z": -395 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -4352, "y": -2432, "z": -822 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -4480, "y": -2432, "z": -1204 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4416, "y": -2496, "z": -1013 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4032, "y": -2368, "z": 394 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4928, "y": -2496, "z": -2308 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 2720, "y": -96, "z": 264 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4800, "y": -2496, "z": -2001 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4672, "y": -2496, "z": -1686 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4288, "y": -2496, "z": -631 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": -352, "y": -2432, "z": 565 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": -4512, "y": -3104, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "position": { "x": -5728, "y": -3936, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 1952, "y": -2272, "z": 456 } }
+AP-ITEM { "map": "MAP03", "category": "big-armor", "typename": "GreenArmor", "tag": "GreenArmor", "position": { "x": 9952, "y": -1472, "z": 136 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -3104, "y": -2176, "z": 704 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -3104, "y": -2304, "z": 704 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -3104, "y": -2432, "z": 704 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -3104, "y": -2560, "z": 704 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -3104, "y": -2688, "z": 704 } }
+AP-ITEM { "map": "MAP03", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": -3360, "y": -2080, "z": 840 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 9824, "y": -864, "z": 640 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 9152, "y": -1312, "z": 136 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 8992, "y": -1312, "z": 136 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": -5472, "y": -3744, "z": -3768 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -5472, "y": -3680, "z": -3768 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": -5472, "y": -1120, "z": -3768 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -5472, "y": -1184, "z": -3768 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -6368, "y": -2688, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -6368, "y": -2176, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -6080, "y": -2432, "z": -4088 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4288, "y": -2368, "z": -631 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4160, "y": -2368, "z": -160 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4160, "y": -2496, "z": -160 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4032, "y": -2496, "z": 394 } }
+AP-ITEM { "map": "MAP03", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": -3360, "y": -2784, "z": 840 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": -352, "y": -2560, "z": 565 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": -352, "y": -2304, "z": 565 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 6816, "y": -8256, "z": 896 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 6816, "y": -8384, "z": 896 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 6816, "y": -8320, "z": 896 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "position": { "x": 7040, "y": -8544, "z": 896 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "position": { "x": 7104, "y": -8544, "z": 896 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "position": { "x": 6976, "y": -8544, "z": 896 } }
+AP-ITEM { "map": "MAP03", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 7040, "y": -8096, "z": 896 } }
+AP-ITEM { "map": "MAP03", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 7104, "y": -8096, "z": 896 } }
+AP-ITEM { "map": "MAP03", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 6976, "y": -8096, "z": 896 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": -4576, "y": -3104, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4592, "y": -3504, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4496, "y": -3504, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4400, "y": -3504, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4304, "y": -3504, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -4688, "y": -3504, "z": 776 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 4960, "y": -6000, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 4960, "y": -6096, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "skill": [1], "position": { "x": 4960, "y": -6048, "z": 512 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 7040, "y": -8320, "z": -2552 } }
+AP-ITEM { "map": "MAP03", "category": "powerup", "typename": "BlurSphere", "tag": "BlurSphere", "position": { "x": 7232, "y": -8320, "z": 896 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": 5408, "y": -9312, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 5408, "y": -9184, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 12576, "y": -3552, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "position": { "x": 11328, "y": -3296, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "skill": [1, 2], "position": { "x": 11520, "y": -3360, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 3104, "y": 864, "z": 328 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "position": { "x": -3168, "y": -2080, "z": 968 } }
+AP-ITEM { "map": "MAP03", "category": "medium-armor", "typename": "Armor_rp", "tag": "Armor_rp", "position": { "x": -3168, "y": -2784, "z": 968 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "skill": [1, 2], "position": { "x": -3104, "y": -2784, "z": 968 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Health_rp", "tag": "Health_rp", "skill": [1, 2], "position": { "x": -3104, "y": -2080, "z": 968 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 3104, "y": 800, "z": 328 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": 5664, "y": -6368, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 5664, "y": -6304, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Sushi", "tag": "Sushi", "position": { "x": 10272, "y": -8480, "z": 400 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Sushi", "tag": "Sushi", "position": { "x": 10336, "y": -8480, "z": 400 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Sushi", "tag": "Sushi", "position": { "x": 10336, "y": -8544, "z": 400 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Sushi", "tag": "Sushi", "position": { "x": 10272, "y": -8544, "z": 400 } }
+AP-ITEM { "map": "MAP03", "category": "weapon", "typename": "SuperShotgun7", "tag": "Super Shotgun", "position": { "x": 10400, "y": -8608, "z": 400 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": 9856, "y": -9024, "z": 400 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": 9856, "y": -8960, "z": 400 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 9920, "y": -8960, "z": 400 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 9920, "y": -9024, "z": 400 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 9792, "y": -8992, "z": 400 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10016, "y": -8992, "z": 400 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "skill": [2], "position": { "x": 7520, "y": -11232, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "skill": [2], "position": { "x": 7648, "y": -11232, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "skill": [2], "position": { "x": 7776, "y": -11232, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "skill": [2, 3], "position": { "x": 7904, "y": -6304, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "skill": [2, 3], "position": { "x": 8160, "y": -6432, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "skill": [2, 3], "position": { "x": 7904, "y": -6368, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "skill": [2, 3], "position": { "x": 8096, "y": -6176, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "skill": [2, 3], "position": { "x": 7968, "y": -6176, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "skill": [2, 3], "position": { "x": 8032, "y": -6176, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "skill": [2, 3], "position": { "x": 7904, "y": -6432, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "skill": [2, 3], "position": { "x": 8160, "y": -6368, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "skill": [2, 3], "position": { "x": 7968, "y": -6432, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "skill": [2, 3], "position": { "x": 8160, "y": -6304, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "skill": [2, 3], "position": { "x": 8160, "y": -6240, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "skill": [2, 3], "position": { "x": 8160, "y": -6176, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "skill": [2, 3], "position": { "x": 7904, "y": -6176, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "skill": [2, 3], "position": { "x": 7904, "y": -6240, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "skill": [2, 3], "position": { "x": 8032, "y": -6432, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "skill": [2, 3], "position": { "x": 8096, "y": -6432, "z": 192 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "skill": [3], "position": { "x": 7680, "y": -11232, "z": 256 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Candy", "tag": "Candy", "skill": [3], "position": { "x": 7616, "y": -11232, "z": 256 } }
+AP-MAP { "map": "MAP04", "checksum": "29ce479b76850e8a5e50e0deb3b90ded", "rank": 1, "monster_count": 103, "info": { "levelnum": 4, "title": "The Mushroom Kingdom", "is_lookup": false, "sky1": "TMKSKY01", "sky1speed": "0.000000", "sky2": "TMKSKY01", "sky2speed": "0.000000", "music": "TMKMUSIC", "music_track": "0", "cluster": 0, "flags": ["spidermastermindspecial"] } }
+AP-ITEM { "map": "MAP04", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": -960, "y": 4672, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": -960, "y": 4736, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -1024, "y": 4736, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -1024, "y": 4672, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -1088, "y": 4672, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": -1088, "y": 4736, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -544, "y": 1376, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -480, "y": 1376, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": -416, "y": 1376, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 24, "y": -680, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 296, "y": -680, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "skill": [1, 2], "position": { "x": 256, "y": -680, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "skill": [1, 2], "position": { "x": 64, "y": -680, "z": 128 } }
+AP-ITEM { "map": "MAP04", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1280, "y": 3264, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "weapon", "typename": "BFG9000", "tag": "BFG 9000", "position": { "x": 1504, "y": 3360, "z": 320 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 1504, "y": 3296, "z": 256 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 1568, "y": 3360, "z": 256 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": 1504, "y": 3104, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": 1568, "y": 3168, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": 1632, "y": 3232, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": 1696, "y": 3296, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Clip7", "tag": "Bullets", "position": { "x": 1760, "y": 3360, "z": 64 } }
+AP-ITEM { "map": "MAP04", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": 1088, "y": 3328, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1568, "y": 3296, "z": 192 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "skill": [1, 2], "position": { "x": 1344, "y": 3104, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1344, "y": 2976, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1344, "y": 2848, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1344, "y": 2720, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "skill": [1, 2], "position": { "x": 1344, "y": 2592, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 3520, "y": 128, "z": -512 } }
+AP-ITEM { "map": "MAP04", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 3200, "y": 3872, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 3360, "y": 3072, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 2528, "y": 2528, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 2528, "y": 2464, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 2592, "y": 2464, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 2528, "y": 2400, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 2464, "y": 2464, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "big-health", "typename": "Soulsphere", "tag": "Soulsphere", "position": { "x": 3328, "y": 2368, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "weapon", "typename": "RocketLauncher", "tag": "Rocket Launcher", "position": { "x": 1888, "y": 4864, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": 1888, "y": 4992, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": 1952, "y": 4928, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": 1824, "y": 4928, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 1888, "y": 4928, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "weapon", "typename": "SuperShotgun7", "tag": "Super Shotgun", "position": { "x": 2624, "y": 128, "z": -512 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 2624, "y": 192, "z": -512 } }
+AP-ITEM { "map": "MAP04", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 2560, "y": 128, "z": -512 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 2208, "y": 4064, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 2816, "y": 3744, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 2592, "y": 2816, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 3808, "y": 3968, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 3168, "y": 4480, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 2144, "y": 5056, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1488, "y": 4976, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1584, "y": 4512, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 3472, "y": 5136, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 4144, "y": 4512, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 4400, "y": 4048, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 4400, "y": 3472, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 2544, "y": 5600, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 2368, "y": 640, "z": -512 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 1376, "y": 1696, "z": -512 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 1376, "y": 1656, "z": -512 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 1376, "y": 1616, "z": -512 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 1376, "y": 1576, "z": -512 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 1376, "y": 1536, "z": -512 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 1120, "y": 1696, "z": -512 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 1120, "y": 1656, "z": -512 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 1120, "y": 1616, "z": -512 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 1120, "y": 1576, "z": -512 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 1120, "y": 1536, "z": -512 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 1336, "y": 1696, "z": -512 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 1336, "y": 1656, "z": -512 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 1160, "y": 1696, "z": -512 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 1160, "y": 1656, "z": -512 } }
+AP-ITEM { "map": "MAP04", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -448, "y": 3104, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 2528, "y": 3464, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 2528, "y": 3416, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 2528, "y": 3368, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 2528, "y": 3320, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 2528, "y": 3272, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Candy", "tag": "Candy", "position": { "x": 2528, "y": 3224, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 1840, "y": 4976, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 1936, "y": 4976, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 1088, "y": 3392, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1856, "y": 640, "z": -512 } }
+AP-ITEM { "map": "MAP04", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": 1344, "y": 2240, "z": 256 } }
+AP-ITEM { "map": "MAP04", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": 1280, "y": 2240, "z": 256 } }
+AP-ITEM { "map": "MAP04", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 1344, "y": 2304, "z": 256 } }
+AP-ITEM { "map": "MAP04", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 1280, "y": 2304, "z": 256 } }
+AP-ITEM { "map": "MAP04", "category": "weapon", "typename": "RocketLauncher", "tag": "Rocket Launcher", "position": { "x": 1216, "y": 2304, "z": 256 } }
+AP-ITEM { "map": "MAP04", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1984, "y": 3648, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1984, "y": 3584, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1920, "y": 3648, "z": 0 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1600, "y": 1536, "z": -512 } }
+AP-ITEM { "map": "MAP04", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 3648, "y": 0, "z": -512 } }
+AP-SCAN-DONE {}

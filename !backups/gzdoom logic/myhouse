@@ -1,0 +1,246 @@
+LEVELPORT: 33 (33 - 20PAM)
+LEVELPORT: 33 (33 - 20PAM)
+LEVELPORT: 33 (33 - 20PAM)
+LEVELPORT: 33 (33 - 20PAM)
+LEVELPORT: 33 (33 - 20PAM)
+LEVELPORT: 33 (33 - 20PAM)
+LEVELPORT: 33 (33 - 20PAM)
+LEVELPORT: 33 (33 - 20PAM)
+LEVELPORT: 33 (33 - 20PAM)
+LEVELPORT: 33 (33 - 20PAM)
+LEVELPORT: 33 (33 - 20PAM)
+LEVELPORT: 33 (33 - 20PAM)
+LEVELPORT: 33 (33 - 20PAM)
+LEVELPORT: 33 (33 - 20PAM)
+LEVELPORT: 33 (33 - 20PAM)
+LEVELPORT: 33 (33 - 20PAM)
+LEVELPORT: 33 (33 - 20PAM)
+LEVELPORT: 33 (33 - 20PAM)
+LEVELPORT: 33 (33 - 20PAM)
+AP-MAP { "map": "MAP01", "checksum": "49d32d2dfca1b3280f709b987780f980", "rank": 0, "monster_count": 112, "info": { "levelnum": 1, "title": "my house", "is_lookup": false, "sky1": "SKY1", "sky1speed": "0.000000", "sky2": "SKY2", "sky2speed": "0.000000", "music": "$MUSIC_RUNNIN", "music_track": "0", "cluster": 0, "flags": [] } }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "YellowCard", "tag": "YellowCard", "position": { "x": 1640, "y": 386, "z": 24 } }
+AP-KEY { "map": "MAP01", "typename": "YellowCard", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "Pop", "tag": "Pop", "position": { "x": -3148, "y": -3428, "z": 36 } }
+AP-KEY { "map": "MAP01", "typename": "Pop", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "BlueCard", "tag": "BlueCard", "position": { "x": 2132, "y": 154, "z": 56 } }
+AP-KEY { "map": "MAP01", "typename": "BlueCard", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "RedCard", "tag": "RedCard", "position": { "x": 1896, "y": -1224, "z": -88 } }
+AP-KEY { "map": "MAP01", "typename": "RedCard", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "YellowSkull", "tag": "YellowSkull", "position": { "x": -664, "y": 384, "z": 24 } }
+AP-KEY { "map": "MAP01", "typename": "YellowSkull", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "RedSkull", "tag": "RedSkull", "position": { "x": -408, "y": -1224, "z": -88 } }
+AP-KEY { "map": "MAP01", "typename": "RedSkull", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "InvisibleBlueSkull", "tag": "InvisibleBlueSkull", "position": { "x": -444, "y": 1616, "z": 104 } }
+AP-KEY { "map": "MAP01", "typename": "InvisibleBlueSkull", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": -13408, "y": 576, "z": -8 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": -13456, "y": 592, "z": -8 } }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "RING", "tag": "RING", "position": { "x": 12016, "y": -2272, "z": -146 } }
+AP-KEY { "map": "MAP01", "typename": "RING", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 14904, "y": 224, "z": 1 } }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "EmptyMedication", "tag": "EmptyMedication", "position": { "x": 7671, "y": -9185, "z": 39 } }
+AP-KEY { "map": "MAP01", "typename": "EmptyMedication", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "Milkshake", "tag": "Milkshake", "position": { "x": -2548, "y": -3480, "z": -66 } }
+AP-KEY { "map": "MAP01", "typename": "Milkshake", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "Ornament", "tag": "Ornament", "position": { "x": -292, "y": -7344, "z": 104 } }
+AP-KEY { "map": "MAP01", "typename": "Ornament", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "TunaCan", "tag": "TunaCan", "position": { "x": 8952, "y": 288, "z": 272 } }
+AP-KEY { "map": "MAP01", "typename": "TunaCan", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "RoomKey", "tag": "RoomKey", "position": { "x": 8470, "y": -8774, "z": 56 } }
+AP-KEY { "map": "MAP01", "typename": "RoomKey", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "Medication", "tag": "Medication", "position": { "x": 15840, "y": 3328, "z": 24 } }
+AP-KEY { "map": "MAP01", "typename": "Medication", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Clip", "tag": "Bullets", "position": { "x": 4008, "y": -1792, "z": -96 } }
+AP-ITEM { "map": "MAP01", "category": "powerup", "typename": "Berserk", "tag": "Berserk", "position": { "x": 6256, "y": -1444, "z": -40 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 4400, "y": -1368, "z": -120 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -248, "y": -1432, "z": -120 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": 10320, "y": 1200, "z": 48 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": 10368, "y": 1200, "z": 48 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Clip", "tag": "Bullets", "position": { "x": 4200, "y": -1224, "z": -88 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 4432, "y": -1376, "z": -120 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 10328, "y": 1152, "z": 16 } }
+AP-ITEM { "map": "MAP01", "category": "weapon", "typename": "smoothPlasmaRifle", "tag": "Plasma Rifle", "position": { "x": 10280, "y": 1128, "z": 48 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -176, "y": -1376, "z": -120 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Clip", "tag": "Bullets", "position": { "x": 6280, "y": 376, "z": 34 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 10664, "y": 688, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "weapon", "typename": "smoothChainsaw", "tag": "Chainsaw", "position": { "x": 2668, "y": 2566, "z": -24 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "skill": [1, 2], "position": { "x": 9164, "y": 1556, "z": 50 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 10368, "y": 1056, "z": 48 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 4360, "y": -1432, "z": -120 } }
+AP-ITEM { "map": "MAP01", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": 10416, "y": 6496, "z": -384 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -608, "y": -1384, "z": -120 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -208, "y": -1368, "z": -120 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Clip", "tag": "Bullets", "position": { "x": 4328, "y": -1440, "z": -120 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 10664, "y": 640, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Clip", "tag": "Bullets", "position": { "x": -280, "y": -1440, "z": -120 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Clip", "tag": "Bullets", "position": { "x": 10644, "y": 736, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 10336, "y": 1104, "z": 16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": 4000, "y": -1384, "z": -120 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Clip", "tag": "Bullets", "position": { "x": 10664, "y": 768, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Clip", "tag": "Bullets", "position": { "x": -600, "y": -1792, "z": -96 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": 9164, "y": 1524, "z": 50 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 6276, "y": 396, "z": 34 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 10320, "y": 1056, "z": 48 } }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "Baseball", "tag": "Baseball", "position": { "x": 6216, "y": -1168, "z": -120 } }
+AP-KEY { "map": "MAP01", "typename": "Baseball", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "FireDummyKey2", "tag": "FireDummyKey2", "position": { "x": 14092, "y": -1392, "z": 25 } }
+AP-KEY { "map": "MAP01", "typename": "FireDummyKey2", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "Bottle", "tag": "Bottle", "position": { "x": -416, "y": -6712, "z": 112 } }
+AP-KEY { "map": "MAP01", "typename": "Bottle", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "Crayons", "tag": "Crayons", "position": { "x": 6720, "y": -1108, "z": -120 } }
+AP-KEY { "map": "MAP01", "typename": "Crayons", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "d20", "tag": "d20", "position": { "x": 10360, "y": -4960, "z": -256 } }
+AP-KEY { "map": "MAP01", "typename": "d20", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "Wine", "tag": "Wine", "position": { "x": -466, "y": -3842, "z": 56 } }
+AP-KEY { "map": "MAP01", "typename": "Wine", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "weapon", "typename": "smoothBFG9000", "tag": "BFG 9000", "position": { "x": 13536, "y": 3840, "z": 24 } }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "EmptyMedication", "tag": "EmptyMedication", "position": { "x": 14368, "y": 1408, "z": 24 } }
+AP-KEY { "map": "MAP01", "typename": "EmptyMedication", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "RubberDucky", "tag": "RubberDucky", "position": { "x": -742, "y": 394, "z": 23 } }
+AP-KEY { "map": "MAP01", "typename": "RubberDucky", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "Frisbee", "tag": "Frisbee", "position": { "x": 6740, "y": 168, "z": 24 } }
+AP-KEY { "map": "MAP01", "typename": "Frisbee", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "Pumpkin", "tag": "Pumpkin", "position": { "x": 10272, "y": 184, "z": 0 } }
+AP-KEY { "map": "MAP01", "typename": "Pumpkin", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "controller", "tag": "controller", "position": { "x": -1428, "y": -12994, "z": 8 } }
+AP-KEY { "map": "MAP01", "typename": "controller", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "Lookatthisphotograph", "tag": "Lookatthisphotograph", "position": { "x": 4012, "y": 488, "z": 64 } }
+AP-KEY { "map": "MAP01", "typename": "Lookatthisphotograph", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "Puppy", "tag": "Puppy", "position": { "x": 5936, "y": -4514, "z": -59 } }
+AP-KEY { "map": "MAP01", "typename": "Puppy", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "TeddyBear", "tag": "TeddyBear", "position": { "x": 4106, "y": 498, "z": 64 } }
+AP-KEY { "map": "MAP01", "typename": "TeddyBear", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "Book", "tag": "Book", "position": { "x": 3866, "y": 74, "z": 56 } }
+AP-KEY { "map": "MAP01", "typename": "Book", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -13520, "y": 576, "z": -8 } }
+AP-ITEM { "map": "MAP01", "category": "weapon", "typename": "smoothRocketLauncher", "tag": "Rocket Launcher", "position": { "x": -13312, "y": 608, "z": -8 } }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "FireDummyKey", "tag": "FireDummyKey", "position": { "x": 4632, "y": -1816, "z": -120 } }
+AP-KEY { "map": "MAP01", "typename": "FireDummyKey", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -552, "y": -1114, "z": -160 } }
+AP-ITEM { "map": "MAP01", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -552, "y": -1114, "z": -96 } }
+AP-ITEM { "map": "MAP01", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -552, "y": -1114, "z": -74 } }
+AP-ITEM { "map": "MAP01", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 9120, "y": -5056, "z": -142 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -256, "y": 120, "z": 56 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -568, "y": 492, "z": 64 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -436, "y": -276, "z": 48 } }
+AP-ITEM { "map": "MAP01", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "skill": [1], "position": { "x": -404, "y": -1168, "z": -120 } }
+AP-ITEM { "map": "MAP01", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1752, "y": -1114, "z": -128 } }
+AP-ITEM { "map": "MAP01", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "skill": [1], "position": { "x": -552, "y": -1114, "z": -160 } }
+AP-ITEM { "map": "MAP01", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "skill": [1], "position": { "x": -552, "y": -1114, "z": -74 } }
+AP-ITEM { "map": "MAP01", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "skill": [1], "position": { "x": -552, "y": -1114, "z": -96 } }
+AP-ITEM { "map": "MAP01", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 120, "y": -38, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 110, "y": -66, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -468, "y": -1436, "z": -88 } }
+AP-ITEM { "map": "MAP01", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "skill": [1, 2], "position": { "x": -272, "y": -1368, "z": -88 } }
+AP-ITEM { "map": "MAP01", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 14583, "y": 740, "z": 268 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "skill": [1, 2], "position": { "x": 14736, "y": 689, "z": 268 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "skill": [1], "position": { "x": 14729, "y": 931, "z": 268 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 14708, "y": 893, "z": 268 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 10856, "y": -3944, "z": -168 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "skill": [1, 2], "position": { "x": 9984, "y": -3414, "z": -144 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": 10256, "y": -3544, "z": -144 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "skill": [1], "position": { "x": 11156, "y": -3632, "z": -216 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 9936, "y": -3432, "z": -144 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Clip", "tag": "Bullets", "position": { "x": 10720, "y": -3640, "z": -168 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Clip", "tag": "Bullets", "position": { "x": 10696, "y": -3688, "z": -168 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Clip", "tag": "Bullets", "position": { "x": 10792, "y": -3672, "z": -168 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 6464, "y": -1432, "z": -120 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 6496, "y": -1120, "z": -120 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "skill": [2, 3], "position": { "x": -404, "y": -1168, "z": -120 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Clip", "tag": "Bullets", "skill": [2, 3], "position": { "x": 10920, "y": -3936, "z": -168 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Clip", "tag": "Bullets", "skill": [2, 3], "position": { "x": 10896, "y": -3992, "z": -168 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "skill": [2, 3], "position": { "x": 11152, "y": -3632, "z": -216 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "skill": [2, 3], "position": { "x": 11200, "y": -3676, "z": -200 } }
+AP-ITEM { "map": "MAP01", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "skill": [3], "position": { "x": -272, "y": -1368, "z": -88 } }
+AP-ITEM { "map": "MAP01", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "skill": [3], "position": { "x": 9164, "y": 1556, "z": 50 } }
+AP-SECRET { "map": "MAP01", "sector": 17613 }
+AP-MAP { "map": "MAP02", "checksum": "ab24ae6e2cb13cbdd04600a4d37f9189", "rank": 1, "monster_count": 90, "info": { "levelnum": 2, "title": "HUSTR_2", "is_lookup": true, "sky1": "SKY1", "sky1speed": "0.000000", "sky2": "SKY1", "sky2speed": "0.000000", "music": "$MUSIC_STALKS", "music_track": "0", "cluster": 0, "flags": [] } }
+AP-ITEM { "map": "MAP02", "category": "key", "typename": "RedCard", "tag": "RedCard", "position": { "x": 1168, "y": 528, "z": 48 } }
+AP-KEY { "map": "MAP02", "typename": "RedCard", "scopename": "MAP02", "cluster": 0, "maps": ["MAP02"] }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1376, "y": 1552, "z": -24 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 848, "y": 832, "z": 8 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1568, "y": 928, "z": 8 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 880, "y": 1984, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1360, "y": 1328, "z": -24 } }
+AP-ITEM { "map": "MAP02", "category": "key", "typename": "BlueCard", "tag": "BlueCard", "position": { "x": 928, "y": 576, "z": -88 } }
+AP-KEY { "map": "MAP02", "typename": "BlueCard", "scopename": "MAP02", "cluster": 0, "maps": ["MAP02"] }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 720, "y": 768, "z": -24 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 176, "y": 1328, "z": -88 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 224, "y": 1296, "z": -96 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 144, "y": 1296, "z": -88 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "secret": true,"position": { "x": 1008, "y": 400, "z": 40 } }
+AP-ITEM { "map": "MAP02", "category": "big-armor", "typename": "BlueArmor", "tag": "BlueArmor", "secret": true,"position": { "x": 1040, "y": 320, "z": 40 } }
+AP-ITEM { "map": "MAP02", "category": "weapon", "typename": "smoothSuperShotgun", "tag": "Super Shotgun", "position": { "x": 1920, "y": 1152, "z": -40 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1648, "y": 912, "z": -40 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1648, "y": 960, "z": -40 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1680, "y": 960, "z": -40 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1680, "y": 912, "z": -40 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1248, "y": 1376, "z": 48 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 736, "y": 1376, "z": 48 } }
+AP-ITEM { "map": "MAP02", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 1232, "y": 1232, "z": 48 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 1248, "y": 2016, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 1248, "y": 1968, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 1248, "y": 1920, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 1264, "y": 1472, "z": 40 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 1216, "y": 1472, "z": 40 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 1168, "y": 1472, "z": 40 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 1456, "y": 1552, "z": -24 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 1424, "y": 1552, "z": -24 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 1616, "y": 1360, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 1616, "y": 1328, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 1616, "y": 1296, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 1504, "y": 208, "z": 8 } }
+AP-ITEM { "map": "MAP02", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 1552, "y": 208, "z": 8 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 1152, "y": 208, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 1216, "y": 208, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 1264, "y": 208, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 1328, "y": 208, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 192, "y": 1232, "z": -96 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 176, "y": 1168, "z": -96 } }
+AP-ITEM { "map": "MAP02", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 176, "y": 1104, "z": -96 } }
+AP-SECRET { "map": "MAP02", "sector": 79 }
+AP-MAP { "map": "20PAM", "checksum": "e229641bd978320f0cb794104ea7e7c8", "rank": 1, "monster_count": 91, "info": { "levelnum": 33, "title": "sllahrednu", "is_lookup": false, "sky1": "SKY2", "sky1speed": "0.000000", "sky2": "SKY2", "sky2speed": "0.000000", "music": "D_SILENT", "music_track": "0", "cluster": 0, "flags": [] } }
+AP-ITEM { "map": "20PAM", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1328, "y": 832, "z": 8 } }
+AP-ITEM { "map": "20PAM", "category": "key", "typename": "RedCard", "tag": "RedCard", "position": { "x": 1008, "y": 528, "z": 48 } }
+AP-KEY { "map": "20PAM", "typename": "RedCard", "scopename": "20PAM", "cluster": 0, "maps": ["20PAM"] }
+AP-ITEM { "map": "20PAM", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 944, "y": 1232, "z": 48 } }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 496, "y": 912, "z": -40 } }
+AP-ITEM { "map": "20PAM", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 720, "y": 1552, "z": -24 } }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2000, "y": 1104, "z": -96 } }
+AP-ITEM { "map": "20PAM", "category": "big-armor", "typename": "BlueArmor", "tag": "BlueArmor", "secret": true,"position": { "x": 1136, "y": 320, "z": 40 } }
+AP-ITEM { "map": "20PAM", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1296, "y": 1984, "z": 0 } }
+AP-ITEM { "map": "20PAM", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 800, "y": 1552, "z": -24 } }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 912, "y": 1472, "z": 40 } }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 912, "y": 208, "z": 0 } }
+AP-ITEM { "map": "20PAM", "category": "weapon", "typename": "smoothSuperShotgun", "tag": "Super Shotgun", "position": { "x": 256, "y": 1152, "z": -40 } }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 960, "y": 208, "z": 0 } }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 928, "y": 1376, "z": 48 } }
+AP-ITEM { "map": "20PAM", "category": "key", "typename": "BlueCard", "tag": "BlueCard", "position": { "x": 1248, "y": 576, "z": -88 } }
+AP-KEY { "map": "20PAM", "typename": "BlueCard", "scopename": "20PAM", "cluster": 0, "maps": ["20PAM"] }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 2000, "y": 1168, "z": -96 } }
+AP-ITEM { "map": "20PAM", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 816, "y": 1328, "z": -24 } }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1440, "y": 1376, "z": 48 } }
+AP-ITEM { "map": "20PAM", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 752, "y": 1552, "z": -24 } }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 960, "y": 1472, "z": 40 } }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "secret": true,"position": { "x": 1168, "y": 400, "z": 40 } }
+AP-ITEM { "map": "20PAM", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 624, "y": 208, "z": 8 } }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 528, "y": 912, "z": -40 } }
+AP-ITEM { "map": "20PAM", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 560, "y": 1360, "z": -16 } }
+AP-ITEM { "map": "20PAM", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 608, "y": 928, "z": 8 } }
+AP-ITEM { "map": "20PAM", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 560, "y": 1296, "z": -16 } }
+AP-ITEM { "map": "20PAM", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 672, "y": 208, "z": 8 } }
+AP-ITEM { "map": "20PAM", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 560, "y": 1328, "z": -16 } }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 496, "y": 960, "z": -40 } }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 928, "y": 2016, "z": 0 } }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 1024, "y": 208, "z": 0 } }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1456, "y": 768, "z": -24 } }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 2000, "y": 1328, "z": -88 } }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 1952, "y": 1296, "z": -96 } }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 1008, "y": 1472, "z": 40 } }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 1984, "y": 1232, "z": -96 } }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 2032, "y": 1296, "z": -88 } }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 928, "y": 1920, "z": 0 } }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 848, "y": 208, "z": 0 } }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 928, "y": 1968, "z": 0 } }
+AP-ITEM { "map": "20PAM", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 528, "y": 960, "z": -40 } }
+AP-SECRET { "map": "20PAM", "sector": 60 }
+AP-SCAN-DONE {}

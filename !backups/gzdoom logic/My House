@@ -1,0 +1,9 @@
+AP-MAP { "map": "MAP01", "checksum": "d7a671b50170af441f8b666cd57e953b", "rank": 0, "monster_count": 27, "info": { "levelnum": 1, "title": "HUSTR_1", "is_lookup": true, "sky1": "SKY1", "sky1speed": "0.000000", "sky2": "SKY1", "sky2speed": "0.000000", "music": "$MUSIC_RUNNIN", "music_track": "0", "cluster": 0, "flags": [] } }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "BlueCard", "tag": "BlueCard", "position": { "x": 144, "y": -38, "z": 56 } }
+AP-KEY { "map": "MAP01", "typename": "BlueCard", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "RedCard", "tag": "RedCard", "position": { "x": -88, "y": -1480, "z": -88 } }
+AP-KEY { "map": "MAP01", "typename": "RedCard", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "key", "typename": "YellowCard", "tag": "YellowCard", "position": { "x": -316, "y": 194, "z": 43 } }
+AP-KEY { "map": "MAP01", "typename": "YellowCard", "scopename": "MAP01", "cluster": 0, "maps": ["MAP01"] }
+AP-ITEM { "map": "MAP01", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -232, "y": -1370, "z": -128 } }
+AP-SCAN-DONE {}

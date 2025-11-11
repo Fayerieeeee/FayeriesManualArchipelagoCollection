@@ -1,0 +1,578 @@
+AP-MAP { "map": "MAP01", "checksum": "d0e5ecd94bd38df33f25515c00148693", "rank": 0, "monster_count": 10617, "info": { "levelnum": 1, "title": "NUTS", "is_lookup": false, "sky1": "RSKY1", "sky1speed": "0.000000", "sky2": "RSKY1", "sky2speed": "0.000000", "music": "NUTS", "music_track": "0", "cluster": 0, "flags": [] } }
+AP-ITEM { "map": "MAP01", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": 1024, "y": -976, "z": 300 } }
+AP-ITEM { "map": "MAP01", "category": "weapon", "typename": "BFG9000", "tag": "BFG 9000", "position": { "x": 896, "y": -608, "z": 300 } }
+AP-ITEM { "map": "MAP01", "category": "weapon", "typename": "PlasmaRifle", "tag": "Plasma Rifle", "position": { "x": 1152, "y": -608, "z": 300 } }
+AP-ITEM { "map": "MAP01", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 1024, "y": -608, "z": 300 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 896, "y": -672, "z": 300 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 896, "y": -736, "z": 300 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 896, "y": -800, "z": 300 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 960, "y": -800, "z": 300 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 960, "y": -736, "z": 300 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 960, "y": -672, "z": 300 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1024, "y": -672, "z": 300 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1024, "y": -736, "z": 300 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1024, "y": -800, "z": 300 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1088, "y": -800, "z": 300 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1088, "y": -736, "z": 300 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1088, "y": -672, "z": 300 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1152, "y": -672, "z": 300 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1152, "y": -736, "z": 300 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1152, "y": -800, "z": 300 } }
+AP-ITEM { "map": "MAP01", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": 1018, "y": 6596, "z": -32 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 80, "y": 6928, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 128, "y": 6880, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 160, "y": 6832, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 192, "y": 6800, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 224, "y": 6766, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 255, "y": 6735, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 292, "y": 6713, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 561, "y": 6574, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 331, "y": 6687, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 483, "y": 6612, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 648, "y": 6552, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 604, "y": 6560, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 694, "y": 6539, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 751, "y": 6524, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 808, "y": 6509, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 865, "y": 6497, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 922, "y": 6494, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1152, "y": 6496, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1104, "y": 6496, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1208, "y": 6504, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1256, "y": 6512, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1760, "y": 6736, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1792, "y": 6776, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1824, "y": 6808, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1856, "y": 6840, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1888, "y": 6872, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1920, "y": 6904, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1960, "y": 6928, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1304, "y": 6528, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1352, "y": 6544, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1400, "y": 6552, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1488, "y": 6584, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1540, "y": 6603, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1722, "y": 6703, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1440, "y": 6568, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": 120, "y": 6976, "z": -32 } }
+AP-ITEM { "map": "MAP01", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": 1192, "y": -840, "z": 300 } }
+AP-ITEM { "map": "MAP01", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": 856, "y": -840, "z": 300 } }
+AP-ITEM { "map": "MAP01", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": 800, "y": -864, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": 1248, "y": -864, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": 1040, "y": 7112, "z": -32 } }
+AP-ITEM { "map": "MAP01", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": 1896, "y": 6976, "z": -32 } }
+AP-ITEM { "map": "MAP01", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": 440, "y": 7080, "z": -32 } }
+AP-ITEM { "map": "MAP01", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": 1584, "y": 7080, "z": -32 } }
+AP-ITEM { "map": "MAP01", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 523, "y": 6591, "z": -16 } }
+AP-ITEM { "map": "MAP01", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": -128, "y": -856, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": -1640, "y": -864, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": -3096, "y": -856, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": -4456, "y": -856, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": 2360, "y": -848, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": 3696, "y": -856, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": 5104, "y": -856, "z": 0 } }
+AP-ITEM { "map": "MAP01", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": 6480, "y": -856, "z": 0 } }
+AP-MAP { "map": "MAP02", "checksum": "d20297ae8447232f6dbe4851e3104668", "rank": 1, "monster_count": 3938, "info": { "levelnum": 2, "title": "NUTS 2", "is_lookup": false, "sky1": "RSKY1", "sky1speed": "0.000000", "sky2": "RSKY1", "sky2speed": "0.000000", "music": "NUTS2", "music_track": "0", "cluster": 0, "flags": [] } }
+AP-ITEM { "map": "MAP02", "category": "weapon", "typename": "BFG9000", "tag": "BFG 9000", "position": { "x": -4432, "y": -40, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 1216, "y": -256, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -640, "y": -256, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -192, "y": -256, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -2432, "y": -736, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -288, "y": -768, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1472, "y": -256, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 128, "y": -256, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -896, "y": -256, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 5600, "y": -768, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -1472, "y": -768, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 4608, "y": -768, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 3552, "y": -800, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 896, "y": -256, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 2944, "y": 32, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1536, "y": -800, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 2528, "y": -800, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": 1032, "y": 6496, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 80, "y": 6928, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 128, "y": 6880, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 160, "y": 6832, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 192, "y": 6800, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 240, "y": 6768, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 272, "y": 6736, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 320, "y": 6704, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 544, "y": 6584, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 400, "y": 6656, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 352, "y": 6680, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 496, "y": 6608, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 448, "y": 6632, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 648, "y": 6552, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 592, "y": 6568, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 696, "y": 6544, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 744, "y": 6528, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 792, "y": 6512, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 848, "y": 6504, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 904, "y": 6504, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 952, "y": 6496, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1152, "y": 6496, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1104, "y": 6496, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1208, "y": 6504, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1256, "y": 6512, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1680, "y": 6688, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1760, "y": 6736, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1792, "y": 6776, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1824, "y": 6808, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1856, "y": 6840, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1888, "y": 6872, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1920, "y": 6904, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1952, "y": 6944, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1304, "y": 6528, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1352, "y": 6544, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1400, "y": 6552, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1488, "y": 6584, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1528, "y": 6608, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1568, "y": 6624, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1608, "y": 6648, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1640, "y": 6664, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1720, "y": 6712, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1440, "y": 6568, "z": -16 } }
+AP-ITEM { "map": "MAP02", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": 1024, "y": 7104, "z": -32 } }
+AP-ITEM { "map": "MAP02", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": 136, "y": 6976, "z": -32 } }
+AP-ITEM { "map": "MAP02", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": 1880, "y": 6976, "z": -32 } }
+AP-ITEM { "map": "MAP02", "category": "weapon", "typename": "Chainsaw", "tag": "Chainsaw", "position": { "x": 1023, "y": -764, "z": 300 } }
+AP-ITEM { "map": "MAP02", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": 1256, "y": -864, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": 792, "y": -864, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": 3512, "y": -872, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": 6488, "y": -864, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": -4456, "y": -872, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": -1968, "y": -864, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "weapon", "typename": "Shotgun", "tag": "Shotgun", "position": { "x": 1024, "y": -344, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "weapon", "typename": "Shotgun", "tag": "Shotgun", "position": { "x": 1304, "y": -392, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "weapon", "typename": "Shotgun", "tag": "Shotgun", "position": { "x": 1456, "y": -568, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "weapon", "typename": "Shotgun", "tag": "Shotgun", "position": { "x": 752, "y": -408, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "weapon", "typename": "Shotgun", "tag": "Shotgun", "position": { "x": 608, "y": -608, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "weapon", "typename": "PlasmaRifle", "tag": "Plasma Rifle", "position": { "x": 10368, "y": 11424, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "weapon", "typename": "BFG9000", "tag": "BFG 9000", "position": { "x": 10432, "y": 11424, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10368, "y": 11296, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10432, "y": 11296, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10496, "y": 11296, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10560, "y": 11296, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10304, "y": 11296, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10240, "y": 11296, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10560, "y": 11360, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10560, "y": 11424, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10560, "y": 11488, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10560, "y": 11552, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10560, "y": 11616, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10496, "y": 11616, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10432, "y": 11616, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10368, "y": 11616, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10304, "y": 11616, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10240, "y": 11616, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10240, "y": 11552, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10240, "y": 11488, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10240, "y": 11424, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10240, "y": 11360, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10304, "y": 11552, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10368, "y": 11552, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10432, "y": 11552, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10496, "y": 11552, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10496, "y": 11488, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10496, "y": 11424, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10496, "y": 11360, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10432, "y": 11360, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10368, "y": 11360, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10304, "y": 11360, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10304, "y": 11424, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10304, "y": 11488, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10368, "y": 11488, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 10432, "y": 11488, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "weapon", "typename": "RocketLauncher", "tag": "Rocket Launcher", "position": { "x": 10400, "y": 10848, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10304, "y": 10944, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10368, "y": 11008, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10432, "y": 11008, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10496, "y": 11008, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10560, "y": 11008, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10304, "y": 11008, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10240, "y": 11008, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10240, "y": 10944, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10240, "y": 10880, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10240, "y": 10816, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10240, "y": 10752, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10240, "y": 10688, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10304, "y": 10688, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10368, "y": 10688, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10432, "y": 10688, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10496, "y": 10688, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10560, "y": 10688, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10560, "y": 10752, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10560, "y": 10816, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10560, "y": 10880, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10560, "y": 10944, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10304, "y": 10880, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10304, "y": 10816, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10304, "y": 10752, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10368, "y": 10752, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10432, "y": 10752, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10496, "y": 10752, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10496, "y": 10816, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10496, "y": 10880, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10496, "y": 10944, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10432, "y": 10944, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10368, "y": 10944, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10368, "y": 10880, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10368, "y": 10816, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10432, "y": 10816, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 10432, "y": 10880, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": 10396, "y": 11150, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 10560, "y": 11232, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 10496, "y": 11232, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 10432, "y": 11232, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 10368, "y": 11232, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 10304, "y": 11232, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 10240, "y": 11232, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 10240, "y": 11072, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 10304, "y": 11072, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 10368, "y": 11072, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 10432, "y": 11072, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 10496, "y": 11072, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 10560, "y": 11072, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 10624, "y": 11072, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 10688, "y": 11072, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 10752, "y": 11072, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 10624, "y": 11232, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 10688, "y": 11232, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 10752, "y": 11232, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 10176, "y": 11072, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 10112, "y": 11072, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 10112, "y": 11232, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 10176, "y": 11232, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 10144, "y": 11680, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 10144, "y": 11616, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 10080, "y": 11616, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 10080, "y": 11680, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 10144, "y": 10688, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 10080, "y": 10688, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 10080, "y": 10624, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 10144, "y": 10624, "z": -300 } }
+AP-ITEM { "map": "MAP02", "category": "big-health", "typename": "Soulsphere", "tag": "Soulsphere", "position": { "x": 11544, "y": 4198, "z": -220 } }
+AP-ITEM { "map": "MAP02", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 1024, "y": -992, "z": 300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 1024, "y": -992, "z": 300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 1024, "y": -992, "z": 300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 1024, "y": -992, "z": 300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 1024, "y": -992, "z": 300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": 1024, "y": -992, "z": 300 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 544, "y": -832, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 6144, "y": -256, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 3840, "y": -256, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 3200, "y": -256, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 6496, "y": -352, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 6496, "y": -288, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 6496, "y": -224, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 6496, "y": -160, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 6496, "y": -96, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 6496, "y": -32, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 6496, "y": 32, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 6496, "y": 96, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 6496, "y": 160, "z": 0 } }
+AP-ITEM { "map": "MAP02", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": 896, "y": 7104, "z": -32 } }
+AP-ITEM { "map": "MAP02", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": 1152, "y": 7104, "z": -32 } }
+AP-ITEM { "map": "MAP02", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1664, "y": -256, "z": 0 } }
+AP-MAP { "map": "MAP03", "checksum": "ebbb8663ad4ab22294a8a1d211a026cd", "rank": 2, "monster_count": 12263, "info": { "levelnum": 3, "title": "NUTS 3", "is_lookup": false, "sky1": "RSKY1", "sky1speed": "0.000000", "sky2": "RSKY1", "sky2speed": "0.000000", "music": "NUTS3", "music_track": "0", "cluster": 0, "flags": [] } }
+AP-ITEM { "map": "MAP03", "category": "weapon", "typename": "BFG9000", "tag": "BFG 9000", "position": { "x": 1167, "y": -704, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 1120, "y": -656, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "big-armor", "typename": "BlueArmor", "tag": "BlueArmor", "position": { "x": -4513, "y": -800, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "big-armor", "typename": "BlueArmor", "tag": "BlueArmor", "position": { "x": -4513, "y": -1248, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -4705, "y": -1248, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -4705, "y": -1312, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -4705, "y": -1376, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -4705, "y": -672, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -4705, "y": -736, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -4705, "y": -800, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": -4641, "y": -992, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "powerup", "typename": "Berserk", "tag": "Berserk", "position": { "x": -4705, "y": -1184, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "powerup", "typename": "Berserk", "tag": "Berserk", "position": { "x": -4705, "y": -864, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": -4593, "y": -1024, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "powerup", "typename": "BlurSphere", "tag": "BlurSphere", "position": { "x": -4705, "y": -928, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "powerup", "typename": "BlurSphere", "tag": "BlurSphere", "position": { "x": -4705, "y": -1120, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "powerup", "typename": "BlurSphere", "tag": "BlurSphere", "position": { "x": -4705, "y": -1056, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "powerup", "typename": "BlurSphere", "tag": "BlurSphere", "position": { "x": -4705, "y": -992, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "big-health", "typename": "Soulsphere", "tag": "Soulsphere", "position": { "x": -4641, "y": -928, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "big-health", "typename": "Soulsphere", "tag": "Soulsphere", "position": { "x": -4641, "y": -1120, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -4577, "y": -736, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -4513, "y": -736, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -4449, "y": -736, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -4385, "y": -736, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -4577, "y": -1312, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -4513, "y": -1312, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -4449, "y": -1312, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -4385, "y": -1312, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "big-armor", "typename": "GreenArmor", "tag": "GreenArmor", "position": { "x": -4641, "y": -800, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -4641, "y": -736, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -4641, "y": -1312, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "big-armor", "typename": "GreenArmor", "tag": "GreenArmor", "position": { "x": -4641, "y": -1248, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "big-armor", "typename": "GreenArmor", "tag": "GreenArmor", "position": { "x": -4577, "y": -1248, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "big-armor", "typename": "GreenArmor", "tag": "GreenArmor", "position": { "x": -4577, "y": -800, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": -4641, "y": -1056, "z": -720 } }
+AP-ITEM { "map": "MAP03", "category": "weapon", "typename": "RocketLauncher", "tag": "Rocket Launcher", "secret": true,"position": { "x": 32, "y": 10592, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "weapon", "typename": "SuperShotgun", "tag": "Super Shotgun", "secret": true,"position": { "x": -288, "y": 10784, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "secret": true,"position": { "x": 32, "y": 10784, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "powerup", "typename": "BlurSphere", "tag": "BlurSphere", "secret": true,"position": { "x": -288, "y": 10592, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "secret": true,"position": { "x": -224, "y": 10848, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "secret": true,"position": { "x": -320, "y": 10688, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "secret": true,"position": { "x": -320, "y": 10688, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "secret": true,"position": { "x": -320, "y": 10688, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "secret": true,"position": { "x": -320, "y": 10688, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "secret": true,"position": { "x": -320, "y": 10688, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "secret": true,"position": { "x": -320, "y": 10688, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "secret": true,"position": { "x": -128, "y": 10496, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "secret": true,"position": { "x": -128, "y": 10496, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "secret": true,"position": { "x": -128, "y": 10496, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "secret": true,"position": { "x": -128, "y": 10496, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "secret": true,"position": { "x": -128, "y": 10496, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "secret": true,"position": { "x": 64, "y": 10688, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "secret": true,"position": { "x": 64, "y": 10688, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "secret": true,"position": { "x": 64, "y": 10688, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "secret": true,"position": { "x": 64, "y": 10688, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "secret": true,"position": { "x": 64, "y": 10688, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "secret": true,"position": { "x": -32, "y": 10848, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "secret": true,"position": { "x": -32, "y": 10528, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "weapon", "typename": "Chaingun", "tag": "Chaingun", "secret": true,"position": { "x": -224, "y": 10528, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "secret": true,"position": { "x": -32, "y": 10848, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "secret": true,"position": { "x": -32, "y": 10848, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "secret": true,"position": { "x": -32, "y": 10848, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "secret": true,"position": { "x": -32, "y": 10848, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "secret": true,"position": { "x": -32, "y": 10848, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -5056, "y": -248, "z": -968 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -4296, "y": -504, "z": -968 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -4736, "y": -1704, "z": -968 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -4312, "y": -1560, "z": -968 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -4448, "y": -1632, "z": -968 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -5000, "y": -1768, "z": -968 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -4456, "y": -416, "z": -968 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -4744, "y": -328, "z": -968 } }
+AP-ITEM { "map": "MAP03", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": -3424, "y": -2496, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "secret": true,"position": { "x": -128, "y": 10880, "z": 500 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1024, "y": -384, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 832, "y": -576, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1024, "y": -768, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1216, "y": -576, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1248, "y": -304, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 752, "y": -336, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 768, "y": -816, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1328, "y": -784, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1376, "y": -544, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 992, "y": -240, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 672, "y": -592, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1056, "y": -928, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "powerup", "typename": "InvulnerabilitySphere", "tag": "InvulnerabilitySphere", "position": { "x": 1184, "y": -160, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "weapon", "typename": "BFG9000", "tag": "BFG 9000", "position": { "x": 896, "y": -448, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "weapon", "typename": "BFG9000", "tag": "BFG 9000", "position": { "x": 896, "y": -736, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "weapon", "typename": "BFG9000", "tag": "BFG 9000", "position": { "x": 1168, "y": -432, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 1104, "y": -496, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 944, "y": -496, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "position": { "x": 944, "y": -656, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "weapon", "typename": "PlasmaRifle", "tag": "Plasma Rifle", "position": { "x": 7040, "y": 448, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 7040, "y": 384, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 7104, "y": 448, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 7040, "y": 512, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 6976, "y": 448, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 6992, "y": 400, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 6992, "y": 496, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 7088, "y": 496, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 7088, "y": 400, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 7064, "y": 392, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 7096, "y": 424, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 7096, "y": 472, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 7064, "y": 504, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 7008, "y": 504, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 6984, "y": 472, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 6984, "y": 424, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": 7016, "y": 392, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "big-health", "typename": "Soulsphere", "tag": "Soulsphere", "position": { "x": 6960, "y": -7312, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 6896, "y": -7312, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -7776, "y": -1024, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "weapon", "typename": "SuperShotgun", "tag": "Super Shotgun", "position": { "x": -6944, "y": -1024, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -7648, "y": -736, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -7648, "y": -1312, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -7072, "y": -1312, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -7072, "y": -736, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "weapon", "typename": "RocketLauncher", "tag": "Rocket Launcher", "position": { "x": -7360, "y": -608, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": -7744, "y": -864, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": -7744, "y": -1184, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": -6976, "y": -1184, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": -6976, "y": -864, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": -7200, "y": -640, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": -7520, "y": -640, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": -7520, "y": -1408, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": -7200, "y": -1408, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -7616, "y": -1024, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -7616, "y": -864, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -7616, "y": -1184, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -7104, "y": -1184, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -7104, "y": -864, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -7360, "y": -864, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": -7360, "y": -1184, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": -7488, "y": -1184, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": -7488, "y": -864, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": -7232, "y": -864, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": -7232, "y": -1184, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": -7232, "y": -1312, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": -7488, "y": -1312, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": -7488, "y": -736, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": -7232, "y": -736, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -7488, "y": -1024, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -7232, "y": -1024, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -7680, "y": -1088, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -7680, "y": -960, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -7424, "y": -704, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -7296, "y": -704, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -7296, "y": -1344, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -7424, "y": -1344, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "big-armor", "typename": "Megasphere", "tag": "Megasphere", "position": { "x": -8152, "y": -1024, "z": -1997 } }
+AP-ITEM { "map": "MAP03", "category": "powerup", "typename": "BlurSphere", "tag": "BlurSphere", "position": { "x": -6264, "y": -1040, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -8064, "y": -1344, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -7712, "y": -1664, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -7136, "y": -1696, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -6720, "y": -1696, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -6432, "y": -2080, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -6272, "y": -1664, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -6272, "y": -856, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -6272, "y": -288, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -6496, "y": 32, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -6848, "y": -352, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -7552, "y": -288, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -8032, "y": -544, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -7136, "y": -288, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -7808, "y": -384, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -7904, "y": -1568, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -7456, "y": -1728, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -6912, "y": -1664, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -6624, "y": -1984, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -6272, "y": -1984, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -6272, "y": -1280, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -6272, "y": -576, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -6304, "y": -64, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -6624, "y": -64, "z": -2000 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": -7360, "y": -1440, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 544, "y": -576, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1024, "y": -1056, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1504, "y": -576, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1024, "y": -160, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -2720, "y": 6048, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 288, "y": -576, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1024, "y": 32, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1024, "y": -1248, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1696, "y": -576, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -2672, "y": 6112, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -2768, "y": 6160, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 7016, "y": 472, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 7016, "y": 424, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 7064, "y": 424, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 7064, "y": 472, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -5800, "y": -2120, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -5800, "y": -2160, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -5808, "y": -2200, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -5816, "y": -2240, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -5816, "y": -2280, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -5800, "y": 72, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -5808, "y": 112, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -5816, "y": 160, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -5832, "y": 200, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": -5848, "y": 240, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -7040, "y": -960, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -7040, "y": -1088, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -7040, "y": -960, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "ShellBox", "tag": "Shotgun Shells", "position": { "x": -7104, "y": -1024, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -7360, "y": -768, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -7360, "y": -1280, "z": -470 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -32, "y": -576, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "position": { "x": -96, "y": -576, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 864, "y": 360, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 2016, "y": -416, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 32, "y": -416, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 416, "y": -1568, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1184, "y": -1696, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1824, "y": -1440, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 288, "y": 160, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1888, "y": 160, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 576, "y": -176, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1512, "y": -168, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1512, "y": -1048, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 520, "y": -1008, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1064, "y": 744, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 2048, "y": 392, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 2416, "y": -424, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 2064, "y": -1584, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1176, "y": -1960, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -32, "y": -1712, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -352, "y": -480, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 0, "y": 320, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -40, "y": -1112, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -32, "y": -96, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 536, "y": 488, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1568, "y": 472, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 2160, "y": -96, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 2144, "y": -1040, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1568, "y": -1640, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 736, "y": -1808, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1056, "y": 920, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -136, "y": 464, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -544, "y": -488, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 88, "y": -1552, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 920, "y": -2104, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 2280, "y": -1632, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 2592, "y": -552, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 2216, "y": 464, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1184, "y": 480, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 800, "y": 96, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -104, "y": 232, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 352, "y": -960, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 208, "y": -1680, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1912, "y": -1712, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1696, "y": -1152, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 2176, "y": 264, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 1912, "y": 512, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "powerup", "typename": "BlurSphere", "tag": "BlurSphere", "position": { "x": -5040, "y": 968, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "key", "typename": "RedSkull", "tag": "RedSkull", "position": { "x": -6464, "y": -1792, "z": -600 } }
+AP-KEY { "map": "MAP03", "typename": "RedSkull", "scopename": "MAP03", "cluster": 0, "maps": ["MAP03"] }
+AP-ITEM { "map": "MAP03", "category": "key", "typename": "RedSkull", "tag": "RedSkull", "position": { "x": -6464, "y": -1024, "z": -600 } }
+AP-KEY { "map": "MAP03", "typename": "RedSkull", "scopename": "MAP03", "cluster": 0, "maps": ["MAP03"] }
+AP-ITEM { "map": "MAP03", "category": "key", "typename": "RedSkull", "tag": "RedSkull", "position": { "x": -6464, "y": -640, "z": -600 } }
+AP-KEY { "map": "MAP03", "typename": "RedSkull", "scopename": "MAP03", "cluster": 0, "maps": ["MAP03"] }
+AP-ITEM { "map": "MAP03", "category": "key", "typename": "RedSkull", "tag": "RedSkull", "position": { "x": -6464, "y": -1408, "z": -600 } }
+AP-KEY { "map": "MAP03", "typename": "RedSkull", "scopename": "MAP03", "cluster": 0, "maps": ["MAP03"] }
+AP-ITEM { "map": "MAP03", "category": "key", "typename": "RedSkull", "tag": "RedSkull", "position": { "x": -6464, "y": -254, "z": -600 } }
+AP-KEY { "map": "MAP03", "typename": "RedSkull", "scopename": "MAP03", "cluster": 0, "maps": ["MAP03"] }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -5040, "y": 920, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -5040, "y": 1016, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -4992, "y": 968, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": -5088, "y": 968, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": -5080, "y": 1008, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": -5000, "y": 1008, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": -5000, "y": 928, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 6960, "y": -7248, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 6960, "y": -7376, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 7024, "y": -7312, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 7008, "y": -7264, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 6912, "y": -7264, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 6912, "y": -7360, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-armor", "typename": "ArmorBonus", "tag": "ArmorBonus", "position": { "x": 7008, "y": -7360, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "RocketAmmo", "tag": "Rockets", "position": { "x": -5080, "y": 928, "z": -1300 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "skill": [2, 3], "position": { "x": 1024, "y": 224, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "skill": [2, 3], "position": { "x": 1888, "y": -576, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "skill": [2, 3], "position": { "x": 1024, "y": -1440, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "skill": [2, 3], "position": { "x": 160, "y": -576, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "skill": [2, 3], "position": { "x": 1024, "y": 488, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "skill": [2, 3], "position": { "x": 2080, "y": -576, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "skill": [2, 3], "position": { "x": 2144, "y": -576, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "skill": [2, 3], "position": { "x": 1024, "y": -1632, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "small-ammo", "typename": "Cell", "tag": "Energy Cells", "skill": [2, 3], "position": { "x": 1024, "y": -1696, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "skill": [2, 3], "position": { "x": 1024, "y": 416, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "skill": [2, 3], "position": { "x": 1376, "y": 608, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "skill": [2, 3], "position": { "x": 1600, "y": -64, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "skill": [2, 3], "position": { "x": 480, "y": -256, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "skill": [2, 3], "position": { "x": 256, "y": -800, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "skill": [2, 3], "position": { "x": 864, "y": -1312, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "skill": [2, 3], "position": { "x": 1248, "y": -1376, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "skill": [2, 3], "position": { "x": 2328, "y": -856, "z": -1080 } }
+AP-ITEM { "map": "MAP03", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "skill": [2, 3], "position": { "x": 2336, "y": -296, "z": -1080 } }
+AP-SECRET { "map": "MAP03", "sector": 23 }
+AP-SCAN-DONE {}

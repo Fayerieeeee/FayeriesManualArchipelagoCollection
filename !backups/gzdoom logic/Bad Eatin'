@@ -1,0 +1,79 @@
+AP-MAP { "map": "COURSE1", "checksum": "a8549d5a1d7bbd78f33e568047595ed3", "rank": 0, "monster_count": 21, "info": { "levelnum": 0, "title": "Standard Course", "is_lookup": false, "sky1": "outdoors", "sky1speed": "0.000000", "sky2": "outdoors", "sky2speed": "0.000000", "music": "Good Eatin", "music_track": "0", "cluster": 0, "flags": [] } }
+AP-ITEM { "map": "COURSE1", "category": "big-armor", "typename": "BlueArmor", "tag": "BlueArmor", "position": { "x": -608, "y": 2208, "z": 128 } }
+AP-ITEM { "map": "COURSE1", "category": "weapon", "typename": "Chaingun", "tag": "Chaingun", "position": { "x": -480, "y": 2080, "z": 128 } }
+AP-ITEM { "map": "COURSE1", "category": "weapon", "typename": "Chainsaw", "tag": "Chainsaw", "position": { "x": -96, "y": 2272, "z": 0 } }
+AP-ITEM { "map": "COURSE1", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -672, "y": 2400, "z": 128 } }
+AP-ITEM { "map": "COURSE1", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -408, "y": 4512, "z": 225 } }
+AP-SECRET { "map": "COURSE1", "sector": 25 }
+AP-MAP { "map": "SECRET1", "checksum": "052739fac8b5305c2357136c11c01faa", "rank": 1, "monster_count": 7, "info": { "levelnum": 0, "title": "Secret Mini-Course", "is_lookup": false, "sky1": "secret", "sky1speed": "0.035000", "sky2": "secret", "sky2speed": "0.000000", "music": "A Secret Hole in One", "music_track": "0", "cluster": 0, "flags": [] } }
+AP-ITEM { "map": "SECRET1", "category": "weapon", "typename": "Chainsaw", "tag": "Chainsaw", "position": { "x": 0, "y": -64, "z": 0 } }
+AP-ITEM { "map": "SECRET1", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "position": { "x": -1024, "y": 1408, "z": 128 } }
+AP-ITEM { "map": "SECRET1", "category": "weapon", "typename": "Shotgun", "tag": "Shotgun", "position": { "x": -1280, "y": -64, "z": 112 } }
+AP-MAP { "map": "COURSE2", "checksum": "a1b75ce43b641dc975015241890a1bfb", "rank": 0, "monster_count": 13, "info": { "levelnum": 0, "title": "Shotgun Course", "is_lookup": false, "sky1": "outdoors", "sky1speed": "0.000000", "sky2": "outdoors", "sky2speed": "0.000000", "music": "Good Eatin", "music_track": "0", "cluster": 0, "flags": [] } }
+AP-ITEM { "map": "COURSE2", "category": "weapon", "typename": "SuperShotgun", "tag": "Super Shotgun", "position": { "x": 0, "y": 32, "z": 0 } }
+AP-ITEM { "map": "COURSE2", "category": "small-ammo", "typename": "Shell", "tag": "Shotgun Shells", "position": { "x": 0, "y": 96, "z": 0 } }
+AP-ITEM { "map": "COURSE2", "category": "big-armor", "typename": "BlueArmor", "tag": "BlueArmor", "secret": true,"position": { "x": 1440, "y": 928, "z": -256 } }
+AP-ITEM { "map": "COURSE2", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "secret": true,"position": { "x": 1504, "y": 928, "z": -256 } }
+AP-ITEM { "map": "COURSE2", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": -288, "y": 1248, "z": -128 } }
+AP-ITEM { "map": "COURSE2", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": -224, "y": 1376, "z": -128 } }
+AP-ITEM { "map": "COURSE2", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": -352, "y": 1120, "z": -128 } }
+AP-ITEM { "map": "COURSE2", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": -448, "y": 1024, "z": -128 } }
+AP-ITEM { "map": "COURSE2", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 448, "y": 1024, "z": -128 } }
+AP-ITEM { "map": "COURSE2", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 352, "y": 1120, "z": -128 } }
+AP-ITEM { "map": "COURSE2", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 288, "y": 1248, "z": -128 } }
+AP-ITEM { "map": "COURSE2", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 224, "y": 1376, "z": -128 } }
+AP-ITEM { "map": "COURSE2", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": -224, "y": 1568, "z": -128 } }
+AP-ITEM { "map": "COURSE2", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 192, "y": 1568, "z": -128 } }
+AP-ITEM { "map": "COURSE2", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 576, "y": 2080, "z": -256 } }
+AP-ITEM { "map": "COURSE2", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": 640, "y": 2080, "z": -256 } }
+AP-ITEM { "map": "COURSE2", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 704, "y": 2080, "z": -256 } }
+AP-ITEM { "map": "COURSE2", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 1851, "y": 1472, "z": -208 } }
+AP-ITEM { "map": "COURSE2", "category": "small-health", "typename": "Stimpack", "tag": "Stimpack", "position": { "x": -192, "y": 2432, "z": -256 } }
+AP-SECRET { "map": "COURSE2", "sector": 14 }
+AP-MAP { "map": "COURSE3", "checksum": "680c11c23b911e74b55b4fd8b6c88253", "rank": 0, "monster_count": 24, "info": { "levelnum": 0, "title": "Pinky Course", "is_lookup": false, "sky1": "outdoors", "sky1speed": "0.000000", "sky2": "outdoors", "sky2speed": "0.000000", "music": "Good Eatin", "music_track": "0", "cluster": 0, "flags": [] } }
+AP-ITEM { "map": "COURSE3", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": -64, "y": -512, "z": -72 } }
+AP-ITEM { "map": "COURSE3", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": -64, "y": -448, "z": -72 } }
+AP-ITEM { "map": "COURSE3", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": -64, "y": -576, "z": -72 } }
+AP-ITEM { "map": "COURSE3", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 64, "y": -576, "z": -72 } }
+AP-ITEM { "map": "COURSE3", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 64, "y": -512, "z": -72 } }
+AP-ITEM { "map": "COURSE3", "category": "small-health", "typename": "HealthBonus", "tag": "HealthBonus", "position": { "x": 64, "y": -448, "z": -72 } }
+AP-ITEM { "map": "COURSE3", "category": "big-ammo", "typename": "Backpack", "tag": "Backpack", "secret": true,"position": { "x": 0, "y": 352, "z": -72 } }
+AP-ITEM { "map": "COURSE3", "category": "big-health", "typename": "GiantPizza", "tag": "GiantPizza", "position": { "x": 960, "y": 2304, "z": -53 } }
+AP-ITEM { "map": "COURSE3", "category": "big-health", "typename": "GiantPizza", "tag": "GiantPizza", "position": { "x": 2880, "y": 384, "z": -128 } }
+AP-ITEM { "map": "COURSE3", "category": "big-health", "typename": "GiantPizza", "tag": "GiantPizza", "position": { "x": 4416, "y": 1664, "z": 64 } }
+AP-ITEM { "map": "COURSE3", "category": "weapon", "typename": "Chaingun", "tag": "Chaingun", "skill": [2, 3], "position": { "x": 1024, "y": 512, "z": -72 } }
+AP-ITEM { "map": "COURSE3", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "skill": [2, 3], "position": { "x": 960, "y": 512, "z": -72 } }
+AP-ITEM { "map": "COURSE3", "category": "medium-ammo", "typename": "ClipBox", "tag": "Bullets", "skill": [2, 3], "position": { "x": 1088, "y": 512, "z": -72 } }
+AP-SECRET { "map": "COURSE3", "sector": 2 }
+AP-MAP { "map": "COURSE4", "checksum": "61ede75b8e1bf2e0d8979a078a595958", "rank": 0, "monster_count": 26, "info": { "levelnum": 0, "title": "Keycard Course", "is_lookup": false, "sky1": "outdoors", "sky1speed": "0.000000", "sky2": "outdoors", "sky2speed": "0.000000", "music": "Good Eatin", "music_track": "0", "cluster": 0, "flags": [] } }
+AP-ITEM { "map": "COURSE4", "category": "key", "typename": "BlueCard", "tag": "BlueCard", "position": { "x": 64, "y": 1920, "z": -128 } }
+AP-KEY { "map": "COURSE4", "typename": "BlueCard", "scopename": "COURSE4", "cluster": 0, "maps": ["COURSE4"] }
+AP-ITEM { "map": "COURSE4", "category": "key", "typename": "RedCard", "tag": "RedCard", "position": { "x": -1984, "y": 1344, "z": 0 } }
+AP-KEY { "map": "COURSE4", "typename": "RedCard", "scopename": "COURSE4", "cluster": 0, "maps": ["COURSE4"] }
+AP-ITEM { "map": "COURSE4", "category": "big-health", "typename": "GiantPizza", "tag": "GiantPizza", "position": { "x": -704, "y": 352, "z": 0 } }
+AP-ITEM { "map": "COURSE4", "category": "key", "typename": "YellowCard", "tag": "YellowCard", "position": { "x": 2112, "y": 2176, "z": 64 } }
+AP-KEY { "map": "COURSE4", "typename": "YellowCard", "scopename": "COURSE4", "cluster": 0, "maps": ["COURSE4"] }
+AP-ITEM { "map": "COURSE4", "category": "key", "typename": "YellowSkull", "tag": "YellowSkull", "position": { "x": 1728, "y": 192, "z": 0 } }
+AP-KEY { "map": "COURSE4", "typename": "YellowSkull", "scopename": "COURSE4", "cluster": 0, "maps": ["COURSE4"] }
+AP-ITEM { "map": "COURSE4", "category": "weapon", "typename": "RocketLauncher", "tag": "Rocket Launcher", "position": { "x": 416, "y": 96, "z": 0 } }
+AP-ITEM { "map": "COURSE4", "category": "medium-ammo", "typename": "RocketBox", "tag": "Rockets", "position": { "x": 480, "y": 96, "z": 0 } }
+AP-MAP { "map": "COURSE5", "checksum": "6d8123631f515a464a111f0120c894a0", "rank": 0, "monster_count": 1, "info": { "levelnum": 0, "title": "Cyber Course", "is_lookup": false, "sky1": "indoors", "sky1speed": "0.000000", "sky2": "indoors", "sky2speed": "0.000000", "music": "It's Pizza Time", "music_track": "0", "cluster": 0, "flags": [] } }
+AP-ITEM { "map": "COURSE5", "category": "weapon", "typename": "BFG9000", "tag": "BFG 9000", "position": { "x": -224, "y": -32, "z": 0 } }
+AP-ITEM { "map": "COURSE5", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -640, "y": 96, "z": 0 } }
+AP-ITEM { "map": "COURSE5", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 192, "y": 96, "z": 0 } }
+AP-ITEM { "map": "COURSE5", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 320, "y": 192, "z": 0 } }
+AP-ITEM { "map": "COURSE5", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 320, "y": 704, "z": 0 } }
+AP-ITEM { "map": "COURSE5", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": 192, "y": 832, "z": 0 } }
+AP-ITEM { "map": "COURSE5", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -640, "y": 832, "z": 0 } }
+AP-ITEM { "map": "COURSE5", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -768, "y": 704, "z": 0 } }
+AP-ITEM { "map": "COURSE5", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -512, "y": 192, "z": 0 } }
+AP-ITEM { "map": "COURSE5", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -640, "y": 320, "z": 0 } }
+AP-ITEM { "map": "COURSE5", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -640, "y": 576, "z": 0 } }
+AP-ITEM { "map": "COURSE5", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": -512, "y": 704, "z": 0 } }
+AP-ITEM { "map": "COURSE5", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 64, "y": 704, "z": 0 } }
+AP-ITEM { "map": "COURSE5", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 64, "y": 192, "z": 0 } }
+AP-ITEM { "map": "COURSE5", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 192, "y": 320, "z": 0 } }
+AP-ITEM { "map": "COURSE5", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 192, "y": 576, "z": 0 } }
+AP-ITEM { "map": "COURSE5", "category": "big-health", "typename": "Soulsphere", "tag": "Soulsphere", "position": { "x": -224, "y": 192, "z": 0 } }
+AP-ITEM { "map": "COURSE5", "category": "medium-ammo", "typename": "CellPack", "tag": "Energy Cells", "position": { "x": -768, "y": 192, "z": 0 } }
+AP-SCAN-DONE {}
