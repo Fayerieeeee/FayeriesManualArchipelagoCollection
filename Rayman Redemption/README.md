@@ -10,14 +10,14 @@ Your main goal is to retrieve the Great Protoon from the evil Mr. Dark! There's 
 
 The apworld expects the player to have a save file with all the levels pre-unlocked. This can be done by entering the `19941995` cheat.
 
-World progression is locked by cages. Getting more cages allows the player to enter the next major area. Each level's logic is based on what items are needed for said cages/tokens/giftboxes and proceeding throughout the later sections of a level, so if you can't get past a pit because you need pink rings then the rest of the level's logic will require the pink rings.
+World progression is locked by world access items. Each level's logic is based on what items are needed for said cages/tokens/giftboxes and proceeding throughout the later sections of a level, so if you can't get past a pit because you need pink rings then the rest of the level's logic will require the pink rings.
 
-## 📝 Common Progression Items:
-- Cages (168)
+## 📝 Common Progression Items
+- World Accesses (7)
 - Magician Tokens (40)
 - Medallions (30)
 - Shop Bonuses: A combination of the purchaseable upgrades in the shop and Joe's Wares.
-## 📝 NPC Related Progression Items:
+## 📝 NPC Related Progression Items
 - Bzzit Mount: Needed for Bzzit levels, this includes the level right after the Bzzit fight.
 - Pink Rings
 - Pink Springs
@@ -29,14 +29,14 @@ World progression is locked by cages. Getting more cages allows the player to en
 - Firefly
 - Toy Masterkey: Needed to open any and all colored key doors in Playtopia and Candy Chateau.
 - Frying Pan
-## 📝 Extra's Access Items:
+## 📝 Extra's Access Items
 - Magician's Challenges
 - Betilla's Garden
 - The Shop
 - The Casino
 - Joe's Wares
 - Breakout Minigame: The randomizer still expects the player to beat Dark Legacy to properly access it.
-## 📝 Cheat Code related Items: (Once sent, you must activate the cheat code accordingly)
+## 📝 Cheat Code related Items (Once sent, you must activate the cheat code accordingly)
 - Fully Upgraded Fist `(FISTPOWR)`
 - Epic Power `(EPICPOWR)`
 - Temporary Superheli `(HELIPOWR)`
@@ -44,7 +44,7 @@ World progression is locked by cages. Getting more cages allows the player to en
 - Daredevil Trap `(DAREDEVL)`: Sets the player's HP to 1.
 - Low Gravity `(FREEFALL)`
 - Lum Tings `(LUMTINGS)`
-## 📝 Skins: (There's are considered to be junk/filler items, no special actions needed.)
+## 📝 Skins (There's are considered to be junk/filler items, no special actions needed.)
 ### Rayman
 - Blue
 - Livingstone
@@ -83,7 +83,7 @@ World progression is locked by cages. Getting more cages allows the player to en
 - Mr. Dark
 - SNES
 
-## 📝 Locations:
+## 📝 Locations
 - Cages
 - Tokens
 - Giftboxes
