@@ -10,7 +10,7 @@ Your main goal is to retrieve the Great Protoon from the evil Mr. Dark! There's 
 
 The apworld expects the player to have a save file with all the levels pre-unlocked. This can be done by entering the `19941995` cheat.
 
-World progression is locked by world access items. Each level's logic is based on what items are needed for said cages/tokens/giftboxes and proceeding throughout the later sections of a level, so if you can't get past a pit because you need pink rings then the rest of the level's logic will require the pink rings.
+World progression is locked by world access items and medallions. Each level's logic is based on what items are needed for said cages/tokens/giftboxes and proceeding throughout the later sections of a level, so if you can't get past a pit because you need pink rings then the rest of the level's logic will require the pink rings.
 
 ## 📝 Common Progression Items
 - World Accesses (7)
