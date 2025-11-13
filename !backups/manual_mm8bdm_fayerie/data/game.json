@@ -1,0 +1,8 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "MM8BDM",
+  "creator": "Fayerie",
+  "filler_item_name": "Junk",
+  "starting_items": [],
+  "death_link": true
+}

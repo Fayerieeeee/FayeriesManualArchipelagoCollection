@@ -1,0 +1,567 @@
+{
+  "Cut Man": {
+    "connects_to": [],
+    "requires": "|Cut Man Access Codes|",
+    "starting": false
+  },
+  "Guts Man": {
+    "connects_to": [],
+    "requires": "|Guts Man Access Codes|"
+  },
+  "Bomb Man": {
+    "connects_to": [],
+    "requires": "|Bomb Man Access Codes|"
+  },
+  "Elec Man": {
+    "connects_to": [],
+    "requires": "|Elec Man Access Codes|"
+  },
+  "Ice Man": {
+    "connects_to": [],
+    "requires": "|Ice Man Access Codes|"
+  },
+  "Fire Man": {
+    "connects_to": [],
+    "requires": "|Fire Man Access Codes|"
+  },
+  "Time Man": {
+    "connects_to": [],
+    "requires": "|Time Man Access Codes|"
+  },
+  "Oil Man": {
+    "connects_to": [],
+    "requires": "|Oil Man Access Codes|"
+  },
+  "Wily's Hideout 1": {
+    "connects_to": [],
+    "requires": "|Wily's Hideout Access Codes:1|"
+  },
+  "Wily's Hideout 2": {
+    "connects_to": [],
+    "requires": "|Wily's Hideout Access Codes:2|"
+  },
+  "Bubble Man": {
+    "connects_to": [],
+    "requires": "|Bubble Man Access Codes|"
+  },
+  "Air Man": {
+    "connects_to": [],
+    "requires": "|Air Man Access Codes|"
+  },
+  "Heat Man": {
+    "connects_to": [],
+    "requires": "|Heat Man Access Codes|"
+  },
+  "Flash Man": {
+    "connects_to": [],
+    "requires": "|Flash Man Access Codes|"
+  },
+  "Quick Man": {
+    "connects_to": [],
+    "requires": "|Quick Man Access Codes|"
+  },
+  "Wood Man": {
+    "connects_to": [],
+    "requires": "|Wood Man Access Codes|"
+  },
+  "Crash Man": {
+    "connects_to": [],
+    "requires": "|Crash Man Access Codes|"
+  },
+  "Metal Man": {
+    "connects_to": [],
+    "requires": "|Metal Man Access Codes|"
+  },
+  "Skull Castle Entrance": {
+    "connects_to": [],
+    "requires": "|Skull Castle Access Codes:1|"
+  },
+  "Skull Castle Core": {
+    "connects_to": [],
+    "requires": "|Skull Castle Access Codes:2|"
+  },
+  "Skull Castle Depths": {
+    "connects_to": [],
+    "requires": "|Skull Castle Access Codes:3|"
+  },
+  "Snake Man": {
+    "connects_to": [],
+    "requires": "|Snake Man Access Codes|"
+  },
+  "Top Man": {
+    "connects_to": [],
+    "requires": "|Top Man Access Codes|"
+  },
+  "Needle Man": {
+    "connects_to": [],
+    "requires": "|Needle Man Access Codes|"
+  },
+  "Hard Man": {
+    "connects_to": [],
+    "requires": "|Hard Man Access Codes|"
+  },
+  "Gemini Man": {
+    "connects_to": [],
+    "requires": "|Gemini Man Access Codes|"
+  },
+  "Magnet Man": {
+    "connects_to": [],
+    "requires": "|Magnet Man Access Codes|"
+  },
+  "Spark Man": {
+    "connects_to": [],
+    "requires": "|Spark Man Access Codes|"
+  },
+  "Shadow Man": {
+    "connects_to": [],
+    "requires": "|Shadow Man Access Codes|"
+  },
+  "Skull Castle Courtyard": {
+    "connects_to": [],
+    "requires": "|Skull Castle Access Codes:1|"
+  },
+  "Skull Castle Interior": {
+    "connects_to": [],
+    "requires": "|Skull Castle Access Codes:2|"
+  },
+  "Pharaoh Man": {
+    "connects_to": [],
+    "requires": "|Pharaoh Man Access Codes|"
+  },
+  "Dive Man": {
+    "connects_to": [],
+    "requires": "|Dive Man Access Codes|"
+  },
+  "Drill Man": {
+    "connects_to": [],
+    "requires": "|Drill Man Access Codes|"
+  },
+  "Toad Man": {
+    "connects_to": [],
+    "requires": "|Toad Man Access Codes|"
+  },
+  "Dust Man": {
+    "connects_to": [],
+    "requires": "|Dust Man Access Codes|"
+  },
+  "Ring Man": {
+    "connects_to": [],
+    "requires": "|Ring Man Access Codes|"
+  },
+  "Skull Man": {
+    "connects_to": [],
+    "requires": "|Skull Man Access Codes|"
+  },
+  "Bright Man": {
+    "connects_to": [],
+    "requires": "|Bright Man Access Codes|"
+  },
+  "Cossack's Citadel": {
+    "connects_to": [],
+    "requires": "|Cossack's Citadel Access Codes|"
+  },
+  "Wily Waterworks": {
+    "connects_to": [],
+    "requires": "|Wily Waterworks Access Codes|"
+  },
+  "Charge Man": {
+    "connects_to": [],
+    "requires": "|Charge Man Access Codes|"
+  },
+  "Stone Man": {
+    "connects_to": [],
+    "requires": "|Stone Man Access Codes|"
+  },
+  "Napalm Man": {
+    "connects_to": [],
+    "requires": "|Napalm Man Access Codes|"
+  },
+  "Wave Man": {
+    "connects_to": [],
+    "requires": "|Wave Man Access Codes|"
+  },
+  "Gyro Man": {
+    "connects_to": [],
+    "requires": "|Gyro Man Access Codes|"
+  },
+  "Gravity Man": {
+    "connects_to": [],
+    "requires": "|Gravity Man Access Codes|"
+  },
+  "Star Man": {
+    "connects_to": [],
+    "requires": "|Star Man Access Codes|"
+  },
+  "Crystal Man": {
+    "connects_to": [],
+    "requires": "|Crystal Man Access Codes|"
+  },
+  "Dark Man": {
+    "connects_to": [],
+    "requires": "|Dark Man Access Codes:1|"
+  },
+  "Skull Laboratory": {
+    "connects_to": [],
+    "requires": "|Skull Laboratory Access Codes|"
+  },
+  "Tomahawk Man": {
+    "connects_to": [],
+    "requires": "|Tomahawk Man Access Codes|"
+  },
+  "Centaur Man": {
+    "connects_to": [],
+    "requires": "|Centaur Man Access Codes|"
+  },
+  "Knight Man": {
+    "connects_to": [],
+    "requires": "|Knight Man Access Codes|"
+  },
+  "Blizzard Man": {
+    "connects_to": [],
+    "requires": "|Blizzard Man Access Codes|"
+  },
+  "Plant Man": {
+    "connects_to": [],
+    "requires": "|Plant Man Access Codes|"
+  },
+  "Flame Man": {
+    "connects_to": [],
+    "requires": "|Flame Man Access Codes|"
+  },
+  "Wind Man": {
+    "connects_to": [],
+    "requires": "|Wind Man Access Codes|"
+  },
+  "Yamato Man": {
+    "connects_to": [],
+    "requires": "|Yamato Man Access Codes|"
+  },
+  "X Fortress": {
+    "connects_to": [],
+    "requires": "|X Fortress Access Codes|"
+  },
+  "Skull Outpost": {
+    "connects_to": [],
+    "requires": "|Skull Outpost Access Codes|"
+  },
+  "Ruined Street": {
+    "connects_to": [],
+    "requires": "|Ruined Street Access Codes|"
+  },
+  "Freeze Man": {
+    "connects_to": [],
+    "requires": "|Freeze Man Access Codes|"
+  },
+  "Junk Man": {
+    "connects_to": [],
+    "requires": "|Junk Man Access Codes|"
+  },
+  "Burst Man": {
+    "connects_to": [],
+    "requires": "|Burst Man Access Codes|"
+  },
+  "Cloud Man": {
+    "connects_to": [],
+    "requires": "|Cloud Man Access Codes|"
+  },
+  "Spring Man": {
+    "connects_to": [],
+    "requires": "|Spring Man Access Codes|"
+  },
+  "Slash Man": {
+    "connects_to": [],
+    "requires": "|Slash Man Access Codes|"
+  },
+  "Shade Man": {
+    "connects_to": [],
+    "requires": "|Shade Man Access Codes|"
+  },
+  "Turbo Man": {
+    "connects_to": [],
+    "requires": "|Turbo Man Access Codes|"
+  },
+  "Skull Fortress 1": {
+    "connects_to": [],
+    "requires": "|Skull Fortress Access Codes:1|"
+  },
+  "Skull Fortress 2": {
+    "connects_to": [],
+    "requires": "|Skull Fortress Access Codes:2|"
+  },
+  "Skull Fortress 3": {
+    "connects_to": [],
+    "requires": "|Skull Fortress Access Codes:3|"
+  },
+  "Skull Fortress 4": {
+    "connects_to": [],
+    "requires": "|Skull Fortress Access Codes:4|"
+  },
+  "Tengu Man": {
+    "connects_to": [],
+    "requires": "|Tengu Man Access Codes:1|"
+  },
+  "Astro Man": {
+    "connects_to": [],
+    "requires": "|Astro Man Access Codes:2|"
+  },
+  "Sword Man": {
+    "connects_to": [],
+    "requires": "|Sword Man Access Codes|"
+  },
+  "Clown Man": {
+    "connects_to": [],
+    "requires": "|Clown Man Access Codes|"
+  },
+  "Search Man": {
+    "connects_to": [],
+    "requires": "|Search Man Access Codes|"
+  },
+  "Frost Man": {
+    "connects_to": [],
+    "requires": "|Frost Man Access Codes|"
+  },
+  "Grenade Man": {
+    "connects_to": [],
+    "requires": "|Grenade Man Access Codes|"
+  },
+  "Aqua Man": {
+    "connects_to": [],
+    "requires": "|Aqua Man Access Codes|"
+  },
+  "Duo": {
+    "connects_to": [],
+    "requires": "|Duo Access Codes:1|"
+  },
+  "Skull Tower Base": {
+    "connects_to": [],
+    "requires": "|Skull Tower Access Codes:1|"
+  },
+  "Skull Tower Interior": {
+    "connects_to": [],
+    "requires": "|Skull Tower Access Codes:2|"
+  },
+  "Robot Museum": {
+    "connects_to": [],
+    "requires": "|Robot Museum Access Codes|"
+  },
+  "Tengu Man B": {
+    "connects_to": [],
+    "requires": "|Tengu Man Access Codes:2|"
+  },
+  "Astro Man B": {
+    "connects_to": [],
+    "requires": "|Astro Man Access Codes:2|"
+  },
+  "Dynamo Man": {
+    "connects_to": [],
+    "requires": "|Dynamo Man Access Codes|"
+  },
+  "Cold Man": {
+    "connects_to": [],
+    "requires": "|Cold Man Access Codes|"
+  },
+  "Ground Man": {
+    "connects_to": [],
+    "requires": "|Ground Man Access Codes|"
+  },
+  "Pirate Man": {
+    "connects_to": [],
+    "requires": "|Pirate Man Access Codes|"
+  },
+  "Burner Man": {
+    "connects_to": [],
+    "requires": "|Burner Man Access Codes|"
+  },
+  "Magic Man": {
+    "connects_to": [],
+    "requires": "|Magic Man Access Codes|"
+  },
+  "King's Tower": {
+    "connects_to": [],
+    "requires": "|King's Tower Access Codes:1|"
+  },
+  "Reclaimed King's Tower": {
+    "connects_to": [],
+    "requires": "|King's Tower Access Codes:2|"
+  },
+  "Buster Rod G.": {
+    "connects_to": [],
+    "requires": "|Buster Rod G. Access Codes:1|"
+  },
+  "Mega Water S.": {
+    "connects_to": [],
+    "requires": "|Mega Water S. Access Codes:1|"
+  },
+  "Hyper Storm H.": {
+    "connects_to": [],
+    "requires": "|Hyper Storm H. Access Codes:1|"
+  },
+  "Wily Tower 1": {
+    "connects_to": [],
+    "requires": "|Wily Tower Access Codes:1|"
+  },
+  "Wily Tower 2": {
+    "connects_to": [],
+    "requires": "|Wily Tower Access Codes:2|"
+  },
+  "Concrete Man": {
+    "connects_to": [],
+    "requires": "|Concrete Man Access Codes|"
+  },
+  "Tornado Man": {
+    "connects_to": [],
+    "requires": "|Tornado Man Access Codes|"
+  },
+  "Splash Woman": {
+    "connects_to": [],
+    "requires": "|Splash Woman Access Codes|"
+  },
+  "Plug Man": {
+    "connects_to": [],
+    "requires": "|Plug Man Access Codes|"
+  },
+  "Jewel Man": {
+    "connects_to": [],
+    "requires": "|Jewel Man Access Codes|"
+  },
+  "Hornet Man": {
+    "connects_to": [],
+    "requires": "|Hornet Man Access Codes|"
+  },
+  "Magma Man": {
+    "connects_to": [],
+    "requires": "|Magma Man Access Codes|"
+  },
+  "Galaxy Man": {
+    "connects_to": [],
+    "requires": "|Galaxy Man Access Codes|"
+  },
+  "Wily Castle Entrance": {
+    "connects_to": [],
+    "requires": "|Wily Castle Access Codes:1|"
+  },
+  "Wily Castle Interior": {
+    "connects_to": [],
+    "requires": "|Wily Castle Access Codes:2|"
+  },
+  "Wily Castle Tower": {
+    "connects_to": [],
+    "requires": "|Wily Castle Access Codes:3|"
+  },
+  "Fake Man": {
+    "connects_to": [],
+    "requires": "|Fake Man Access Codes:1|"
+  },
+  "Blade Man": {
+    "connects_to": [],
+    "requires": "|Blade Man Access Codes|"
+  },
+  "Pump Man": {
+    "connects_to": [],
+    "requires": "|Pump Man Access Codes|"
+  },
+  "Commando Man": {
+    "connects_to": [],
+    "requires": "|Commando Man Access Codes|"
+  },
+  "Chill Man": {
+    "connects_to": [],
+    "requires": "|Chill Man Access Codes|"
+  },
+  "Sheep Man": {
+    "connects_to": [],
+    "requires": "|Sheep Man Access Codes|"
+  },
+  "Strike Man": {
+    "connects_to": [],
+    "requires": "|Strike Man Access Codes|"
+  },
+  "Nitro Man": {
+    "connects_to": [],
+    "requires": "|Nitro Man Access Codes|"
+  },
+  "Solar Man": {
+    "connects_to": [],
+    "requires": "|Solar Man Access Codes|"
+  },
+  "Wily Station Archives": {
+    "connects_to": [],
+    "requires": "|Wily Station Access Codes:1|"
+  },
+  "Wily Station Manufactory": {
+    "connects_to": [],
+    "requires": "|Wily Station Access Codes:2|"
+  },
+  "Wily Station Ascent": {
+    "connects_to": [],
+    "requires": "|Wily Station Access Codes:3|"
+  },
+  "Wily Station Apex": {
+    "connects_to": [],
+    "requires": "|Wily Station Access Codes:4|"
+  },
+  "Mercury": {
+    "connects_to": [],
+    "requires": "|Mercury Access Codes|"
+  },
+  "Venus": {
+    "connects_to": [],
+    "requires": "|Venus Access Codes|"
+  },
+  "Mars": {
+    "connects_to": [],
+    "requires": "|Mars Access Codes|"
+  },
+  "Jupiter": {
+    "connects_to": [],
+    "requires": "|Jupiter Access Codes|"
+  },
+  "Saturn": {
+    "connects_to": [],
+    "requires": "|Saturn Access Codes|"
+  },
+  "Uranus": {
+    "connects_to": [],
+    "requires": "|Uranus Access Codes|"
+  },
+  "Pluto": {
+    "connects_to": [],
+    "requires": "|Pluto Access Codes|"
+  },
+  "Neptune": {
+    "connects_to": [],
+    "requires": "|Neptune Access Codes|"
+  },
+  "Enker": {
+    "connects_to": [],
+    "requires": "|Enker Access Codes:1|"
+  },
+  "Punk": {
+    "connects_to": [],
+    "requires": "|Punk Access Codes:1|"
+  },
+  "Ballade": {
+    "connects_to": [],
+    "requires": "|Ballade Access Codes:1|"
+  },
+  "Wily Star": {
+    "connects_to": [],
+    "requires": "|Wily Star Access Codes|"
+  },
+  "Sunstar": {
+    "connects_to": [],
+    "requires": "|Sunstar Access Codes|"
+  },
+  "Boss": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Shop": {
+    "connects_to": [],
+    "requires": []
+  },
+  "For Everlasting Peace!": {
+    "connects_to": [],
+    "requires": []
+  }
+}
