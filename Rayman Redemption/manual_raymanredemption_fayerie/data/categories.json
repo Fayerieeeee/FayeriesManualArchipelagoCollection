@@ -4,6 +4,37 @@
       "enable_skin_items"
     ]
   },
+  "Betilla's Garden": {
+    "yaml_option": [
+      "betillasanity"
+    ]
+  },
+  "Purchases": {
+    "yaml_option": [
+      "shopsanity"
+    ]
+  },
+  "Gambling": {
+    "yaml_option": [
+      "casinosanity"
+    ]
+  },
+  "DM Cages": {
+    "hidden": true,
+    "yaml_option": [
+      "darkmagiciansanity"
+    ]
+  },
+  "Boss Rush": {
+    "yaml_option": [
+      "bossrushsanity"
+    ]
+  },
+  "True Boss Rush": {
+    "yaml_option": [
+      "truebossrushsanity"
+    ]
+  },
   "Achievements": {
     "yaml_option": [
       "achievementsanity"

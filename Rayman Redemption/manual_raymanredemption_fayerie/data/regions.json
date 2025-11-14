@@ -65,7 +65,7 @@
       "Dark Legacy",
       "100% Achievements"
     ],
-    "requires": "|@Medallion Pieces:30|"
+    "requires": "|@Medallion Pieces:20|"
   },
   "Magician's Challenges": {
     "connects_to": [

@@ -59,23 +59,68 @@
             "default": false,
             "group": "Starting Items"
         },
-        "fair_tings_cheat":{
-            "display_name": "Fair Tings Cheat",
-            "description": [
-                "Use the 'fairting' cheat at start? This exists to tell the host you'll be using the 'fairting' cheat."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Cheats"
-        },
         "enable_skin_items":{
             "display_name": "Skin Items",
             "description": [
-                "Add the various skins to the pool as extra filler?"
+                "Adds the various skins to the pool as extra filler. (34 Items)"
             ],
             "type": "Toggle",
             "default": true,
             "group": "Skins"
+        },
+        "betillasanity":{
+            "display_name": "betillasanity",
+            "description": [
+                "Adds Betilla's health upgrades as checks. (4 Locations)"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Sanity Options"
+        },
+        "shopsanity":{
+            "display_name": "shopsanity",
+            "description": [
+                "Adds the purchasable items from The Shop and Joe's Wares as checks. (36 Locations)"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Sanity Options"
+        },
+        "casinosanity":{
+            "display_name": "casinosanity",
+            "description": [
+                "Adds the rewards and three-in-a-row slots from The Casino as checks. (9 Locations)"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Sanity Options"
+        },
+        "darkmagiciansanity":{
+            "display_name": "darkmagiciansanity",
+            "description": [
+                "Adds the cages from the Dark Magician's Challenge. (10 Locations)"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Sanity Options"
+        },
+        "bossrushsanity":{
+            "display_name": "bossrushsanity",
+            "description": [
+                "Adds consecutive boss rush wins as checks. (8 Locations)"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Sanity Options"
+        },
+        "truebossrushsanity":{
+            "display_name": "truebossrushsanity",
+            "description": [
+                "Adds consecutive true boss rush wins as checks. (21 Locations)"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Sanity Options"
         },
         "achievementsanity":{
             "description": [
@@ -83,25 +128,7 @@
             ],
             "type": "Toggle",
             "default": false,
-            "group": "Achievements"
-        },
-        "ting_tycoon":{
-            "display_name": "Ting Tycoon",
-            "description": [
-                "Removes the Ting Tycoon location."
-            ],
-            "type": "Toggle",
-            "default": true,
-            "group": "Achievements"
-        },
-        "trap_master":{
-            "display_name": "Trap Master",
-            "description": [
-                "Removes the Trap Master location."
-            ],
-            "type": "Toggle",
-            "default": true,
-            "group": "Achievements"
+            "group": "Sanity Options"
         }
     }
 }

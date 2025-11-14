@@ -67,7 +67,8 @@
     "count": "1",
     "name": "Electoon Hero",
     "category": [
-      "! Finale"
+      "! Finale",
+      "Achievements"
     ],
     "progression": true
   },
@@ -152,8 +153,40 @@
     "progression": true
   },
   {
-    "count": 1,
+    "count": "1",
     "name": "Shop Bonuses",
+    "category": [
+      "Shop"
+    ],
+    "useful": true
+  },
+  {
+    "count": "30",
+    "name": "100x Tings",
+    "category": [
+      "Shop"
+    ],
+    "useful": true
+  },
+  {
+    "count": "12",
+    "name": "250x Tings",
+    "category": [
+      "Shop"
+    ],
+    "useful": true
+  },
+  {
+    "count": "6",
+    "name": "500x Tings",
+    "category": [
+      "Shop"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "1000x Tings",
     "category": [
       "Shop"
     ],
@@ -336,7 +369,7 @@
     "filler": true
   },
   {
-    "count": "1",
+    "count": "0",
     "name": "Dark Rayman Trap",
     "category": [
       "Traps"
@@ -344,7 +377,7 @@
     "trap": true
   },
   {
-    "count": "1",
+    "count": "0",
     "name": "Daredevil Trap",
     "category": [
       "Traps"

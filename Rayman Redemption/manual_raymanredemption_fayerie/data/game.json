@@ -3,6 +3,7 @@
   "game": "RaymanRedemption",
   "creator": "Fayerie",
   "filler_item_name": "Ting",
+  "death_link": true,
   "starting_items": [
     {
       "item_categories": [

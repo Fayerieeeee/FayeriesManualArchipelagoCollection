@@ -2105,7 +2105,8 @@
     "region": "The Final Showdown",
     "name": "Escape with the Great Protoon!",
     "category": [
-      "The Final Showdown"
+      "The Final Showdown",
+      "! GOAL"
     ],
     "requires": "|Pink Rings| AND |Pink Springs| AND |Pink Poles| AND |Bzzit Mount| AND |Great Protoon|"
   },
@@ -2780,7 +2781,8 @@
     "name": "Dark Magician's Challenge - Cage 1",
     "region": "Dark Magician's Challenge",
     "category": [
-      "Dark Magician's Challenge"
+      "Dark Magician's Challenge",
+      "DM Cages"
     ],
     "requires": []
   },
@@ -2788,7 +2790,8 @@
     "name": "Dark Magician's Challenge - Cage 2",
     "region": "Dark Magician's Challenge",
     "category": [
-      "Dark Magician's Challenge"
+      "Dark Magician's Challenge",
+      "DM Cages"
     ],
     "requires": []
   },
@@ -2796,7 +2799,8 @@
     "name": "Dark Magician's Challenge - Cage 3",
     "region": "Dark Magician's Challenge",
     "category": [
-      "Dark Magician's Challenge"
+      "Dark Magician's Challenge",
+      "DM Cages"
     ],
     "requires": "|Pink Rings|"
   },
@@ -2804,7 +2808,8 @@
     "name": "Dark Magician's Challenge - Cage 4",
     "region": "Dark Magician's Challenge",
     "category": [
-      "Dark Magician's Challenge"
+      "Dark Magician's Challenge",
+      "DM Cages"
     ],
     "requires": "|Pink Rings|"
   },
@@ -2812,7 +2817,8 @@
     "name": "Dark Magician's Challenge - Cage 5",
     "region": "Dark Magician's Challenge",
     "category": [
-      "Dark Magician's Challenge"
+      "Dark Magician's Challenge",
+      "DM Cages"
     ],
     "requires": "|Pink Rings| AND |Pink Springs|"
   },
@@ -2820,7 +2826,8 @@
     "name": "Dark Magician's Challenge - Cage 6",
     "region": "Dark Magician's Challenge",
     "category": [
-      "Dark Magician's Challenge"
+      "Dark Magician's Challenge",
+      "DM Cages"
     ],
     "requires": "|Pink Rings|"
   },
@@ -2828,7 +2835,8 @@
     "name": "Dark Magician's Challenge - Cage 7",
     "region": "Dark Magician's Challenge",
     "category": [
-      "Dark Magician's Challenge"
+      "Dark Magician's Challenge",
+      "DM Cages"
     ],
     "requires": "|Pink Rings|"
   },
@@ -2836,7 +2844,8 @@
     "name": "Dark Magician's Challenge - Cage 8",
     "region": "Dark Magician's Challenge",
     "category": [
-      "Dark Magician's Challenge"
+      "Dark Magician's Challenge",
+      "DM Cages"
     ],
     "requires": "|Pink Rings|"
   },
@@ -2844,7 +2853,8 @@
     "name": "Dark Magician's Challenge - Cage 9",
     "region": "Dark Magician's Challenge",
     "category": [
-      "Dark Magician's Challenge"
+      "Dark Magician's Challenge",
+      "DM Cages"
     ],
     "requires": "|Pink Rings|"
   },
@@ -2852,7 +2862,8 @@
     "name": "Dark Magician's Challenge - Cage 10",
     "region": "Dark Magician's Challenge",
     "category": [
-      "Dark Magician's Challenge"
+      "Dark Magician's Challenge",
+      "DM Cages"
     ],
     "requires": "|Pink Rings|"
   },
@@ -2863,6 +2874,15 @@
       "Dark Magician's Challenge"
     ],
     "requires": "|Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Dark Magician's Challenge Clear!",
+    "region": "Magician's Challenges",
+    "category": [
+      "Magician's Challenges",
+      "Dark Magician's Challenge"
+    ],
+    "requires": "|Pink Rings|"
   },
   {
     "name": "Boss Rush - Moskito Defeated!",
@@ -2932,7 +2952,7 @@
     "name": "Boss Rush Clear!",
     "region": "Boss Rush",
     "category": [
-      "Boss Rush"
+      "Magician's Challenges"
     ],
     "requires": []
   },
@@ -3109,7 +3129,8 @@
     "region": "True Boss Rush",
     "victory": true,
     "category": [
-      "True Boss Rush"
+      "Magician's Challenges",
+      "! GOAL"
     ],
     "requires": []
   },
