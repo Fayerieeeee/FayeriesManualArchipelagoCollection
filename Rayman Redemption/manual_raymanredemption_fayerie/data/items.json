@@ -1,0 +1,626 @@
+[
+  {
+    "count": "1",
+    "name": "The Dream Forest Access",
+    "category": [
+      "Main Worlds"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Band Land Access",
+    "category": [
+      "Main Worlds"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Blue Mountains Access",
+    "category": [
+      "Main Worlds"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Picture City Access",
+    "category": [
+      "Main Worlds"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "The Caves of Skops Access",
+    "category": [
+      "Main Worlds"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Playtopia Access",
+    "category": [
+      "Main Worlds"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Candy Chateau Access",
+    "category": [
+      "Main Worlds"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Great Protoon",
+    "category": [
+      "! Finale"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Electoon Hero",
+    "category": [
+      "! Finale"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Dark Legacy Clear",
+    "category": [
+      "! Finale"
+    ],
+    "progression": true
+  },
+  {
+    "count": "40",
+    "name": "Magician Token",
+    "category": [
+      "Magician Tokens"
+    ],
+    "progression": true
+  },
+  {
+    "count": "4",
+    "name": "Forest Medallion Piece",
+    "category": [
+      "Medallion Pieces"
+    ],
+    "progression": true
+  },
+  {
+    "count": "4",
+    "name": "Music Medallion Piece",
+    "category": [
+      "Medallion Pieces"
+    ],
+    "progression": true
+  },
+  {
+    "count": "4",
+    "name": "Aurora Medallion Piece",
+    "category": [
+      "Medallion Pieces"
+    ],
+    "progression": true
+  },
+  {
+    "count": "4",
+    "name": "Paint Medallion Piece",
+    "category": [
+      "Medallion Pieces"
+    ],
+    "progression": true
+  },
+  {
+    "count": "4",
+    "name": "Cave Medallion Piece",
+    "category": [
+      "Medallion Pieces"
+    ],
+    "progression": true
+  },
+  {
+    "count": "4",
+    "name": "Toy Medallion Piece",
+    "category": [
+      "Medallion Pieces"
+    ],
+    "progression": true
+  },
+  {
+    "count": "4",
+    "name": "Candy Medallion Piece",
+    "category": [
+      "Medallion Pieces"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Dark Medallion Piece",
+    "category": [
+      "Medallion Pieces"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shop Bonuses",
+    "category": [
+      "Shop"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Pink Rings",
+    "category": [
+      "Pink Helpers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pink Springs",
+    "category": [
+      "Pink Helpers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pink Poles",
+    "category": [
+      "Pink Helpers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bzzit Mount",
+    "category": [
+      "Pink Helpers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Magic Seeds",
+    "category": [
+      "Gifts"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gold Rings",
+    "category": [
+      "Gifts"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Superheli Potion",
+    "category": [
+      "Gifts"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Paint Fist",
+    "category": [
+      "Gifts"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Firefly",
+    "category": [
+      "Gifts"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Toy Masterkey",
+    "category": [
+      "Gifts"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Frying Pan",
+    "category": [
+      "Gifts"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Magician's Challenges Access",
+    "category": [
+      "Extra"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Betilla's Garden Access",
+    "category": [
+      "Extra"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Shop Access",
+    "category": [
+      "Extra"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Casino Access",
+    "category": [
+      "Extra"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Joe's Wares Access",
+    "category": [
+      "Extra"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Breakout Minigame Access",
+    "category": [
+      "Extra"
+    ],
+    "progression": true
+  },
+  {
+    "count": "10",
+    "name": "Fully Upgraded Fist",
+    "category": [
+      "Cheat Codes"
+    ],
+    "useful": true
+  },
+  {
+    "count": "10",
+    "name": "Epic Power",
+    "category": [
+      "Cheat Codes"
+    ],
+    "useful": true
+  },
+  {
+    "count": "10",
+    "name": "Temporary Superheli",
+    "category": [
+      "Cheat Codes"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Low Gravity",
+    "category": [
+      "Cheat Codes"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Lum Tings",
+    "category": [
+      "Cheat Codes"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Dark Rayman Trap",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": "1",
+    "name": "Daredevil Trap",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Blue Rayman",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Livingstone Rayman",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Rockstar Rayman",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Aurora Rayman",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Space Rayman",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Spider Rayman",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Chess Rayman",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Clown Rayman",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Dark Rayman",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Fraykenstein's Monster",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Jack-O-Ray",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Tonic Rayman",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Plum-Man",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - SNES Rayman",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Dynamite Rayman",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - GBC Dark Rayman",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Dark Magician Rayman",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - HD Rayman",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Greenskito",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Moskito",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Beeskito",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Dark Moskito",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Designer",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Junior",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Snack",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Livingstone",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Greenboi",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Stoneman",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Spaceman",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Spider",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Jack",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Clown",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - Mr. Dark",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skin - SNES",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  }
+]

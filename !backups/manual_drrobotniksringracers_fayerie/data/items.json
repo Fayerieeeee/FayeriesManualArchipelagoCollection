@@ -1,0 +1,704 @@
+[
+  {
+    "count": 1,
+    "name": "Ring Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sneaker Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Spring Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Barrier Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Invincible Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Emerald Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Extra Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "S.P.B. Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rocket Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Aqua Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lightning Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flame Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Super Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Egg Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Goggles Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Timer Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Grow Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chao Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wing Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mega Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Phantom Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flash Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Swap Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shrink Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bomb Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Power Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Genesis Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Skate Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Recycle A Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Recycle B Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lost & Found Cup",
+    "category": [
+      "Cups"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gear 1",
+    "category": [
+      "Gears"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gear 2",
+    "category": [
+      "Gears"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gear 3",
+    "category": [
+      "Gears"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Phantom Ruby Trap",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Prisons Access",
+    "category": [
+      "Extra Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Target Special Access",
+    "category": [
+      "Extra Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Class A",
+    "category": [
+      "Classes"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Class B",
+    "category": [
+      "Classes"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Class C",
+    "category": [
+      "Classes"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Class D",
+    "category": [
+      "Classes"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Class E",
+    "category": [
+      "Classes"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Class F",
+    "category": [
+      "Classes"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Class G",
+    "category": [
+      "Classes"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Class H",
+    "category": [
+      "Classes"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Class I",
+    "category": [
+      "Classes"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Super Ring",
+    "category": [
+      "Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Sneaker",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Banana",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Orbinaut",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jawz",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Toxomister",
+    "category": [
+      "Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Invincibility",
+    "category": [
+      "Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Lightning Shield",
+    "category": [
+      "Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Self-Propelled Bomb",
+    "category": [
+      "Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Dual Sneakers",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Triple Bananas",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Triple Orbinauts",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dual Jawz",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Drop Target",
+    "category": [
+      "Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Grow",
+    "category": [
+      "Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Bubble Shield",
+    "category": [
+      "Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Hyudoro",
+    "category": [
+      "Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Triple Sneakers",
+    "category": [
+      "Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Stone Shoe",
+    "category": [
+      "Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Quadruple Orbinauts",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Proximity Mine",
+    "category": [
+      "Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Land Mine",
+    "category": [
+      "Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Shrink",
+    "category": [
+      "Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Flame Shield",
+    "category": [
+      "Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Kitchen Sink",
+    "category": [
+      "Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Rocket Sneaker",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gachabom",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Triple Gachabom",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ballhog",
+    "category": [
+      "Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Eggmark",
+    "category": [
+      "Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Gardentop",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pogo Spring",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Insta-Whip",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ring Bail",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Frantic Items",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class .lua",
+    "category": [
+      "Classes"
+    ],
+    "useful": true
+  },
+  {
+    "count": "12",
+    "name": "CPU Level Debuff",
+    "category": [
+      "CPUs"
+    ],
+    "progression": true
+  },
+  {
+    "count": "8",
+    "name": "Racer Count Debuff",
+    "category": [
+      "CPUs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Forced Ring Bail",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": "7",
+    "name": "Chaos Emerald",
+    "category": [
+      "Emeralds"
+    ],
+    "progression": true
+  },
+  {
+    "count": "7",
+    "name": "Super Emerald",
+    "category": [
+      "Emeralds"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "$70 for Crossworlds",
+    "category": [],
+    "filler": true
+  }
+]

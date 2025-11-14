@@ -1,0 +1,138 @@
+[
+  {
+    "count": 1,
+    "name": "Green Hill Key",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bridge Key",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Marble Key",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jungle Key",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Spring Yard Key",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Labyrinth Key",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scrap Brain Key",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Star Light Key",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sky Base Key",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Emerald Rush Key",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": "7",
+    "name": "Chaos Emerald",
+    "category": [
+      "Emeralds"
+    ],
+    "progression": true
+  },
+  {
+    "count": "50",
+    "name": "Shiny Ring",
+    "category": [
+      "Rings"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sonic",
+    "category": [
+      "Characters"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Tails",
+    "category": [
+      "Characters"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Knuckles",
+    "category": [
+      "Characters"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mighty",
+    "category": [
+      "Characters"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ray",
+    "category": [
+      "Characters"
+    ],
+    "progression_skip_balancing": true
+  }
+]

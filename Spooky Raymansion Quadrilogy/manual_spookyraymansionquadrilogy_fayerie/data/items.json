@@ -1,0 +1,50 @@
+[
+  {
+    "count": "11",
+    "name": "Lum",
+    "category": [
+      "Lums"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shotgun",
+    "category": [
+      "Valuables"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rayman 1",
+    "category": [
+      "Valuables"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rayman 2",
+    "category": [
+      "Valuables"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rayman 3",
+    "category": [
+      "Valuables"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rayman 4",
+    "category": [
+      "Valuables"
+    ],
+    "progression": true
+  }
+]

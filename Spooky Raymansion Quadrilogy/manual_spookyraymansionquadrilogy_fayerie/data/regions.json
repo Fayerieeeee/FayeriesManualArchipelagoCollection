@@ -1,0 +1,25 @@
+{
+  "Spooky Raymansion 1": {
+    "starting": true,
+    "connects_to": [
+      "Spooky Raymansion 2"
+    ],
+    "requires": []
+  },
+  "Spooky Raymansion 2": {
+    "connects_to": [
+      "Spooky Raymansion 3"
+    ],
+    "requires": "|Lum:2|"
+  },
+  "Spooky Raymansion 3": {
+    "connects_to": [
+      "Return to Spooky Raymansion"
+    ],
+    "requires": "|Lum:8|"
+  },
+  "Return to Spooky Raymansion": {
+    "connects_to": [],
+    "requires": "|Lum:11|"
+  }
+}

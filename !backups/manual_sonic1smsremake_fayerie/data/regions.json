@@ -1,0 +1,48 @@
+{
+  "Green Hill": {
+    "connects_to": [],
+    "requires": "|Green Hill Key|"
+  },
+  "Bridge": {
+    "connects_to": [],
+    "requires": "|Bridge Key|"
+  },
+  "Marble": {
+    "connects_to": [],
+    "requires": "|Marble Key|"
+  },
+  "Jungle": {
+    "connects_to": [],
+    "requires": "|Jungle Key|"
+  },
+  "Spring Yard": {
+    "connects_to": [],
+    "requires": "|Spring Yard Key|"
+  },
+  "Labyrinth": {
+    "connects_to": [],
+    "requires": "|Labyrinth Key|"
+  },
+  "Scrap Brain": {
+    "connects_to": [],
+    "requires": "|Scrap Brain Key|"
+  },
+  "Star Light": {
+    "connects_to": [],
+    "requires": "|Star Light Key|"
+  },
+  "Sky Base": {
+    "connects_to": [
+      "Final"
+    ],
+    "requires": "|Sky Base Key|"
+  },
+  "Final": {
+    "connects_to": [],
+    "requires": "|Shiny Ring:50| OR (|Shiny Ring:50| AND |Chaos Emerald:7|)"
+  },
+  "Emerald Rush": {
+    "connects_to": [],
+    "requires": "|Emerald Rush Key|"
+  }
+}

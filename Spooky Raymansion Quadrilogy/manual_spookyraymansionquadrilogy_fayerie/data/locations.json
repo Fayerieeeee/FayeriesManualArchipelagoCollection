@@ -1,0 +1,225 @@
+[
+  {
+    "name": "Raymansion 1 - Escape the Mansion",
+    "region": "Spooky Raymansion 1",
+    "category": [
+      "Raymansion 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Raymansion 1 - Hidden Lum 1",
+    "region": "Spooky Raymansion 1",
+    "category": [
+      "Raymansion 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Raymansion 1 - Hidden Lum 2",
+    "region": "Spooky Raymansion 1",
+    "category": [
+      "Raymansion 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Raymansion 1 - Escape in under 5:00",
+    "region": "Spooky Raymansion 1",
+    "category": [
+      "Raymansion 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Raymansion 1 - Find all the hidden Lums",
+    "region": "Spooky Raymansion 1",
+    "category": [
+      "Raymansion 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Raymansion 2 - Enter the Mansion",
+    "region": "Spooky Raymansion 2",
+    "category": [
+      "Raymansion 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Raymansion 2 - Level 1 Clear",
+    "region": "Spooky Raymansion 2",
+    "category": [
+      "Raymansion 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Raymansion 2 - Level 2 Clear",
+    "region": "Spooky Raymansion 2",
+    "category": [
+      "Raymansion 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Raymansion 2 - Level 3 Clear",
+    "region": "Spooky Raymansion 2",
+    "category": [
+      "Raymansion 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Raymansion 2 - Obtain Rayman 4 (real)",
+    "region": "Spooky Raymansion 2",
+    "category": [
+      "Raymansion 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Raymansion 2 - Escape the Mansion!",
+    "region": "Spooky Raymansion 2",
+    "category": [
+      "Raymansion 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Raymansion 2 - Hidden Lum 1",
+    "region": "Spooky Raymansion 2",
+    "category": [
+      "Raymansion 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Raymansion 2 - Hidden Lum 2",
+    "region": "Spooky Raymansion 2",
+    "category": [
+      "Raymansion 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Raymansion 2 - Hidden Lum 3",
+    "region": "Spooky Raymansion 2",
+    "category": [
+      "Raymansion 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Raymansion 2 - Hidden Lum 4",
+    "region": "Spooky Raymansion 2",
+    "category": [
+      "Raymansion 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Raymansion 2 - Hidden Lum 5",
+    "region": "Spooky Raymansion 2",
+    "category": [
+      "Raymansion 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Raymansion 2 - Level X Clear!",
+    "region": "Spooky Raymansion 2",
+    "category": [
+      "Raymansion 2"
+    ],
+    "requires": "|Lum:5|"
+  },
+  {
+    "name": "Raymansion 3 - Level 1 Clear!",
+    "region": "Spooky Raymansion 3",
+    "category": [
+      "Raymansion 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Raymansion 3 - Level 2 Clear!",
+    "region": "Spooky Raymansion 3",
+    "category": [
+      "Raymansion 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Raymansion 3 - Level 3 Clear!",
+    "region": "Spooky Raymansion 3",
+    "category": [
+      "Raymansion 3"
+    ],
+    "requires": [],
+    "place_item": [
+      ""
+    ]
+  },
+  {
+    "name": "Raymansion 3 - Escape the Mansion...?",
+    "region": "Spooky Raymansion 3",
+    "category": [
+      "Raymansion 3"
+    ],
+    "requires": [],
+    "place_item": [
+      ""
+    ]
+  },
+  {
+    "name": "Raymansion 3 - \"Defeat\" Noseless Rayman!",
+    "region": "Spooky Raymansion 3",
+    "category": [
+      "Raymansion 3"
+    ],
+    "requires": "|Shotgun| AND |Lum:9|"
+  },
+  {
+    "name": "Return to Raymansion - Level 1 Clear!",
+    "region": "Return to Spooky Raymansion",
+    "category": [
+      "Return to Raymansion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Return to Raymansion - Level 2 Clear!",
+    "region": "Return to Spooky Raymansion",
+    "category": [
+      "Return to Raymansion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Return to Raymansion - Level 3 Clear!",
+    "region": "Return to Spooky Raymansion",
+    "category": [
+      "Return to Raymansion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Return to Raymansion - Escape the Mansion...?",
+    "region": "Return to Spooky Raymansion",
+    "category": [
+      "Return to Raymansion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Return to Raymansion - Defeat Noseless Rayman, for real this time",
+    "victory": true,
+    "region": "Return to Spooky Raymansion",
+    "category": [
+      "Return to Raymansion"
+    ],
+    "requires": "|Rayman 1| AND |Rayman 2| AND |Rayman 3| AND |Rayman 4| AND |Shotgun|"
+  }
+]

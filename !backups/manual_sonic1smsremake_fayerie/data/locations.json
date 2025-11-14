@@ -1,0 +1,118 @@
+[
+  {
+    "name": "Green Hill 1 - Ring Monitor",
+    "region": "Green Hill",
+    "category": [
+      "Green Hill"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Green Hill 1 - Invincibility Monitor",
+    "region": "Green Hill",
+    "category": [
+      "Green Hill"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Green Hill 1 - Spring Shoes Monitor",
+    "region": "Green Hill",
+    "category": [
+      "Green Hill"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Green Hill 1 - Checkpoint Monitor",
+    "region": "Green Hill",
+    "category": [
+      "Green Hill"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Green Hill 1 Clear",
+    "region": "Green Hill",
+    "category": [
+      "Green Hill"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Green Hill 2 - Shield Monitor",
+    "region": "Green Hill",
+    "category": [
+      "Green Hill"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Green Hill 2 - Ring Monitor #1",
+    "region": "Green Hill",
+    "category": [
+      "Green Hill"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Green Hill 2 - Ring Monitor #2",
+    "region": "Green Hill",
+    "category": [
+      "Green Hill"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Green Hill 2 - Checkpoint Monitor",
+    "region": "Green Hill",
+    "category": [
+      "Green Hill"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Green Hill 2 - Extra Life Monitor",
+    "region": "Green Hill",
+    "category": [
+      "Green Hill"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Green Hill 2 - Ring Monitor #3",
+    "region": "Green Hill",
+    "category": [
+      "Green Hill"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Green Hill 2 - Ring Monitor #4",
+    "region": "Green Hill",
+    "category": [
+      "Green Hill"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Green Hill 2 Clear",
+    "region": "Green Hill",
+    "category": [
+      "Green Hill"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Green Hill Boss Defeat",
+    "region": "Green Hill",
+    "category": [
+      "Green Hill"
+    ],
+    "requires": []
+  },
+  {
+    "category": [],
+    "requires": []
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "count": 1,
+    "name": "Story Pass",
+    "category": [
+      "Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Challenge Pass",
+    "category": [
+      "Passes"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Custom Pass",
+    "category": [
+      "Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Bus Pass",
+    "category": [
+      "Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Birthday Pass",
+    "category": [
+      "Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "H&S Pass",
+    "category": [
+      "Passes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Energy Flavored Zesty Bar",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Swinging Door Lock",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Principle's Keys",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "BSODA",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Quarter",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Baldi Anti Hearing and Disorientating Tape",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Alarm Clock",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "WD-NoSquee",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Safety Scissors",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Big Ol' Boots",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "An Apple for Baldi",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Legendary Apple",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Teleportation Teleporter",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Swinging Door Sale",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Pencil",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Emergency Health Kit",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Principle's Whistle",
+    "category": [
+      "Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Class Pass",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Secret Formula",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Grappling Hook",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Portal Poster",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Faculty Nametag",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dirty Chalk Eraser",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Reflex Hammer",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "'Nana Peel",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Flashlight",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  }
+]

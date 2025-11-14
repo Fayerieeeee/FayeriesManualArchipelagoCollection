@@ -1,0 +1,46 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "RaymanRedemption",
+  "creator": "Fayerie",
+  "filler_item_name": "Ting",
+  "starting_items": [
+    {
+      "item_categories": [
+        "Main Worlds"
+      ],
+      "random": 1
+    },
+    {
+      "item_categories": [
+        "Extra"
+      ],
+      "yaml_option": [
+        "start_with_extras"
+      ]
+    },
+    {
+      "item_categories": [
+        "Pink Helpers"
+      ],
+      "yaml_option": [
+        "start_with_pink_helpers"
+      ]
+    },
+    {
+      "item_categories": [
+        "Gifts"
+      ],
+      "yaml_option": [
+        "start_with_gifts"
+      ]
+    },
+    {
+      "items": [
+        "Shop Bonuses"
+      ],
+      "yaml_option": [
+        "start_with_shop_bonuses"
+      ]
+    }
+  ]
+}

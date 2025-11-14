@@ -1,0 +1,12 @@
+{
+  "Skins": {
+    "yaml_option": [
+      "enable_skin_items"
+    ]
+  },
+  "Achievements": {
+    "yaml_option": [
+      "achievementsanity"
+    ]
+  }
+}

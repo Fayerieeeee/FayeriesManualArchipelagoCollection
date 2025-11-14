@@ -1,0 +1,3429 @@
+[
+  {
+    "name": "Pink Plant Woods - Cage 1",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pink Plant Woods - Magician Token",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pink Plant Woods - Cage 2",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": "|Pink Springs|"
+  },
+  {
+    "name": "Pink Plant Woods - Cage 3",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": "|Pink Springs|"
+  },
+  {
+    "name": "Pink Plant Woods - Cage 4",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pink Plant Woods - Cage 5",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pink Plant Woods - Giftbox",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pink Plant Woods - Cage 6",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Darktoon 1 Defeated!",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Anguish Lagoon - Cage 1",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Anguish Lagoon - Giftbox",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Anguish Lagoon - Cage 2",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Anguish Lagoon - Cage 3",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Anguish Lagoon - Cage 4",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bzzit Defeated!",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Anguish Lagoon - Cage 5",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": "|Bzzit Mount|"
+  },
+  {
+    "name": "Anguish Lagoon - Magician Token",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": "|Bzzit Mount|"
+  },
+  {
+    "name": "Anguish Lagoon - Cage 6",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": "|Bzzit Mount|"
+  },
+  {
+    "name": "The Swamps of Forgetfulness - Tarayzan's Gift",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Swamps of Forgetfulness - Cage 1",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": "|Magic Seeds|"
+  },
+  {
+    "name": "The Swamps of Forgetfulness - Alternative Exit",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": "|Magic Seeds| AND |Pink Springs|"
+  },
+  {
+    "name": "The Swamps of Forgetfulness - Cage 2",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": "|Magic Seeds|"
+  },
+  {
+    "name": "The Swamps of Forgetfulness - Cage 3",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": "|Magic Seeds|"
+  },
+  {
+    "name": "The Swamps of Forgetfulness - Giftbox",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": "|Magic Seeds|"
+  },
+  {
+    "name": "The Swamps of Forgetfulness - Magician Token",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": "|Magic Seeds|"
+  },
+  {
+    "name": "The Swamps of Forgetfulness - Cage 4",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": "|Magic Seeds|"
+  },
+  {
+    "name": "The Swamps of Forgetfulness - Cage 5",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": "|Magic Seeds|"
+  },
+  {
+    "name": "The Swamps of Forgetfulness - Cage 6",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": "|Magic Seeds|"
+  },
+  {
+    "name": "Moskito's Nest - Magician Token",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Moskito's Nest - Cage 1",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Moskito's Nest - Cage 2",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tentacle Flower Defeated!",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Moskito's Nest - Cage 3",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Moskito's Nest - Cage 4",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Moskito's Nest - Giftbox",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Moskito's Nest - Cage 5",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Moskito's Nest - Cage 6",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Moskito Defeated!",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pink Rings Freed!",
+    "region": "The Dream Forest",
+    "category": [
+      "The Dream Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bongo Hills - Cage 1",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bongo Hills - Cage 2",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Bongo Hills - Cage 3",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Bongo Hills - Cage 4",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Bongo Hills - Cage 5",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Bongo Hills - Giftbox",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Bongo Hills - Cage 6",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Bongo Hills - Magician Token",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Red Drummer Defeated!",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Allegro Presto - Cage 1",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Allegro Presto - Cage 2",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Allegro Presto - Giftbox",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Allegro Presto - Cage 3",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Allegro Presto - Cage 4",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Allegro Presto - Magician Token",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Allegro Presto - Cage 5",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Allegro Presto - Cage 6",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gong Heights - Cage 1",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gong Heights - Magician Token",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gong Heights - Cage 2",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gong Heights - Cage 3",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gong Heights - Monk's Gift",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gong Heights - Cage 4",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": "|Gold Rings|"
+  },
+  {
+    "name": "Gong Heights - Giftbox",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": "|Gold Rings|"
+  },
+  {
+    "name": "Gong Heights - Alternative Exit",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": "|Gold Rings|"
+  },
+  {
+    "name": "Gong Heights - Cage 5",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": "|Gold Rings|"
+  },
+  {
+    "name": "Gong Heights - Cage 6",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": "|Gold Rings|"
+  },
+  {
+    "name": "Mr Sax's Hullaballoo - Cage 1",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mr Sax's Hullaballoo - Cage 2",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mr Sax's Hullaballoo - Cage 3",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Mr Sax's Hullaballoo - Giftbox",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mr Sax's Hullaballoo - Cage 4",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mr Sax's Hullaballoo - Magician Token",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mr Sax's Hullaballoo - Cage 5",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mr Sax's Hullaballoo - Cage 6",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mr Sax Defeated!",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Twilight Gulch - Cage 1",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Twilight Gulch - Cage 2",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Twilight Gulch - Cage 3",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Twilight Gulch - Cage 4",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Twilight Gulch - Cage 5",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Twilight Gulch - Magician Token",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Twilight Gulch - Giftbox",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Twilight Gulch - Alternative Exit",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Twilight Gulch - Cage 6",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "The Hard Rocks - Cage 1",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Hard Rocks - Cage 2",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Pink Springs|"
+  },
+  {
+    "name": "The Hard Rocks - Magician Token",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "The Hard Rocks - Alternative Exit",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "The Hard Rocks - Cage 3",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Hard Rocks - Giftbox",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Hard Rocks - Cage 4",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "The Hard Rocks - Cage 5",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Hard Rocks - Cage 6",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mr Stone's Peaks - Musician's Gift",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mr Stone's Peaks - Cage 1",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Superheli Potion|"
+  },
+  {
+    "name": "Mr Stone's Peaks - Cage 2",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Superheli Potion|"
+  },
+  {
+    "name": "Mr Stone's Peaks - Cage 3",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Superheli Potion|"
+  },
+  {
+    "name": "Mr Stone's Peaks - Giftbox",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Superheli Potion|"
+  },
+  {
+    "name": "Mr Stone's Peaks - Alternative Exit",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Superheli Potion|"
+  },
+  {
+    "name": "Mr Stone's Peaks - Cage 4",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Superheli Potion| AND |Magic Seeds|"
+  },
+  {
+    "name": "Mr Stone's Peaks - Magician Token",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Superheli Potion| AND |Magic Seeds| AND |Pink Springs|"
+  },
+  {
+    "name": "Mr Stone's Peaks - Cage 5",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Superheli Potion| AND |Magic Seeds|"
+  },
+  {
+    "name": "Mr Stone's Peaks - Cage 6",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Superheli Potion| AND |Magic Seeds|"
+  },
+  {
+    "name": "Mr Stone Defeated!",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Superheli Potion| AND |Magic Seeds| AND |Pink Rings|"
+  },
+  {
+    "name": "Tempest Terror - Cage 1",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": [],
+    "region": "Blue Mountains"
+  },
+  {
+    "name": "Tempest Terror - Cage 2",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tempest Terror - Magician Token",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tempest Terror - Cage 3",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tempest Terror - Cage 4",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Tempest Terror - Cage 5",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Tempest Terror - Giftbox",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Tempest Terror - Cage 6",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Darktoon 2 Defeated!",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Pink Springs Freed!",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Eraser Plains - Cage 1",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Springs|"
+  },
+  {
+    "name": "Eraser Plains - Cage 2",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Springs|"
+  },
+  {
+    "name": "Eraser Plains - Cage 3",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Springs|"
+  },
+  {
+    "name": "Eraser Plains - Magician Token",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Springs|"
+  },
+  {
+    "name": "Eraser Plains - Cage 4",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Springs| AND |Pink Rings|"
+  },
+  {
+    "name": "Eraser Plains - Cage 5",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Springs| AND |Pink Rings|"
+  },
+  {
+    "name": "Eraser Plains - Giftbox",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Springs| AND |Pink Rings|"
+  },
+  {
+    "name": "Eraser Plains - Cage 6",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Springs| AND |Pink Rings|"
+  },
+  {
+    "name": "Piratemama Defeated!",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Springs| AND |Pink Rings|"
+  },
+  {
+    "name": "Pencil Pentathlon - Cage 1",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pencil Pentathlon - Cage 2",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Rings| AND |Gold Rings|"
+  },
+  {
+    "name": "Pencil Pentathlon - Magician Token",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Rings| AND |Gold Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Pencil Pentathlon - Cage 3",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Rings| AND |Gold Rings| AND |Superheli Potion|"
+  },
+  {
+    "name": "Pencil Pentathlon - Giftbox",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Rings| AND |Gold Rings| AND |Superheli Potion|"
+  },
+  {
+    "name": "Pencil Pentathlon - Cage 4",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Rings| AND |Gold Rings| AND |Superheli Potion|"
+  },
+  {
+    "name": "Pencil Pentathlon - Cage 5",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Rings| AND |Gold Rings| AND |Superheli Potion|"
+  },
+  {
+    "name": "Pencil Pentathlon - Cage 6",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Rings| AND |Gold Rings| AND |Superheli Potion| AND |Pink Poles|"
+  },
+  {
+    "name": "Romama Defeated!",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Rings| AND |Gold Rings| AND |Superheli Potion| AND |Pink Poles|"
+  },
+  {
+    "name": "Art Block - Cage 1",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Art Block - Cage 2",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "(|Pink Rings| OR |Pink Springs|)"
+  },
+  {
+    "name": "Art Block - Cage 3",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Springs|"
+  },
+  {
+    "name": "Art Block - Magician Token",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "(|Pink Rings| OR |Pink Springs|)"
+  },
+  {
+    "name": "Art Block - Cage 4",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "(|Pink Rings| OR |Pink Springs|)"
+  },
+  {
+    "name": "Art Block - Painter's Gift",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "(|Pink Rings| OR |Pink Springs|)"
+  },
+  {
+    "name": "Art Block - Cage 5",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "(|Pink Rings| OR |Pink Springs|) AND |Paint Fist|"
+  },
+  {
+    "name": "Art Block - Giftbox",
+    "region": "Picture City",
+    "victory": false,
+    "category": [
+      "Picture City"
+    ],
+    "requires": "(|Pink Rings| OR |Pink Springs|) AND |Paint Fist|"
+  },
+  {
+    "name": "Art Block - Cage 6",
+    "region": "Picture City",
+    "victory": false,
+    "category": [
+      "Picture City"
+    ],
+    "requires": "(|Pink Rings| OR |Pink Springs|) AND |Paint Fist|"
+  },
+  {
+    "name": "Space Mama's Crater - Cage 1",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Space Mama's Crater - Magician Token",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Space Mama's Crater - Cage 2",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Space Mama's Crater - Cage 3",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Space Mama's Crater - Cage 4",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Space Mama's Crater - Cage 5",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Space Mama's Crater - Cage 6",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Space Mama's Crater - Giftbox",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Spacemama Defeated!",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Crystal Palace - Cage 1",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crystal Palace - Cage 2",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Crystal Palace - Cage 3",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Crystal Palace - Cage 4",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Crystal Palace - Cage 5",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Crystal Palace - Giftbox",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Crystal Palace - Magician Token",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Crystal Palace - Cage 6",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Eat at Joe's - Joe's Gift",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eat at Joe's - Cage 1",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Firefly|"
+  },
+  {
+    "name": "Eat at Joe's - Cage 2",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Firefly|"
+  },
+  {
+    "name": "Eat at Joe's - Magician Token",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Firefly|"
+  },
+  {
+    "name": "Eat at Joe's - Cage 3",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Firefly| AND |Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Eat at Joe's - Cage 4",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Firefly| AND |Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Spider Master Defeated!",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Firefly| AND |Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Eat at Joe's - Cage 5",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Firefly| AND |Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Eat at Joe's - Giftbox",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Firefly| AND |Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Eat at Joe's - Cage 6",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Firefly| AND |Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Molten Depths - Cage 1",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Molten Depths - Magician Token",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Molten Depths - Cage 2",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Molten Depths - Cage 3",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Magic Seeds|"
+  },
+  {
+    "name": "Molten Depths - Cage 4",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Magic Seeds|"
+  },
+  {
+    "name": "Molten Depths - Giftbox",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Magic Seeds|"
+  },
+  {
+    "name": "Molten Depths - Cage 5",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Magic Seeds|"
+  },
+  {
+    "name": "Molten Depths - Cage 6",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Magic Seeds|"
+  },
+  {
+    "name": "Darktoon 3 Defeated!",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Magic Seeds|"
+  },
+  {
+    "name": "Pink Poles Freed!",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Magic Seeds|"
+  },
+  {
+    "name": "Mr Skops' Stalactites - Cage 1",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mr Skops' Stalactites - Cage 2",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Pink Poles|"
+  },
+  {
+    "name": "Mr Skops' Stalactites - Cage 3",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Pink Poles|"
+  },
+  {
+    "name": "Mr Skops' Stalactites - Magician Token",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Pink Poles|"
+  },
+  {
+    "name": "Mr Skops' Stalactites - Cage 4",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Pink Poles|"
+  },
+  {
+    "name": "Mr Skops' Stalactites - Cage 5",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Pink Poles|"
+  },
+  {
+    "name": "Mr Skops' Stalactites - Cage 6",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Pink Poles|"
+  },
+  {
+    "name": "Mr Skops' Stalactites - Giftbox",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Pink Poles|"
+  },
+  {
+    "name": "Mr Skops Defeated!",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Pink Poles|"
+  },
+  {
+    "name": "Child's Play - Cage 1",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Pink Springs|"
+  },
+  {
+    "name": "Child's Play - Cage 2",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Pink Springs| AND |Pink Poles|"
+  },
+  {
+    "name": "Child's Play - Cage 3",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Pink Springs|"
+  },
+  {
+    "name": "Child's Play - Giftbox",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Pink Springs|"
+  },
+  {
+    "name": "Child's Play - Cage 4",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Pink Springs|"
+  },
+  {
+    "name": "Child's Play - Cage 5",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Pink Springs|"
+  },
+  {
+    "name": "Child's Play - Magician Token",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Pink Springs|"
+  },
+  {
+    "name": "Child's Play - Cage 6",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Pink Springs|"
+  },
+  {
+    "name": "The Playhouse - Cage 1",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Gold Rings|"
+  },
+  {
+    "name": "The Playhouse - Cage 2",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Gold Rings|"
+  },
+  {
+    "name": "The Playhouse - Cage 3",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Gold Rings|"
+  },
+  {
+    "name": "The Playhouse - Giftbox",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Gold Rings|"
+  },
+  {
+    "name": "The Playhouse - Cage 4",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Gold Rings| AND |Paint Fist|"
+  },
+  {
+    "name": "The Playhouse - Magician Token",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Gold Rings| AND |Paint Fist|"
+  },
+  {
+    "name": "The Playhouse - Cage 5",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Gold Rings| AND |Paint Fist| AND |Pink Springs|"
+  },
+  {
+    "name": "The Playhouse - Cage 6",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Gold Rings| AND |Paint Fist| AND |Pink Springs|"
+  },
+  {
+    "name": "The Lair of the Chessmaster - Jack's Gift",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Lair of the Chessmaster - Cage 1",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Toy Masterkey| AND |Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "The Lair of the Chessmaster - Cage 2",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Toy Masterkey| AND |Pink Rings|"
+  },
+  {
+    "name": "The Lair of the Chessmaster - Magician Token",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Toy Masterkey| AND |Pink Rings| AND |Pink Poles| AND |Pink Springs|"
+  },
+  {
+    "name": "The Lair of the Chessmaster - Cage 3",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Toy Masterkey| AND |Pink Rings| AND |Pink Poles| AND |Pink Springs| AND |Firefly|"
+  },
+  {
+    "name": "The Lair of the Chessmaster - Cage 4",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Toy Masterkey| AND |Pink Rings| AND |Pink Poles| AND |Pink Springs| AND |Firefly|"
+  },
+  {
+    "name": "The Lair of the Chessmaster - Cage 5",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Toy Masterkey| AND |Pink Rings| AND |Pink Poles| AND |Pink Springs| AND |Firefly|"
+  },
+  {
+    "name": "The Lair of the Chessmaster - Cage 6",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Toy Masterkey| AND |Pink Rings| AND |Pink Poles| AND |Pink Springs| AND |Firefly|"
+  },
+  {
+    "name": "The Lair of the Chessmaster - Giftbox",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Toy Masterkey| AND |Pink Rings| AND |Pink Poles| AND |Pink Springs| AND |Firefly|"
+  },
+  {
+    "name": "Chessmaster Defeated!",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Toy Masterkey| AND |Pink Rings| AND |Pink Poles| AND |Pink Springs| AND |Firefly|"
+  },
+  {
+    "name": "Brain Games - Cage 1",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Toy Masterkey| AND |Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Brain Games - Cage 2",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Toy Masterkey| AND |Pink Rings|"
+  },
+  {
+    "name": "Brain Games - Cage 3",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Toy Masterkey| AND |Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Brain Games - Giftbox",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Toy Masterkey| AND |Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Brain Games - Cage 4",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Toy Masterkey| AND |Pink Rings| AND |Pink Springs| AND |Magic Seeds|"
+  },
+  {
+    "name": "Brain Games - Cage 5",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Toy Masterkey| AND |Pink Rings| AND |Pink Springs| AND |Magic Seeds|"
+  },
+  {
+    "name": "Brain Games - Cage 6",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Toy Masterkey| AND |Pink Rings| AND |Pink Springs| AND |Magic Seeds|"
+  },
+  {
+    "name": "Brain Games - Magician Token",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Toy Masterkey| AND |Pink Rings| AND |Pink Springs| AND |Magic Seeds|"
+  },
+  {
+    "name": "The Pest Defeated!",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Toy Masterkey| AND |Pink Rings| AND |Pink Springs| AND |Magic Seeds|"
+  },
+  {
+    "name": "Tasty Reception - Giftbox",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tasty Reception - Cage 1",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Tasty Reception - Cage 2",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Tasty Reception - Cage 3",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Pink Rings| AND |Pink Poles|"
+  },
+  {
+    "name": "Tasty Reception - Cage 4",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Pink Rings| AND |Pink Poles|"
+  },
+  {
+    "name": "Tasty Reception - Magician Token",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Pink Rings| AND |Pink Poles|"
+  },
+  {
+    "name": "Tasty Reception - Cage 5",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Pink Rings| AND |Pink Poles|"
+  },
+  {
+    "name": "Tasty Reception - Cage 6",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Pink Rings| AND |Pink Poles|"
+  },
+  {
+    "name": "Choco Chambers - Clown Chef's Gift",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Choco Chambers - Cage 1",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Frying Pan|"
+  },
+  {
+    "name": "Choco Chambers - Cage 2",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Frying Pan|"
+  },
+  {
+    "name": "Choco Chambers - Magician Token",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Frying Pan|"
+  },
+  {
+    "name": "Choco Chambers - Giftbox",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Frying Pan| AND |Pink Springs|"
+  },
+  {
+    "name": "Choco Chambers - Cage 3",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Frying Pan| AND |Superheli Potion|"
+  },
+  {
+    "name": "Choco Chambers - Cage 4",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Frying Pan| AND |Superheli Potion| AND |Toy Masterkey|"
+  },
+  {
+    "name": "Choco Chambers - Cage 5",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Frying Pan| AND |Superheli Potion| AND |Pink Poles|"
+  },
+  {
+    "name": "Choco Chambers - Cage 6",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Frying Pan| AND |Superheli Potion| AND |Pink Poles|"
+  },
+  {
+    "name": "Chocolava Defeated!",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Frying Pan| AND |Superheli Potion| AND |Pink Poles|"
+  },
+  {
+    "name": "The Sweet Spot - Cage 1",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Sweet Spot - Magician Token",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Pink Springs|"
+  },
+  {
+    "name": "The Sweet Spot - Cage 2",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Pink Springs|"
+  },
+  {
+    "name": "The Sweet Spot - Cage 3",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Pink Springs| AND |Pink Rings|"
+  },
+  {
+    "name": "The Sweet Spot - Cage 4",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Pink Poles|"
+  },
+  {
+    "name": "The Sweet Spot - Giftbox",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Pink Poles|"
+  },
+  {
+    "name": "The Sweet Spot - Cage 5",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Pink Poles|"
+  },
+  {
+    "name": "The Sweet Spot - Cage 6",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Pink Poles|"
+  },
+  {
+    "name": "Mr Dark's Dare - Cage 1",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Frying Pan| AND |Pink Springs|"
+  },
+  {
+    "name": "Mr Dark's Dare - Cage 2",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Frying Pan| AND |Pink Rings|"
+  },
+  {
+    "name": "Mr Dark's Dare - Giftbox",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Frying Pan| AND |Pink Rings| AND |Toy Masterkey|"
+  },
+  {
+    "name": "Mr Dark's Dare - Magician Token",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Frying Pan| AND |Pink Rings| AND |Toy Masterkey|"
+  },
+  {
+    "name": "Mr Dark's Dare - Cage 3",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Frying Pan| AND |Pink Rings| AND |Toy Masterkey|"
+  },
+  {
+    "name": "Mr Dark's Dare - Cage 4",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Frying Pan| AND |Pink Rings| AND |Toy Masterkey|"
+  },
+  {
+    "name": "Mr Dark's Dare - Cage 5",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Frying Pan| AND |Pink Rings| AND |Toy Masterkey|"
+  },
+  {
+    "name": "Mr Dark's Dare - Cage 6",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Frying Pan| AND |Pink Rings| AND |Toy Masterkey| AND |Pink Springs|"
+  },
+  {
+    "name": "Dark Chimera Defeated!",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Frying Pan| AND |Pink Rings| AND |Toy Masterkey| AND |Pink Springs|"
+  },
+  {
+    "name": "Mr Dark Defeated!",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Frying Pan| AND |Pink Rings| AND |Toy Masterkey| AND |Pink Springs|"
+  },
+  {
+    "name": "Dark Rayman Defeated!",
+    "region": "The Final Showdown",
+    "category": [
+      "The Final Showdown"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Pink Poles| AND |Bzzit Mount|"
+  },
+  {
+    "name": "The End of the World - Giftbox",
+    "region": "The Final Showdown",
+    "category": [
+      "The Final Showdown"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Pink Poles| AND |Bzzit Mount|"
+  },
+  {
+    "region": "The Final Showdown",
+    "name": "The End of the World - Magician Token",
+    "category": [
+      "The Final Showdown"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Pink Poles| AND |Bzzit Mount|"
+  },
+  {
+    "name": "Mr Dark's Darker Form Defeated!",
+    "region": "The Final Showdown",
+    "category": [
+      "The Final Showdown"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Pink Poles| AND |Bzzit Mount|",
+    "place_item": [
+      "Great Protoon"
+    ]
+  },
+  {
+    "victory": true,
+    "region": "The Final Showdown",
+    "name": "Escape with the Great Protoon!",
+    "category": [
+      "The Final Showdown"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Pink Poles| AND |Bzzit Mount| AND |Great Protoon|"
+  },
+  {
+    "name": "Dark Legacy - Magician Token",
+    "region": "Dark Legacy",
+    "category": [
+      "Dark Legacy"
+    ],
+    "requires": "|Electoon Hero| AND |Pink Rings| AND |Pink Springs| AND |Pink Poles|"
+  },
+  {
+    "name": "Dark Legacy - Giftbox",
+    "region": "Dark Legacy",
+    "category": [
+      "Dark Legacy"
+    ],
+    "requires": "|Electoon Hero| AND |Pink Rings| AND |Pink Springs| AND |Pink Poles|"
+  },
+  {
+    "name": "Dark Legacy Clear!",
+    "region": "Dark Legacy",
+    "category": [
+      "Dark Legacy"
+    ],
+    "requires": "|Electoon Hero| AND |Pink Rings| AND |Pink Springs| AND |Pink Poles|",
+    "place_item": [
+      "Dark Legacy Clear"
+    ]
+  },
+  {
+    "name": "Mosquitoes' Sonata - Magician Token",
+    "region": "Band Land",
+    "category": [
+      "Band Land"
+    ],
+    "requires": "|Bzzit Mount|"
+  },
+  {
+    "name": "The Highest Peak - Magician Token",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Bzzit Mount|"
+  },
+  {
+    "name": "Riding the Rainbow - Magician Token",
+    "region": "Picture City",
+    "category": [
+      "Picture City"
+    ],
+    "requires": "|Bzzit Mount|"
+  },
+  {
+    "name": "Between a Rock and a Hard Place - Magician Token",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Bzzit Mount|"
+  },
+  {
+    "name": "Playful Flight - Magician Token",
+    "region": "Playtopia",
+    "category": [
+      "Playtopia"
+    ],
+    "requires": "|Bzzit Mount|"
+  },
+  {
+    "name": "The Candy Armada - Magician Token",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Bzzit Mount|"
+  },
+  {
+    "name": "Greenskito Skin",
+    "region": "Blue Mountains",
+    "category": [
+      "Blue Mountains"
+    ],
+    "requires": "|Bzzit Mount|"
+  },
+  {
+    "name": "Moskito Skin",
+    "region": "The Caves of Skops",
+    "category": [
+      "The Caves of Skops"
+    ],
+    "requires": "|Bzzit Mount|"
+  },
+  {
+    "name": "Beeskito Skin",
+    "region": "Candy Chateau",
+    "category": [
+      "Candy Chateau"
+    ],
+    "requires": "|Bzzit Mount|"
+  },
+  {
+    "name": "Dark Moskito Skin",
+    "region": "The Final Showdown",
+    "category": [
+      "The Final Showdown"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Pink Poles| AND |Bzzit Mount|"
+  },
+  {
+    "name": "Health Upgrade 1/4",
+    "region": "Betilla's Garden",
+    "category": [
+      "Betilla's Garden"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Health Upgrade 2/4",
+    "region": "Betilla's Garden",
+    "category": [
+      "Betilla's Garden"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Health Upgrade 3/4",
+    "region": "Betilla's Garden",
+    "category": [
+      "Betilla's Garden"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Health Upgrade 4/4",
+    "region": "Betilla's Garden",
+    "category": [
+      "Betilla's Garden"
+    ],
+    "requires": "|Electoon Hero|"
+  },
+  {
+    "name": "Shop - Extra Life",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shop - Big Power-up",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shop - Fist Pack",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shop - Ting Magnet",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shop - Better Power-ups",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shop - Blue Rayman",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shop - Vortex Suit",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shop - Heavymetal Suit",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shop - Lockjaw Suit",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shop - Shockrocket Suit",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shop - Superheli Suit",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shop - Livingstone Rayman",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": "|Forest Medallion Piece:4|"
+  },
+  {
+    "name": "Shop - Rockstar Rayman",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": "|Music Medallion Piece:4|"
+  },
+  {
+    "name": "Shop - Aurora Rayman",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": "|Aurora Medallion Piece:4|"
+  },
+  {
+    "name": "Shop - Space Rayman",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": "|Paint Medallion Piece:4|"
+  },
+  {
+    "name": "Shop - Spider Rayman",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": "|Cave Medallion Piece:4|"
+  },
+  {
+    "name": "Shop - Chess Rayman",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": "|Toy Medallion Piece:4|"
+  },
+  {
+    "name": "Shop - Clown Rayman",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": "|Candy Medallion Piece:4|"
+  },
+  {
+    "name": "Shop - Dark Rayman",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": "|Electoon Hero| AND |Great Protoon|"
+  },
+  {
+    "name": "Shop - Fraykenstein's Monster",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": "|Electoon Hero| AND |Great Protoon|"
+  },
+  {
+    "name": "Shop - Jack-O-Ray",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": "|Electoon Hero| AND |Great Protoon|"
+  },
+  {
+    "name": "Shop - GBC Dark Rayman",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": "|Electoon Hero| AND |Dark Medallion Piece:2| AND |Great Protoon|"
+  },
+  {
+    "name": "Shop - Designer",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shop - Junior",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shop - Snack",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shop - Livingstone",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": "|Forest Medallion Piece:4|"
+  },
+  {
+    "name": "Shop - Greenboi",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": "|Music Medallion Piece:4|"
+  },
+  {
+    "name": "Shop - Stoneman",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": "|Aurora Medallion Piece:4|"
+  },
+  {
+    "name": "Shop - Spaceman",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": "|Paint Medallion Piece:4|"
+  },
+  {
+    "name": "Shop - Spider",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": "|Cave Medallion Piece:4|"
+  },
+  {
+    "name": "Shop - Jack",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": "|Toy Medallion Piece:4|"
+  },
+  {
+    "name": "Shop - Clown",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": "|Candy Medallion Piece:4|"
+  },
+  {
+    "name": "Shop - Mr Dark",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": "|Dark Medallion Piece:2| AND |Electoon Hero| AND |Great Protoon|"
+  },
+  {
+    "name": "Shop - SNES",
+    "region": "The Shop",
+    "category": [
+      "Purchases"
+    ],
+    "requires": "|Electoon Hero| AND |Great Protoon|"
+  },
+  {
+    "name": "Casino - Skin 1 Prize",
+    "region": "The Casino",
+    "category": [
+      "Gambling"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Casino - Skin 2 Prize",
+    "region": "The Casino",
+    "category": [
+      "Gambling"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Casino - Magician Token 1 Prize",
+    "region": "The Casino",
+    "category": [
+      "Gambling"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Casino - Magician Token 2 Prize",
+    "region": "The Casino",
+    "category": [
+      "Gambling"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Casino - Magician Token 3 Prize",
+    "region": "The Casino",
+    "category": [
+      "Gambling"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Casino - 3 Antitoons",
+    "region": "The Casino",
+    "category": [
+      "Gambling"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Casino - 3 Tings",
+    "region": "The Casino",
+    "category": [
+      "Gambling"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Casino - 3 Tokens",
+    "region": "The Casino",
+    "category": [
+      "Gambling"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Casino - 3 Raymans",
+    "region": "The Casino",
+    "category": [
+      "Gambling"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Joe's Wares - Cage Locator",
+    "region": "Joe's Wares",
+    "category": [
+      "Purchases"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Joe's Wares - Item Locator",
+    "region": "Joe's Wares",
+    "category": [
+      "Purchases"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Magician's Challenges",
+    "name": "Swinging in the Jungle Clear!",
+    "category": [
+      "Magician's Challenges"
+    ],
+    "requires": "|Magician Token:1|"
+  },
+  {
+    "name": "Vine-Shrine Hunt Clear!",
+    "region": "Magician's Challenges",
+    "category": [
+      "Magician's Challenges"
+    ],
+    "requires": "|Magician Token:2|"
+  },
+  {
+    "name": "The Thorn Garden Clear!",
+    "region": "Magician's Challenges",
+    "category": [
+      "Magician's Challenges"
+    ],
+    "requires": "|Magician Token:4| AND |Magic Seeds| AND |Pink Rings|"
+  },
+  {
+    "name": "Maracas Madness Clear!",
+    "region": "Magician's Challenges",
+    "category": [
+      "Magician's Challenges"
+    ],
+    "requires": "|Magician Token:5|"
+  },
+  {
+    "name": "Electoon's Octave Clear!",
+    "region": "Magician's Challenges",
+    "category": [
+      "Magician's Challenges"
+    ],
+    "requires": "|Magician Token:6| AND |Pink Rings|"
+  },
+  {
+    "name": "Ring Toss Tussle Clear!",
+    "region": "Magician's Challenges",
+    "category": [
+      "Magician's Challenges"
+    ],
+    "requires": "|Magician Token:8| AND |Gold Rings|"
+  },
+  {
+    "name": "Rock Hike Clear!",
+    "region": "Magician's Challenges",
+    "category": [
+      "Magician's Challenges"
+    ],
+    "requires": "|Magician Token:9| AND |Pink Rings|"
+  },
+  {
+    "name": "The Cliffhanger Clear!",
+    "region": "Magician's Challenges",
+    "category": [
+      "Magician's Challenges"
+    ],
+    "requires": "|Magician Token:10| AND |Pink Springs| AND |Pink Rings|"
+  },
+  {
+    "name": "Perilous Spikes Clear!",
+    "region": "Magician's Challenges",
+    "category": [
+      "Magician's Challenges"
+    ],
+    "requires": "|Magician Token:12| AND |Superheli Potion|"
+  },
+  {
+    "name": "Pencil Case Race Clear!",
+    "region": "Magician's Challenges",
+    "category": [
+      "Magician's Challenges"
+    ],
+    "requires": "|Magician Token:13|"
+  },
+  {
+    "name": "Little Land Clear!",
+    "region": "Magician's Challenges",
+    "category": [
+      "Magician's Challenges"
+    ],
+    "requires": "|Magician Token:14| AND |Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Pinpoint Precision Clear!",
+    "region": "Magician's Challenges",
+    "category": [
+      "Magician's Challenges"
+    ],
+    "requires": "|Magician Token:16| AND |Paint Fist| AND |Pink Springs|"
+  },
+  {
+    "name": "Getting Over It Clear!",
+    "region": "Magician's Challenges",
+    "category": [
+      "Magician's Challenges"
+    ],
+    "requires": "|Magician Token:17| AND |Pink Springs| AND |Pink Rings|"
+  },
+  {
+    "name": "The Four Chambers Clear!",
+    "region": "Magician's Challenges",
+    "category": [
+      "Magician's Challenges"
+    ],
+    "requires": "|Magician Token:18| AND |Pink Rings|"
+  },
+  {
+    "name": "Electric Meltdown Clear!",
+    "region": "Magician's Challenges",
+    "category": [
+      "Magician's Challenges"
+    ],
+    "requires": "|Magician Token:20| AND |Firefly|"
+  },
+  {
+    "name": "The Short Trip Clear!",
+    "region": "Magician's Challenges",
+    "category": [
+      "Magician's Challenges"
+    ],
+    "requires": "|Magician Token:21| AND |Pink Rings|"
+  },
+  {
+    "name": "The Train Tunnel Clear!",
+    "region": "Magician's Challenges",
+    "category": [
+      "Magician's Challenges"
+    ],
+    "requires": "|Magician Token:22|"
+  },
+  {
+    "name": "Door to Door Clear!",
+    "region": "Magician's Challenges",
+    "category": [
+      "Magician's Challenges"
+    ],
+    "requires": "|Magician Token:24| AND |Toy Masterkey| AND |Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Sugar Rush Clear!",
+    "region": "Magician's Challenges",
+    "category": [
+      "Magician's Challenges"
+    ],
+    "requires": "|Magician Token:25|"
+  },
+  {
+    "name": "Candy Climber Clear!",
+    "region": "Magician's Challenges",
+    "category": [
+      "Magician's Challenges"
+    ],
+    "requires": "|Magician Token:26|"
+  },
+  {
+    "name": "The Final Slide Clear!",
+    "region": "Magician's Challenges",
+    "category": [
+      "Magician's Challenges"
+    ],
+    "requires": "|Magician Token:28| AND |Frying Pan| AND |Pink Rings|"
+  },
+  {
+    "name": "Dark Magician's Challenge - Cage 1",
+    "region": "Dark Magician's Challenge",
+    "category": [
+      "Dark Magician's Challenge"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dark Magician's Challenge - Cage 2",
+    "region": "Dark Magician's Challenge",
+    "category": [
+      "Dark Magician's Challenge"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dark Magician's Challenge - Cage 3",
+    "region": "Dark Magician's Challenge",
+    "category": [
+      "Dark Magician's Challenge"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Dark Magician's Challenge - Cage 4",
+    "region": "Dark Magician's Challenge",
+    "category": [
+      "Dark Magician's Challenge"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Dark Magician's Challenge - Cage 5",
+    "region": "Dark Magician's Challenge",
+    "category": [
+      "Dark Magician's Challenge"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Dark Magician's Challenge - Cage 6",
+    "region": "Dark Magician's Challenge",
+    "category": [
+      "Dark Magician's Challenge"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Dark Magician's Challenge - Cage 7",
+    "region": "Dark Magician's Challenge",
+    "category": [
+      "Dark Magician's Challenge"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Dark Magician's Challenge - Cage 8",
+    "region": "Dark Magician's Challenge",
+    "category": [
+      "Dark Magician's Challenge"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Dark Magician's Challenge - Cage 9",
+    "region": "Dark Magician's Challenge",
+    "category": [
+      "Dark Magician's Challenge"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Dark Magician's Challenge - Cage 10",
+    "region": "Dark Magician's Challenge",
+    "category": [
+      "Dark Magician's Challenge"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Dark Magician Rayman Skin",
+    "region": "Dark Magician's Challenge",
+    "category": [
+      "Dark Magician's Challenge"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Boss Rush - Moskito Defeated!",
+    "region": "Boss Rush",
+    "category": [
+      "Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Boss Rush - Mr Sax Defeated!",
+    "region": "Boss Rush",
+    "category": [
+      "Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Boss Rush - Mr Stone Defeated!",
+    "region": "Boss Rush",
+    "category": [
+      "Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Boss Rush - Spacemama Defeated!",
+    "region": "Boss Rush",
+    "category": [
+      "Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Boss Rush - Mr Skops Defeated!",
+    "region": "Boss Rush",
+    "category": [
+      "Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Boss Rush - The Pest Defeated!",
+    "region": "Boss Rush",
+    "category": [
+      "Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Boss Rush - Dark Chimera Defeated!",
+    "region": "Boss Rush",
+    "category": [
+      "Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Boss Rush - Mr Dark Defeated!",
+    "region": "Boss Rush",
+    "category": [
+      "Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Boss Rush Clear!",
+    "region": "Boss Rush",
+    "category": [
+      "Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Boss Rush - Beeskito Defeated!",
+    "region": "True Boss Rush",
+    "category": [
+      "True Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Boss Rush - Darkertoon 1 Defeated!",
+    "region": "True Boss Rush",
+    "category": [
+      "True Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Boss Rush - Bramble Rose Defeated!",
+    "region": "True Boss Rush",
+    "category": [
+      "True Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Boss Rush - Dark Moskito Defeated!",
+    "region": "True Boss Rush",
+    "category": [
+      "True Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Boss Rush - Dark Mr Sax Defeated!",
+    "region": "True Boss Rush",
+    "category": [
+      "True Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Boss Rush - Purple Drummer Defeated!",
+    "region": "True Boss Rush",
+    "category": [
+      "True Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Boss Rush - Dark Mr Stone Defeated!",
+    "region": "True Boss Rush",
+    "category": [
+      "True Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Boss Rush - Darkertoon 2 Defeated!",
+    "region": "True Boss Rush",
+    "category": [
+      "True Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Boss Rush - Captain Mama Defeated!",
+    "region": "True Boss Rush",
+    "category": [
+      "True Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Boss Rush - Emperor Mama Defeated!",
+    "region": "True Boss Rush",
+    "category": [
+      "True Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Boss Rush - Dark Space Mama Defeated!",
+    "region": "True Boss Rush",
+    "category": [
+      "True Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Boss Rush - Darkertoon 3 Defeated!",
+    "region": "True Boss Rush",
+    "category": [
+      "True Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Boss Rush - Black Widow Defeated!",
+    "region": "True Boss Rush",
+    "category": [
+      "True Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Boss Rush - Dark Mr Skops Defeated!",
+    "region": "True Boss Rush",
+    "category": [
+      "True Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Boss Rush - Chessmastermind Defeated!",
+    "region": "True Boss Rush",
+    "category": [
+      "True Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Boss Rush - The Dark Pest Defeated!",
+    "region": "True Boss Rush",
+    "category": [
+      "True Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Boss Rush - Hot Chocolava Defeated!",
+    "region": "True Boss Rush",
+    "category": [
+      "True Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Boss Rush - Darker Chimera Defeated!",
+    "region": "True Boss Rush",
+    "category": [
+      "True Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Boss Rush - Mr Darker Defeated!",
+    "region": "True Boss Rush",
+    "category": [
+      "True Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Boss Rush - Darker Rayman Defeated!",
+    "region": "True Boss Rush",
+    "category": [
+      "True Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Boss Rush - Mr Darker's Darker Form Defeated!",
+    "region": "True Boss Rush",
+    "category": [
+      "True Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Boss Rush Completed!",
+    "region": "True Boss Rush",
+    "victory": true,
+    "category": [
+      "True Boss Rush"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Master of Dream Forest",
+    "region": "The Dream Forest",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Pink Springs| AND |Pink Rings| AND |Bzzit Mount| AND |Magic Seeds| AND |Pink Springs|"
+  },
+  {
+    "name": "Master of Band Land",
+    "region": "Band Land",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Pink Rings| AND |Gold Rings|"
+  },
+  {
+    "name": "Master of Blue Mountains",
+    "region": "Blue Mountains",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Superheli Potion| AND |Magic Seeds|"
+  },
+  {
+    "name": "Master of Picture City",
+    "region": "Picture City",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Pink Springs| AND |Pink Rings| AND |Gold Rings| AND |Superheli Potion| AND |Pink Poles| AND |Paint Fist|"
+  },
+  {
+    "name": "Master of The Caves of Skops",
+    "region": "The Caves of Skops",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Firefly| AND |Magic Seeds| AND |Pink Poles|"
+  },
+  {
+    "name": "Master of Playtopia",
+    "region": "Playtopia",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Pink Springs| AND |Pink Poles| AND |Gold Rings| AND |Paint Fist| AND |Toy Masterkey| AND |Pink Rings| AND |Firefly| AND |Magic Seeds|"
+  },
+  {
+    "name": "Master of Candy Chateau",
+    "region": "Candy Chateau",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Pink Rings| AND |Pink Poles| AND |Frying Pan| AND |Pink Springs| AND |Superheli Potion| AND |Toy Masterkey|"
+  },
+  {
+    "name": "Master of the Valley",
+    "region": "The Final Showdown",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Pink Poles| AND |Bzzit Mount| AND |Magic Seeds| AND |Gold Rings| AND |Superheli Potion| AND |Paint Fist| AND |Firefly| AND |Toy Masterkey| AND |Frying Pan| AND |Great Protoon|"
+  },
+  {
+    "name": "Friends 4 Ever",
+    "region": "The Dream Forest",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pesky Insects",
+    "region": "The Dream Forest",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Mighty Saxophone",
+    "region": "Band Land",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Top Stone",
+    "region": "Blue Mountains",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Superheli Potion| AND |Magic Seeds| AND |Pink Rings|"
+  },
+  {
+    "name": "End of the 3rd Act",
+    "region": "Picture City",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs|"
+  },
+  {
+    "name": "Let Him Sleep",
+    "region": "The Caves of Skops",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Pink Rings| AND |Pink Springs| AND |Pink Poles|"
+  },
+  {
+    "name": "Playtime is Over",
+    "region": "Playtopia",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Toy Masterkey| AND |Pink Rings| AND |Pink Springs| AND |Magic Seeds|"
+  },
+  {
+    "name": "Cloak of Darkness",
+    "region": "Candy Chateau",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Frying Pan| AND |Pink Rings| AND |Toy Masterkey| AND |Pink Springs|"
+  },
+  {
+    "name": "Battle for the Great Protoon",
+    "region": "The Final Showdown",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|@Pink Helpers:4|"
+  },
+  {
+    "name": "Ting Tycoon",
+    "region": "The Caves of Skops",
+    "category": [
+      "Achievements",
+      "Ting Tycoon"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Betilla's Blessing",
+    "region": "Betilla's Garden",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Electoon Hero|"
+  },
+  {
+    "name": "Electoon Hero",
+    "region": "Candy Chateau",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|@Main Worlds:7| AND |@Pink Helpers:4| AND |@Gifts:7|",
+    "place_item": [
+      "Electoon Hero"
+    ]
+  },
+  {
+    "name": "Leave no Stone Unturned",
+    "region": "Dark Legacy",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Right Back at ya",
+    "region": "Candy Chateau",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Impossible Jump",
+    "region": "Band Land",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Respect the Sax",
+    "region": "Band Land",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bad Tings",
+    "region": "The Dream Forest",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Hard as a Rock",
+    "region": "Blue Mountains",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Superheli Potion| AND |Magic Seeds| AND |Pink Rings|"
+  },
+  {
+    "name": "High Tempo",
+    "region": "Band Land",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Fastest Kid in the Block",
+    "region": "Playtopia",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Gold Rings| AND |Paint Fist| AND |Pink Springs|"
+  },
+  {
+    "name": "Magician's Apprentice",
+    "region": "Magician's Challenges",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Magician Token:10|"
+  },
+  {
+    "name": "Magician Master",
+    "region": "Magician's Challenges",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Magician Token:28|"
+  },
+  {
+    "region": "Dark Magician's Challenge",
+    "name": "Reign of Terror",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Pink Rings|"
+  },
+  {
+    "name": "Hero",
+    "region": "Boss Rush",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Hero",
+    "region": "True Boss Rush",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Redemption",
+    "region": "Dark Legacy",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Trap Master",
+    "region": "Dark Legacy",
+    "category": [
+      "Achievements",
+      "Trap Master"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Plum for Days",
+    "region": "Breakout Minigame",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fight the Virus",
+    "category": [
+      "Achievements"
+    ],
+    "requires": [],
+    "region": "The Dream Forest"
+  },
+  {
+    "name": "Ultimate Completionist",
+    "victory": true,
+    "category": [
+      "100% Achievements"
+    ],
+    "requires": [],
+    "place_item": [
+      "Skin - HD Rayman"
+    ],
+    "region": "100% Achievements"
+  }
+]

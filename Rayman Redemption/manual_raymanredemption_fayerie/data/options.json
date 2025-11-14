@@ -1,0 +1,107 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "End Goal",
+            "description": "What's the goal for Rayman to clear?",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "default": 20,
+            "values": {
+                "recommended": 10
+            }
+        }
+    },
+    "user": {
+        "start_with_extras":{
+            "display_name": "Random Extra Access",
+            "description": [
+                "Start with all Extra areas?"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Starting Items"
+        },
+        "start_with_pink_helpers":{
+            "display_name": "Random Pink Helpers",
+            "description": [
+                "Start with all Pink Helpers?"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Starting Items"
+        },
+        "start_with_gifts":{
+            "display_name": "Random Gifts",
+            "description": [
+                "Start with all NPC gifts?"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Starting Items"
+        },
+        "start_with_shop_bonuses":{
+            "display_name": "Shop Bonuses",
+            "description": [
+                "Start with the shop bonuses item?"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Starting Items"
+        },
+        "fair_tings_cheat":{
+            "display_name": "Fair Tings Cheat",
+            "description": [
+                "Use the 'fairting' cheat at start? This exists to tell the host you'll be using the 'fairting' cheat."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Cheats"
+        },
+        "enable_skin_items":{
+            "display_name": "Skin Items",
+            "description": [
+                "Add the various skins to the pool as extra filler?"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Skins"
+        },
+        "achievementsanity":{
+            "description": [
+                "Adds the game's achievements as locations. (38 Locations)"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Achievements"
+        },
+        "ting_tycoon":{
+            "display_name": "Ting Tycoon",
+            "description": [
+                "Removes the Ting Tycoon location."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Achievements"
+        },
+        "trap_master":{
+            "display_name": "Trap Master",
+            "description": [
+                "Removes the Trap Master location."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Achievements"
+        }
+    }
+}

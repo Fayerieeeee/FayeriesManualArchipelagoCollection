@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Robotnik Coaster - Race Complete",
+    "region": "Ring Cup",
+    "category": [
+      "! Race Clears",
+      "Ring Cup"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Robotnik Coaster - 1st Place",
+    "region": "Ring Cup",
+    "category": [
+      "! 1st Places",
+      "Ring Cup"
+    ],
+    "requires": "|CPU Level Debuff:2|"
+  },
+  {
+    "name": "Robotnik Coaster - Rank A",
+    "region": "Ring Cup",
+    "category": [
+      "! A Ranks",
+      "Ring Cup"
+    ],
+    "requires": "|CPU Level Debuff:4|"
+  },
+  {
+    "name": "Robotnik Coaster - Perfect EXP Bonus",
+    "region": "Ring Cup",
+    "category": [
+      "! EXP Bonuses",
+      "Ring Cup"
+    ],
+    "requires": "|CPU Level Debuff:8|"
+  },
+  {
+    "name": "Robotnik Coaster - Spray Can",
+    "region": "Ring Cup",
+    "category": [
+      "! Spray Cans",
+      "Ring Cup"
+    ],
+    "requires": "(|Sneaker| OR |Dual Sneakers| OR |Triple Sneakers| OR |Rocket Sneaker| OR |Grow| OR |Invincibility| OR |Bubble Shield| OR |Flame Shield| OR |Gardentop|)"
+  },
+  {
+    "name": "Northern District - Race Clear",
+    "region": "Ring Cup",
+    "category": [
+      "! Race Clears",
+      "Ring Cup"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Northern District - 1st Place",
+    "region": "Ring Cup",
+    "category": [
+      "! 1st Places",
+      "Ring Cup"
+    ],
+    "requires": "|CPU Level Debuff:2|"
+  },
+  {
+    "name": "Northern District - Rank A",
+    "region": "Ring Cup",
+    "category": [
+      "! A Ranks",
+      "Ring Cup"
+    ],
+    "requires": "|CPU Level Debuff:4|"
+  },
+  {
+    "name": "Northern District - Perfect EXP Bonus",
+    "region": "Ring Cup",
+    "category": [
+      "! EXP Bonuses",
+      "Ring Cup"
+    ],
+    "requires": "|CPU Level Debuff:8|"
+  },
+  {
+    "name": "Northern District - Spray Can",
+    "region": "Ring Cup",
+    "category": [
+      "! Spray Cans",
+      "Ring Cup"
+    ],
+    "requires": "(|Sneaker| OR |Dual Sneakers| OR |Triple Sneakers| OR |Rocket Sneaker| OR |Grow| OR |Invincibility| OR |Bubble Shield| OR |Flame Shield| OR |Gardentop|)"
+  },
+  {
+    "name": "Panic City - Race Clear",
+    "region": "Ring Cup",
+    "category": [
+      "! Race Clears",
+      "Ring Cup"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Panic City - 1st Place",
+    "region": "Ring Cup",
+    "category": [
+      "! 1st Places",
+      "Ring Cup"
+    ],
+    "requires": "|CPU Level Debuff:2|"
+  },
+  {
+    "name": "Panic City - Rank A",
+    "region": "Ring Cup",
+    "category": [
+      "! A Ranks",
+      "Ring Cup"
+    ],
+    "requires": "|CPU Level Debuff:4|"
+  },
+  {
+    "name": "Panic City - Perfect EXP Bonus",
+    "region": "Ring Cup",
+    "category": [
+      "! EXP Bonuses",
+      "Ring Cup"
+    ],
+    "requires": "|CPU Level Debuff:8|"
+  },
+  {
+    "name": "Panic City - Spray Can",
+    "region": "Ring Cup",
+    "category": [
+      "! Spray Cans",
+      "Ring Cup"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sonic Speedway - Race Clear",
+    "region": "Ring Cup",
+    "category": [
+      "! Race Clears",
+      "Ring Cup"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sonic Speedway - 1st Place",
+    "region": "Ring Cup",
+    "category": [
+      "! 1st Places",
+      "Ring Cup"
+    ],
+    "requires": "|CPU Level Debuff:2|"
+  },
+  {
+    "name": "Sonic Speedway - Rank A",
+    "region": "Ring Cup",
+    "category": [
+      "! A Ranks",
+      "Ring Cup"
+    ],
+    "requires": "|CPU Level Debuff:4|"
+  },
+  {
+    "name": "Sonic Speedway - Perfect EXP Bonuses",
+    "region": "Ring Cup",
+    "category": [
+      "! EXP Bonuses",
+      "Ring Cup"
+    ],
+    "requires": "|CPU Level Debuff:8|"
+  },
+  {
+    "name": "Sonic Speedway - Spray Can",
+    "region": "Ring Cup",
+    "category": [
+      "! Spray Cans",
+      "Ring Cup"
+    ],
+    "requires": "(|Sneaker| OR |Dual Sneakers| OR |Triple Sneakers| OR |Rocket Sneaker| OR |Grow| OR |Invincibility| OR |Flame Shield| OR |Gardentop|)"
+  },
+  {
+    "name": "Green Hills - Race Clear",
+    "region": "Ring Cup",
+    "category": [
+      "! Race Clears",
+      "Ring Cup"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Green Hills - 1st Place",
+    "region": "Ring Cup",
+    "category": [
+      "! 1st Places",
+      "Ring Cup"
+    ],
+    "requires": "|CPU Level Debuff:2|"
+  },
+  {
+    "name": "Green Hills - Rank A",
+    "region": "Ring Cup",
+    "category": [
+      "! A Ranks",
+      "Ring Cup"
+    ],
+    "requires": "|CPU Level Debuff:4|"
+  },
+  {
+    "name": "Green Hills - Perfect EXP Bonuses",
+    "region": "Ring Cup",
+    "category": [
+      "! EXP Bonuses",
+      "Ring Cup"
+    ],
+    "requires": "|CPU Level Debuff:8|"
+  },
+  {
+    "name": "Green Hills - Spray Can",
+    "region": "Ring Cup",
+    "category": [
+      "! Spray Cans",
+      "Ring Cup"
+    ],
+    "requires": "(|Sneaker| OR |Dual Sneakers| OR |Triple Sneakers| OR |Rocket Sneaker| OR |Grow| OR |Invincibility| OR |Bubble Shield| OR |Flame Shield| OR |Gardentop|)"
+  }
+]

@@ -1,0 +1,138 @@
+{
+  "The Dream Forest": {
+    "starting": false,
+    "connects_to": [
+      "Band Land",
+      "Magician's Challenges",
+      "Betilla's Garden",
+      "100% Achievements"
+    ],
+    "requires": "|The Dream Forest Access|"
+  },
+  "Band Land": {
+    "connects_to": [
+      "The Dream Forest",
+      "Blue Mountains",
+      "The Shop",
+      "100% Achievements"
+    ],
+    "requires": "|Band Land Access|"
+  },
+  "Blue Mountains": {
+    "connects_to": [
+      "Band Land",
+      "Picture City",
+      "100% Achievements"
+    ],
+    "requires": "|Blue Mountains Access|"
+  },
+  "Picture City": {
+    "connects_to": [
+      "Blue Mountains",
+      "The Caves of Skops",
+      "The Casino",
+      "100% Achievements"
+    ],
+    "requires": "|Picture City Access|"
+  },
+  "The Caves of Skops": {
+    "connects_to": [
+      "Picture City",
+      "Playtopia",
+      "Joe's Wares",
+      "100% Achievements"
+    ],
+    "requires": "|The Caves of Skops Access|"
+  },
+  "Playtopia": {
+    "connects_to": [
+      "The Caves of Skops",
+      "Candy Chateau",
+      "100% Achievements"
+    ],
+    "requires": "|Playtopia Access|"
+  },
+  "Candy Chateau": {
+    "connects_to": [
+      "Playtopia",
+      "The Final Showdown",
+      "100% Achievements"
+    ],
+    "requires": "|Candy Chateau Access|"
+  },
+  "The Final Showdown": {
+    "connects_to": [
+      "Dark Legacy",
+      "100% Achievements"
+    ],
+    "requires": "|@Medallion Pieces:30|"
+  },
+  "Magician's Challenges": {
+    "connects_to": [
+      "Dark Magician's Challenge",
+      "Boss Rush",
+      "True Boss Rush",
+      "100% Achievements"
+    ],
+    "requires": "|Magician's Challenges Access|"
+  },
+  "Betilla's Garden": {
+    "connects_to": [
+      "100% Achievements"
+    ],
+    "requires": "|Betilla's Garden Access|"
+  },
+  "The Shop": {
+    "connects_to": [
+      "100% Achievements"
+    ],
+    "requires": "|The Shop Access|"
+  },
+  "The Casino": {
+    "connects_to": [
+      "100% Achievements"
+    ],
+    "requires": "|The Casino Access|"
+  },
+  "Joe's Wares": {
+    "connects_to": [
+      "100% Achievements"
+    ],
+    "requires": "|Joe's Wares Access|"
+  },
+  "Dark Legacy": {
+    "connects_to": [
+      "Breakout Minigame",
+      "100% Achievements"
+    ],
+    "requires": "|Electoon Hero| AND |Great Protoon|"
+  },
+  "Breakout Minigame": {
+    "connects_to": [
+      "100% Achievements"
+    ],
+    "requires": "|Dark Legacy Clear|"
+  },
+  "Dark Magician's Challenge": {
+    "connects_to": [
+      "100% Achievements"
+    ],
+    "requires": "|Magician Token:34|"
+  },
+  "Boss Rush": {
+    "connects_to": [
+      "100% Achievements"
+    ],
+    "requires": "|Magician Token:34| AND |Pink Rings| AND |Great Protoon|"
+  },
+  "True Boss Rush": {
+    "connects_to": [
+      "100% Achievements"
+    ],
+    "requires": "|Electoon Hero| AND |Magician Token:40| AND |Pink Rings| AND |Firefly| AND |Bzzit Mount| AND |Great Protoon| AND |Dark Legacy Clear|"
+  },
+  "100% Achievements": {
+    "connects_to": [],
+    "requires": "|@Main Worlds:7| AND |Electoon Hero| AND |Magician Token:40| AND |@Medallion Pieces:30| AND |@Pink Helpers:4| AND |@Gifts:7| AND |Great Protoon| AND |@Extra:6| AND |Dark Legacy Clear|"
+  }
+}

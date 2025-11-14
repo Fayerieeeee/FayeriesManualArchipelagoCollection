@@ -1,0 +1,217 @@
+{
+  "Ring Cup": {
+    "connects_to": [
+      "Prisons",
+      "Target Specials"
+    ],
+    "requires": "|Ring Cup|"
+  },
+  "Sneaker Cup": {
+    "connects_to": [
+      "Prisons",
+      "Target Specials"
+    ],
+    "requires": "|Sneaker Cup|"
+  },
+  "Spring Cup": {
+    "connects_to": [
+      "Prisons",
+      "Target Specials"
+    ],
+    "requires": "|Spring Cup|"
+  },
+  "Barrier Cup": {
+    "connects_to": [
+      "Prisons",
+      "Target Specials"
+    ],
+    "requires": "|Barrier Cup|"
+  },
+  "Invincible Cup": {
+    "connects_to": [
+      "Prisons",
+      "Target Specials"
+    ],
+    "requires": "|Invincible Cup|"
+  },
+  "Emerald Cup": {
+    "connects_to": [
+      "Prisons",
+      "Target Specials"
+    ],
+    "requires": "|Emerald Cup|"
+  },
+  "Extra Cup": {
+    "connects_to": [
+      "Prisons",
+      "Target Specials"
+    ],
+    "requires": "|Extra Cup|"
+  },
+  "S.P.B. Cup": {
+    "connects_to": [
+      "Prisons",
+      "Target Specials"
+    ],
+    "requires": "|S.P.B. Cup|"
+  },
+  "Rocket Cup": {
+    "connects_to": [
+      "Prisons",
+      "Target Specials"
+    ],
+    "requires": "|Rocket Cup|"
+  },
+  "Aqua Cup": {
+    "connects_to": [
+      "Prisons",
+      "Target Specials"
+    ],
+    "requires": "|Aqua Cup|"
+  },
+  "Lightning Cup": {
+    "connects_to": [
+      "Prisons",
+      "Target Specials"
+    ],
+    "requires": "|Lightning Cup|"
+  },
+  "Flame Cup": {
+    "connects_to": [
+      "Prisons",
+      "Target Specials"
+    ],
+    "requires": "|Flame Cup|"
+  },
+  "Super Cup": {
+    "connects_to": [
+      "Prisons",
+      "Target Specials"
+    ],
+    "requires": "|Super Cup|"
+  },
+  "Egg Cup": {
+    "connects_to": [
+      "Prisons",
+      "Target Specials"
+    ],
+    "requires": "|Egg Cup|"
+  },
+  "Goggles Cup": {
+    "connects_to": [
+      "Prisons"
+    ],
+    "requires": "|Goggles Cup|"
+  },
+  "Timer Cup": {
+    "connects_to": [
+      "Prisons"
+    ],
+    "requires": "|Timer Cup|"
+  },
+  "Grow Cup": {
+    "connects_to": [
+      "Prisons"
+    ],
+    "requires": "|Grow Cup|"
+  },
+  "Chao Cup": {
+    "connects_to": [
+      "Prisons"
+    ],
+    "requires": "|Chao Cup|"
+  },
+  "Wing Cup": {
+    "connects_to": [
+      "Prisons"
+    ],
+    "requires": "|Wing Cup|"
+  },
+  "Mega Cup": {
+    "connects_to": [
+      "Prisons"
+    ],
+    "requires": "|Mega Cup|"
+  },
+  "Phantom Cup": {
+    "connects_to": [
+      "Prisons"
+    ],
+    "requires": "|Phantom Cup|"
+  },
+  "Flash Cup": {
+    "connects_to": [
+      "Prisons"
+    ],
+    "requires": "|Flash Cup|"
+  },
+  "Swap Cup": {
+    "connects_to": [
+      "Prisons"
+    ],
+    "requires": "|Swap Cup|"
+  },
+  "Shrink Cup": {
+    "connects_to": [
+      "Prisons"
+    ],
+    "requires": "|Shrink Cup|"
+  },
+  "Bomb Cup": {
+    "connects_to": [
+      "Prisons"
+    ],
+    "requires": "|Bomb Cup|"
+  },
+  "Power Cup": {
+    "connects_to": [
+      "Prisons"
+    ],
+    "requires": "|Power Cup|"
+  },
+  "Genesis Cup": {
+    "connects_to": [
+      "Prisons"
+    ],
+    "requires": "|Genesis Cup|"
+  },
+  "Skate Cup": {
+    "connects_to": [
+      "Prisons"
+    ],
+    "requires": "|Skate Cup|"
+  },
+  "Recycle A Cup": {
+    "connects_to": [
+      "Prisons"
+    ],
+    "requires": "|Recycle A Cup|"
+  },
+  "Recycle B Cup": {
+    "connects_to": [
+      "Prisons"
+    ],
+    "requires": "|Recycle B Cup|"
+  },
+  "Lost & Found Cup": {
+    "connects_to": [
+      "Prisons",
+      "Target Specials"
+    ],
+    "requires": "|Lost & Found Cup|"
+  },
+  "Prisons": {
+    "connects_to": [],
+    "requires": "|Prisons Access| AND |Insta-Whip| AND |Gachabom| AND |Triple Gachabom|"
+  },
+  "Target Specials": {
+    "connects_to": [
+      "Blend Eye (Final Boss)"
+    ],
+    "requires": "|Target Special Access| AND |Super Ring| AND |Sneaker| AND |Dual Sneakers| AND |Triple Sneakers| AND |Banana| AND |Triple Bananas| AND |Orbinaut| AND |Triple Orbinauts| AND |Quadruple Orbinauts| AND |Jawz| AND |Dual Jawz| AND |Gardentop| AND |Insta-Whip| AND |Ring Bail|"
+  },
+  "Blend Eye (Final Boss)": {
+    "connects_to": [],
+    "requires": "|Target Special Access| AND |Lost & Found Cup| AND |Insta-Whip| AND |Gachabom| AND |Triple Gachabom|"
+  }
+}
