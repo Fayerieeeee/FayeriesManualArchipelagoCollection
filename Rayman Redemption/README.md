@@ -10,14 +10,13 @@ Your main goal is to retrieve the Great Protoon from the evil Mr. Dark! There's 
 
 The apworld expects the player to have a save file with all the levels pre-unlocked. This can be done by entering the `19941995` cheat.
 
-World progression is locked by world access items and medallions. Each level's logic is based on what items are needed for said cages/tokens/giftboxes and proceeding throughout the later sections of a level, so if you can't get past a pit because you need pink rings then the rest of the level's logic will require the pink rings.
+World progression is locked by world access items and medallions, medallions are required to access The Final Showdown. Each level's logic is based on what items are needed for said cages/tokens/giftboxes and proceeding throughout the later sections of a level, so if you can't get past a pit because you need pink rings then the rest of the level's logic will require the pink rings.
 
 ## 📝 Common Progression Items
 - World Accesses (7)
 - Magician Tokens (40)
 - Medallions (30)
-- Shop Bonuses: A combination of the purchaseable upgrades in the shop and Joe's Wares.
-## 📝 NPC Related Progression Items
+## 📝 Level Progression Items
 - Bzzit Mount: Needed for Bzzit levels, this includes the level right after the Bzzit fight.
 - Pink Rings
 - Pink Springs
@@ -36,14 +35,17 @@ World progression is locked by world access items and medallions. Each level's l
 - The Casino
 - Joe's Wares
 - Breakout Minigame: The randomizer still expects the player to beat Dark Legacy to properly access it.
-## 📝 Cheat Code related Items (Once sent, you must activate the cheat code accordingly)
+## 📝 Useful Items (Once a cheat code is sent, you must activate the cheat code accordingly)
+- Shop Bonuses: A combination of the purchaseable upgrades in the shop and Joe's Wares.
+- Ting Bundles <sub>(100x, 250x, 500x, 1000x):</sub> Start with the `(FAIRTING)` cheat, then keep track of how much bundles received.
 - Fully Upgraded Fist `(FISTPOWR)`
 - Epic Power `(EPICPOWR)`
 - Temporary Superheli `(HELIPOWR)`
-- Dark Rayman Trap `(DARKNESS)`: Let Dark Rayman spawn in the next level then use the `NOMODARK` cheat to remove the trap.
-- Daredevil Trap `(DAREDEVL)`: Sets the player's HP to 1.
 - Low Gravity `(FREEFALL)`
 - Lum Tings `(LUMTINGS)`
+## 📝 Trap Items
+- Dark Rayman Trap `(DARKNESS)`: Let Dark Rayman spawn in the next level then use the `NOMODARK` cheat to remove the trap.
+- Daredevil Trap `(DAREDEVL)`: Sets the player's HP to 1.
 ## 📝 Skins (There's are considered to be junk/filler items, no special actions needed.)
 ### Rayman
 - Blue
