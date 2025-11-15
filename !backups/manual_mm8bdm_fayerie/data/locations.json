@@ -7838,5 +7838,599 @@
       "Jupiter"
     ],
     "requires":[]
+  },
+  {
+    "name":"Fragged Uranus (Uranus)",
+    "region":"Uranus",
+    "category":[
+      "! Frags",
+      "Uranus"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Shademan (Uranus)",
+    "region":"Uranus",
+    "category":[
+      "! Frags",
+      "Uranus"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Groundman (Uranus)",
+    "region":"Uranus",
+    "category":[
+      "! Frags",
+      "Uranus"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Hardman (Uranus)",
+    "region":"Uranus",
+    "category":[
+      "! Frags",
+      "Uranus"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Blizzardman (Uranus)",
+    "region":"Uranus",
+    "category":[
+      "! Frags",
+      "Uranus"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Knightman (Uranus)",
+    "region":"Uranus",
+    "category":[
+      "! Frags",
+      "Uranus"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Uranus Stage Clear",
+    "region":"Uranus",
+    "category":[
+      "! Stage Completion",
+      "Uranus"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Pluto (Pluto)",
+    "region":"Pluto",
+    "category":[
+      "! Frags",
+      "Pluto"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Stoneman (Pluto)",
+    "region":"Pluto",
+    "category":[
+      "! Frags",
+      "Pluto"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Crystalman (Pluto)",
+    "region":"Pluto",
+    "category":[
+      "! Frags",
+      "Pluto"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Needleman (Pluto)",
+    "region":"Pluto",
+    "category":[
+      "! Frags",
+      "Pluto"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Frostman (Pluto)",
+    "region":"Pluto",
+    "category":[
+      "! Frags",
+      "Pluto"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Pluto Stage Clear",
+    "region":"Pluto",
+    "category":[
+      "! Stage Completion",
+      "Pluto"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Saturn (Saturn)",
+    "region":"Saturn",
+    "category":[
+      "! Frags",
+      "Saturn"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Flameman (Saturn)",
+    "region":"Saturn",
+    "category":[
+      "! Frags",
+      "Saturn"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Napalmman (Saturn)",
+    "region":"Saturn",
+    "category":[
+      "! Frags",
+      "Saturn"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Chargeman (Saturn)",
+    "region":"Saturn",
+    "category":[
+      "! Frags",
+      "Saturn"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Gravityman (Saturn)",
+    "region":"Saturn",
+    "category":[
+      "! Frags",
+      "Saturn"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Saturn Stage Clear",
+    "region":"Saturn",
+    "category":[
+      "! Stage Completion",
+      "Saturn"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Mars (Mars)",
+    "region":"Mars",
+    "category":[
+      "! Frags",
+      "Mars"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Tomahawkman (Mars)",
+    "region":"Mars",
+    "category":[
+      "! Frags",
+      "Mars"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Commandoman (Mars)",
+    "region":"Mars",
+    "category":[
+      "! Frags",
+      "Mars"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Yamatoman (Mars)",
+    "region":"Mars",
+    "category":[
+      "! Frags",
+      "Mars"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Crashman (Mars)",
+    "region":"Mars",
+    "category":[
+      "! Frags",
+      "Mars"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Blademan (Mars)",
+    "region":"Mars",
+    "category":[
+      "! Frags",
+      "Mars"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Mars Stage Clear",
+    "region":"Mars",
+    "category":[
+      "! Stage Completion",
+      "Mars"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Neptune (Neptune)",
+    "region":"Neptune",
+    "category":[
+      "! Frags",
+      "Neptune"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Magnetman (Neptune)",
+    "region":"Neptune",
+    "category":[
+      "! Frags",
+      "Neptune"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Gyroman (Neptune)",
+    "region":"Neptune",
+    "category":[
+      "! Frags",
+      "Neptune"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Waveman (Neptune)",
+    "region":"Neptune",
+    "category":[
+      "! Frags",
+      "Neptune"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Aquaman (Neptune)",
+    "region":"Neptune",
+    "category":[
+      "! Frags",
+      "Neptune"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Cloudman (Neptune)",
+    "region":"Neptune",
+    "category":[
+      "! Frags",
+      "Neptune"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Neptune Stage Clear",
+    "region":"Neptune",
+    "category":[
+      "! Stage Completion",
+      "Neptune"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Enker (Enker)",
+    "region":"Enker",
+    "category":[
+      "! Frags",
+      "Enker"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Punk (Enker)",
+    "region":"Enker",
+    "category":[
+      "! Frags",
+      "Enker"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Ballade (Enker)",
+    "region":"Enker",
+    "category":[
+      "! Frags",
+      "Enker"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Sparkman (Enker)",
+    "region":"Enker",
+    "category":[
+      "! Frags",
+      "Enker"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Woodman (Enker)",
+    "region":"Enker",
+    "category":[
+      "! Frags",
+      "Enker"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Springman (Enker)",
+    "region":"Enker",
+    "category":[
+      "! Frags",
+      "Enker"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Clownman (Enker)",
+    "region":"Enker",
+    "category":[
+      "! Frags",
+      "Enker"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Enker Stage Clear",
+    "region":"Enker",
+    "category":[
+      "! Stage Completion",
+      "Enker"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Enker (Punk)",
+    "region":"Punk",
+    "category":[
+      "! Frags",
+      "Punk"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Punk (Punk)",
+    "region":"Punk",
+    "category":[
+      "! Frags",
+      "Punk"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Ballade (Punk)",
+    "region":"Punk",
+    "category":[
+      "! Frags",
+      "Punk"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Pumpman (Punk)",
+    "region":"Punk",
+    "category":[
+      "! Frags",
+      "Punk"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Pirateman (Punk)",
+    "region":"Punk",
+    "category":[
+      "! Frags",
+      "Punk"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Airman (Punk)",
+    "region":"Punk",
+    "category":[
+      "! Frags",
+      "Punk"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Metalman (Punk)",
+    "region":"Punk",
+    "category":[
+      "! Frags",
+      "Punk"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Punk Stage Clear",
+    "region":"Punk",
+    "category":[
+      "! Stage Completion",
+      "Punk"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Enker (Ballade)",
+    "region":"Ballade",
+    "category":[
+      "! Frags",
+      "Ballade"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Punk (Ballade)",
+    "region":"Ballade",
+    "category":[
+      "! Frags",
+      "Ballade"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Ballade (Ballade)",
+    "region":"Ballade",
+    "category":[
+      "! Frags",
+      "Ballade"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Astroman (Ballade",
+    "region":"Ballade",
+    "category":[
+      "! Frags",
+      "Ballade"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Grenademan (Ballade)",
+    "region":"Ballade",
+    "category":[
+      "! Frags",
+      "Ballade"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Windman (Ballade)",
+    "region":"Ballade",
+    "category":[
+      "! Frags",
+      "Ballade"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Solarman (Ballade)",
+    "region":"Ballade",
+    "category":[
+      "! Frags",
+      "Ballade"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Ballade Stage Clear",
+    "region":"Ballade",
+    "category":[
+      "! Stage Completion",
+      "Ballade"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Mercury (Wily Star)",
+    "region":"Wily Star",
+    "category":[
+      "! Frags",
+      "Wily Star"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Venus (Wily Star)",
+    "region":"Wily Star",
+    "category":[
+      "! Frags",
+      "Wily Star"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Saturn (Wily Star)",
+    "region":"Wily Star",
+    "category":[
+      "! Frags",
+      "Wily Star"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Neptune (Wily Star)",
+    "region":"Wily Star",
+    "category":[
+      "! Frags",
+      "Wily Star"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Uranus (Wily Star)",
+    "region":"Wily Star",
+    "category":[
+      "! Frags",
+      "Wily Star"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Jupiter (Wily Star)",
+    "region":"Wily Star",
+    "category":[
+      "! Frags",
+      "Wily Star"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Mars (Wily Star)",
+    "region":"Wily Star",
+    "category":[
+      "! Frags",
+      "Wily Star"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Fragged Pluto (Wily Star)",
+    "region":"Wily Star",
+    "category":[
+      "! Frags",
+      "Wily Star"
+    ],
+    "requires":[]
+  },
+  {
+    "name":"Wily Star Clear",
+    "region":"Wily Star",
+    "category":[
+      "! Stage Completion",
+      "Wily Star"
+    ],
+    "requires":[]
   }
 ]

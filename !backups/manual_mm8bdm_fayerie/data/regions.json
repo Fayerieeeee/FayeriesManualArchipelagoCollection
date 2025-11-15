@@ -562,6 +562,6 @@
   },
   "For Everlasting Peace!": {
     "connects_to": [],
-    "requires": []
+    "requires": "|@Gamma Parts:10|"
   }
 }
