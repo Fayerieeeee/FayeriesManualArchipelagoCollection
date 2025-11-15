@@ -1,26 +1,26 @@
 {
-    "Close-Range":{
-        "hidden": true
-    },
-    "Boss":{
-        "hidden": true
-    },
-    "Miniboss":{
-        "hidden": true,
-        "yaml_option": [
-            "enable_minibosses"
-        ]
-    },
-    "Optional Boss":{
-        "hidden": true,
-        "yaml_option": [
-            "enable_optional_bosses"
-        ]
-    },
-    "shopsanity":{
-        "hidden": true,
-        "yaml_option": [
-            "shopsanity"
-        ]
-    }
+  "Close-Range": {
+    "hidden": true
+  },
+  "Boss": {
+    "hidden": true
+  },
+  "Miniboss": {
+    "hidden": true,
+    "yaml_option": [
+      "enable_minibosses"
+    ]
+  },
+  "Optional Boss": {
+    "hidden": true,
+    "yaml_option": [
+      "enable_optional_bosses"
+    ]
+  },
+  "shopsanity": {
+    "hidden": true,
+    "yaml_option": [
+      "shopsanity"
+    ]
+  }
 }

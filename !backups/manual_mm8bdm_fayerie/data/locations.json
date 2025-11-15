@@ -4105,1687 +4105,1687 @@
     "requires": []
   },
   {
-    "name":"Fragged Burnerman (Slash Man)",
-    "region":"Slash Man",
-    "category":[
+    "name": "Fragged Burnerman (Slash Man)",
+    "region": "Slash Man",
+    "category": [
       "! Frags",
       "Slash Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Slash Man Stage Clear",
-    "region":"Slash Man",
-    "category":[
+    "name": "Slash Man Stage Clear",
+    "region": "Slash Man",
+    "category": [
       "! Stage Completion",
       "Slash Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Shademan (Shade Man)",
-    "region":"Shade Man",
-    "category":[
+    "name": "Fragged Shademan (Shade Man)",
+    "region": "Shade Man",
+    "category": [
       "! Frags",
       "Shade Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Shadowman (Shade Man)",
-    "region":"Shade Man",
-    "category":[
+    "name": "Fragged Shadowman (Shade Man)",
+    "region": "Shade Man",
+    "category": [
       "! Frags",
       "Shade Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Magicman (Shade Man)",
-    "region":"Shade Man",
-    "category":[
+    "name": "Fragged Magicman (Shade Man)",
+    "region": "Shade Man",
+    "category": [
       "! Frags",
       "Shade Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Knightman (Shade Man)",
-    "region":"Shade Man",
-    "category":[
+    "name": "Fragged Knightman (Shade Man)",
+    "region": "Shade Man",
+    "category": [
       "! Frags",
       "Shade Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Crystalman (Shade Man)",
-    "region":"Shade Man",
-    "category":[
+    "name": "Fragged Crystalman (Shade Man)",
+    "region": "Shade Man",
+    "category": [
       "! Frags",
       "Shade Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Skullman (Shade Man)",
-    "region":"Shade Man",
-    "category":[
+    "name": "Fragged Skullman (Shade Man)",
+    "region": "Shade Man",
+    "category": [
       "! Frags",
       "Shade Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Snakeman (Shade Man)",
-    "region":"Shade Man",
-    "category":[
+    "name": "Fragged Snakeman (Shade Man)",
+    "region": "Shade Man",
+    "category": [
       "! Frags",
       "Shade Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Shade Man Stage Clear",
-    "region":"Shade Man",
-    "category":[
+    "name": "Shade Man Stage Clear",
+    "region": "Shade Man",
+    "category": [
       "! Stage Completion",
       "Shade Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Turboman (Turbo Man)",
-    "region":"Turbo Man",
-    "category":[
+    "name": "Fragged Turboman (Turbo Man)",
+    "region": "Turbo Man",
+    "category": [
       "! Frags",
       "Turbo Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Quickman (Turbo Man)",
-    "region":"Turbo Man",
-    "category":[
+    "name": "Fragged Quickman (Turbo Man)",
+    "region": "Turbo Man",
+    "category": [
       "! Frags",
       "Turbo Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Chargeman (Turbo Man)",
-    "region":"Turbo Man",
-    "category":[
+    "name": "Fragged Chargeman (Turbo Man)",
+    "region": "Turbo Man",
+    "category": [
       "! Frags",
       "Turbo Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Stoneman (Turbo Man)",
-    "region":"Turbo Man",
-    "category":[
+    "name": "Fragged Stoneman (Turbo Man)",
+    "region": "Turbo Man",
+    "category": [
       "! Frags",
       "Turbo Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Crashman (Turbo Man)",
-    "region":"Turbo Man",
-    "category":[
+    "name": "Fragged Crashman (Turbo Man)",
+    "region": "Turbo Man",
+    "category": [
       "! Frags",
       "Turbo Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Napalmman (Turbo Man)",
-    "region":"Turbo Man",
-    "category":[
+    "name": "Fragged Napalmman (Turbo Man)",
+    "region": "Turbo Man",
+    "category": [
       "! Frags",
       "Turbo Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Turbo Man Stage Clear",
-    "region":"Turbo Man",
-    "category":[
+    "name": "Turbo Man Stage Clear",
+    "region": "Turbo Man",
+    "category": [
       "! Stage Completion",
       "Turbo Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Freezeman (Skull Fortress 1)",
-    "region":"Skull Fortress 1",
-    "category":[
+    "name": "Fragged Freezeman (Skull Fortress 1)",
+    "region": "Skull Fortress 1",
+    "category": [
       "! Frags",
       "Skull Fortress 1"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Springman (Skull Fortress 1)",
-    "region":"Skull Fortress 1",
-    "category":[
+    "name": "Fragged Springman (Skull Fortress 1)",
+    "region": "Skull Fortress 1",
+    "category": [
       "! Frags",
       "Skull Fortress 1"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Cloudman (Skull Fortress 1)",
-    "region":"Skull Fortress 1",
-    "category":[
+    "name": "Fragged Cloudman (Skull Fortress 1)",
+    "region": "Skull Fortress 1",
+    "category": [
       "! Frags",
       "Skull Fortress 1"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Turboman (Skull Fortress 1)",
-    "region":"Skull Fortress 1",
-    "category":[
+    "name": "Fragged Turboman (Skull Fortress 1)",
+    "region": "Skull Fortress 1",
+    "category": [
       "! Frags",
       "Skull Fortress 1"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Shademan (Skull Fortress 1)",
-    "region":"Skull Fortress 1",
-    "category":[
+    "name": "Fragged Shademan (Skull Fortress 1)",
+    "region": "Skull Fortress 1",
+    "category": [
       "! Frags",
       "Skull Fortress 1"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Junkman (Skull Fortress 1)",
-    "region":"Skull Fortress 1",
-    "category":[
+    "name": "Fragged Junkman (Skull Fortress 1)",
+    "region": "Skull Fortress 1",
+    "category": [
       "! Frags",
       "Skull Fortress 1"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Skull Fortress 1 Stage Clear",
-    "region":"Skull Fortress 1",
-    "category":[
+    "name": "Skull Fortress 1 Stage Clear",
+    "region": "Skull Fortress 1",
+    "category": [
       "! Stage Completion",
       "Skull Fortress 1"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Junkman (Skull Fortress 2)",
-    "region":"Skull Fortress 2",
-    "category":[
+    "name": "Fragged Junkman (Skull Fortress 2)",
+    "region": "Skull Fortress 2",
+    "category": [
       "! Frags",
       "Skull Fortress 2"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Burstman (Skull Fortress 2)",
-    "region":"Skull Fortress 2",
-    "category":[
+    "name": "Fragged Burstman (Skull Fortress 2)",
+    "region": "Skull Fortress 2",
+    "category": [
       "! Frags",
       "Skull Fortress 2"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Slashman (Skull Fortress 2)",
-    "region":"Skull Fortress 2",
-    "category":[
+    "name": "Fragged Slashman (Skull Fortress 2)",
+    "region": "Skull Fortress 2",
+    "category": [
       "! Frags",
       "Skull Fortress 2"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Springman (Skull Fortress 2)",
-    "region":"Skull Fortress 2",
-    "category":[
+    "name": "Fragged Springman (Skull Fortress 2)",
+    "region": "Skull Fortress 2",
+    "category": [
       "! Frags",
       "Skull Fortress 2"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Freezeman (Skull Fortress 2)",
-    "region":"Skull Fortress 2",
-    "category":[
+    "name": "Fragged Freezeman (Skull Fortress 2)",
+    "region": "Skull Fortress 2",
+    "category": [
       "! Frags",
       "Skull Fortress 2"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Skull Fortress 2 Stage Clear",
-    "region":"Skull Fortress 2",
-    "category":[
+    "name": "Skull Fortress 2 Stage Clear",
+    "region": "Skull Fortress 2",
+    "category": [
       "! Stage Completion",
       "Skull Fortress 2"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Junkman (Skull Fortress 3)",
-    "region":"Skull Fortress 3",
-    "category":[
+    "name": "Fragged Junkman (Skull Fortress 3)",
+    "region": "Skull Fortress 3",
+    "category": [
       "! Frags",
       "Skull Fortress 3"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Burstman (Skull Fortress 3)",
-    "region":"Skull Fortress 3",
-    "category":[
+    "name": "Fragged Burstman (Skull Fortress 3)",
+    "region": "Skull Fortress 3",
+    "category": [
       "! Frags",
       "Skull Fortress 3"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Springman (Skull Fortress 3)",
-    "region":"Skull Fortress 3",
-    "category":[
+    "name": "Fragged Springman (Skull Fortress 3)",
+    "region": "Skull Fortress 3",
+    "category": [
       "! Frags",
       "Skull Fortress 3"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Turboman (Skull Fortress 3)",
-    "region":"Skull Fortress 3",
-    "category":[
+    "name": "Fragged Turboman (Skull Fortress 3)",
+    "region": "Skull Fortress 3",
+    "category": [
       "! Frags",
       "Skull Fortress 3"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Freezeman (Skull Fortress 3)",
-    "region":"Skull Fortress 3",
-    "category":[
+    "name": "Fragged Freezeman (Skull Fortress 3)",
+    "region": "Skull Fortress 3",
+    "category": [
       "! Frags",
       "Skull Fortress 3"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Shademan (Skull Fortress 3)",
-    "region":"Skull Fortress 3",
-    "category":[
+    "name": "Fragged Shademan (Skull Fortress 3)",
+    "region": "Skull Fortress 3",
+    "category": [
       "! Frags",
       "Skull Fortress 3"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Cloudman (Skull Fortress 3)",
-    "region":"Skull Fortress 3",
-    "category":[
+    "name": "Fragged Cloudman (Skull Fortress 3)",
+    "region": "Skull Fortress 3",
+    "category": [
       "! Frags",
       "Skull Fortress 3"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Skull Fortress 3 Stage Clear",
-    "region":"Skull Fortress 3",
-    "category":[
+    "name": "Skull Fortress 3 Stage Clear",
+    "region": "Skull Fortress 3",
+    "category": [
       "! Stage Completion",
       "Skull Fortress 3"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Slashman (Skull Fortress 4)",
-    "region":"Skull Fortress 4",
-    "category":[
+    "name": "Fragged Slashman (Skull Fortress 4)",
+    "region": "Skull Fortress 4",
+    "category": [
       "! Frags",
       "Skull Fortress 4"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Cloudman (Skull Fortress 4)",
-    "region":"Skull Fortress 4",
-    "category":[
+    "name": "Fragged Cloudman (Skull Fortress 4)",
+    "region": "Skull Fortress 4",
+    "category": [
       "! Frags",
       "Skull Fortress 4"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Springman (Skull Fortress 4)",
-    "region":"Skull Fortress 4",
-    "category":[
+    "name": "Fragged Springman (Skull Fortress 4)",
+    "region": "Skull Fortress 4",
+    "category": [
       "! Frags",
       "Skull Fortress 4"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Turboman (Skull Fortress 4)",
-    "region":"Skull Fortress 4",
-    "category":[
+    "name": "Fragged Turboman (Skull Fortress 4)",
+    "region": "Skull Fortress 4",
+    "category": [
       "! Frags",
       "Skull Fortress 4"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Freezeman (Skull Fortress 4)",
-    "region":"Skull Fortress 4",
-    "category":[
+    "name": "Fragged Freezeman (Skull Fortress 4)",
+    "region": "Skull Fortress 4",
+    "category": [
       "! Frags",
       "Skull Fortress 4"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Shademan (Skull Fortress 4)",
-    "region":"Skull Fortress 4",
-    "category":[
+    "name": "Fragged Shademan (Skull Fortress 4)",
+    "region": "Skull Fortress 4",
+    "category": [
       "! Frags",
       "Skull Fortress 4"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Skull Fortress 4 Stage Clear",
-    "region":"Skull Fortress 4",
-    "category":[
+    "name": "Skull Fortress 4 Stage Clear",
+    "region": "Skull Fortress 4",
+    "category": [
       "! Stage Completion",
       "Skull Fortress 4"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Tenguman (Tengu Man)",
-    "region":"Tengu Man",
-    "category":[
+    "name": "Fragged Tenguman (Tengu Man)",
+    "region": "Tengu Man",
+    "category": [
       "! Frags",
       "Tengu Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Gyroman (Tengu Man)",
-    "region":"Tengu Man",
-    "category":[
+    "name": "Fragged Gyroman (Tengu Man)",
+    "region": "Tengu Man",
+    "category": [
       "! Frags",
       "Tengu Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Yamatoman (Tengu Man)",
-    "region":"Tengu Man",
-    "category":[
+    "name": "Fragged Yamatoman (Tengu Man)",
+    "region": "Tengu Man",
+    "category": [
       "! Frags",
       "Tengu Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Frostman (Tengu Man)",
-    "region":"Tengu Man",
-    "category":[
+    "name": "Fragged Frostman (Tengu Man)",
+    "region": "Tengu Man",
+    "category": [
       "! Frags",
       "Tengu Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Ringman (Tengu Man)",
-    "region":"Tengu Man",
-    "category":[
+    "name": "Fragged Ringman (Tengu Man)",
+    "region": "Tengu Man",
+    "category": [
       "! Frags",
       "Tengu Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Tengu Man Stage Clear",
-    "region":"Tengu Man",
-    "category":[
+    "name": "Tengu Man Stage Clear",
+    "region": "Tengu Man",
+    "category": [
       "! Stage Completion",
       "Tengu Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Astroman (Astro Man)",
-    "region":"Astro Man",
-    "category":[
+    "name": "Fragged Astroman (Astro Man)",
+    "region": "Astro Man",
+    "category": [
       "! Frags",
       "Astro Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Starman (Astro Man)",
-    "region":"Astro Man",
-    "category":[
+    "name": "Fragged Starman (Astro Man)",
+    "region": "Astro Man",
+    "category": [
       "! Frags",
       "Astro Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Geminiman (Astro Man)",
-    "region":"Astro Man",
-    "category":[
+    "name": "Fragged Geminiman (Astro Man)",
+    "region": "Astro Man",
+    "category": [
       "! Frags",
       "Astro Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Flashman (Astro Man)",
-    "region":"Astro Man",
-    "category":[
+    "name": "Fragged Flashman (Astro Man)",
+    "region": "Astro Man",
+    "category": [
       "! Frags",
       "Astro Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Shadowman (Astro Man)",
-    "region":"Astro Man",
-    "category":[
+    "name": "Fragged Shadowman (Astro Man)",
+    "region": "Astro Man",
+    "category": [
       "! Frags",
       "Astro Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Sniper Joe (Astro Man)",
-    "region":"Astro Man",
-    "category":[
+    "name": "Fragged Sniper Joe (Astro Man)",
+    "region": "Astro Man",
+    "category": [
       "! Frags",
       "Astro Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Astro Man Stage Clear",
-    "region":"Astro Man",
-    "category":[
+    "name": "Astro Man Stage Clear",
+    "region": "Astro Man",
+    "category": [
       "! Stage Completion",
       "Astro Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Swordman (Sword Man)",
-    "region":"Sword Man",
-    "category":[
+    "name": "Fragged Swordman (Sword Man)",
+    "region": "Sword Man",
+    "category": [
       "! Frags",
       "Sword Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Slashman (Sword Man)",
-    "region":"Sword Man",
-    "category":[
+    "name": "Fragged Slashman (Sword Man)",
+    "region": "Sword Man",
+    "category": [
       "! Frags",
       "Sword Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Drillman (Sword Man)",
-    "region":"Sword Man",
-    "category":[
+    "name": "Fragged Drillman (Sword Man)",
+    "region": "Sword Man",
+    "category": [
       "! Frags",
       "Sword Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Pharaohman (Sword Man)",
-    "region":"Sword Man",
-    "category":[
+    "name": "Fragged Pharaohman (Sword Man)",
+    "region": "Sword Man",
+    "category": [
       "! Frags",
       "Sword Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Shademan (Sword Man)",
-    "region":"Sword Man",
-    "category":[
+    "name": "Fragged Shademan (Sword Man)",
+    "region": "Sword Man",
+    "category": [
       "! Frags",
       "Sword Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Knightman (Sword Man)",
-    "region":"Sword Man",
-    "category":[
+    "name": "Fragged Knightman (Sword Man)",
+    "region": "Sword Man",
+    "category": [
       "! Frags",
       "Sword Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Sword Man Stage Clear",
-    "region":"Sword Man",
-    "category":[
+    "name": "Sword Man Stage Clear",
+    "region": "Sword Man",
+    "category": [
       "! Stage Completion",
       "Sword Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Clownman (Clown Man)",
-    "region":"Clown Man",
-    "category":[
+    "name": "Fragged Clownman (Clown Man)",
+    "region": "Clown Man",
+    "category": [
       "! Frags",
       "Clown Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Yamatoman (Clown Man)",
-    "region":"Clown Man",
-    "category":[
+    "name": "Fragged Yamatoman (Clown Man)",
+    "region": "Clown Man",
+    "category": [
       "! Frags",
       "Clown Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Springman (Clown Man)",
-    "region":"Clown Man",
-    "category":[
+    "name": "Fragged Springman (Clown Man)",
+    "region": "Clown Man",
+    "category": [
       "! Frags",
       "Clown Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Chargeman (Clown Man)",
-    "region":"Clown Man",
-    "category":[
+    "name": "Fragged Chargeman (Clown Man)",
+    "region": "Clown Man",
+    "category": [
       "! Frags",
       "Clown Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Turboman (Clown Man)",
-    "region":"Clown Man",
-    "category":[
+    "name": "Fragged Turboman (Clown Man)",
+    "region": "Clown Man",
+    "category": [
       "! Frags",
       "Clown Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Clown Man Stage Clear",
-    "region":"Clown Man",
-    "category":[
+    "name": "Clown Man Stage Clear",
+    "region": "Clown Man",
+    "category": [
       "! Stage Completion",
       "Clown Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Searchman (Search Man)",
-    "region":"Search Man",
-    "category":[
+    "name": "Fragged Searchman (Search Man)",
+    "region": "Search Man",
+    "category": [
       "! Frags",
       "Search Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Woodman (Search Man)",
-    "region":"Search Man",
-    "category":[
+    "name": "Fragged Woodman (Search Man)",
+    "region": "Search Man",
+    "category": [
       "! Frags",
       "Search Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Snakeman (Search Man)",
-    "region":"Search Man",
-    "category":[
+    "name": "Fragged Snakeman (Search Man)",
+    "region": "Search Man",
+    "category": [
       "! Frags",
       "Search Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Napalmman (Search Man)",
-    "region":"Search Man",
-    "category":[
+    "name": "Fragged Napalmman (Search Man)",
+    "region": "Search Man",
+    "category": [
       "! Frags",
       "Search Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Centaurman (Search Man)",
-    "region":"Search Man",
-    "category":[
+    "name": "Fragged Centaurman (Search Man)",
+    "region": "Search Man",
+    "category": [
       "! Frags",
       "Search Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Search Man Stage Clear",
-    "region":"Search Man",
-    "category":[
+    "name": "Search Man Stage Clear",
+    "region": "Search Man",
+    "category": [
       "! Stage Completion",
       "Search Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Frostman (Frost Man)",
-    "region":"Frost Man",
-    "category":[
+    "name": "Fragged Frostman (Frost Man)",
+    "region": "Frost Man",
+    "category": [
       "! Frags",
       "Frost Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Blizzardman (Frost Man)",
-    "region":"Frost Man",
-    "category":[
+    "name": "Fragged Blizzardman (Frost Man)",
+    "region": "Frost Man",
+    "category": [
       "! Frags",
       "Frost Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Freezeman (Frost Man)",
-    "region":"Frost Man",
-    "category":[
+    "name": "Fragged Freezeman (Frost Man)",
+    "region": "Frost Man",
+    "category": [
       "! Frags",
       "Frost Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Turboman (Frost Man)",
-    "region":"Frost Man",
-    "category":[
+    "name": "Fragged Turboman (Frost Man)",
+    "region": "Frost Man",
+    "category": [
       "! Frags",
       "Frost Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Brightman (Frost Man)",
-    "region":"Frost Man",
-    "category":[
+    "name": "Fragged Brightman (Frost Man)",
+    "region": "Frost Man",
+    "category": [
       "! Frags",
       "Frost Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Frost Man Stage Clear",
-    "region":"Frost Man",
-    "category":[
+    "name": "Frost Man Stage Clear",
+    "region": "Frost Man",
+    "category": [
       "! Stage Completion",
       "Frost Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Grenademan (Grenade Man)",
-    "region":"Grenade Man",
-    "category":[
+    "name": "Fragged Grenademan (Grenade Man)",
+    "region": "Grenade Man",
+    "category": [
       "! Frags",
       "Grenade Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Crashman (Grenade Man)",
-    "region":"Grenade Man",
-    "category":[
+    "name": "Fragged Crashman (Grenade Man)",
+    "region": "Grenade Man",
+    "category": [
       "! Frags",
       "Grenade Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Dustman (Grenade Man)",
-    "region":"Grenade Man",
-    "category":[
+    "name": "Fragged Dustman (Grenade Man)",
+    "region": "Grenade Man",
+    "category": [
       "! Frags",
       "Grenade Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Skullman (Grenade Man)",
-    "region":"Grenade Man",
-    "category":[
+    "name": "Fragged Skullman (Grenade Man)",
+    "region": "Grenade Man",
+    "category": [
       "! Frags",
       "Grenade Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Junkman (Grenade Man)",
-    "region":"Grenade Man",
-    "category":[
+    "name": "Fragged Junkman (Grenade Man)",
+    "region": "Grenade Man",
+    "category": [
       "! Frags",
       "Grenade Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Searchman (Grenade Man)",
-    "region":"Grenade Man",
-    "category":[
+    "name": "Fragged Searchman (Grenade Man)",
+    "region": "Grenade Man",
+    "category": [
       "! Frags",
       "Grenade Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Grenade Man Stage Clear",
-    "region":"Grenade Man",
-    "category":[
+    "name": "Grenade Man Stage Clear",
+    "region": "Grenade Man",
+    "category": [
       "! Stage Completion",
       "Grenade Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Aquaman (Aqua Man)",
-    "region":"Aqua Man",
-    "category":[
+    "name": "Fragged Aquaman (Aqua Man)",
+    "region": "Aqua Man",
+    "category": [
       "! Frags",
       "Aqua Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Clownman (Aqua Man)",
-    "region":"Aqua Man",
-    "category":[
+    "name": "Fragged Clownman (Aqua Man)",
+    "region": "Aqua Man",
+    "category": [
       "! Frags",
       "Aqua Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Waveman (Aqua Man)",
-    "region":"Aqua Man",
-    "category":[
+    "name": "Fragged Waveman (Aqua Man)",
+    "region": "Aqua Man",
+    "category": [
       "! Frags",
       "Aqua Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Bubbleman (Aqua Man)",
-    "region":"Aqua Man",
-    "category":[
+    "name": "Fragged Bubbleman (Aqua Man)",
+    "region": "Aqua Man",
+    "category": [
       "! Frags",
       "Aqua Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Astroman (Aqua Man)",
-    "region":"Aqua Man",
-    "category":[
+    "name": "Fragged Astroman (Aqua Man)",
+    "region": "Aqua Man",
+    "category": [
       "! Frags",
       "Aqua Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Aqua Man Stage Clear",
-    "region":"Aqua Man",
-    "category":[
+    "name": "Aqua Man Stage Clear",
+    "region": "Aqua Man",
+    "category": [
       "! Stage Completion",
       "Aqua Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Grenademan (Duo)",
-    "region":"Duo",
-    "category":[
+    "name": "Fragged Grenademan (Duo)",
+    "region": "Duo",
+    "category": [
       "! Frags",
       "Duo"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Searchman (Duo)",
-    "region":"Duo",
-    "category":[
+    "name": "Fragged Searchman (Duo)",
+    "region": "Duo",
+    "category": [
       "! Frags",
       "Duo"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Ringman (Duo)",
-    "region":"Duo",
-    "category":[
+    "name": "Fragged Ringman (Duo)",
+    "region": "Duo",
+    "category": [
       "! Frags",
       "Duo"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Sniper Joe (Duo)",
-    "region":"Duo",
-    "category":[
+    "name": "Fragged Sniper Joe (Duo)",
+    "region": "Duo",
+    "category": [
       "! Frags",
       "Duo"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Duo Stage Clear",
-    "region":"Duo",
-    "category":[
+    "name": "Duo Stage Clear",
+    "region": "Duo",
+    "category": [
       "! Stage Completion",
       "Duo"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Aquaman (Skull Tower Base)",
-    "region":"Skull Tower Base",
-    "category":[
+    "name": "Fragged Aquaman (Skull Tower Base)",
+    "region": "Skull Tower Base",
+    "category": [
       "! Frags",
       "Skull Tower Base"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Tenguman (Skull Tower Base)",
-    "region":"Skull Tower Base",
-    "category":[
+    "name": "Fragged Tenguman (Skull Tower Base)",
+    "region": "Skull Tower Base",
+    "category": [
       "! Frags",
       "Skull Tower Base"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Astroman (Skull Tower Base)",
-    "region":"Skull Tower Base",
-    "category":[
+    "name": "Fragged Astroman (Skull Tower Base)",
+    "region": "Skull Tower Base",
+    "category": [
       "! Frags",
       "Skull Tower Base"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Grenademan (Skull Tower Base)",
-    "region":"Skull Tower Base",
-    "category":[
+    "name": "Fragged Grenademan (Skull Tower Base)",
+    "region": "Skull Tower Base",
+    "category": [
       "! Frags",
       "Skull Tower Base"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Swordman (Skull Tower Base)",
-    "region":"Skull Tower Base",
-    "category":[
+    "name": "Fragged Swordman (Skull Tower Base)",
+    "region": "Skull Tower Base",
+    "category": [
       "! Frags",
       "Skull Tower Base"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Clownman (Skull Tower Base)",
-    "region":"Skull Tower Base",
-    "category":[
+    "name": "Fragged Clownman (Skull Tower Base)",
+    "region": "Skull Tower Base",
+    "category": [
       "! Frags",
       "Skull Tower Base"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Sniper Joe (Skull Tower Base)",
-    "region":"Skull Tower Base",
-    "category":[
+    "name": "Fragged Sniper Joe (Skull Tower Base)",
+    "region": "Skull Tower Base",
+    "category": [
       "! Frags",
       "Skull Tower Base"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Skull Tower Base Stage Clear",
-    "region":"Skull Tower Base",
-    "category":[
+    "name": "Skull Tower Base Stage Clear",
+    "region": "Skull Tower Base",
+    "category": [
       "! Stage Completion",
       "Skull Tower Base"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Aquaman (Skull Tower Interior)",
-    "region":"Skull Tower Interior",
-    "category":[
+    "name": "Fragged Aquaman (Skull Tower Interior)",
+    "region": "Skull Tower Interior",
+    "category": [
       "! Frags",
       "Skull Tower Interior"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Frostman (Skull Tower Interior)",
-    "region":"Skull Tower Interior",
-    "category":[
+    "name": "Fragged Frostman (Skull Tower Interior)",
+    "region": "Skull Tower Interior",
+    "category": [
       "! Frags",
       "Skull Tower Interior"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Searchman (Skull Tower Interior)",
-    "region":"Skull Tower Interior",
-    "category":[
+    "name": "Fragged Searchman (Skull Tower Interior)",
+    "region": "Skull Tower Interior",
+    "category": [
       "! Frags",
       "Skull Tower Interior"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Grenademan (Skull Tower Interior)",
-    "region":"Skull Tower Interior",
-    "category":[
+    "name": "Fragged Grenademan (Skull Tower Interior)",
+    "region": "Skull Tower Interior",
+    "category": [
       "! Frags",
       "Skull Tower Interior"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Tenguman (Skull Tower Interior)",
-    "region":"Skull Tower Interior",
-    "category":[
+    "name": "Fragged Tenguman (Skull Tower Interior)",
+    "region": "Skull Tower Interior",
+    "category": [
       "! Frags",
       "Skull Tower Interior"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Clownman (Skull Tower Interior)",
-    "region":"Skull Tower Interior",
-    "category":[
+    "name": "Fragged Clownman (Skull Tower Interior)",
+    "region": "Skull Tower Interior",
+    "category": [
       "! Frags",
       "Skull Tower Interior"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Astroman (Skull Tower Interior)",
-    "region":"Skull Tower Interior",
-    "category":[
+    "name": "Fragged Astroman (Skull Tower Interior)",
+    "region": "Skull Tower Interior",
+    "category": [
       "! Frags",
       "Skull Tower Interior"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Swordman (Skull Tower Interior)",
-    "region":"Skull Tower Interior",
-    "category":[
+    "name": "Fragged Swordman (Skull Tower Interior)",
+    "region": "Skull Tower Interior",
+    "category": [
       "! Frags",
       "Skull Tower Interior"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Skull Tower Interior Stage Clear",
-    "region":"Skull Tower Interior",
-    "category":[
+    "name": "Skull Tower Interior Stage Clear",
+    "region": "Skull Tower Interior",
+    "category": [
       "! Stage Completion",
       "Skull Tower Interior"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Toadman (Robot Museum)",
-    "region":"Robot Museum",
-    "category":[
+    "name": "Fragged Toadman (Robot Museum)",
+    "region": "Robot Museum",
+    "category": [
       "! Frags",
       "Robot Museum"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Blizzardman (Robot Museum)",
-    "region":"Robot Museum",
-    "category":[
+    "name": "Fragged Blizzardman (Robot Museum)",
+    "region": "Robot Museum",
+    "category": [
       "! Frags",
       "Robot Museum"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Heatman (Robot Museum)",
-    "region":"Robot Museum",
-    "category":[
+    "name": "Fragged Heatman (Robot Museum)",
+    "region": "Robot Museum",
+    "category": [
       "! Frags",
       "Robot Museum"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Robot Museum Stage Clear",
-    "region":"Robot Museum",
-    "category":[
+    "name": "Robot Museum Stage Clear",
+    "region": "Robot Museum",
+    "category": [
       "! Stage Completion",
       "Robot Museum"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Tenguman (Tengu Man B)",
-    "region":"Tengu Man B",
-    "category":[
+    "name": "Fragged Tenguman (Tengu Man B)",
+    "region": "Tengu Man B",
+    "category": [
       "! Frags",
       "Tengu Man B"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Snakeman (Tengu Man B)",
-    "region":"Tengu Man B",
-    "category":[
+    "name": "Fragged Snakeman (Tengu Man B)",
+    "region": "Tengu Man B",
+    "category": [
       "! Frags",
       "Tengu Man B"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Airman (Tengu Man B)",
-    "region":"Tengu Man B",
-    "category":[
+    "name": "Fragged Airman (Tengu Man B)",
+    "region": "Tengu Man B",
+    "category": [
       "! Frags",
       "Tengu Man B"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Skullman (Tengu Man B)",
-    "region":"Tengu Man B",
-    "category":[
+    "name": "Fragged Skullman (Tengu Man B)",
+    "region": "Tengu Man B",
+    "category": [
       "! Frags",
       "Tengu Man B"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Gyroman (Tengu Man B)",
-    "region":"Tengu Man B",
-    "category":[
+    "name": "Fragged Gyroman (Tengu Man B)",
+    "region": "Tengu Man B",
+    "category": [
       "! Frags",
       "Tengu Man B"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Windman (Tengu Man B)",
-    "region":"Tengu Man B",
-    "category":[
+    "name": "Fragged Windman (Tengu Man B)",
+    "region": "Tengu Man B",
+    "category": [
       "! Frags",
       "Tengu Man B"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Tengu Man B Stage Clear",
-    "region":"Tengu Man B",
-    "category":[
+    "name": "Tengu Man B Stage Clear",
+    "region": "Tengu Man B",
+    "category": [
       "! Stage Completion",
       "Tengu Man B"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Astroman (Astro Man B)",
-    "region":"Astro Man B",
-    "category":[
+    "name": "Fragged Astroman (Astro Man B)",
+    "region": "Astro Man B",
+    "category": [
       "! Frags",
       "Astro Man B"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Starman (Astro Man B)",
-    "region":"Astro Man B",
-    "category":[
+    "name": "Fragged Starman (Astro Man B)",
+    "region": "Astro Man B",
+    "category": [
       "! Frags",
       "Astro Man B"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Yamatoman (Astro Man B)",
-    "region":"Astro Man B",
-    "category":[
+    "name": "Fragged Yamatoman (Astro Man B)",
+    "region": "Astro Man B",
+    "category": [
       "! Frags",
       "Astro Man B"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Geminiman (Astro Man B)",
-    "region":"Astro Man B",
-    "category":[
+    "name": "Fragged Geminiman (Astro Man B)",
+    "region": "Astro Man B",
+    "category": [
       "! Frags",
       "Astro Man B"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Shadowman (Astro Man B)",
-    "region":"Astro Man B",
-    "category":[
+    "name": "Fragged Shadowman (Astro Man B)",
+    "region": "Astro Man B",
+    "category": [
       "! Frags",
       "Astro Man B"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Ringman (Astro Man B)",
-    "region":"Astro Man B",
-    "category":[
+    "name": "Fragged Ringman (Astro Man B)",
+    "region": "Astro Man B",
+    "category": [
       "! Frags",
       "Astro Man B"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Astro Man B Stage Clear",
-    "region":"Astro Man B",
-    "category":[
+    "name": "Astro Man B Stage Clear",
+    "region": "Astro Man B",
+    "category": [
       "! Stage Completion",
       "Astro Man B"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Dynamoman (Dynamo Man)",
-    "region":"Dynamo Man",
-    "category":[
+    "name": "Fragged Dynamoman (Dynamo Man)",
+    "region": "Dynamo Man",
+    "category": [
       "! Frags",
       "Dynamo Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Grenademan (Dynamo Man)",
-    "region":"Dynamo Man",
-    "category":[
+    "name": "Fragged Grenademan (Dynamo Man)",
+    "region": "Dynamo Man",
+    "category": [
       "! Frags",
       "Dynamo Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Quickman (Dynamo Man)",
-    "region":"Dynamo Man",
-    "category":[
+    "name": "Fragged Quickman (Dynamo Man)",
+    "region": "Dynamo Man",
+    "category": [
       "! Frags",
       "Dynamo Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Brightman (Dynamo Man)",
-    "region":"Dynamo Man",
-    "category":[
+    "name": "Fragged Brightman (Dynamo Man)",
+    "region": "Dynamo Man",
+    "category": [
       "! Frags",
       "Dynamo Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Sparkman (Dynamo Man)",
-    "region":"Dynamo Man",
-    "category":[
+    "name": "Fragged Sparkman (Dynamo Man)",
+    "region": "Dynamo Man",
+    "category": [
       "! Frags",
       "Dynamo Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Napalmman (Dynamo Man)",
-    "region":"Dynamo Man",
-    "category":[
+    "name": "Fragged Napalmman (Dynamo Man)",
+    "region": "Dynamo Man",
+    "category": [
       "! Frags",
       "Dynamo Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Dynamo Man Stage Clear",
-    "region":"Dynamo Man",
-    "category":[
+    "name": "Dynamo Man Stage Clear",
+    "region": "Dynamo Man",
+    "category": [
       "! Stage Completion",
       "Dynamo Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Coldman (Cold Man)",
-    "region":"Cold Man",
-    "category":[
+    "name": "Fragged Coldman (Cold Man)",
+    "region": "Cold Man",
+    "category": [
       "! Frags",
       "Cold Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Frostman (Cold Man)",
-    "region":"Cold Man",
-    "category":[
+    "name": "Fragged Frostman (Cold Man)",
+    "region": "Cold Man",
+    "category": [
       "! Frags",
       "Cold Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Freezeman (Cold Man)",
-    "region":"Cold Man",
-    "category":[
+    "name": "Fragged Freezeman (Cold Man)",
+    "region": "Cold Man",
+    "category": [
       "! Frags",
       "Cold Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Flashman (Cold Man)",
-    "region":"Cold Man",
-    "category":[
+    "name": "Fragged Flashman (Cold Man)",
+    "region": "Cold Man",
+    "category": [
       "! Frags",
       "Cold Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Crystalman (Cold Man)",
-    "region":"Cold Man",
-    "category":[
+    "name": "Fragged Crystalman (Cold Man)",
+    "region": "Cold Man",
+    "category": [
       "! Frags",
       "Cold Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Knightman (Cold Man)",
-    "region":"Cold Man",
-    "category":[
+    "name": "Fragged Knightman (Cold Man)",
+    "region": "Cold Man",
+    "category": [
       "! Frags",
       "Cold Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Cold Man Stage Clear",
-    "region":"Cold Man",
-    "category":[
+    "name": "Cold Man Stage Clear",
+    "region": "Cold Man",
+    "category": [
       "! Stage Completion",
       "Cold Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Groundman (Ground Man)",
-    "region":"Ground Man",
-    "category":[
+    "name": "Fragged Groundman (Ground Man)",
+    "region": "Ground Man",
+    "category": [
       "! Frags",
       "Ground Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Swordman (Ground Man)",
-    "region":"Ground Man",
-    "category":[
+    "name": "Fragged Swordman (Ground Man)",
+    "region": "Ground Man",
+    "category": [
       "! Frags",
       "Ground Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Crashman (Ground Man)",
-    "region":"Ground Man",
-    "category":[
+    "name": "Fragged Crashman (Ground Man)",
+    "region": "Ground Man",
+    "category": [
       "! Frags",
       "Ground Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Drillman (Ground Man)",
-    "region":"Ground Man",
-    "category":[
+    "name": "Fragged Drillman (Ground Man)",
+    "region": "Ground Man",
+    "category": [
       "! Frags",
       "Ground Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Pharaohman (Ground Man)",
-    "region":"Ground Man",
-    "category":[
+    "name": "Fragged Pharaohman (Ground Man)",
+    "region": "Ground Man",
+    "category": [
       "! Frags",
       "Ground Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Stoneman (Ground Man)",
-    "region":"Ground Man",
-    "category":[
+    "name": "Fragged Stoneman (Ground Man)",
+    "region": "Ground Man",
+    "category": [
       "! Frags",
       "Ground Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Ground Man Stage Clear",
-    "region":"Ground Man",
-    "category":[
+    "name": "Ground Man Stage Clear",
+    "region": "Ground Man",
+    "category": [
       "! Stage Completion",
       "Ground Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Pirateman (Pirate Man)",
-    "region":"Pirate Man",
-    "category":[
+    "name": "Fragged Pirateman (Pirate Man)",
+    "region": "Pirate Man",
+    "category": [
       "! Frags",
       "Pirate Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Aquaman (Pirate Man)",
-    "region":"Pirate Man",
-    "category":[
+    "name": "Fragged Aquaman (Pirate Man)",
+    "region": "Pirate Man",
+    "category": [
       "! Frags",
       "Pirate Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Diveman (Pirate Man)",
-    "region":"Pirate Man",
-    "category":[
+    "name": "Fragged Diveman (Pirate Man)",
+    "region": "Pirate Man",
+    "category": [
       "! Frags",
       "Pirate Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Waveman (Pirate Man)",
-    "region":"Pirate Man",
-    "category":[
+    "name": "Fragged Waveman (Pirate Man)",
+    "region": "Pirate Man",
+    "category": [
       "! Frags",
       "Pirate Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Bubbleman (Pirate Man)",
-    "region":"Pirate Man",
-    "category":[
+    "name": "Fragged Bubbleman (Pirate Man)",
+    "region": "Pirate Man",
+    "category": [
       "! Frags",
       "Pirate Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Pirate Man Stage Clear",
-    "region":"Pirate Man",
-    "category":[
+    "name": "Pirate Man Stage Clear",
+    "region": "Pirate Man",
+    "category": [
       "! Stage Completion",
       "Pirate Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Burnerman (Burner Man)",
-    "region":"Burner Man",
-    "category":[
+    "name": "Fragged Burnerman (Burner Man)",
+    "region": "Burner Man",
+    "category": [
       "! Frags",
       "Burner Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Searchman (Burner Man)",
-    "region":"Burner Man",
-    "category":[
+    "name": "Fragged Searchman (Burner Man)",
+    "region": "Burner Man",
+    "category": [
       "! Frags",
       "Burner Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Woodman (Burner Man)",
-    "region":"Burner Man",
-    "category":[
+    "name": "Fragged Woodman (Burner Man)",
+    "region": "Burner Man",
+    "category": [
       "! Frags",
       "Burner Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Flameman (Burner Man)",
-    "region":"Burner Man",
-    "category":[
+    "name": "Fragged Flameman (Burner Man)",
+    "region": "Burner Man",
+    "category": [
       "! Frags",
       "Burner Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Heatman (Burner Man)",
-    "region":"Burner Man",
-    "category":[
+    "name": "Fragged Heatman (Burner Man)",
+    "region": "Burner Man",
+    "category": [
       "! Frags",
       "Burner Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Slashman (Burner Man)",
-    "region":"Burner Man",
-    "category":[
+    "name": "Fragged Slashman (Burner Man)",
+    "region": "Burner Man",
+    "category": [
       "! Frags",
       "Burner Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Burner Man Stage Clear",
-    "region":"Burner Man",
-    "category":[
+    "name": "Burner Man Stage Clear",
+    "region": "Burner Man",
+    "category": [
       "! Stage Completion",
       "Burner Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Magicman (Magic Man)",
-    "region":"Magic Man",
-    "category":[
+    "name": "Fragged Magicman (Magic Man)",
+    "region": "Magic Man",
+    "category": [
       "! Frags",
       "Magic Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Clownman (Magic Man)",
-    "region":"Magic Man",
-    "category":[
+    "name": "Fragged Clownman (Magic Man)",
+    "region": "Magic Man",
+    "category": [
       "! Frags",
       "Magic Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Chargeman (Magic Man)",
-    "region":"Magic Man",
-    "category":[
+    "name": "Fragged Chargeman (Magic Man)",
+    "region": "Magic Man",
+    "category": [
       "! Frags",
       "Magic Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Topman (Magic Man)",
-    "region":"Magic Man",
-    "category":[
+    "name": "Fragged Topman (Magic Man)",
+    "region": "Magic Man",
+    "category": [
       "! Frags",
       "Magic Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Magic Man Stage Clear",
-    "region":"Magic Man",
-    "category":[
+    "name": "Magic Man Stage Clear",
+    "region": "Magic Man",
+    "category": [
       "! Stage Completion",
       "Magic Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Tenguman (King's Tower)",
-    "region":"King's Tower",
-    "category":[
+    "name": "Fragged Tenguman (King's Tower)",
+    "region": "King's Tower",
+    "category": [
       "! Frags",
       "King's Tower"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Astroman (King's Tower)",
-    "region":"King's Tower",
-    "category":[
+    "name": "Fragged Astroman (King's Tower)",
+    "region": "King's Tower",
+    "category": [
       "! Frags",
       "King's Tower"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Dynamoman (King's Tower)",
-    "region":"King's Tower",
-    "category":[
+    "name": "Fragged Dynamoman (King's Tower)",
+    "region": "King's Tower",
+    "category": [
       "! Frags",
       "King's Tower"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Coldman (King's Tower)",
-    "region":"King's Tower",
-    "category":[
+    "name": "Fragged Coldman (King's Tower)",
+    "region": "King's Tower",
+    "category": [
       "! Frags",
       "King's Tower"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Groundman (King's Tower)",
-    "region":"King's Tower",
-    "category":[
+    "name": "Fragged Groundman (King's Tower)",
+    "region": "King's Tower",
+    "category": [
       "! Frags",
       "King's Tower"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Pirateman (King's Tower)",
-    "region":"King's Tower",
-    "category":[
+    "name": "Fragged Pirateman (King's Tower)",
+    "region": "King's Tower",
+    "category": [
       "! Frags",
       "King's Tower"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Burnerman (King's Tower)",
-    "region":"King's Tower",
-    "category":[
+    "name": "Fragged Burnerman (King's Tower)",
+    "region": "King's Tower",
+    "category": [
       "! Frags",
       "King's Tower"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Magicman (King's Tower)",
-    "region":"King's Tower",
-    "category":[
+    "name": "Fragged Magicman (King's Tower)",
+    "region": "King's Tower",
+    "category": [
       "! Frags",
       "King's Tower"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"King's Tower Stage Clear",
-    "region":"King's Tower",
-    "category":[
+    "name": "King's Tower Stage Clear",
+    "region": "King's Tower",
+    "category": [
       "! Stage Completion",
       "King's Tower"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Tenguman (Reclaimed King's Tower)",
-    "region":"Reclaimed King's Tower",
-    "category":[
+    "name": "Fragged Tenguman (Reclaimed King's Tower)",
+    "region": "Reclaimed King's Tower",
+    "category": [
       "! Frags",
       "Reclaimed King's Tower"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Dynamoman (Reclaimed King's Tower)",
-    "region":"Reclaimed King's Tower",
-    "category":[
+    "name": "Fragged Dynamoman (Reclaimed King's Tower)",
+    "region": "Reclaimed King's Tower",
+    "category": [
       "! Frags",
       "Reclaimed King's Tower"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Burnerman (Reclaimed King's Tower)",
-    "region":"Reclaimed King's Tower",
-    "category":[
+    "name": "Fragged Burnerman (Reclaimed King's Tower)",
+    "region": "Reclaimed King's Tower",
+    "category": [
       "! Frags",
       "Reclaimed King's Tower"
     ],
-    "requires":[]
+    "requires": []
   },
   {
     "name": "Fragged Magicman (Reclaimed King's Tower)",
@@ -5799,20 +5799,20 @@
   {
     "name": "Fragged Coldman (Reclaimed King's Tower)",
     "region": "Reclaimed King's Tower",
-    "category":[
+    "category": [
       "! Frags",
       "Reclaimed King's Tower"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Reclaimed King's Tower Stage Clear",
-    "region":"Reclaimed King's Tower",
-    "category":[
+    "name": "Reclaimed King's Tower Stage Clear",
+    "region": "Reclaimed King's Tower",
+    "category": [
       "! Stage Completion",
       "Reclaimed King's Tower"
     ],
-    "requires":[]
+    "requires": []
   },
   {
     "name": "Fragged Woodman (Buster Rod G.)",
@@ -5842,2858 +5842,2858 @@
     "requires": []
   },
   {
-    "name":"Fragged Cloudman (Buster Rod G.)",
-    "region":"Buster Rod G.",
-    "category":[
+    "name": "Fragged Cloudman (Buster Rod G.)",
+    "region": "Buster Rod G.",
+    "category": [
       "! Frags",
       "Buster Rod G."
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Slashman (Buster Rod G.)",
-    "region":"Buster Rod G.",
-    "category":[
+    "name": "Fragged Slashman (Buster Rod G.)",
+    "region": "Buster Rod G.",
+    "category": [
       "! Frags",
       "Buster Rod G."
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Buster Rod G. Stage Clear",
-    "region":"Buster Rod G.",
-    "category":[
+    "name": "Buster Rod G. Stage Clear",
+    "region": "Buster Rod G.",
+    "category": [
       "! Stage Completion",
       "Buster Rod G."
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Bubbleman (Mega Water S.)",
-    "region":"Mega Water S.",
-    "category":[
+    "name": "Fragged Bubbleman (Mega Water S.)",
+    "region": "Mega Water S.",
+    "category": [
       "! Frags",
       "Mega Water S."
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Brightman (Mega Water S.)",
-    "region":"Mega Water S.",
-    "category":[
+    "name": "Fragged Brightman (Mega Water S.)",
+    "region": "Mega Water S.",
+    "category": [
       "! Frags",
       "Mega Water S."
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Groundman (Mega Water S.)",
-    "region":"Mega Water S.",
-    "category":[
+    "name": "Fragged Groundman (Mega Water S.)",
+    "region": "Mega Water S.",
+    "category": [
       "! Frags",
       "Mega Water S."
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Tenguman (Mega Water S.)",
-    "region":"Mega Water S.",
-    "category":[
+    "name": "Fragged Tenguman (Mega Water S.)",
+    "region": "Mega Water S.",
+    "category": [
       "! Frags",
       "Mega Water S."
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Quickman (Mega Water S.)",
-    "region":"Mega Water S.",
-    "category":[
+    "name": "Fragged Quickman (Mega Water S.)",
+    "region": "Mega Water S.",
+    "category": [
       "! Frags",
       "Mega Water S."
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Mega Water S. Stage Clear",
-    "region":"Mega Water S.",
-    "category":[
+    "name": "Mega Water S. Stage Clear",
+    "region": "Mega Water S.",
+    "category": [
       "! Stage Completion",
       "Mega Water S."
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Aquaman (Hyper Storm H.)",
-    "region":"Hyper Storm H.",
-    "category":[
+    "name": "Fragged Aquaman (Hyper Storm H.)",
+    "region": "Hyper Storm H.",
+    "category": [
       "! Frags",
       "Hyper Storm H."
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Hardman (Hyper Storm H.)",
-    "region":"Hyper Storm H.",
-    "category":[
+    "name": "Fragged Hardman (Hyper Storm H.)",
+    "region": "Hyper Storm H.",
+    "category": [
       "! Frags",
       "Hyper Storm H."
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Stoneman (Hyper Storm H.)",
-    "region":"Hyper Storm H.",
-    "category":[
+    "name": "Fragged Stoneman (Hyper Storm H.)",
+    "region": "Hyper Storm H.",
+    "category": [
       "! Frags",
       "Hyper Storm H."
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Frostman (Hyper Storm H.)",
-    "region":"Hyper Storm H.",
-    "category":[
+    "name": "Fragged Frostman (Hyper Storm H.)",
+    "region": "Hyper Storm H.",
+    "category": [
       "! Frags",
       "Hyper Storm H."
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Sniper Joe (Hyper Storm H.)",
-    "region":"Hyper Storm H.",
-    "category":[
+    "name": "Fragged Sniper Joe (Hyper Storm H.)",
+    "region": "Hyper Storm H.",
+    "category": [
       "! Frags",
       "Hyper Storm H."
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Hyper Storm H. Stage Clear",
-    "region":"Hyper Storm H.",
-    "category":[
+    "name": "Hyper Storm H. Stage Clear",
+    "region": "Hyper Storm H.",
+    "category": [
       "! Stage Completion",
       "Hyper Storm H."
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Heatman (Wily Tower 1)",
-    "region":"Wily Tower 1",
-    "category":[
+    "name": "Fragged Heatman (Wily Tower 1)",
+    "region": "Wily Tower 1",
+    "category": [
       "! Frags",
       "Wily Tower 1"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Bubbleman (Wily Tower 1)",
-    "region":"Wily Tower 1",
-    "category":[
+    "name": "Fragged Bubbleman (Wily Tower 1)",
+    "region": "Wily Tower 1",
+    "category": [
       "! Frags",
       "Wily Tower 1"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Snakeman (Wily Tower 1)",
-    "region":"Wily Tower 1",
-    "category":[
+    "name": "Fragged Snakeman (Wily Tower 1)",
+    "region": "Wily Tower 1",
+    "category": [
       "! Frags",
       "Wily Tower 1"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Burnerman (Wily Tower 1)",
-    "region":"Wily Tower 1",
-    "category":[
+    "name": "Fragged Burnerman (Wily Tower 1)",
+    "region": "Wily Tower 1",
+    "category": [
       "! Frags",
       "Wily Tower 1"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Waveman (Wily Tower 1)",
-    "region":"Wily Tower 1",
-    "category":[
+    "name": "Fragged Waveman (Wily Tower 1)",
+    "region": "Wily Tower 1",
+    "category": [
       "! Frags",
       "Wily Tower 1"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Wily Tower 1 Stage Clear",
-    "region":"Wily Tower 1",
-    "category":[
+    "name": "Wily Tower 1 Stage Clear",
+    "region": "Wily Tower 1",
+    "category": [
       "! Stage Completion",
       "Wily Tower 1"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Needleman (Wily Tower 2)",
-    "region":"Wily Tower 2",
-    "category":[
+    "name": "Fragged Needleman (Wily Tower 2)",
+    "region": "Wily Tower 2",
+    "category": [
       "! Frags",
       "Wily Tower 2"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Geminiman (Wily Tower 2)",
-    "region":"Wily Tower 2",
-    "category":[
+    "name": "Fragged Geminiman (Wily Tower 2)",
+    "region": "Wily Tower 2",
+    "category": [
       "! Frags",
       "Wily Tower 2"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Woodman (Wily Tower 2)",
-    "region":"Wily Tower 2",
-    "category":[
+    "name": "Fragged Woodman (Wily Tower 2)",
+    "region": "Wily Tower 2",
+    "category": [
       "! Frags",
       "Wily Tower 2"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Gravityman (Wily Tower 2)",
-    "region":"Wily Tower 2",
-    "category":[
+    "name": "Fragged Gravityman (Wily Tower 2)",
+    "region": "Wily Tower 2",
+    "category": [
       "! Frags",
       "Wily Tower 2"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Bubbleman (Wily Tower 2)",
-    "region":"Wily Tower 2",
-    "category":[
+    "name": "Fragged Bubbleman (Wily Tower 2)",
+    "region": "Wily Tower 2",
+    "category": [
       "! Frags",
       "Wily Tower 2"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Hardman (Wily Tower 2)",
-    "region":"Wily Tower 2",
-    "category":[
+    "name": "Fragged Hardman (Wily Tower 2)",
+    "region": "Wily Tower 2",
+    "category": [
       "! Frags",
       "Wily Tower 2"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Wily Tower 2 Stage Clear",
-    "region":"Wily Tower 2",
-    "category":[
+    "name": "Wily Tower 2 Stage Clear",
+    "region": "Wily Tower 2",
+    "category": [
       "! Stage Completion",
       "Wily Tower 2"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Concreteman (Concrete Man)",
-    "region":"Concrete Man",
-    "category":[
+    "name": "Fragged Concreteman (Concrete Man)",
+    "region": "Concrete Man",
+    "category": [
       "! Frags",
       "Concrete Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Stoneman (Concrete Man)",
-    "region":"Concrete Man",
-    "category":[
+    "name": "Fragged Stoneman (Concrete Man)",
+    "region": "Concrete Man",
+    "category": [
       "! Frags",
       "Concrete Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Skullman (Concrete Man)",
-    "region":"Concrete Man",
-    "category":[
+    "name": "Fragged Skullman (Concrete Man)",
+    "region": "Concrete Man",
+    "category": [
       "! Frags",
       "Concrete Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Woodman (Concrete Man)",
-    "region":"Concrete Man",
-    "category":[
+    "name": "Fragged Woodman (Concrete Man)",
+    "region": "Concrete Man",
+    "category": [
       "! Frags",
       "Concrete Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Waveman (Concrete Man)",
-    "region":"Concrete Man",
-    "category":[
+    "name": "Fragged Waveman (Concrete Man)",
+    "region": "Concrete Man",
+    "category": [
       "! Frags",
       "Concrete Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Burnerman (Concrete Man)",
-    "region":"Concrete Man",
-    "category":[
+    "name": "Fragged Burnerman (Concrete Man)",
+    "region": "Concrete Man",
+    "category": [
       "! Frags",
       "Concrete Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Shademan (Concrete Man)",
-    "region":"Concrete Man",
-    "category":[
+    "name": "Fragged Shademan (Concrete Man)",
+    "region": "Concrete Man",
+    "category": [
       "! Frags",
       "Concrete Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Searchman (Concrete Man)",
-    "region":"Concrete Man",
-    "category":[
+    "name": "Fragged Searchman (Concrete Man)",
+    "region": "Concrete Man",
+    "category": [
       "! Frags",
       "Concrete Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Concrete Man Stage Clear",
-    "region":"Concrete Man",
-    "category":[
+    "name": "Concrete Man Stage Clear",
+    "region": "Concrete Man",
+    "category": [
       "! Stage Completion",
       "Concrete Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Tornadoman (Tornado Man)",
-    "region":"Tornado Man",
-    "category":[
+    "name": "Fragged Tornadoman (Tornado Man)",
+    "region": "Tornado Man",
+    "category": [
       "! Frags",
       "Tornado Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Airman (Tornado Man)",
-    "region":"Tornado Man",
-    "category":[
+    "name": "Fragged Airman (Tornado Man)",
+    "region": "Tornado Man",
+    "category": [
       "! Frags",
       "Tornado Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Cloudman (Tornado Man)",
-    "region":"Tornado Man",
-    "category":[
+    "name": "Fragged Cloudman (Tornado Man)",
+    "region": "Tornado Man",
+    "category": [
       "! Frags",
       "Tornado Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Toadman (Tornado Man)",
-    "region":"Tornado Man",
-    "category":[
+    "name": "Fragged Toadman (Tornado Man)",
+    "region": "Tornado Man",
+    "category": [
       "! Frags",
       "Tornado Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Ringman (Tornado Man)",
-    "region":"Tornado Man",
-    "category":[
+    "name": "Fragged Ringman (Tornado Man)",
+    "region": "Tornado Man",
+    "category": [
       "! Frags",
       "Tornado Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Tornado Man Stage Clear",
-    "region":"Tornado Man",
-    "category":[
+    "name": "Tornado Man Stage Clear",
+    "region": "Tornado Man",
+    "category": [
       "! Stage Completion",
       "Tornado Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Splashwoman (Splash Woman)",
-    "region":"Splash Woman",
-    "category":[
+    "name": "Fragged Splashwoman (Splash Woman)",
+    "region": "Splash Woman",
+    "category": [
       "! Frags",
       "Splash Woman"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Diveman (Splash Woman)",
-    "region":"Splash Woman",
-    "category":[
+    "name": "Fragged Diveman (Splash Woman)",
+    "region": "Splash Woman",
+    "category": [
       "! Frags",
       "Splash Woman"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Bubbleman (Splash Woman)",
-    "region":"Splash Woman",
-    "category":[
+    "name": "Fragged Bubbleman (Splash Woman)",
+    "region": "Splash Woman",
+    "category": [
       "! Frags",
       "Splash Woman"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Geminiman (Splash Woman)",
-    "region":"Splash Woman",
-    "category":[
+    "name": "Fragged Geminiman (Splash Woman)",
+    "region": "Splash Woman",
+    "category": [
       "! Frags",
       "Splash Woman"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Burstman (Splash Woman)",
-    "region":"Splash Woman",
-    "category":[
+    "name": "Fragged Burstman (Splash Woman)",
+    "region": "Splash Woman",
+    "category": [
       "! Frags",
       "Splash Woman"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Aquaman (Splash Woman)",
-    "region":"Splash Woman",
-    "category":[
+    "name": "Fragged Aquaman (Splash Woman)",
+    "region": "Splash Woman",
+    "category": [
       "! Frags",
       "Splash Woman"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Pirateman (Splash Woman)",
-    "region":"Splash Woman",
-    "category":[
+    "name": "Fragged Pirateman (Splash Woman)",
+    "region": "Splash Woman",
+    "category": [
       "! Frags",
       "Splash Woman"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Splash Woman Stage Clear",
-    "region":"Splash Woman",
-    "category":[
+    "name": "Splash Woman Stage Clear",
+    "region": "Splash Woman",
+    "category": [
       "! Stage Completion",
       "Splash Woman"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Plugman (Plug Man)",
-    "region":"Plug Man",
-    "category":[
+    "name": "Fragged Plugman (Plug Man)",
+    "region": "Plug Man",
+    "category": [
       "! Frags",
       "Plug Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Sparkman (Plug Man)",
-    "region":"Plug Man",
-    "category":[
+    "name": "Fragged Sparkman (Plug Man)",
+    "region": "Plug Man",
+    "category": [
       "! Frags",
       "Plug Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Junkman (Plug Man)",
-    "region":"Plug Man",
-    "category":[
+    "name": "Fragged Junkman (Plug Man)",
+    "region": "Plug Man",
+    "category": [
       "! Frags",
       "Plug Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Dynamoman (Plug Man)",
-    "region":"Plug Man",
-    "category":[
+    "name": "Fragged Dynamoman (Plug Man)",
+    "region": "Plug Man",
+    "category": [
       "! Frags",
       "Plug Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Brightman (Plug Man)",
-    "region":"Plug Man",
-    "category":[
+    "name": "Fragged Brightman (Plug Man)",
+    "region": "Plug Man",
+    "category": [
       "! Frags",
       "Plug Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Plug Man Stage Clear",
-    "region":"Plug Man",
-    "category":[
+    "name": "Plug Man Stage Clear",
+    "region": "Plug Man",
+    "category": [
       "! Stage Completion",
       "Plug Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Jewelman (Jewel Man)",
-    "region":"Jewel Man",
-    "category":[
+    "name": "Fragged Jewelman (Jewel Man)",
+    "region": "Jewel Man",
+    "category": [
       "! Frags",
       "Jewel Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Crystalman (Jewel Man)",
-    "region":"Jewel Man",
-    "category":[
+    "name": "Fragged Crystalman (Jewel Man)",
+    "region": "Jewel Man",
+    "category": [
       "! Frags",
       "Jewel Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Drillman (Jewel Man)",
-    "region":"Jewel Man",
-    "category":[
+    "name": "Fragged Drillman (Jewel Man)",
+    "region": "Jewel Man",
+    "category": [
       "! Frags",
       "Jewel Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Frostman (Jewel Man)",
-    "region":"Jewel Man",
-    "category":[
+    "name": "Fragged Frostman (Jewel Man)",
+    "region": "Jewel Man",
+    "category": [
       "! Frags",
       "Jewel Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Snakeman (Jewel Man)",
-    "region":"Jewel Man",
-    "category":[
+    "name": "Fragged Snakeman (Jewel Man)",
+    "region": "Jewel Man",
+    "category": [
       "! Frags",
       "Jewel Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Flashman (Jewel Man)",
-    "region":"Jewel Man",
-    "category":[
+    "name": "Fragged Flashman (Jewel Man)",
+    "region": "Jewel Man",
+    "category": [
       "! Frags",
       "Jewel Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Jewel Man Stage Clear",
-    "region":"Jewel Man",
-    "category":[
+    "name": "Jewel Man Stage Clear",
+    "region": "Jewel Man",
+    "category": [
       "! Stage Completion",
       "Jewel Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Hornetman (Hornet Man)",
-    "region":"Hornet Man",
-    "category":[
+    "name": "Fragged Hornetman (Hornet Man)",
+    "region": "Hornet Man",
+    "category": [
       "! Frags",
       "Hornet Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Slashman (Hornet Man)",
-    "region":"Hornet Man",
-    "category":[
+    "name": "Fragged Slashman (Hornet Man)",
+    "region": "Hornet Man",
+    "category": [
       "! Frags",
       "Hornet Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Plantman (Hornet Man)",
-    "region":"Hornet Man",
-    "category":[
+    "name": "Fragged Plantman (Hornet Man)",
+    "region": "Hornet Man",
+    "category": [
       "! Frags",
       "Hornet Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Pharaohman (Hornet Man)",
-    "region":"Hornet Man",
-    "category":[
+    "name": "Fragged Pharaohman (Hornet Man)",
+    "region": "Hornet Man",
+    "category": [
       "! Frags",
       "Hornet Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Heatman (Hornet Man)",
-    "region":"Hornet Man",
-    "category":[
+    "name": "Fragged Heatman (Hornet Man)",
+    "region": "Hornet Man",
+    "category": [
       "! Frags",
       "Hornet Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Topman (Hornet Man)",
-    "region":"Hornet Man",
-    "category":[
+    "name": "Fragged Topman (Hornet Man)",
+    "region": "Hornet Man",
+    "category": [
       "! Frags",
       "Hornet Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Quickman (Hornet Man)",
-    "region":"Hornet Man",
-    "category":[
+    "name": "Fragged Quickman (Hornet Man)",
+    "region": "Hornet Man",
+    "category": [
       "! Frags",
       "Hornet Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Tenguman (Hornet Man)",
-    "region":"Hornet Man",
-    "category":[
+    "name": "Fragged Tenguman (Hornet Man)",
+    "region": "Hornet Man",
+    "category": [
       "! Frags",
       "Hornet Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Hornet Man Stage Clear",
-    "region":"Hornet Man",
-    "category":[
+    "name": "Hornet Man Stage Clear",
+    "region": "Hornet Man",
+    "category": [
       "! Stage Completion",
       "Hornet Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Magmaman (Magma Man)",
-    "region":"Magma Man",
-    "category":[
+    "name": "Fragged Magmaman (Magma Man)",
+    "region": "Magma Man",
+    "category": [
       "! Frags",
       "Magma Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Flameman (Magma Man)",
-    "region":"Magma Man",
-    "category":[
+    "name": "Fragged Flameman (Magma Man)",
+    "region": "Magma Man",
+    "category": [
       "! Frags",
       "Magma Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Needleman (Magma Man)",
-    "region":"Magma Man",
-    "category":[
+    "name": "Fragged Needleman (Magma Man)",
+    "region": "Magma Man",
+    "category": [
       "! Frags",
       "Magma Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Swordman (Magma Man)",
-    "region":"Magma Man",
-    "category":[
+    "name": "Fragged Swordman (Magma Man)",
+    "region": "Magma Man",
+    "category": [
       "! Frags",
       "Magma Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Dustman (Magma Man)",
-    "region":"Magma Man",
-    "category":[
+    "name": "Fragged Dustman (Magma Man)",
+    "region": "Magma Man",
+    "category": [
       "! Frags",
       "Magma Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Magma Man Stage Clear",
-    "region":"Magma Man",
-    "category":[
+    "name": "Magma Man Stage Clear",
+    "region": "Magma Man",
+    "category": [
       "! Stage Completion",
       "Magma Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Galaxyman (Galaxy Man)",
-    "region":"Galaxy Man",
-    "category":[
+    "name": "Fragged Galaxyman (Galaxy Man)",
+    "region": "Galaxy Man",
+    "category": [
       "! Frags",
       "Galaxy Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Starman (Galaxy Man)",
-    "region":"Galaxy Man",
-    "category":[
+    "name": "Fragged Starman (Galaxy Man)",
+    "region": "Galaxy Man",
+    "category": [
       "! Frags",
       "Galaxy Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Crashman (Galaxy Man)",
-    "region":"Galaxy Man",
-    "category":[
+    "name": "Fragged Crashman (Galaxy Man)",
+    "region": "Galaxy Man",
+    "category": [
       "! Frags",
       "Galaxy Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Gravityman (Galaxy Man)",
-    "region":"Galaxy Man",
-    "category":[
+    "name": "Fragged Gravityman (Galaxy Man)",
+    "region": "Galaxy Man",
+    "category": [
       "! Frags",
       "Galaxy Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Metalman (Galaxy Man)",
-    "region":"Galaxy Man",
-    "category":[
+    "name": "Fragged Metalman (Galaxy Man)",
+    "region": "Galaxy Man",
+    "category": [
       "! Frags",
       "Galaxy Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Astroman (Galaxy Man)",
-    "region":"Galaxy Man",
-    "category":[
+    "name": "Fragged Astroman (Galaxy Man)",
+    "region": "Galaxy Man",
+    "category": [
       "! Frags",
       "Galaxy Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Springman (Galaxy Man)",
-    "region":"Galaxy Man",
-    "category":[
+    "name": "Fragged Springman (Galaxy Man)",
+    "region": "Galaxy Man",
+    "category": [
       "! Frags",
       "Galaxy Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Magnetman (Galaxy Man",
-    "region":"Galaxy Man",
-    "category":[
+    "name": "Fragged Magnetman (Galaxy Man",
+    "region": "Galaxy Man",
+    "category": [
       "! Frags",
       "Galaxy Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Galaxy Man Stage Clear",
-    "region":"Galaxy Man",
-    "category":[
+    "name": "Galaxy Man Stage Clear",
+    "region": "Galaxy Man",
+    "category": [
       "! Stage Completion",
       "Galaxy Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Grenademan (Wily Castle Entrance)",
-    "region":"Wily Castle Entrance",
-    "category":[
+    "name": "Fragged Grenademan (Wily Castle Entrance)",
+    "region": "Wily Castle Entrance",
+    "category": [
       "! Frags",
       "Wily Castle Entrance"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Shadowman (Wily Castle Entrance)",
-    "region":"Wily Castle Entrance",
-    "category":[
+    "name": "Fragged Shadowman (Wily Castle Entrance)",
+    "region": "Wily Castle Entrance",
+    "category": [
       "! Frags",
       "Wily Castle Entrance"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Gyroman (Wily Castle Entrance)",
-    "region":"Wily Castle Entrance",
-    "category":[
+    "name": "Fragged Gyroman (Wily Castle Entrance)",
+    "region": "Wily Castle Entrance",
+    "category": [
       "! Frags",
       "Wily Castle Entrance"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Turboman (Wily Castle Entrance)",
-    "region":"Wily Castle Entrance",
-    "category":[
+    "name": "Fragged Turboman (Wily Castle Entrance)",
+    "region": "Wily Castle Entrance",
+    "category": [
       "! Frags",
       "Wily Castle Entrance"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Clownman (Wily Castle Entrance)",
-    "region":"Wily Castle Entrance",
-    "category":[
+    "name": "Fragged Clownman (Wily Castle Entrance)",
+    "region": "Wily Castle Entrance",
+    "category": [
       "! Frags",
       "Wily Castle Entrance"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Ringman (Wily Castle Entrance)",
-    "region":"Wily Castle Entrance",
-    "category":[
+    "name": "Fragged Ringman (Wily Castle Entrance)",
+    "region": "Wily Castle Entrance",
+    "category": [
       "! Frags",
       "Wily Castle Entrance"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Hardman (Wily Castle Entrance)",
-    "region":"Wily Castle Entrance",
-    "category":[
+    "name": "Fragged Hardman (Wily Castle Entrance)",
+    "region": "Wily Castle Entrance",
+    "category": [
       "! Frags",
       "Wily Castle Entrance"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Wily Castle Entrance Stage Clear",
-    "region":"Wily Castle Entrance",
-    "category":[
+    "name": "Wily Castle Entrance Stage Clear",
+    "region": "Wily Castle Entrance",
+    "category": [
       "! Stage Completion",
       "Wily Castle Entrance"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Grenademan (Wily Castle Interior)",
-    "region":"Wily Castle Interior",
-    "category":[
+    "name": "Fragged Grenademan (Wily Castle Interior)",
+    "region": "Wily Castle Interior",
+    "category": [
       "! Frags",
       "Wily Castle Interior"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Shadowman (Wily Castle Interior)",
-    "region":"Wily Castle Interior",
-    "category":[
+    "name": "Fragged Shadowman (Wily Castle Interior)",
+    "region": "Wily Castle Interior",
+    "category": [
       "! Frags",
       "Wily Castle Interior"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Gyroman (Wily Castle Interior)",
-    "region":"Wily Castle Interior",
-    "category":[
+    "name": "Fragged Gyroman (Wily Castle Interior)",
+    "region": "Wily Castle Interior",
+    "category": [
       "! Frags",
       "Wily Castle Interior"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Turboman (Wily Castle Interior)",
-    "region":"Wily Castle Interior",
-    "category":[
+    "name": "Fragged Turboman (Wily Castle Interior)",
+    "region": "Wily Castle Interior",
+    "category": [
       "! Frags",
       "Wily Castle Interior"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Clownman (Wily Castle Interior)",
-    "region":"Wily Castle Interior",
-    "category":[
+    "name": "Fragged Clownman (Wily Castle Interior)",
+    "region": "Wily Castle Interior",
+    "category": [
       "! Frags",
       "Wily Castle Interior"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Ringman (Wily Castle Interior)",
-    "region":"Wily Castle Interior",
-    "category":[
+    "name": "Fragged Ringman (Wily Castle Interior)",
+    "region": "Wily Castle Interior",
+    "category": [
       "! Frags",
       "Wily Castle Interior"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Hardman (Wily Castle Interior)",
-    "region":"Wily Castle Interior",
-    "category":[
+    "name": "Fragged Hardman (Wily Castle Interior)",
+    "region": "Wily Castle Interior",
+    "category": [
       "! Frags",
       "Wily Castle Interior"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Wily Castle Interior Stage Clear",
-    "region":"Wily Castle Interior",
-    "category":[
+    "name": "Wily Castle Interior Stage Clear",
+    "region": "Wily Castle Interior",
+    "category": [
       "! Stage Completion",
       "Wily Castle Interior"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Grenademan (Wily Castle Tower)",
-    "region":"Wily Castle Tower",
-    "category":[
+    "name": "Fragged Grenademan (Wily Castle Tower)",
+    "region": "Wily Castle Tower",
+    "category": [
       "! Frags",
       "Wily Castle Tower"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Shadowman (Wily Castle Tower)",
-    "region":"Wily Castle Tower",
-    "category":[
+    "name": "Fragged Shadowman (Wily Castle Tower)",
+    "region": "Wily Castle Tower",
+    "category": [
       "! Frags",
       "Wily Castle Tower"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Gyroman (Wily Castle Tower)",
-    "region":"Wily Castle Tower",
-    "category":[
+    "name": "Fragged Gyroman (Wily Castle Tower)",
+    "region": "Wily Castle Tower",
+    "category": [
       "! Frags",
       "Wily Castle Tower"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Turboman (Wily Castle Tower)",
-    "region":"Wily Castle Tower",
-    "category":[
+    "name": "Fragged Turboman (Wily Castle Tower)",
+    "region": "Wily Castle Tower",
+    "category": [
       "! Frags",
       "Wily Castle Tower"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Clownman (Wily Castle Tower)",
-    "region":"Wily Castle Tower",
-    "category":[
+    "name": "Fragged Clownman (Wily Castle Tower)",
+    "region": "Wily Castle Tower",
+    "category": [
       "! Frags",
       "Wily Castle Tower"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Ringman (Wily Castle Tower)",
-    "region":"Wily Castle Tower",
-    "category":[
+    "name": "Fragged Ringman (Wily Castle Tower)",
+    "region": "Wily Castle Tower",
+    "category": [
       "! Frags",
       "Wily Castle Tower"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Hardman (Wily Castle Tower)",
-    "region":"Wily Castle Tower",
-    "category":[
+    "name": "Fragged Hardman (Wily Castle Tower)",
+    "region": "Wily Castle Tower",
+    "category": [
       "! Frags",
       "Wily Castle Tower"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Wily Castle Tower Stage Clear",
-    "region":"Wily Castle Tower",
-    "category":[
+    "name": "Wily Castle Tower Stage Clear",
+    "region": "Wily Castle Tower",
+    "category": [
       "! Stage Completion",
       "Wily Castle Tower"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Fakeman (Fake Man)",
-    "region":"Fake Man",
-    "category":[
+    "name": "Fragged Fakeman (Fake Man)",
+    "region": "Fake Man",
+    "category": [
       "! Frags",
       "Fake Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Fakeman(2) (Fake Man)",
-    "region":"Fake Man",
-    "category":[
+    "name": "Fragged Fakeman(2) (Fake Man)",
+    "region": "Fake Man",
+    "category": [
       "! Frags",
       "Fake Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Fakeman(3) (Fake Man)",
-    "region":"Fake Man",
-    "category":[
+    "name": "Fragged Fakeman(3) (Fake Man)",
+    "region": "Fake Man",
+    "category": [
       "! Frags",
       "Fake Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Fakeman(4) (Fake Man)",
-    "region":"Fake Man",
-    "category":[
+    "name": "Fragged Fakeman(4) (Fake Man)",
+    "region": "Fake Man",
+    "category": [
       "! Frags",
       "Fake Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Fakeman(5) (Fake Man)",
-    "region":"Fake Man",
-    "category":[
+    "name": "Fragged Fakeman(5) (Fake Man)",
+    "region": "Fake Man",
+    "category": [
       "! Frags",
       "Fake Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Fakeman(6) (Fake Man)",
-    "region":"Fake Man",
-    "category":[
+    "name": "Fragged Fakeman(6) (Fake Man)",
+    "region": "Fake Man",
+    "category": [
       "! Frags",
       "Fake Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fake Man Stage Clear",
-    "region":"Fake Man",
-    "category":[
+    "name": "Fake Man Stage Clear",
+    "region": "Fake Man",
+    "category": [
       "! Stage Completion",
       "Fake Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Blademan (Blade Man)",
-    "region":"Blade Man",
-    "category":[
+    "name": "Fragged Blademan (Blade Man)",
+    "region": "Blade Man",
+    "category": [
       "! Frags",
       "Blade Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Knightman (Blade Man)",
-    "region":"Blade Man",
-    "category":[
+    "name": "Fragged Knightman (Blade Man)",
+    "region": "Blade Man",
+    "category": [
       "! Frags",
       "Blade Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Stoneman (Blade Man)",
-    "region":"Blade Man",
-    "category":[
+    "name": "Fragged Stoneman (Blade Man)",
+    "region": "Blade Man",
+    "category": [
       "! Frags",
       "Blade Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Snakeman (Blade Man)",
-    "region":"Blade Man",
-    "category":[
+    "name": "Fragged Snakeman (Blade Man)",
+    "region": "Blade Man",
+    "category": [
       "! Frags",
       "Blade Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Swordman (Blade Man)",
-    "region":"Blade Man",
-    "category":[
+    "name": "Fragged Swordman (Blade Man)",
+    "region": "Blade Man",
+    "category": [
       "! Frags",
       "Blade Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Blade Man Stage Clear",
-    "region":"Blade Man",
-    "category":[
+    "name": "Blade Man Stage Clear",
+    "region": "Blade Man",
+    "category": [
       "! Stage Completion",
       "Blade Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Pumpman (Pump Man)",
-    "region":"Pump Man",
-    "category":[
+    "name": "Fragged Pumpman (Pump Man)",
+    "region": "Pump Man",
+    "category": [
       "! Frags",
       "Pump Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Aquaman (Pump Man)",
-    "region":"Pump Man",
-    "category":[
+    "name": "Fragged Aquaman (Pump Man)",
+    "region": "Pump Man",
+    "category": [
       "! Frags",
       "Pump Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Waveman (Pump Man)",
-    "region":"Pump Man",
-    "category":[
+    "name": "Fragged Waveman (Pump Man)",
+    "region": "Pump Man",
+    "category": [
       "! Frags",
       "Pump Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Bubbleman (Pump Man)",
-    "region":"Pump Man",
-    "category":[
+    "name": "Fragged Bubbleman (Pump Man)",
+    "region": "Pump Man",
+    "category": [
       "! Frags",
       "Pump Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Pirateman (Pump Man)",
-    "region":"Pump Man",
-    "category":[
+    "name": "Fragged Pirateman (Pump Man)",
+    "region": "Pump Man",
+    "category": [
       "! Frags",
       "Pump Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Pump Man Stage Clear",
-    "region":"Pump Man",
-    "category":[
+    "name": "Pump Man Stage Clear",
+    "region": "Pump Man",
+    "category": [
       "! Stage Completion",
       "Pump Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Commandoman (Commando Man)",
-    "region":"Commando Man",
-    "category":[
+    "name": "Fragged Commandoman (Commando Man)",
+    "region": "Commando Man",
+    "category": [
       "! Frags",
       "Commando Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Napalmman (Commando Man)",
-    "region":"Commando Man",
-    "category":[
+    "name": "Fragged Napalmman (Commando Man)",
+    "region": "Commando Man",
+    "category": [
       "! Frags",
       "Commando Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Searchman (Commando Man)",
-    "region":"Commando Man",
-    "category":[
+    "name": "Fragged Searchman (Commando Man)",
+    "region": "Commando Man",
+    "category": [
       "! Frags",
       "Commando Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Grenademan (Commando Man)",
-    "region":"Commando Man",
-    "category":[
+    "name": "Fragged Grenademan (Commando Man)",
+    "region": "Commando Man",
+    "category": [
       "! Frags",
       "Commando Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Crashman (Commando Man)",
-    "region":"Commando Man",
-    "category":[
+    "name": "Fragged Crashman (Commando Man)",
+    "region": "Commando Man",
+    "category": [
       "! Frags",
       "Commando Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Groundman (Commando Man)",
-    "region":"Commando Man",
-    "category":[
+    "name": "Fragged Groundman (Commando Man)",
+    "region": "Commando Man",
+    "category": [
       "! Frags",
       "Commando Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Commando Man Stage Clear",
-    "region":"Commando Man",
-    "category":[
+    "name": "Commando Man Stage Clear",
+    "region": "Commando Man",
+    "category": [
       "! Stage Completion",
       "Commando Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Chillman (Chill Man)",
-    "region":"Chill Man",
-    "category":[
+    "name": "Fragged Chillman (Chill Man)",
+    "region": "Chill Man",
+    "category": [
       "! Frags",
       "Chill Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Geminiman (Chill Man)",
-    "region":"Chill Man",
-    "category":[
+    "name": "Fragged Geminiman (Chill Man)",
+    "region": "Chill Man",
+    "category": [
       "! Frags",
       "Chill Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Freezeman (Chill Man)",
-    "region":"Chill Man",
-    "category":[
+    "name": "Fragged Freezeman (Chill Man)",
+    "region": "Chill Man",
+    "category": [
       "! Frags",
       "Chill Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Blizzardman (Chill Man)",
-    "region":"Chill Man",
-    "category":[
+    "name": "Fragged Blizzardman (Chill Man)",
+    "region": "Chill Man",
+    "category": [
       "! Frags",
       "Chill Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Crystalman (Chill Man)",
-    "region":"Chill Man",
-    "category":[
+    "name": "Fragged Crystalman (Chill Man)",
+    "region": "Chill Man",
+    "category": [
       "! Frags",
       "Chill Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Flashman (Chill Man)",
-    "region":"Chill Man",
-    "category":[
+    "name": "Fragged Flashman (Chill Man)",
+    "region": "Chill Man",
+    "category": [
       "! Frags",
       "Chill Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Chill Man Stage Clear",
-    "region":"Chill Man",
-    "category":[
+    "name": "Chill Man Stage Clear",
+    "region": "Chill Man",
+    "category": [
       "! Stage Completion",
       "Chill Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Sheepman (Sheep Man)",
-    "region":"Sheep Man",
-    "category":[
+    "name": "Fragged Sheepman (Sheep Man)",
+    "region": "Sheep Man",
+    "category": [
       "! Frags",
       "Sheep Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Sparkman (Sheep Man)",
-    "region":"Sheep Man",
-    "category":[
+    "name": "Fragged Sparkman (Sheep Man)",
+    "region": "Sheep Man",
+    "category": [
       "! Frags",
       "Sheep Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Clownman (Sheep Man)",
-    "region":"Sheep Man",
-    "category":[
+    "name": "Fragged Clownman (Sheep Man)",
+    "region": "Sheep Man",
+    "category": [
       "! Frags",
       "Sheep Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Dynamoman (Sheep Man)",
-    "region":"Sheep Man",
-    "category":[
+    "name": "Fragged Dynamoman (Sheep Man)",
+    "region": "Sheep Man",
+    "category": [
       "! Frags",
       "Sheep Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Cloudman (Sheep Man)",
-    "region":"Sheep Man",
-    "category":[
+    "name": "Fragged Cloudman (Sheep Man)",
+    "region": "Sheep Man",
+    "category": [
       "! Frags",
       "Sheep Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Gravityman (Sheep Man)",
-    "region":"Sheep Man",
-    "category":[
+    "name": "Fragged Gravityman (Sheep Man)",
+    "region": "Sheep Man",
+    "category": [
       "! Frags",
       "Sheep Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Slashman (Sheep Man)",
-    "region":"Sheep Man",
-    "category":[
+    "name": "Fragged Slashman (Sheep Man)",
+    "region": "Sheep Man",
+    "category": [
       "! Frags",
       "Sheep Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Sheep Man Stage Clear",
-    "region":"Sheep Man",
-    "category":[
+    "name": "Sheep Man Stage Clear",
+    "region": "Sheep Man",
+    "category": [
       "! Stage Completion",
       "Sheep Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Strikeman (Strike Man)",
-    "region":"Strike Man",
-    "category":[
+    "name": "Fragged Strikeman (Strike Man)",
+    "region": "Strike Man",
+    "category": [
       "! Frags",
       "Strike Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Woodman (Strike Man)",
-    "region":"Strike Man",
-    "category":[
+    "name": "Fragged Woodman (Strike Man)",
+    "region": "Strike Man",
+    "category": [
       "! Frags",
       "Strike Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Chargeman (Strike Man)",
-    "region":"Strike Man",
-    "category":[
+    "name": "Fragged Chargeman (Strike Man)",
+    "region": "Strike Man",
+    "category": [
       "! Frags",
       "Strike Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Hardman (Strike Man)",
-    "region":"Strike Man",
-    "category":[
+    "name": "Fragged Hardman (Strike Man)",
+    "region": "Strike Man",
+    "category": [
       "! Frags",
       "Strike Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Tomahawkman (Strike Man)",
-    "region":"Strike Man",
-    "category":[
+    "name": "Fragged Tomahawkman (Strike Man)",
+    "region": "Strike Man",
+    "category": [
       "! Frags",
       "Strike Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Springman (Strike Man)",
-    "region":"Strike Man",
-    "category":[
+    "name": "Fragged Springman (Strike Man)",
+    "region": "Strike Man",
+    "category": [
       "! Frags",
       "Strike Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Strike Man Stage Clear",
-    "region":"Strike Man",
-    "category":[
+    "name": "Strike Man Stage Clear",
+    "region": "Strike Man",
+    "category": [
       "! Stage Completion",
       "Strike Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Nitroman (Nitro Man)",
-    "region":"Nitro Man",
-    "category":[
+    "name": "Fragged Nitroman (Nitro Man)",
+    "region": "Nitro Man",
+    "category": [
       "! Frags",
       "Nitro Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Turboman (Nitro Man)",
-    "region":"Nitro Man",
-    "category":[
+    "name": "Fragged Turboman (Nitro Man)",
+    "region": "Nitro Man",
+    "category": [
       "! Frags",
       "Nitro Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Quickman (Nitro Man)",
-    "region":"Nitro Man",
-    "category":[
+    "name": "Fragged Quickman (Nitro Man)",
+    "region": "Nitro Man",
+    "category": [
       "! Frags",
       "Nitro Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Topman (Nitro Man)",
-    "region":"Nitro Man",
-    "category":[
+    "name": "Fragged Topman (Nitro Man)",
+    "region": "Nitro Man",
+    "category": [
       "! Frags",
       "Nitro Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Centaurman (Nitro Man)",
-    "region":"Nitro Man",
-    "category":[
+    "name": "Fragged Centaurman (Nitro Man)",
+    "region": "Nitro Man",
+    "category": [
       "! Frags",
       "Nitro Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Nitro Man Stage Clear",
-    "region":"Nitro Man",
-    "category":[
+    "name": "Nitro Man Stage Clear",
+    "region": "Nitro Man",
+    "category": [
       "! Stage Completion",
       "Nitro Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Solarman (Solar Man)",
-    "region":"Solar Man",
-    "category":[
+    "name": "Fragged Solarman (Solar Man)",
+    "region": "Solar Man",
+    "category": [
       "! Frags",
       "Solar Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Heatman (Solar Man)",
-    "region":"Solar Man",
-    "category":[
+    "name": "Fragged Heatman (Solar Man)",
+    "region": "Solar Man",
+    "category": [
       "! Frags",
       "Solar Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Metalman (Solar Man)",
-    "region":"Solar Man",
-    "category":[
+    "name": "Fragged Metalman (Solar Man)",
+    "region": "Solar Man",
+    "category": [
       "! Frags",
       "Solar Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Junkman (Solar Man)",
-    "region":"Solar Man",
-    "category":[
+    "name": "Fragged Junkman (Solar Man)",
+    "region": "Solar Man",
+    "category": [
       "! Frags",
       "Solar Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Plantman (Solar Man)",
-    "region":"Solar Man",
-    "category":[
+    "name": "Fragged Plantman (Solar Man)",
+    "region": "Solar Man",
+    "category": [
       "! Frags",
       "Solar Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Solar Man Stage Clear",
-    "region":"Solar Man",
-    "category":[
+    "name": "Solar Man Stage Clear",
+    "region": "Solar Man",
+    "category": [
       "! Stage Completion",
       "Solar Man"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Sniper Joe (Wily Station Archives)",
-    "region":"Wily Station Archives",
-    "category":[
+    "name": "Fragged Sniper Joe (Wily Station Archives)",
+    "region": "Wily Station Archives",
+    "category": [
       "! Frags",
       "Wily Station Archives"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Woodman (Wily Station Archives)",
-    "region":"Wily Station Archives",
-    "category":[
+    "name": "Fragged Woodman (Wily Station Archives)",
+    "region": "Wily Station Archives",
+    "category": [
       "! Frags",
       "Wily Station Archives"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Geminiman (Wily Station Archives)",
-    "region":"Wily Station Archives",
-    "category":[
+    "name": "Fragged Geminiman (Wily Station Archives)",
+    "region": "Wily Station Archives",
+    "category": [
       "! Frags",
       "Wily Station Archives"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Napalmman (Wily Station Archives)",
-    "region":"Wily Station Archives",
-    "category":[
+    "name": "Fragged Napalmman (Wily Station Archives)",
+    "region": "Wily Station Archives",
+    "category": [
       "! Frags",
       "Wily Station Archives"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Flameman (Wily Station Archives)",
-    "region":"Wily Station Archives",
-    "category":[
+    "name": "Fragged Flameman (Wily Station Archives)",
+    "region": "Wily Station Archives",
+    "category": [
       "! Frags",
       "Wily Station Archives"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Slashman (Wily Station Archives)",
-    "region":"Wily Station Archives",
-    "category":[
+    "name": "Fragged Slashman (Wily Station Archives)",
+    "region": "Wily Station Archives",
+    "category": [
       "! Frags",
       "Wily Station Archives"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Frostman (Wily Station Archives)",
-    "region":"Wily Station Archives",
-    "category":[
+    "name": "Fragged Frostman (Wily Station Archives)",
+    "region": "Wily Station Archives",
+    "category": [
       "! Frags",
       "Wily Station Archives"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Wily Station Archives Stage Clear",
-    "region":"Wily Station Archives",
-    "category":[
+    "name": "Wily Station Archives Stage Clear",
+    "region": "Wily Station Archives",
+    "category": [
       "! Stage Completion",
       "Wily Station Archives"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Sniper Joe (Wily Station Manufactory)",
-    "region":"Wily Station Manufactory",
-    "category":[
+    "name": "Fragged Sniper Joe (Wily Station Manufactory)",
+    "region": "Wily Station Manufactory",
+    "category": [
       "! Frags",
       "Wily Station Manufactory"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Woodman (Wily Station Manufactory)",
-    "region":"Wily Station Manufactory",
-    "category":[
+    "name": "Fragged Woodman (Wily Station Manufactory)",
+    "region": "Wily Station Manufactory",
+    "category": [
       "! Frags",
       "Wily Station Manufactory"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Geminiman (Wily Station Manufactory)",
-    "region":"Wily Station Manufactory",
-    "category":[
+    "name": "Fragged Geminiman (Wily Station Manufactory)",
+    "region": "Wily Station Manufactory",
+    "category": [
       "! Frags",
       "Wily Station Manufactory"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Napalmman (Wily Station Manufactory)",
-    "region":"Wily Station Manufactory",
-    "category":[
+    "name": "Fragged Napalmman (Wily Station Manufactory)",
+    "region": "Wily Station Manufactory",
+    "category": [
       "! Frags",
       "Wily Station Manufactory"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Flameman (Wily Station Manufactory)",
-    "region":"Wily Station Manufactory",
-    "category":[
+    "name": "Fragged Flameman (Wily Station Manufactory)",
+    "region": "Wily Station Manufactory",
+    "category": [
       "! Frags",
       "Wily Station Manufactory"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Slashman (Wily Station Manufactory)",
-    "region":"Wily Station Manufactory",
-    "category":[
+    "name": "Fragged Slashman (Wily Station Manufactory)",
+    "region": "Wily Station Manufactory",
+    "category": [
       "! Frags",
       "Wily Station ArchiManufactoryves"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Frostman (Wily Station Manufactory)",
-    "region":"Wily Station Manufactory",
-    "category":[
+    "name": "Fragged Frostman (Wily Station Manufactory)",
+    "region": "Wily Station Manufactory",
+    "category": [
       "! Frags",
       "Wily Station Manufactory"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Wily Station Manufactory Stage Clear",
-    "region":"Wily Station Manufactory",
-    "category":[
+    "name": "Wily Station Manufactory Stage Clear",
+    "region": "Wily Station Manufactory",
+    "category": [
       "! Stage Completion",
       "Wily Station Manufactory"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Blademan (Wily Station Ascent)",
-    "region":"Wily Station Ascent",
-    "category":[
+    "name": "Fragged Blademan (Wily Station Ascent)",
+    "region": "Wily Station Ascent",
+    "category": [
       "! Frags",
       "Wily Station Ascent"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Commandoman (Wily Station Ascent)",
-    "region":"Wily Station Ascent",
-    "category":[
+    "name": "Fragged Commandoman (Wily Station Ascent)",
+    "region": "Wily Station Ascent",
+    "category": [
       "! Frags",
       "Wily Station Ascent"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Sheepman (Wily Station Ascent)",
-    "region":"Wily Station Ascent",
-    "category":[
+    "name": "Fragged Sheepman (Wily Station Ascent)",
+    "region": "Wily Station Ascent",
+    "category": [
       "! Frags",
       "Wily Station Ascent"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Solarman (Wily Station Ascent)",
-    "region":"Wily Station Ascent",
-    "category":[
+    "name": "Fragged Solarman (Wily Station Ascent)",
+    "region": "Wily Station Ascent",
+    "category": [
       "! Frags",
       "Wily Station Ascent"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Strikeman (Wily Station Ascent)",
-    "region":"Wily Station Ascent",
-    "category":[
+    "name": "Fragged Strikeman (Wily Station Ascent)",
+    "region": "Wily Station Ascent",
+    "category": [
       "! Frags",
       "Wily Station Ascent"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Pumpman (Wily Station Ascent)",
-    "region":"Wily Station Ascent",
-    "category":[
+    "name": "Fragged Pumpman (Wily Station Ascent)",
+    "region": "Wily Station Ascent",
+    "category": [
       "! Frags",
       "Wily Station Ascent"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Chillman (Wily Station Ascent)",
-    "region":"Wily Station Ascent",
-    "category":[
+    "name": "Fragged Chillman (Wily Station Ascent)",
+    "region": "Wily Station Ascent",
+    "category": [
       "! Frags",
       "Wily Station Ascent"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Nitroman (Wily Station Ascent)",
-    "region":"Wily Station Ascent",
-    "category":[
+    "name": "Fragged Nitroman (Wily Station Ascent)",
+    "region": "Wily Station Ascent",
+    "category": [
       "! Frags",
       "Wily Station Ascent"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Wily Station Ascent Stage Clear",
-    "region":"Wily Station Ascent",
-    "category":[
+    "name": "Wily Station Ascent Stage Clear",
+    "region": "Wily Station Ascent",
+    "category": [
       "! Stage Completion",
       "Wily Station Ascent"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Blademan (Wily Station Apex)",
-    "region":"Wily Station Apex",
-    "category":[
+    "name": "Fragged Blademan (Wily Station Apex)",
+    "region": "Wily Station Apex",
+    "category": [
       "! Frags",
       "Wily Station Apex"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Commandoman (Wily Station Apex)",
-    "region":"Wily Station Apex",
-    "category":[
+    "name": "Fragged Commandoman (Wily Station Apex)",
+    "region": "Wily Station Apex",
+    "category": [
       "! Frags",
       "Wily Station Apex"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Sheepman (Wily Station Apex)",
-    "region":"Wily Station Apex",
-    "category":[
+    "name": "Fragged Sheepman (Wily Station Apex)",
+    "region": "Wily Station Apex",
+    "category": [
       "! Frags",
       "Wily Station Apex"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Solarman (Wily Station Apex)",
-    "region":"Wily Station Apex",
-    "category":[
+    "name": "Fragged Solarman (Wily Station Apex)",
+    "region": "Wily Station Apex",
+    "category": [
       "! Frags",
       "Wily Station Apex"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Strikeman (Wily Station Apex)",
-    "region":"Wily Station Apex",
-    "category":[
+    "name": "Fragged Strikeman (Wily Station Apex)",
+    "region": "Wily Station Apex",
+    "category": [
       "! Frags",
       "Wily Station Apex"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Pumpman (Wily Station Apex)",
-    "region":"Wily Station Apex",
-    "category":[
+    "name": "Fragged Pumpman (Wily Station Apex)",
+    "region": "Wily Station Apex",
+    "category": [
       "! Frags",
       "Wily Station Apex"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Chillman (Wily Station Apex)",
-    "region":"Wily Station Apex",
-    "category":[
+    "name": "Fragged Chillman (Wily Station Apex)",
+    "region": "Wily Station Apex",
+    "category": [
       "! Frags",
       "Wily Station Apex"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Nitroman (Wily Station Apex)",
-    "region":"Wily Station Apex",
-    "category":[
+    "name": "Fragged Nitroman (Wily Station Apex)",
+    "region": "Wily Station Apex",
+    "category": [
       "! Frags",
       "Wily Station Apex"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Wily Station Apex Stage Clear",
-    "region":"Wily Station Apex",
-    "category":[
+    "name": "Wily Station Apex Stage Clear",
+    "region": "Wily Station Apex",
+    "category": [
       "! Stage Completion",
       "Wily Station Apex"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Mercury (Mercury)",
-    "region":"Mercury",
-    "category":[
+    "name": "Fragged Mercury (Mercury)",
+    "region": "Mercury",
+    "category": [
       "! Frags",
       "Mercury"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Quickman (Mercury)",
-    "region":"Mercury",
-    "category":[
+    "name": "Fragged Quickman (Mercury)",
+    "region": "Mercury",
+    "category": [
       "! Frags",
       "Mercury"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Nitroman (Mercury)",
-    "region":"Mercury",
-    "category":[
+    "name": "Fragged Nitroman (Mercury)",
+    "region": "Mercury",
+    "category": [
       "! Frags",
       "Mercury"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Turboman (Mercury)",
-    "region":"Mercury",
-    "category":[
+    "name": "Fragged Turboman (Mercury)",
+    "region": "Mercury",
+    "category": [
       "! Frags",
       "Mercury"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Mercury Stage Clear",
-    "region":"Mercury",
-    "category":[
+    "name": "Mercury Stage Clear",
+    "region": "Mercury",
+    "category": [
       "! Stage Completion",
       "Mercury"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Venus (Venus)",
-    "region":"Venus",
-    "category":[
+    "name": "Fragged Venus (Venus)",
+    "region": "Venus",
+    "category": [
       "! Frags",
       "Venus"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Bubbleman (Venus)",
-    "region":"Venus",
-    "category":[
+    "name": "Fragged Bubbleman (Venus)",
+    "region": "Venus",
+    "category": [
       "! Frags",
       "Venus"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Burstman (Venus)",
-    "region":"Venus",
-    "category":[
+    "name": "Fragged Burstman (Venus)",
+    "region": "Venus",
+    "category": [
       "! Frags",
       "Venus"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Snakeman (Venus)",
-    "region":"Venus",
-    "category":[
+    "name": "Fragged Snakeman (Venus)",
+    "region": "Venus",
+    "category": [
       "! Frags",
       "Venus"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Venus Stage Clear",
-    "region":"Venus",
-    "category":[
+    "name": "Venus Stage Clear",
+    "region": "Venus",
+    "category": [
       "! Stage Completion",
       "Venus"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Jupiter (Jupiter)",
-    "region":"Jupiter",
-    "category":[
+    "name": "Fragged Jupiter (Jupiter)",
+    "region": "Jupiter",
+    "category": [
       "! Frags",
       "Jupiter"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Starman (Jupiter)",
-    "region":"Jupiter",
-    "category":[
+    "name": "Fragged Starman (Jupiter)",
+    "region": "Jupiter",
+    "category": [
       "! Frags",
       "Jupiter"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Freezeman (Jupiter)",
-    "region":"Jupiter",
-    "category":[
+    "name": "Fragged Freezeman (Jupiter)",
+    "region": "Jupiter",
+    "category": [
       "! Frags",
       "Jupiter"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Geminiman (Jupiter)",
-    "region":"Jupiter",
-    "category":[
+    "name": "Fragged Geminiman (Jupiter)",
+    "region": "Jupiter",
+    "category": [
       "! Frags",
       "Jupiter"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Dynamoman (Jupiter)",
-    "region":"Jupiter",
-    "category":[
+    "name": "Fragged Dynamoman (Jupiter)",
+    "region": "Jupiter",
+    "category": [
       "! Frags",
       "Jupiter"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Jupiter Stage Clear",
-    "region":"Jupiter",
-    "category":[
+    "name": "Jupiter Stage Clear",
+    "region": "Jupiter",
+    "category": [
       "! Stage Completion",
       "Jupiter"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Uranus (Uranus)",
-    "region":"Uranus",
-    "category":[
+    "name": "Fragged Uranus (Uranus)",
+    "region": "Uranus",
+    "category": [
       "! Frags",
       "Uranus"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Shademan (Uranus)",
-    "region":"Uranus",
-    "category":[
+    "name": "Fragged Shademan (Uranus)",
+    "region": "Uranus",
+    "category": [
       "! Frags",
       "Uranus"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Groundman (Uranus)",
-    "region":"Uranus",
-    "category":[
+    "name": "Fragged Groundman (Uranus)",
+    "region": "Uranus",
+    "category": [
       "! Frags",
       "Uranus"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Hardman (Uranus)",
-    "region":"Uranus",
-    "category":[
+    "name": "Fragged Hardman (Uranus)",
+    "region": "Uranus",
+    "category": [
       "! Frags",
       "Uranus"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Blizzardman (Uranus)",
-    "region":"Uranus",
-    "category":[
+    "name": "Fragged Blizzardman (Uranus)",
+    "region": "Uranus",
+    "category": [
       "! Frags",
       "Uranus"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Knightman (Uranus)",
-    "region":"Uranus",
-    "category":[
+    "name": "Fragged Knightman (Uranus)",
+    "region": "Uranus",
+    "category": [
       "! Frags",
       "Uranus"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Uranus Stage Clear",
-    "region":"Uranus",
-    "category":[
+    "name": "Uranus Stage Clear",
+    "region": "Uranus",
+    "category": [
       "! Stage Completion",
       "Uranus"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Pluto (Pluto)",
-    "region":"Pluto",
-    "category":[
+    "name": "Fragged Pluto (Pluto)",
+    "region": "Pluto",
+    "category": [
       "! Frags",
       "Pluto"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Stoneman (Pluto)",
-    "region":"Pluto",
-    "category":[
+    "name": "Fragged Stoneman (Pluto)",
+    "region": "Pluto",
+    "category": [
       "! Frags",
       "Pluto"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Crystalman (Pluto)",
-    "region":"Pluto",
-    "category":[
+    "name": "Fragged Crystalman (Pluto)",
+    "region": "Pluto",
+    "category": [
       "! Frags",
       "Pluto"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Needleman (Pluto)",
-    "region":"Pluto",
-    "category":[
+    "name": "Fragged Needleman (Pluto)",
+    "region": "Pluto",
+    "category": [
       "! Frags",
       "Pluto"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Frostman (Pluto)",
-    "region":"Pluto",
-    "category":[
+    "name": "Fragged Frostman (Pluto)",
+    "region": "Pluto",
+    "category": [
       "! Frags",
       "Pluto"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Pluto Stage Clear",
-    "region":"Pluto",
-    "category":[
+    "name": "Pluto Stage Clear",
+    "region": "Pluto",
+    "category": [
       "! Stage Completion",
       "Pluto"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Saturn (Saturn)",
-    "region":"Saturn",
-    "category":[
+    "name": "Fragged Saturn (Saturn)",
+    "region": "Saturn",
+    "category": [
       "! Frags",
       "Saturn"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Flameman (Saturn)",
-    "region":"Saturn",
-    "category":[
+    "name": "Fragged Flameman (Saturn)",
+    "region": "Saturn",
+    "category": [
       "! Frags",
       "Saturn"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Napalmman (Saturn)",
-    "region":"Saturn",
-    "category":[
+    "name": "Fragged Napalmman (Saturn)",
+    "region": "Saturn",
+    "category": [
       "! Frags",
       "Saturn"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Chargeman (Saturn)",
-    "region":"Saturn",
-    "category":[
+    "name": "Fragged Chargeman (Saturn)",
+    "region": "Saturn",
+    "category": [
       "! Frags",
       "Saturn"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Gravityman (Saturn)",
-    "region":"Saturn",
-    "category":[
+    "name": "Fragged Gravityman (Saturn)",
+    "region": "Saturn",
+    "category": [
       "! Frags",
       "Saturn"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Saturn Stage Clear",
-    "region":"Saturn",
-    "category":[
+    "name": "Saturn Stage Clear",
+    "region": "Saturn",
+    "category": [
       "! Stage Completion",
       "Saturn"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Mars (Mars)",
-    "region":"Mars",
-    "category":[
+    "name": "Fragged Mars (Mars)",
+    "region": "Mars",
+    "category": [
       "! Frags",
       "Mars"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Tomahawkman (Mars)",
-    "region":"Mars",
-    "category":[
+    "name": "Fragged Tomahawkman (Mars)",
+    "region": "Mars",
+    "category": [
       "! Frags",
       "Mars"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Commandoman (Mars)",
-    "region":"Mars",
-    "category":[
+    "name": "Fragged Commandoman (Mars)",
+    "region": "Mars",
+    "category": [
       "! Frags",
       "Mars"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Yamatoman (Mars)",
-    "region":"Mars",
-    "category":[
+    "name": "Fragged Yamatoman (Mars)",
+    "region": "Mars",
+    "category": [
       "! Frags",
       "Mars"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Crashman (Mars)",
-    "region":"Mars",
-    "category":[
+    "name": "Fragged Crashman (Mars)",
+    "region": "Mars",
+    "category": [
       "! Frags",
       "Mars"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Blademan (Mars)",
-    "region":"Mars",
-    "category":[
+    "name": "Fragged Blademan (Mars)",
+    "region": "Mars",
+    "category": [
       "! Frags",
       "Mars"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Mars Stage Clear",
-    "region":"Mars",
-    "category":[
+    "name": "Mars Stage Clear",
+    "region": "Mars",
+    "category": [
       "! Stage Completion",
       "Mars"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Neptune (Neptune)",
-    "region":"Neptune",
-    "category":[
+    "name": "Fragged Neptune (Neptune)",
+    "region": "Neptune",
+    "category": [
       "! Frags",
       "Neptune"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Magnetman (Neptune)",
-    "region":"Neptune",
-    "category":[
+    "name": "Fragged Magnetman (Neptune)",
+    "region": "Neptune",
+    "category": [
       "! Frags",
       "Neptune"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Gyroman (Neptune)",
-    "region":"Neptune",
-    "category":[
+    "name": "Fragged Gyroman (Neptune)",
+    "region": "Neptune",
+    "category": [
       "! Frags",
       "Neptune"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Waveman (Neptune)",
-    "region":"Neptune",
-    "category":[
+    "name": "Fragged Waveman (Neptune)",
+    "region": "Neptune",
+    "category": [
       "! Frags",
       "Neptune"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Aquaman (Neptune)",
-    "region":"Neptune",
-    "category":[
+    "name": "Fragged Aquaman (Neptune)",
+    "region": "Neptune",
+    "category": [
       "! Frags",
       "Neptune"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Cloudman (Neptune)",
-    "region":"Neptune",
-    "category":[
+    "name": "Fragged Cloudman (Neptune)",
+    "region": "Neptune",
+    "category": [
       "! Frags",
       "Neptune"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Neptune Stage Clear",
-    "region":"Neptune",
-    "category":[
+    "name": "Neptune Stage Clear",
+    "region": "Neptune",
+    "category": [
       "! Stage Completion",
       "Neptune"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Enker (Enker)",
-    "region":"Enker",
-    "category":[
+    "name": "Fragged Enker (Enker)",
+    "region": "Enker",
+    "category": [
       "! Frags",
       "Enker"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Punk (Enker)",
-    "region":"Enker",
-    "category":[
+    "name": "Fragged Punk (Enker)",
+    "region": "Enker",
+    "category": [
       "! Frags",
       "Enker"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Ballade (Enker)",
-    "region":"Enker",
-    "category":[
+    "name": "Fragged Ballade (Enker)",
+    "region": "Enker",
+    "category": [
       "! Frags",
       "Enker"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Sparkman (Enker)",
-    "region":"Enker",
-    "category":[
+    "name": "Fragged Sparkman (Enker)",
+    "region": "Enker",
+    "category": [
       "! Frags",
       "Enker"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Woodman (Enker)",
-    "region":"Enker",
-    "category":[
+    "name": "Fragged Woodman (Enker)",
+    "region": "Enker",
+    "category": [
       "! Frags",
       "Enker"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Springman (Enker)",
-    "region":"Enker",
-    "category":[
+    "name": "Fragged Springman (Enker)",
+    "region": "Enker",
+    "category": [
       "! Frags",
       "Enker"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Clownman (Enker)",
-    "region":"Enker",
-    "category":[
+    "name": "Fragged Clownman (Enker)",
+    "region": "Enker",
+    "category": [
       "! Frags",
       "Enker"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Enker Stage Clear",
-    "region":"Enker",
-    "category":[
+    "name": "Enker Stage Clear",
+    "region": "Enker",
+    "category": [
       "! Stage Completion",
       "Enker"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Enker (Punk)",
-    "region":"Punk",
-    "category":[
+    "name": "Fragged Enker (Punk)",
+    "region": "Punk",
+    "category": [
       "! Frags",
       "Punk"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Punk (Punk)",
-    "region":"Punk",
-    "category":[
+    "name": "Fragged Punk (Punk)",
+    "region": "Punk",
+    "category": [
       "! Frags",
       "Punk"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Ballade (Punk)",
-    "region":"Punk",
-    "category":[
+    "name": "Fragged Ballade (Punk)",
+    "region": "Punk",
+    "category": [
       "! Frags",
       "Punk"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Pumpman (Punk)",
-    "region":"Punk",
-    "category":[
+    "name": "Fragged Pumpman (Punk)",
+    "region": "Punk",
+    "category": [
       "! Frags",
       "Punk"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Pirateman (Punk)",
-    "region":"Punk",
-    "category":[
+    "name": "Fragged Pirateman (Punk)",
+    "region": "Punk",
+    "category": [
       "! Frags",
       "Punk"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Airman (Punk)",
-    "region":"Punk",
-    "category":[
+    "name": "Fragged Airman (Punk)",
+    "region": "Punk",
+    "category": [
       "! Frags",
       "Punk"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Metalman (Punk)",
-    "region":"Punk",
-    "category":[
+    "name": "Fragged Metalman (Punk)",
+    "region": "Punk",
+    "category": [
       "! Frags",
       "Punk"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Punk Stage Clear",
-    "region":"Punk",
-    "category":[
+    "name": "Punk Stage Clear",
+    "region": "Punk",
+    "category": [
       "! Stage Completion",
       "Punk"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Enker (Ballade)",
-    "region":"Ballade",
-    "category":[
+    "name": "Fragged Enker (Ballade)",
+    "region": "Ballade",
+    "category": [
       "! Frags",
       "Ballade"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Punk (Ballade)",
-    "region":"Ballade",
-    "category":[
+    "name": "Fragged Punk (Ballade)",
+    "region": "Ballade",
+    "category": [
       "! Frags",
       "Ballade"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Ballade (Ballade)",
-    "region":"Ballade",
-    "category":[
+    "name": "Fragged Ballade (Ballade)",
+    "region": "Ballade",
+    "category": [
       "! Frags",
       "Ballade"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Astroman (Ballade",
-    "region":"Ballade",
-    "category":[
+    "name": "Fragged Astroman (Ballade",
+    "region": "Ballade",
+    "category": [
       "! Frags",
       "Ballade"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Grenademan (Ballade)",
-    "region":"Ballade",
-    "category":[
+    "name": "Fragged Grenademan (Ballade)",
+    "region": "Ballade",
+    "category": [
       "! Frags",
       "Ballade"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Windman (Ballade)",
-    "region":"Ballade",
-    "category":[
+    "name": "Fragged Windman (Ballade)",
+    "region": "Ballade",
+    "category": [
       "! Frags",
       "Ballade"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Solarman (Ballade)",
-    "region":"Ballade",
-    "category":[
+    "name": "Fragged Solarman (Ballade)",
+    "region": "Ballade",
+    "category": [
       "! Frags",
       "Ballade"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Ballade Stage Clear",
-    "region":"Ballade",
-    "category":[
+    "name": "Ballade Stage Clear",
+    "region": "Ballade",
+    "category": [
       "! Stage Completion",
       "Ballade"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Mercury (Wily Star)",
-    "region":"Wily Star",
-    "category":[
+    "name": "Fragged Mercury (Wily Star)",
+    "region": "Wily Star",
+    "category": [
       "! Frags",
       "Wily Star"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Venus (Wily Star)",
-    "region":"Wily Star",
-    "category":[
+    "name": "Fragged Venus (Wily Star)",
+    "region": "Wily Star",
+    "category": [
       "! Frags",
       "Wily Star"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Saturn (Wily Star)",
-    "region":"Wily Star",
-    "category":[
+    "name": "Fragged Saturn (Wily Star)",
+    "region": "Wily Star",
+    "category": [
       "! Frags",
       "Wily Star"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Neptune (Wily Star)",
-    "region":"Wily Star",
-    "category":[
+    "name": "Fragged Neptune (Wily Star)",
+    "region": "Wily Star",
+    "category": [
       "! Frags",
       "Wily Star"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Uranus (Wily Star)",
-    "region":"Wily Star",
-    "category":[
+    "name": "Fragged Uranus (Wily Star)",
+    "region": "Wily Star",
+    "category": [
       "! Frags",
       "Wily Star"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Jupiter (Wily Star)",
-    "region":"Wily Star",
-    "category":[
+    "name": "Fragged Jupiter (Wily Star)",
+    "region": "Wily Star",
+    "category": [
       "! Frags",
       "Wily Star"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Mars (Wily Star)",
-    "region":"Wily Star",
-    "category":[
+    "name": "Fragged Mars (Wily Star)",
+    "region": "Wily Star",
+    "category": [
       "! Frags",
       "Wily Star"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Fragged Pluto (Wily Star)",
-    "region":"Wily Star",
-    "category":[
+    "name": "Fragged Pluto (Wily Star)",
+    "region": "Wily Star",
+    "category": [
       "! Frags",
       "Wily Star"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Wily Star Clear",
-    "region":"Wily Star",
-    "category":[
+    "name": "Wily Star Clear",
+    "region": "Wily Star",
+    "category": [
       "! Stage Completion",
       "Wily Star"
     ],
-    "requires":[]
+    "requires": []
   },
   {
-    "name":"Copy 1 Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Copy 1 Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Miniboss"
     ],
-    "requires":"|Mega Man? Access Codes:1|"
+    "requires": "|Mega Man? Access Codes:1|"
   },
   {
-    "name":"Yellow Devil Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Yellow Devil Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Boss"
     ],
-    "requires":"|Yellow Devil Access Codes|"
+    "requires": "|Yellow Devil Access Codes|"
   },
   {
-    "name":"Guts Dozer Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Guts Dozer Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Boss"
     ],
-    "requires":"|Guts Dozer Access Codes| AND |@Weapons|"
+    "requires": "|Guts Dozer Access Codes| AND |@Weapons|"
   },
   {
-    "name":"Copy 2 Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Copy 2 Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Miniboss"
     ],
-    "requires":"|Mega Man? Access Codes:2|"
+    "requires": "|Mega Man? Access Codes:2|"
   },
   {
-    "name":"Doc Robots Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Doc Robots Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Boss"
     ],
-    "requires":"|Doc Robot Access Codes|"
+    "requires": "|Doc Robot Access Codes|"
   },
   {
-    "name":"Cossack Catcher & Metools Daddy Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Cossack Catcher & Metools Daddy Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Boss"
     ],
-    "requires":"|Metools Daddy Access Codes| AND |Thunder Claw|"
+    "requires": "|Metools Daddy Access Codes| AND |Thunder Claw|"
   },
   {
-    "name":"Dark Numbers Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Dark Numbers Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Boss"
     ],
-    "requires":"|Dark Man Access Codes:2| AND |Proto Buster|"
+    "requires": "|Dark Man Access Codes:2| AND |Proto Buster|"
   },
   {
-    "name":"Copy 3 Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Copy 3 Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Miniboss"
     ],
-    "requires":"|Mega Man? Access Codes:3|"
+    "requires": "|Mega Man? Access Codes:3|"
   },
   {
-    "name":"Gamma Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Gamma Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Boss"
     ],
-    "requires":"|Gamma Access Codes| AND |@Close-Range| AND |Wire Adaptor|"
+    "requires": "|Gamma Access Codes| AND |@Close-Range| AND |Wire Adaptor|"
   },
   {
-    "name":"Super Bass Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Super Bass Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Boss"
     ],
-    "requires":"|Bass Access Codes| AND |Super Adaptor|"
+    "requires": "|Bass Access Codes| AND |Super Adaptor|"
   },
   {
-    "name":"Wily Capsule Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Wily Capsule Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Optional Boss"
     ],
-    "requires":"|Wily Capsule Access Codes|"
+    "requires": "|Wily Capsule Access Codes|"
   },
   {
-    "name":"Duo Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Duo Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Miniboss"
     ],
-    "requires":"|Duo Access Codes:2|"
+    "requires": "|Duo Access Codes:2|"
   },
   {
-    "name":"Evil Robot Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Evil Robot Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Boss"
     ],
-    "requires":"|Evil Robot Access Codes| AND |Duo Fist|"
+    "requires": "|Evil Robot Access Codes| AND |Duo Fist|"
   },
   {
-    "name":"King Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "King Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Boss"
     ],
-    "requires":"|King Access Codes| AND |Copy Vision|"
+    "requires": "|King Access Codes| AND |Copy Vision|"
   },
   {
-    "name":"Buster Rod G. Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Buster Rod G. Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Miniboss"
     ],
-    "requires":"|Buster Rod G. Access Codes:2|"
+    "requires": "|Buster Rod G. Access Codes:2|"
   },
   {
-    "name":"Mega Water S. Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Mega Water S. Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Miniboss"
     ],
-    "requires":"|Mega Water S. Access Codes:2|"
+    "requires": "|Mega Water S. Access Codes:2|"
   },
   {
-    "name":"Hyper Storm H. Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Hyper Storm H. Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Miniboss"
     ],
-    "requires":"|Hyper Storm H. Access Codes:2|"
+    "requires": "|Hyper Storm H. Access Codes:2|"
   },
   {
-    "name":"Genesis Unit Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Genesis Unit Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Boss"
     ],
-    "requires":"|Genesis Unit Access Codes|"
+    "requires": "|Genesis Unit Access Codes|"
   },
   {
-    "name":"Proto Man Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Proto Man Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Boss"
     ],
-    "requires":"|Proto Man Access Codes|"
+    "requires": "|Proto Man Access Codes|"
   },
   {
-    "name":"Mega Mech Shark Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Mega Mech Shark Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Boss"
     ],
-    "requires":"|Mega Mech Shark Access Codes| AND |Rush Jet|"
+    "requires": "|Mega Mech Shark Access Codes| AND |Rush Jet|"
   },
   {
-    "name":"Fake Man Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Fake Man Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Optional Boss"
     ],
-    "requires":"|Fake Man Access Codes:2|"
+    "requires": "|Fake Man Access Codes:2|"
   },
   {
-    "name":"Weapons Archive Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Weapons Archive Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Miniboss"
     ],
-    "requires":"|Weapons Archive Access Codes|"
+    "requires": "|Weapons Archive Access Codes|"
   },
   {
-    "name":"Wily Golem Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Wily Golem Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Boss"
     ],
-    "requires":"|Wily Golem Access Codes|"
+    "requires": "|Wily Golem Access Codes|"
   },
   {
-    "name":"Enker Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Enker Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Optional Boss"
     ],
-    "requires":"|Enker Access Codes:2|"
+    "requires": "|Enker Access Codes:2|"
   },
   {
-    "name":"Punk Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Punk Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Optional Boss"
     ],
-    "requires":"|Punk Access Codes:2|"
+    "requires": "|Punk Access Codes:2|"
   },
   {
-    "name":"Ballade Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Ballade Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Optional Boss"
     ],
-    "requires":"|Ballade Access Codes:2|"
+    "requires": "|Ballade Access Codes:2|"
   },
   {
-    "name":"Terra Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Terra Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Boss"
     ],
-    "requires":"|Terra Access Codes|"
+    "requires": "|Terra Access Codes|"
   },
   {
-    "name":"Sunstar Defeated",
-    "region":"Boss",
-    "category":[
+    "name": "Sunstar Defeated",
+    "region": "Boss",
+    "category": [
       "! Boss Defeats",
       "Boss"
     ],
-    "requires":"|Sunstar Access Codes|"
+    "requires": "|Sunstar Access Codes|"
   },
   {
-    "victory":true,
-    "name":"Eclipse Defeated",
-    "region":"For Everlasting Peace!",
-    "category":[
+    "victory": true,
+    "name": "Eclipse Defeated",
+    "region": "For Everlasting Peace!",
+    "category": [
       "! Boss Defeats",
       "Boss",
       "! GOAL"
     ],
-    "requires":[]
+    "requires": []
   }
 ]
