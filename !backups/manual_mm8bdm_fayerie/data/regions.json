@@ -548,10 +548,6 @@
     "connects_to": [],
     "requires": "|Wily Star Access Codes|"
   },
-  "Sunstar": {
-    "connects_to": [],
-    "requires": "|Sunstar Access Codes|"
-  },
   "Boss": {
     "connects_to": [],
     "requires": []

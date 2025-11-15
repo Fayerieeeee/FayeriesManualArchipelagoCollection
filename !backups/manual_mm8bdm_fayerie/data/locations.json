@@ -8432,5 +8432,268 @@
       "Wily Star"
     ],
     "requires":[]
+  },
+  {
+    "name":"Copy 1 Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Miniboss"
+    ],
+    "requires":"|Mega Man? Access Codes:1|"
+  },
+  {
+    "name":"Yellow Devil Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Boss"
+    ],
+    "requires":"|Yellow Devil Access Codes|"
+  },
+  {
+    "name":"Guts Dozer Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Boss"
+    ],
+    "requires":"|Guts Dozer Access Codes| AND |@Weapons|"
+  },
+  {
+    "name":"Copy 2 Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Miniboss"
+    ],
+    "requires":"|Mega Man? Access Codes:2|"
+  },
+  {
+    "name":"Doc Robots Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Boss"
+    ],
+    "requires":"|Doc Robot Access Codes|"
+  },
+  {
+    "name":"Cossack Catcher & Metools Daddy Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Boss"
+    ],
+    "requires":"|Metools Daddy Access Codes| AND |Thunder Claw|"
+  },
+  {
+    "name":"Dark Numbers Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Boss"
+    ],
+    "requires":"|Dark Man Access Codes:2| AND |Proto Buster|"
+  },
+  {
+    "name":"Copy 3 Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Miniboss"
+    ],
+    "requires":"|Mega Man? Access Codes:3|"
+  },
+  {
+    "name":"Gamma Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Boss"
+    ],
+    "requires":"|Gamma Access Codes| AND |@Close-Range| AND |Wire Adaptor|"
+  },
+  {
+    "name":"Super Bass Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Boss"
+    ],
+    "requires":"|Bass Access Codes| AND |Super Adaptor|"
+  },
+  {
+    "name":"Wily Capsule Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Optional Boss"
+    ],
+    "requires":"|Wily Capsule Access Codes|"
+  },
+  {
+    "name":"Duo Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Miniboss"
+    ],
+    "requires":"|Duo Access Codes:2|"
+  },
+  {
+    "name":"Evil Robot Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Boss"
+    ],
+    "requires":"|Evil Robot Access Codes| AND |Duo Fist|"
+  },
+  {
+    "name":"King Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Boss"
+    ],
+    "requires":"|King Access Codes| AND |Copy Vision|"
+  },
+  {
+    "name":"Buster Rod G. Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Miniboss"
+    ],
+    "requires":"|Buster Rod G. Access Codes:2|"
+  },
+  {
+    "name":"Mega Water S. Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Miniboss"
+    ],
+    "requires":"|Mega Water S. Access Codes:2|"
+  },
+  {
+    "name":"Hyper Storm H. Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Miniboss"
+    ],
+    "requires":"|Hyper Storm H. Access Codes:2|"
+  },
+  {
+    "name":"Genesis Unit Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Boss"
+    ],
+    "requires":"|Genesis Unit Access Codes|"
+  },
+  {
+    "name":"Proto Man Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Boss"
+    ],
+    "requires":"|Proto Man Access Codes|"
+  },
+  {
+    "name":"Mega Mech Shark Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Boss"
+    ],
+    "requires":"|Mega Mech Shark Access Codes| AND |Rush Jet|"
+  },
+  {
+    "name":"Fake Man Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Optional Boss"
+    ],
+    "requires":"|Fake Man Access Codes:2|"
+  },
+  {
+    "name":"Weapons Archive Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Miniboss"
+    ],
+    "requires":"|Weapons Archive Access Codes|"
+  },
+  {
+    "name":"Wily Golem Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Boss"
+    ],
+    "requires":"|Wily Golem Access Codes|"
+  },
+  {
+    "name":"Enker Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Optional Boss"
+    ],
+    "requires":"|Enker Access Codes:2|"
+  },
+  {
+    "name":"Punk Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Optional Boss"
+    ],
+    "requires":"|Punk Access Codes:2|"
+  },
+  {
+    "name":"Ballade Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Optional Boss"
+    ],
+    "requires":"|Ballade Access Codes:2|"
+  },
+  {
+    "name":"Terra Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Boss"
+    ],
+    "requires":"|Terra Access Codes|"
+  },
+  {
+    "name":"Sunstar Defeated",
+    "region":"Boss",
+    "category":[
+      "! Boss Defeats",
+      "Boss"
+    ],
+    "requires":"|Sunstar Access Codes|"
+  },
+  {
+    "victory":true,
+    "name":"Eclipse Defeated",
+    "region":"For Everlasting Peace!",
+    "category":[
+      "! Boss Defeats",
+      "Boss",
+      "! GOAL"
+    ],
+    "requires":[]
   }
 ]

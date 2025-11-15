@@ -321,7 +321,7 @@
   },
   {
     "count": 1,
-    "name": "Met Daddy Access Codes",
+    "name": "Metools Daddy Access Codes",
     "category": [
       "Bosses"
     ],
@@ -967,6 +967,14 @@
   },
   {
     "count": 1,
+    "name": "Weapons Archive Access Codes",
+    "category": [
+      "Bosses"
+    ],
+    "progression": true
+  },  
+  {
+    "count": 1,
     "name": "Wily Golem Access Codes",
     "category": [
       "Bosses"
@@ -1032,6 +1040,14 @@
   {
     "count": 1,
     "name": "Neptune Access Codes",
+    "category": [
+      "Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Terra Access Codes",
     "category": [
       "Bosses"
     ],
@@ -1452,7 +1468,8 @@
     "count": 1,
     "name": "Charge Kick",
     "category": [
-      "Weapons"
+      "Weapons",
+      "Close-Range"
     ],
     "progression": true
   },
@@ -1628,7 +1645,8 @@
     "count": 1,
     "name": "Flame Sword",
     "category": [
-      "Weapons"
+      "Weapons",
+      "Close-Range"
     ],
     "progression": true
   },
@@ -1990,7 +2008,7 @@
     "category": [
       "Weapons"
     ],
-    "progression": true
+    "progression_skip_balancing": true
   },
   {
     "count": 1,
@@ -2014,7 +2032,7 @@
     "category": [
       "Weapons"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -2081,7 +2099,7 @@
     "useful": true
   },
   {
-    "count": "3",
+    "count": "2",
     "name": "Progressive Rush Search",
     "category": [
       "Items"
@@ -2196,23 +2214,8 @@
     "count": "21",
     "name": "Progressive Shop Stock",
     "category": [
-      "Shop Stocks"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Weapons Archive Access Codes",
-    "category": [
-      "Bosses"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Terra Access Codes",
-    "category": [
-      "Bosses"
+      "Shop Stocks",
+      "shopsanity"
     ],
     "progression": true
   }

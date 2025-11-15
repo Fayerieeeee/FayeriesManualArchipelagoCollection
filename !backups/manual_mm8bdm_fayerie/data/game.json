@@ -2,7 +2,41 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
   "game": "MM8BDM",
   "creator": "Fayerie",
-  "filler_item_name": "Junk",
-  "starting_items": [],
+  "filler_item_name": "Small Screws",
+  "starting_items": [
+    {
+      "item_categories": [
+        "Maps"
+      ],
+      "random": 1
+    },
+    {
+      "item_categories": [
+        "Bosses"
+      ],
+      "random": 1,
+      "yaml_option": [
+        "random_boss_access_start"
+      ]
+    },
+    {
+      "item_categories": [
+        "Weapons"
+      ],
+      "random": 1,
+      "yaml_option": [
+        "random_weapon_start"
+      ]
+    },
+    {
+      "item_categories": [
+        "Items"
+      ],
+      "random": 1,
+      "yaml_option": [
+        "random_item_start"
+      ]
+    }
+  ],
   "death_link": true
 }
