@@ -19,6 +19,33 @@
         }
     },
     "user": {
+        "random_boss_access_start":{
+            "display_name": "Random Boss Access Codes",
+            "description": [
+                "Gives a random boss access code at start."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Starting Items"
+        },
+        "random_weapon_start":{
+            "display_name": "Random Weapon",
+            "description": [
+                "Gives a random weapon at start."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Starting Items"
+        },
+        "random_item_start":{
+            "display_name": "Random Item",
+            "description": [
+                "Gives a random item at start."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Starting Items"
+        },
         "enable_minibosses":{
             "display_name": "Minibosses Toggle",
             "description": [
@@ -44,8 +71,7 @@
             ],
             "type": "Toggle",
             "default": false,
-            "group": "Shop",
-            "hidden": true
+            "group": "Shop"
         }
     }
 }
