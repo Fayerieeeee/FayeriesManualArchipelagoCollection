@@ -3,6 +3,7 @@
   "game": "MM8BDM",
   "creator": "Fayerie",
   "filler_item_name": "Small Screws",
+  "death_link": true,
   "starting_items": [
     {
       "item_categories": [
