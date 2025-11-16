@@ -144,7 +144,7 @@
     "progression": true
   },
   {
-    "count": "3",
+    "count": "5",
     "name": "Skull Castle Access Codes",
     "category": [
       "Maps"
@@ -218,14 +218,6 @@
   {
     "count": 1,
     "name": "Shadow Man Access Codes",
-    "category": [
-      "Maps"
-    ],
-    "progression": true
-  },
-  {
-    "count": "2",
-    "name": "Skull Castle Access Codes",
     "category": [
       "Maps"
     ],
