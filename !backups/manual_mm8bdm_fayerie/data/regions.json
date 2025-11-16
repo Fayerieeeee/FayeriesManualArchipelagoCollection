@@ -198,7 +198,7 @@
   },
   "Dark Man": {
     "connects_to": [],
-    "requires": "|Dark Man Access Codes:1|"
+    "requires": "|Dark Man Access Codes|"
   },
   "Skull Laboratory": {
     "connects_to": [],
@@ -302,7 +302,7 @@
   },
   "Astro Man": {
     "connects_to": [],
-    "requires": "|Astro Man Access Codes:2|"
+    "requires": "|Astro Man Access Codes:1|"
   },
   "Sword Man": {
     "connects_to": [],
@@ -330,7 +330,7 @@
   },
   "Duo": {
     "connects_to": [],
-    "requires": "|Duo Access Codes:1|"
+    "requires": "|Duo Access Codes|"
   },
   "Skull Tower Base": {
     "connects_to": [],
@@ -386,15 +386,15 @@
   },
   "Buster Rod G.": {
     "connects_to": [],
-    "requires": "|Buster Rod G. Access Codes:1|"
+    "requires": "|Buster Rod G. Access Codes|"
   },
   "Mega Water S.": {
     "connects_to": [],
-    "requires": "|Mega Water S. Access Codes:1|"
+    "requires": "|Mega Water S. Access Codes|"
   },
   "Hyper Storm H.": {
     "connects_to": [],
-    "requires": "|Hyper Storm H. Access Codes:1|"
+    "requires": "|Hyper Storm H. Access Codes|"
   },
   "Wily Tower 1": {
     "connects_to": [],
@@ -450,7 +450,7 @@
   },
   "Fake Man": {
     "connects_to": [],
-    "requires": "|Fake Man Access Codes:1|"
+    "requires": "|Fake Man Access Codes|"
   },
   "Blade Man": {
     "connects_to": [],
@@ -534,15 +534,15 @@
   },
   "Enker": {
     "connects_to": [],
-    "requires": "|Enker Access Codes:1|"
+    "requires": "|Enker Access Codes|"
   },
   "Punk": {
     "connects_to": [],
-    "requires": "|Punk Access Codes:1|"
+    "requires": "|Punk Access Codes|"
   },
   "Ballade": {
     "connects_to": [],
-    "requires": "|Ballade Access Codes:1|"
+    "requires": "|Ballade Access Codes|"
   },
   "Wily Star": {
     "connects_to": [],

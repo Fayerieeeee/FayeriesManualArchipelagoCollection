@@ -19,15 +19,6 @@
         }
     },
     "user": {
-        "random_boss_access_start":{
-            "display_name": "Random Boss Access Codes",
-            "description": [
-                "Gives a random boss access code at start."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Starting Items"
-        },
         "random_weapon_start":{
             "display_name": "Random Weapon",
             "description": [

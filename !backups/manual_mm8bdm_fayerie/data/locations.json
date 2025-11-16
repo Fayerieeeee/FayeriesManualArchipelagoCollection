@@ -34,7 +34,10 @@
       "! Stage Completion",
       "Cut Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM1)|"
+    ]
   },
   {
     "name": "Fragged Gutsman (Guts Man)",
@@ -79,7 +82,10 @@
       "! Stage Completion",
       "Guts Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM1)|"
+    ]
   },
   {
     "name": "Fragged Bombman (Bomb Man)",
@@ -133,7 +139,10 @@
       "! Stage Completion",
       "Bomb Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM1)|"
+    ]
   },
   {
     "name": "Fragged Elecman (Elec Man)",
@@ -169,7 +178,10 @@
       "! Stage Completion",
       "Elec Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM1)|"
+    ]
   },
   {
     "name": "Fragged Iceman (Ice Man)",
@@ -232,7 +244,10 @@
       "! Stage Completion",
       "Ice Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM1)|"
+    ]
   },
   {
     "name": "Fragged Fireman (Fire Man)",
@@ -295,7 +310,10 @@
       "! Stage Completion",
       "Fire Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM1)|"
+    ]
   },
   {
     "name": "Fragged Timeman (Time Man)",
@@ -340,7 +358,10 @@
       "! Stage Completion",
       "Time Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM1)|"
+    ]
   },
   {
     "name": "Fragged Oilman (Oil Man)",
@@ -394,7 +415,10 @@
       "! Stage Completion",
       "Oil Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM1)|"
+    ]
   },
   {
     "name": "Fragged Timeman (Wily's Hideout 1)",
@@ -457,7 +481,10 @@
       "! Stage Completion",
       "Wily's Hideout 1"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM1)|"
+    ]
   },
   {
     "name": "Fragged Megaman (Wily's Hideout 2)",
@@ -520,7 +547,10 @@
       "! Stage Completion",
       "Wily's Hideout 2"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM1)|"
+    ]
   },
   {
     "name": "Fragged Bubbleman (Bubble Man)",
@@ -574,7 +604,10 @@
       "! Stage Completion",
       "Bubble Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM2)|"
+    ]
   },
   {
     "name": "Fragged Airman (Air Man)",
@@ -628,7 +661,10 @@
       "! Stage Completion",
       "Air Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM2)|"
+    ]
   },
   {
     "name": "Fragged Heatman (Heat Man)",
@@ -691,7 +727,10 @@
       "! Stage Completion",
       "Heat Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM2)|"
+    ]
   },
   {
     "name": "Fragged Flashman (Flash Man)",
@@ -763,7 +802,10 @@
       "! Stage Completion",
       "Flash Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM2)|"
+    ]
   },
   {
     "name": "Fragged Quickman (Quick Man)",
@@ -826,7 +868,10 @@
       "! Stage Completion",
       "Quick Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM2)|"
+    ]
   },
   {
     "name": "Fragged Woodman (Wood Man)",
@@ -889,7 +934,10 @@
       "! Stage Completion",
       "Wood Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM2)|"
+    ]
   },
   {
     "name": "Fragged Crashman (Crash Man)",
@@ -952,7 +1000,10 @@
       "! Stage Completion",
       "Crash Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM2)|"
+    ]
   },
   {
     "name": "Fragged Metalman (Metal Man)",
@@ -1015,7 +1066,10 @@
       "! Stage Completion",
       "Metal Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM2)|"
+    ]
   },
   {
     "region": "Skull Castle Entrance",
@@ -1096,7 +1150,10 @@
       "! Stage Completion",
       "Skull Castle Entrance"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM2)|"
+    ]
   },
   {
     "name": "Fragged Metalman (Skull Castle Core)",
@@ -1177,7 +1234,10 @@
       "! Stage Completion",
       "Skull Castle Core"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM2)|"
+    ]
   },
   {
     "name": "Fragged Alien (Skull Castle Depths)",
@@ -1195,7 +1255,10 @@
       "! Stage Completion",
       "Skull Castle Depths"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM2)|"
+    ]
   },
   {
     "name": "Fragged Snakeman (Snake Man)",
@@ -1258,7 +1321,10 @@
       "! Stage Completion",
       "Snake Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM3)|"
+    ]
   },
   {
     "name": "Fragged Topman (Top Man)",
@@ -1321,7 +1387,10 @@
       "! Stage Completion",
       "Top Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM3)|"
+    ]
   },
   {
     "name": "Fragged Needleman (Needle Man)",
@@ -1384,7 +1453,10 @@
       "! Stage Completion",
       "Needle Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM3)|"
+    ]
   },
   {
     "name": "Fragged Hardman (Hard Man)",
@@ -1429,7 +1501,10 @@
       "! Stage Completion",
       "Hard Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM3)|"
+    ]
   },
   {
     "name": "Fragged Geminiman (Gemini Man)",
@@ -1483,7 +1558,10 @@
       "! Stage Completion",
       "Gemini Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM3)|"
+    ]
   },
   {
     "name": "Fragged Magnetman (Magnet Man)",
@@ -1537,7 +1615,10 @@
       "! Stage Completion",
       "Magnet Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM3)|"
+    ]
   },
   {
     "name": "Fragged Sparkman (Spark Man)",
@@ -1600,7 +1681,10 @@
       "! Stage Completion",
       "Spark Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM3)|"
+    ]
   },
   {
     "name": "Fragged Shadowman (Shadow Man)",
@@ -1663,7 +1747,10 @@
       "! Stage Completion",
       "Shadow Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM3)|"
+    ]
   },
   {
     "name": "Fragged Needleman (Skull Castle Courtyard)",
@@ -1717,7 +1804,10 @@
       "! Stage Completion",
       "Skull Castle Courtyard"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM3)|"
+    ]
   },
   {
     "name": "Fragged Needleman (Skull Castle Interior)",
@@ -1771,7 +1861,10 @@
       "! Stage Completion",
       "Skull Castle Interior"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM3)|"
+    ]
   },
   {
     "name": "Fragged Pharaohman (Pharaoh Man)",
@@ -1834,7 +1927,10 @@
       "! Stage Completion",
       "Pharaoh Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM4)|"
+    ]
   },
   {
     "name": "Fragged Diveman (Dive Man)",
@@ -1897,7 +1993,10 @@
       "! Frags",
       "Dive Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM4)|"
+    ]
   },
   {
     "name": "Fragged Drillman (Drill Man)",
@@ -1951,7 +2050,10 @@
       "! Stage Completion",
       "Drill Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM4)|"
+    ]
   },
   {
     "name": "Fragged Toadman (Toad Man)",
@@ -2014,7 +2116,10 @@
       "! Stage Completion",
       "Toad Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM4)|"
+    ]
   },
   {
     "name": "Fragged Dustman (Dust Man)",
@@ -2068,7 +2173,10 @@
       "! Stage Completion",
       "Dust Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM4)|"
+    ]
   },
   {
     "name": "Fragged Ringman (Ring Man)",
@@ -2131,7 +2239,10 @@
       "! Stage Completion",
       "Ring Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM4)|"
+    ]
   },
   {
     "name": "Fragged Skullman (Skull Man)",
@@ -2194,7 +2305,10 @@
       "! Stage Completion",
       "Skull Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM4)|"
+    ]
   },
   {
     "name": "Fragged Brightman (Bright Man)",
@@ -2257,7 +2371,10 @@
       "! Stage Completion",
       "Bright Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM4)|"
+    ]
   },
   {
     "name": "Fragged Brightman (Cossack's Citadel)",
@@ -2338,7 +2455,10 @@
       "! Stage Completion",
       "Cossack's Citadel"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM4)|"
+    ]
   },
   {
     "name": "Fragged Brightman (Wily Waterworks)",
@@ -2419,7 +2539,10 @@
       "! Stage Completion",
       "Wily Waterworks"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM4)|"
+    ]
   },
   {
     "name": "Fragged Chargeman (Charge Man)",
@@ -2482,7 +2605,10 @@
       "! Stage Completion",
       "Charge Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM5)|"
+    ]
   },
   {
     "name": "Fragged Stoneman (Stone Man)",
@@ -2536,7 +2662,10 @@
       "! Stage Completion",
       "Stone Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM5)|"
+    ]
   },
   {
     "name": "Fragged Napalmman (Napalm Man)",
@@ -2599,7 +2728,10 @@
       "! Stage Completion",
       "Napalm Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM5)|"
+    ]
   },
   {
     "name": "Fragged Waveman (Wave Man)",
@@ -2659,10 +2791,13 @@
     "name": "Wave Man Stage Clear",
     "region": "Wave Man",
     "category": [
-      "! Frags",
+      "! Stage Completion",
       "Wave Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM5)|"
+    ]
   },
   {
     "name": "Fragged Gyroman (Gyro Man)",
@@ -2716,7 +2851,10 @@
       "! Stage Completion",
       "Gyro Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM5)|"
+    ]
   },
   {
     "name": "Fragged Gravityman (Gravity Man)",
@@ -2779,7 +2917,10 @@
       "! Stage Completion",
       "Gravity Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM5)|"
+    ]
   },
   {
     "name": "Fragged Starman (Star Man)",
@@ -2833,7 +2974,10 @@
       "! Stage Completion",
       "Star Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM5)|"
+    ]
   },
   {
     "name": "Fragged Crystalman (Crystal Man)",
@@ -2896,7 +3040,10 @@
       "! Stage Completion",
       "Crystal Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM5)|"
+    ]
   },
   {
     "name": "Fragged Gravityman (Dark Man Castle)",
@@ -2977,7 +3124,10 @@
       "! Stage Completion",
       "Dark Man Castle"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM5)|"
+    ]
   },
   {
     "name": "Fragged Gravityman (Skull Laboratory)",
@@ -3058,7 +3208,10 @@
       "! Stage Completion",
       "Skull Laboratory"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM5)|"
+    ]
   },
   {
     "name": "Fragged Tomahawkman (Tomahawk Man)",
@@ -3121,7 +3274,10 @@
       "! Stage Completion",
       "Tomahawk Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM6)|"
+    ]
   },
   {
     "name": "Fragged Centaurman (Centaur Man)",
@@ -3184,7 +3340,10 @@
       "! Stage Completion",
       "Centaur Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM6)|"
+    ]
   },
   {
     "name": "Fragged Knightman (Knight Man)",
@@ -3247,7 +3406,10 @@
       "! Stage Completion",
       "Knight Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM6)|"
+    ]
   },
   {
     "name": "Fragged Blizzardman (Blizzard Man)",
@@ -3301,7 +3463,10 @@
       "! Stage Completion",
       "Blizzard Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM6)|"
+    ]
   },
   {
     "name": "Fragged Plantman (Plant Man)",
@@ -3355,7 +3520,10 @@
       "! Stage Completion",
       "Plant Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM6)|"
+    ]
   },
   {
     "name": "Fragged Flameman (Flame Man)",
@@ -3409,7 +3577,10 @@
       "! Stage Completion",
       "Flame Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM6)|"
+    ]
   },
   {
     "name": "Fragged Windman (Wind Man)",
@@ -3472,7 +3643,10 @@
       "! Stage Completion",
       "Wind Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM6)|"
+    ]
   },
   {
     "name": "Fragged Yamatoman (Yamato Man)",
@@ -3526,7 +3700,10 @@
       "! Stage Completion",
       "Yamato Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM6)|"
+    ]
   },
   {
     "region": "X Fortress",
@@ -3607,7 +3784,10 @@
       "! Stage Completion",
       "X Fortress"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM6)|"
+    ]
   },
   {
     "name": "Fragged Blizzardman (Skull Outpost)",
@@ -3688,7 +3868,10 @@
       "! Stage Completion",
       "Skull Outpost"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM6)|"
+    ]
   },
   {
     "name": "Fragged Freezeman (Ruined Street)",
@@ -3751,7 +3934,10 @@
       "! Stage Completion",
       "Ruined Street"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM7)|"
+    ]
   },
   {
     "name": "Fragged Freezeman (Freeze Man)",
@@ -3814,7 +4000,10 @@
       "! Stage Completion",
       "Freeze Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM7)|"
+    ]
   },
   {
     "name": "Fragged Junkman (Junk Man)",
@@ -3877,7 +4066,10 @@
       "! Stage Completion",
       "Junk Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM7)|"
+    ]
   },
   {
     "name": "Fragged Burstman (Burst Man)",
@@ -3931,7 +4123,10 @@
       "! Stage Completion",
       "Burst Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM7)|"
+    ]
   },
   {
     "name": "Fragged Cloudman (Cloud Man)",
@@ -4003,7 +4198,10 @@
       "! Stage Completion",
       "Cloud Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM7)|"
+    ]
   },
   {
     "name": "Fragged Springman (Spring Man)",
@@ -4057,7 +4255,10 @@
       "! Stage Completion",
       "Spring Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM7)|"
+    ]
   },
   {
     "name": "Fragged Slashman (Slash Man)",
@@ -4120,7 +4321,10 @@
       "! Stage Completion",
       "Slash Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM7)|"
+    ]
   },
   {
     "name": "Fragged Shademan (Shade Man)",
@@ -4192,7 +4396,10 @@
       "! Stage Completion",
       "Shade Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM7)|"
+    ]
   },
   {
     "name": "Fragged Turboman (Turbo Man)",
@@ -4255,7 +4462,10 @@
       "! Stage Completion",
       "Turbo Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM7)|"
+    ]
   },
   {
     "name": "Fragged Freezeman (Skull Fortress 1)",
@@ -4318,7 +4528,10 @@
       "! Stage Completion",
       "Skull Fortress 1"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM7)|"
+    ]
   },
   {
     "name": "Fragged Junkman (Skull Fortress 2)",
@@ -4372,7 +4585,10 @@
       "! Stage Completion",
       "Skull Fortress 2"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM7)|"
+    ]
   },
   {
     "name": "Fragged Junkman (Skull Fortress 3)",
@@ -4444,7 +4660,10 @@
       "! Stage Completion",
       "Skull Fortress 3"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM7)|"
+    ]
   },
   {
     "name": "Fragged Slashman (Skull Fortress 4)",
@@ -4507,7 +4726,10 @@
       "! Stage Completion",
       "Skull Fortress 4"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM7)|"
+    ]
   },
   {
     "name": "Fragged Tenguman (Tengu Man)",
@@ -4561,7 +4783,10 @@
       "! Stage Completion",
       "Tengu Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM8)|"
+    ]
   },
   {
     "name": "Fragged Astroman (Astro Man)",
@@ -4624,7 +4849,10 @@
       "! Stage Completion",
       "Astro Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM8)|"
+    ]
   },
   {
     "name": "Fragged Swordman (Sword Man)",
@@ -4687,7 +4915,10 @@
       "! Stage Completion",
       "Sword Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM8)|"
+    ]
   },
   {
     "name": "Fragged Clownman (Clown Man)",
@@ -4741,7 +4972,10 @@
       "! Stage Completion",
       "Clown Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM8)|"
+    ]
   },
   {
     "name": "Fragged Searchman (Search Man)",
@@ -4795,7 +5029,10 @@
       "! Stage Completion",
       "Search Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM8)|"
+    ]
   },
   {
     "name": "Fragged Frostman (Frost Man)",
@@ -4849,7 +5086,10 @@
       "! Stage Completion",
       "Frost Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM8)|"
+    ]
   },
   {
     "name": "Fragged Grenademan (Grenade Man)",
@@ -4912,7 +5152,10 @@
       "! Stage Completion",
       "Grenade Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM8)|"
+    ]
   },
   {
     "name": "Fragged Aquaman (Aqua Man)",
@@ -4966,7 +5209,10 @@
       "! Stage Completion",
       "Aqua Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM8)|"
+    ]
   },
   {
     "name": "Fragged Grenademan (Duo)",
@@ -5011,7 +5257,10 @@
       "! Stage Completion",
       "Duo"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM8)|"
+    ]
   },
   {
     "name": "Fragged Aquaman (Skull Tower Base)",
@@ -5083,7 +5332,10 @@
       "! Stage Completion",
       "Skull Tower Base"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM8)|"
+    ]
   },
   {
     "name": "Fragged Aquaman (Skull Tower Interior)",
@@ -5164,7 +5416,10 @@
       "! Stage Completion",
       "Skull Tower Interior"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM8)|"
+    ]
   },
   {
     "name": "Fragged Toadman (Robot Museum)",
@@ -5200,7 +5455,10 @@
       "! Stage Completion",
       "Robot Museum"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMB)|"
+    ]
   },
   {
     "name": "Fragged Tenguman (Tengu Man B)",
@@ -5263,7 +5521,10 @@
       "! Stage Completion",
       "Tengu Man B"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMB)|"
+    ]
   },
   {
     "name": "Fragged Astroman (Astro Man B)",
@@ -5326,7 +5587,10 @@
       "! Stage Completion",
       "Astro Man B"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMB)|"
+    ]
   },
   {
     "name": "Fragged Dynamoman (Dynamo Man)",
@@ -5389,7 +5653,10 @@
       "! Stage Completion",
       "Dynamo Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMB)|"
+    ]
   },
   {
     "name": "Fragged Coldman (Cold Man)",
@@ -5452,7 +5719,10 @@
       "! Stage Completion",
       "Cold Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMB)|"
+    ]
   },
   {
     "name": "Fragged Groundman (Ground Man)",
@@ -5515,7 +5785,10 @@
       "! Stage Completion",
       "Ground Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMB)|"
+    ]
   },
   {
     "name": "Fragged Pirateman (Pirate Man)",
@@ -5569,7 +5842,10 @@
       "! Stage Completion",
       "Pirate Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMB)|"
+    ]
   },
   {
     "name": "Fragged Burnerman (Burner Man)",
@@ -5632,7 +5908,10 @@
       "! Stage Completion",
       "Burner Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMB)|"
+    ]
   },
   {
     "name": "Fragged Magicman (Magic Man)",
@@ -5677,7 +5956,10 @@
       "! Stage Completion",
       "Magic Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMB)|"
+    ]
   },
   {
     "name": "Fragged Tenguman (King's Tower)",
@@ -5758,7 +6040,10 @@
       "! Stage Completion",
       "King's Tower"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMB)|"
+    ]
   },
   {
     "name": "Fragged Tenguman (Reclaimed King's Tower)",
@@ -5812,7 +6097,10 @@
       "! Stage Completion",
       "Reclaimed King's Tower"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMB)|"
+    ]
   },
   {
     "name": "Fragged Woodman (Buster Rod G.)",
@@ -5866,7 +6154,10 @@
       "! Stage Completion",
       "Buster Rod G."
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMW)|"
+    ]
   },
   {
     "name": "Fragged Bubbleman (Mega Water S.)",
@@ -5920,7 +6211,10 @@
       "! Stage Completion",
       "Mega Water S."
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMW)|"
+    ]
   },
   {
     "name": "Fragged Aquaman (Hyper Storm H.)",
@@ -5974,7 +6268,10 @@
       "! Stage Completion",
       "Hyper Storm H."
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMW)|"
+    ]
   },
   {
     "name": "Fragged Heatman (Wily Tower 1)",
@@ -6028,7 +6325,10 @@
       "! Stage Completion",
       "Wily Tower 1"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMW)|"
+    ]
   },
   {
     "name": "Fragged Needleman (Wily Tower 2)",
@@ -6091,7 +6391,10 @@
       "! Stage Completion",
       "Wily Tower 2"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMW)|"
+    ]
   },
   {
     "name": "Fragged Concreteman (Concrete Man)",
@@ -6172,7 +6475,10 @@
       "! Stage Completion",
       "Concrete Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM9)|"
+    ]
   },
   {
     "name": "Fragged Tornadoman (Tornado Man)",
@@ -6226,7 +6532,10 @@
       "! Stage Completion",
       "Tornado Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM9)|"
+    ]
   },
   {
     "name": "Fragged Splashwoman (Splash Woman)",
@@ -6298,7 +6607,10 @@
       "! Stage Completion",
       "Splash Woman"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM9)|"
+    ]
   },
   {
     "name": "Fragged Plugman (Plug Man)",
@@ -6352,7 +6664,10 @@
       "! Stage Completion",
       "Plug Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM9)|"
+    ]
   },
   {
     "name": "Fragged Jewelman (Jewel Man)",
@@ -6415,7 +6730,10 @@
       "! Stage Completion",
       "Jewel Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM9)|"
+    ]
   },
   {
     "name": "Fragged Hornetman (Hornet Man)",
@@ -6496,7 +6814,10 @@
       "! Stage Completion",
       "Hornet Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM9)|"
+    ]
   },
   {
     "name": "Fragged Magmaman (Magma Man)",
@@ -6550,7 +6871,10 @@
       "! Stage Completion",
       "Magma Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM9)|"
+    ]
   },
   {
     "name": "Fragged Galaxyman (Galaxy Man)",
@@ -6631,7 +6955,10 @@
       "! Stage Completion",
       "Galaxy Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM9)|"
+    ]
   },
   {
     "name": "Fragged Grenademan (Wily Castle Entrance)",
@@ -6703,7 +7030,10 @@
       "! Stage Completion",
       "Wily Castle Entrance"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM9)|"
+    ]
   },
   {
     "name": "Fragged Grenademan (Wily Castle Interior)",
@@ -6775,7 +7105,10 @@
       "! Stage Completion",
       "Wily Castle Interior"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM9)|"
+    ]
   },
   {
     "name": "Fragged Grenademan (Wily Castle Tower)",
@@ -6847,7 +7180,10 @@
       "! Stage Completion",
       "Wily Castle Tower"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM9)|"
+    ]
   },
   {
     "name": "Fragged Fakeman (Fake Man)",
@@ -6910,7 +7246,10 @@
       "! Stage Completion",
       "Fake Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM9)|"
+    ]
   },
   {
     "name": "Fragged Blademan (Blade Man)",
@@ -6964,7 +7303,10 @@
       "! Stage Completion",
       "Blade Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM10)|"
+    ]
   },
   {
     "name": "Fragged Pumpman (Pump Man)",
@@ -7018,7 +7360,10 @@
       "! Stage Completion",
       "Pump Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM10)|"
+    ]
   },
   {
     "name": "Fragged Commandoman (Commando Man)",
@@ -7081,7 +7426,10 @@
       "! Stage Completion",
       "Commando Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM10)|"
+    ]
   },
   {
     "name": "Fragged Chillman (Chill Man)",
@@ -7144,7 +7492,10 @@
       "! Stage Completion",
       "Chill Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM10)|"
+    ]
   },
   {
     "name": "Fragged Sheepman (Sheep Man)",
@@ -7216,7 +7567,10 @@
       "! Stage Completion",
       "Sheep Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM10)|"
+    ]
   },
   {
     "name": "Fragged Strikeman (Strike Man)",
@@ -7279,7 +7633,10 @@
       "! Stage Completion",
       "Strike Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM10)|"
+    ]
   },
   {
     "name": "Fragged Nitroman (Nitro Man)",
@@ -7333,7 +7690,10 @@
       "! Stage Completion",
       "Nitro Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM10)|"
+    ]
   },
   {
     "name": "Fragged Solarman (Solar Man)",
@@ -7387,7 +7747,10 @@
       "! Stage Completion",
       "Solar Man"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM10)|"
+    ]
   },
   {
     "name": "Fragged Sniper Joe (Wily Station Archives)",
@@ -7459,7 +7822,10 @@
       "! Stage Completion",
       "Wily Station Archives"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM10)|"
+    ]
   },
   {
     "name": "Fragged Sniper Joe (Wily Station Manufactory)",
@@ -7531,7 +7897,10 @@
       "! Stage Completion",
       "Wily Station Manufactory"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM10)|"
+    ]
   },
   {
     "name": "Fragged Blademan (Wily Station Ascent)",
@@ -7612,7 +7981,10 @@
       "! Stage Completion",
       "Wily Station Ascent"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM10)|"
+    ]
   },
   {
     "name": "Fragged Blademan (Wily Station Apex)",
@@ -7693,7 +8065,10 @@
       "! Stage Completion",
       "Wily Station Apex"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MM10)|"
+    ]
   },
   {
     "name": "Fragged Mercury (Mercury)",
@@ -7738,7 +8113,10 @@
       "! Stage Completion",
       "Mercury"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMV)|"
+    ]
   },
   {
     "name": "Fragged Venus (Venus)",
@@ -7783,7 +8161,10 @@
       "! Stage Completion",
       "Venus"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMV)|"
+    ]
   },
   {
     "name": "Fragged Jupiter (Jupiter)",
@@ -7837,7 +8218,10 @@
       "! Stage Completion",
       "Jupiter"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMV)|"
+    ]
   },
   {
     "name": "Fragged Uranus (Uranus)",
@@ -7900,7 +8284,10 @@
       "! Stage Completion",
       "Uranus"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMV)|"
+    ]
   },
   {
     "name": "Fragged Pluto (Pluto)",
@@ -7954,7 +8341,10 @@
       "! Stage Completion",
       "Pluto"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMV)|"
+    ]
   },
   {
     "name": "Fragged Saturn (Saturn)",
@@ -8008,7 +8398,10 @@
       "! Stage Completion",
       "Saturn"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMV)|"
+    ]
   },
   {
     "name": "Fragged Mars (Mars)",
@@ -8071,7 +8464,10 @@
       "! Stage Completion",
       "Mars"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMV)|"
+    ]
   },
   {
     "name": "Fragged Neptune (Neptune)",
@@ -8134,7 +8530,10 @@
       "! Stage Completion",
       "Neptune"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMV)|"
+    ]
   },
   {
     "name": "Fragged Enker (Enker)",
@@ -8206,7 +8605,10 @@
       "! Stage Completion",
       "Enker"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMK)|"
+    ]
   },
   {
     "name": "Fragged Enker (Punk)",
@@ -8278,7 +8680,10 @@
       "! Stage Completion",
       "Punk"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMK)|"
+    ]
   },
   {
     "name": "Fragged Enker (Ballade)",
@@ -8350,7 +8755,10 @@
       "! Stage Completion",
       "Ballade"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMK)|"
+    ]
   },
   {
     "name": "Fragged Mercury (Wily Star)",
@@ -8425,13 +8833,16 @@
     "requires": []
   },
   {
-    "name": "Wily Star Clear",
+    "name": "Wily Star Stage Clear",
     "region": "Wily Star",
     "category": [
       "! Stage Completion",
       "Wily Star"
     ],
-    "requires": []
+    "requires": [],
+    "place_item": [
+      "|Level Clear (MMV)|"
+    ]
   },
   {
     "name": "Copy 1 Defeated",
@@ -8440,7 +8851,7 @@
       "! Boss Defeats",
       "Miniboss"
     ],
-    "requires": "|Mega Man? Access Codes:1|"
+    "requires": "|Level Clear (MM1):5|"
   },
   {
     "name": "Yellow Devil Defeated",
@@ -8449,7 +8860,7 @@
       "! Boss Defeats",
       "Boss"
     ],
-    "requires": "|Yellow Devil Access Codes|"
+    "requires": "|Level Clear (MM1):10|"
   },
   {
     "name": "Guts Dozer Defeated",
@@ -8458,7 +8869,7 @@
       "! Boss Defeats",
       "Boss"
     ],
-    "requires": "|Guts Dozer Access Codes| AND |@Weapons|"
+    "requires": "|Level Clear (MM2):11| AND |@Weapons|"
   },
   {
     "name": "Copy 2 Defeated",
@@ -8467,7 +8878,7 @@
       "! Boss Defeats",
       "Miniboss"
     ],
-    "requires": "|Mega Man? Access Codes:2|"
+    "requires": "|Level Clear (MM3):5|"
   },
   {
     "name": "Doc Robots Defeated",
@@ -8476,7 +8887,7 @@
       "! Boss Defeats",
       "Boss"
     ],
-    "requires": "|Doc Robot Access Codes|"
+    "requires": "|Level Clear (MM3):10|"
   },
   {
     "name": "Cossack Catcher & Metools Daddy Defeated",
@@ -8485,7 +8896,7 @@
       "! Boss Defeats",
       "Boss"
     ],
-    "requires": "|Metools Daddy Access Codes| AND |Thunder Claw|"
+    "requires": "|Level Clear (MM4):10| AND |Thunder Claw|"
   },
   {
     "name": "Dark Numbers Defeated",
@@ -8494,7 +8905,7 @@
       "! Boss Defeats",
       "Boss"
     ],
-    "requires": "|Dark Man Access Codes:2| AND |Proto Buster|"
+    "requires": "|Level Clear (MM5):10| AND |Proto Buster|"
   },
   {
     "name": "Copy 3 Defeated",
@@ -8503,7 +8914,7 @@
       "! Boss Defeats",
       "Miniboss"
     ],
-    "requires": "|Mega Man? Access Codes:3|"
+    "requires": "|Level Clear (MM6):5|"
   },
   {
     "name": "Gamma Defeated",
@@ -8512,7 +8923,7 @@
       "! Boss Defeats",
       "Boss"
     ],
-    "requires": "|Gamma Access Codes| AND |@Close-Range| AND |Wire Adaptor|"
+    "requires": "|Level Clear (MM6):10| AND |@Close-Range| AND |Wire Adaptor|"
   },
   {
     "name": "Super Bass Defeated",
@@ -8521,7 +8932,7 @@
       "! Boss Defeats",
       "Boss"
     ],
-    "requires": "|Bass Access Codes| AND |Super Adaptor|"
+    "requires": "|Level Clear (MM7):6| AND |Super Adaptor|"
   },
   {
     "name": "Wily Capsule Defeated",
@@ -8530,7 +8941,7 @@
       "! Boss Defeats",
       "Optional Boss"
     ],
-    "requires": "|Wily Capsule Access Codes|"
+    "requires": "|Level Clear (MM7):13|"
   },
   {
     "name": "Duo Defeated",
@@ -8539,7 +8950,7 @@
       "! Boss Defeats",
       "Miniboss"
     ],
-    "requires": "|Duo Access Codes:2|"
+    "requires": "|Level Clear (MM8):5|"
   },
   {
     "name": "Evil Robot Defeated",
@@ -8548,7 +8959,7 @@
       "! Boss Defeats",
       "Boss"
     ],
-    "requires": "|Evil Robot Access Codes| AND |Duo Fist|"
+    "requires": "|Level Clear (MM8):11| AND |Duo Fist|"
   },
   {
     "name": "King Defeated",
@@ -8557,7 +8968,7 @@
       "! Boss Defeats",
       "Boss"
     ],
-    "requires": "|King Access Codes| AND |Copy Vision|"
+    "requires": "|Level Clear (MMB):11| AND |Copy Vision|"
   },
   {
     "name": "Buster Rod G. Defeated",
@@ -8566,7 +8977,7 @@
       "! Boss Defeats",
       "Miniboss"
     ],
-    "requires": "|Buster Rod G. Access Codes:2|"
+    "requires": "|Level Clear (MMW):1|"
   },
   {
     "name": "Mega Water S. Defeated",
@@ -8575,7 +8986,7 @@
       "! Boss Defeats",
       "Miniboss"
     ],
-    "requires": "|Mega Water S. Access Codes:2|"
+    "requires": "|Level Clear (MMW):2|"
   },
   {
     "name": "Hyper Storm H. Defeated",
@@ -8584,7 +8995,7 @@
       "! Boss Defeats",
       "Miniboss"
     ],
-    "requires": "|Hyper Storm H. Access Codes:2|"
+    "requires": "|Level Clear (MMW):3|"
   },
   {
     "name": "Genesis Unit Defeated",
@@ -8593,7 +9004,7 @@
       "! Boss Defeats",
       "Boss"
     ],
-    "requires": "|Genesis Unit Access Codes|"
+    "requires": "|Level Clear (MMW):5|"
   },
   {
     "name": "Proto Man Defeated",
@@ -8602,7 +9013,7 @@
       "! Boss Defeats",
       "Boss"
     ],
-    "requires": "|Proto Man Access Codes|"
+    "requires": "|Level Clear (MM9):4|"
   },
   {
     "name": "Mega Mech Shark Defeated",
@@ -8611,7 +9022,7 @@
       "! Boss Defeats",
       "Boss"
     ],
-    "requires": "|Mega Mech Shark Access Codes| AND |Rush Jet|"
+    "requires": "|Level Clear (MM9):8| AND |Rush Jet|"
   },
   {
     "name": "Fake Man Defeated",
@@ -8620,7 +9031,7 @@
       "! Boss Defeats",
       "Optional Boss"
     ],
-    "requires": "|Fake Man Access Codes:2|"
+    "requires": "|Level Clear (MM9):12|"
   },
   {
     "name": "Weapons Archive Defeated",
@@ -8629,7 +9040,7 @@
       "! Boss Defeats",
       "Miniboss"
     ],
-    "requires": "|Weapons Archive Access Codes|"
+    "requires": "|Level Clear (MM10):6|"
   },
   {
     "name": "Wily Golem Defeated",
@@ -8638,7 +9049,7 @@
       "! Boss Defeats",
       "Boss"
     ],
-    "requires": "|Wily Golem Access Codes|"
+    "requires": "|Level Clear (MM10):12|"
   },
   {
     "name": "Enker Defeated",
@@ -8647,7 +9058,7 @@
       "! Boss Defeats",
       "Optional Boss"
     ],
-    "requires": "|Enker Access Codes:2|"
+    "requires": "|Level Clear (MMK):1|"
   },
   {
     "name": "Punk Defeated",
@@ -8656,7 +9067,7 @@
       "! Boss Defeats",
       "Optional Boss"
     ],
-    "requires": "|Punk Access Codes:2|"
+    "requires": "|Level Clear (MMK):2|"
   },
   {
     "name": "Ballade Defeated",
@@ -8665,7 +9076,7 @@
       "! Boss Defeats",
       "Optional Boss"
     ],
-    "requires": "|Ballade Access Codes:2|"
+    "requires": "|Level Clear (MMK):3|"
   },
   {
     "name": "Terra Defeated",
@@ -8674,7 +9085,7 @@
       "! Boss Defeats",
       "Boss"
     ],
-    "requires": "|Terra Access Codes|"
+    "requires": "|Level Clear (MMV):4|"
   },
   {
     "name": "Sunstar Defeated",
@@ -8683,7 +9094,7 @@
       "! Boss Defeats",
       "Boss"
     ],
-    "requires": "|Sunstar Access Codes|"
+    "requires": "|Level Clear (MMV):9|"
   },
   {
     "victory": true,

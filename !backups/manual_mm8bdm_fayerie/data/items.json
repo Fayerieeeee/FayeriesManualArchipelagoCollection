@@ -73,14 +73,6 @@
   },
   {
     "count": 1,
-    "name": "Yellow Devil Access Codes",
-    "category": [
-      "Bosses"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
     "name": "Bubble Man Access Codes",
     "category": [
       "Maps"
@@ -153,14 +145,6 @@
   },
   {
     "count": 1,
-    "name": "Guts Dozer Access Codes",
-    "category": [
-      "Bosses"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
     "name": "Snake Man Access Codes",
     "category": [
       "Maps"
@@ -220,14 +204,6 @@
     "name": "Shadow Man Access Codes",
     "category": [
       "Maps"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Doc Robot Access Codes",
-    "category": [
-      "Bosses"
     ],
     "progression": true
   },
@@ -313,14 +289,6 @@
   },
   {
     "count": 1,
-    "name": "Metools Daddy Access Codes",
-    "category": [
-      "Bosses"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
     "name": "Charge Man Access Codes",
     "category": [
       "Maps"
@@ -384,11 +352,10 @@
     "progression": true
   },
   {
-    "count": "2",
+    "count": 1,
     "name": "Dark Man Access Codes",
     "category": [
-      "Maps",
-      "Bosses"
+      "Maps"
     ],
     "progression": true
   },
@@ -482,14 +449,6 @@
   },
   {
     "count": 1,
-    "name": "Gamma Access Codes",
-    "category": [
-      "Bosses"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
     "name": "Ruined Street Access Codes",
     "category": [
       "Maps"
@@ -569,22 +528,6 @@
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Bass Access Codes",
-    "category": [
-      "Bosses"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Wily Capsule Access Codes",
-    "category": [
-      "Bosses"
-    ],
-    "progression": true
-  },
-  {
     "count": "2",
     "name": "Tengu Man Access Codes",
     "category": [
@@ -649,11 +592,10 @@
     "progression": true
   },
   {
-    "count": "2",
+    "count": 1,
     "name": "Duo Access Codes",
     "category": [
-      "Maps",
-      "Bosses"
+      "Maps"
     ],
     "progression": true
   },
@@ -662,14 +604,6 @@
     "name": "Skull Tower Access Codes",
     "category": [
       "Maps"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Evil Robot Access Codes",
-    "category": [
-      "Bosses"
     ],
     "progression": true
   },
@@ -739,36 +673,25 @@
   },
   {
     "count": 1,
-    "name": "King Access Codes",
-    "category": [
-      "Bosses"
-    ],
-    "progression": true
-  },
-  {
-    "count": "2",
     "name": "Buster Rod G. Access Codes",
     "category": [
-      "Maps",
-      "Bosses"
+      "Maps"
     ],
     "progression": true
   },
   {
-    "count": "2",
+    "count": 1,
     "name": "Mega Water S. Access Codes",
     "category": [
-      "Maps",
-      "Bosses"
+      "Maps"
     ],
     "progression": true
   },
   {
-    "count": "2",
+    "count": 1,
     "name": "Hyper Storm H. Access Codes",
     "category": [
-      "Maps",
-      "Bosses"
+      "Maps"
     ],
     "progression": true
   },
@@ -777,14 +700,6 @@
     "name": "Wily Tower Access Codes",
     "category": [
       "Maps"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Genesis Unit Access Codes",
-    "category": [
-      "Bosses"
     ],
     "progression": true
   },
@@ -861,27 +776,10 @@
     "progression": true
   },
   {
-    "count": "2",
+    "count": 1,
     "name": "Fake Man Access Codes",
     "category": [
-      "Maps",
-      "Bosses"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Proto Man Access Codes",
-    "category": [
-      "Bosses"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Mega Mech Shark Access Codes",
-    "category": [
-      "Bosses"
+      "Maps"
     ],
     "progression": true
   },
@@ -959,22 +857,6 @@
   },
   {
     "count": 1,
-    "name": "Weapons Archive Access Codes",
-    "category": [
-      "Bosses"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Wily Golem Access Codes",
-    "category": [
-      "Bosses"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
     "name": "Mercury Access Codes",
     "category": [
       "Maps"
@@ -1039,36 +921,25 @@
   },
   {
     "count": 1,
-    "name": "Terra Access Codes",
-    "category": [
-      "Bosses"
-    ],
-    "progression": true
-  },
-  {
-    "count": "2",
     "name": "Enker Access Codes",
     "category": [
-      "Maps",
-      "Bosses"
+      "Maps"
     ],
     "progression": true
   },
   {
-    "count": "2",
+    "count": 1,
     "name": "Punk Access Codes",
     "category": [
-      "Maps",
-      "Bosses"
+      "Maps"
     ],
     "progression": true
   },
   {
-    "count": "2",
+    "count": 1,
     "name": "Ballade Access Codes",
     "category": [
-      "Maps",
-      "Bosses"
+      "Maps"
     ],
     "progression": true
   },
@@ -1081,10 +952,114 @@
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Sunstar Access Codes",
+    "count": "10",
+    "name": "Level Clear (MM1)",
     "category": [
-      "Bosses"
+      "Level Clears"
+    ],
+    "progression": true
+  },
+  {
+    "count": "11",
+    "name": "Level Clear (MM2)",
+    "category": [
+      "Level Clears"
+    ],
+    "progression": true
+  },
+  {
+    "count": "10",
+    "name": "Level Clear (MM3)",
+    "category": [
+      "Level Clears"
+    ],
+    "progression": true
+  },
+  {
+    "count": "10",
+    "name": "Level Clear (MM4)",
+    "category": [
+      "Level Clears"
+    ],
+    "progression": true
+  },
+  {
+    "count": "10",
+    "name": "Level Clear (MM5)",
+    "category": [
+      "Level Clears"
+    ],
+    "progression": true
+  },
+  {
+    "count": "10",
+    "name": "Level Clear (MM6)",
+    "category": [
+      "Level Clears"
+    ],
+    "progression": true
+  },
+  {
+    "count": "13",
+    "name": "Level Clear (MM7)",
+    "category": [
+      "Level Clears"
+    ],
+    "progression": true
+  },
+  {
+    "count": "11",
+    "name": "Level Clear (MM8)",
+    "category": [
+      "Level Clears"
+    ],
+    "progression": true
+  },
+  {
+    "count": "11",
+    "name": "Level Clear (MMB)",
+    "category": [
+      "Level Clears"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Level Clear (MMW)",
+    "category": [
+      "Level Clears"
+    ],
+    "progression": true
+  },
+  {
+    "count": "12",
+    "name": "Level Clear (MM9)",
+    "category": [
+      "Level Clears"
+    ],
+    "progression": true
+  },
+  {
+    "count": "12",
+    "name": "Level Clear (MM10)",
+    "category": [
+      "Level Clears"
+    ],
+    "progression": true
+  },
+  {
+    "count": "9",
+    "name": "Level Clear (MMV)",
+    "category": [
+      "Level Clears"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Level Clear (MMK)",
+    "category": [
+      "Level Clears"
     ],
     "progression": true
   },
@@ -1149,14 +1124,6 @@
     "name": "Gamma Thrusters",
     "category": [
       "Gamma Parts"
-    ],
-    "progression": true
-  },
-  {
-    "count": "3",
-    "name": "Mega Man? Access Codes",
-    "category": [
-      "Bosses"
     ],
     "progression": true
   },
