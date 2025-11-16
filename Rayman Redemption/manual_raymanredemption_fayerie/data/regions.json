@@ -105,7 +105,7 @@
       "Breakout Minigame",
       "100% Achievements"
     ],
-    "requires": "|Electoon Hero| AND |Great Protoon|"
+    "requires": "|@Medallion Pieces:20| AND |Electoon Hero| AND |Great Protoon|"
   },
   "Breakout Minigame": {
     "connects_to": [
