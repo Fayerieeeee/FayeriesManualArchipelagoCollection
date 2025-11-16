@@ -4,6 +4,12 @@
       "enable_skin_items"
     ]
   },
+  "Dark Legacy": {
+    "hidden": true,
+    "yaml_option": [
+      "dark_legacy_toggle"
+    ]
+  },
   "Betilla's Garden": {
     "yaml_option": [
       "betillasanity"

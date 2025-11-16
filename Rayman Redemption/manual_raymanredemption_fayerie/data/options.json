@@ -23,6 +23,15 @@
         }
     },
     "user": {
+        "dark_legacy_toggle":{
+            "display_name": "Dark Legacy",
+            "description": [
+                "Enable Dark Legacy? (Please disable this if you're only gonna defeat Mr. Dark's Darker Form, or generation WILL fail)"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Goal Related"
+        },
         "start_with_extras":{
             "display_name": "Random Extra Access",
             "description": [
