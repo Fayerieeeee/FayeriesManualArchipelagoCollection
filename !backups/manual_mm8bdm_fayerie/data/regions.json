@@ -118,11 +118,11 @@
   },
   "Skull Castle Courtyard": {
     "connects_to": [],
-    "requires": "|Skull Castle Access Codes:1|"
+    "requires": "|Skull Castle Access Codes:4|"
   },
   "Skull Castle Interior": {
     "connects_to": [],
-    "requires": "|Skull Castle Access Codes:2|"
+    "requires": "|Skull Castle Access Codes:5|"
   },
   "Pharaoh Man": {
     "connects_to": [],
