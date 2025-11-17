@@ -131,7 +131,7 @@ alias etank "give ETank"
 alias wtank "give WTank"
 alias mtank "give MTank"
 alias energybalancer "give EnergyBalancer"
-alias smallscrews "summon SmallScrewDropper"
+//alias smallscrews "summon SmallScrewDropper"
 //alias bigscrews "summon BigScrewDropper"
 //alias hyperscrew "summon HyperScrewItem"
 
