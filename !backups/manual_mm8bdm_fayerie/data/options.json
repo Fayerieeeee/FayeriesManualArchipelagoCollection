@@ -4,7 +4,7 @@
     "core": {
         "goal":{
             "display_name": "End Game",
-            "description": "Gather the 10 Gamma parts and fight Eclipse!",
+            "description": "Gather the 10 Gamma parts and defeat Eclipse!",
             "aliases": {"easiest": 0},
             "hidden": false
         },
@@ -58,7 +58,7 @@
         "shopsanity":{
             "display_name": "shopsanity",
             "description": [
-                "Adds the shop purchase checks and shop stock items. (CURRENTLY NOT WORKING)"
+                "Adds the shop checks, shop stock items, large and hyper screw items. (104 Locations)"
             ],
             "type": "Toggle",
             "default": false,
