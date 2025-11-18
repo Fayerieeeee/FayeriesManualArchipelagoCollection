@@ -2171,7 +2171,25 @@
     "useful": true
   },
   {
-    "count": "21",
+    "count": "50",
+    "name": "Large Screws",
+    "category": [
+      "Screws",
+      "shopsanity"
+    ],
+    "filler": true
+  },
+  {
+    "count": "10",
+    "name": "Hyper Screw",
+    "category": [
+      "Screws",
+      "shopsanity"
+    ],
+    "useful": true
+  },
+  {
+    "count": "10",
     "name": "Progressive Shop Stock",
     "category": [
       "Shop Stocks",
