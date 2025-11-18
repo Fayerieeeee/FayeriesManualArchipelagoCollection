@@ -8845,6 +8845,942 @@
     ]
   },
   {
+    "name": "Auto's Shop Purchase 1",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:1|"
+  },
+  {
+    "name": "Auto's Shop Purchase 2",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:1|"
+  },
+  {
+    "name": "Auto's Shop Purchase 3",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:1|"
+  },
+  {
+    "name": "Auto's Shop Purchase 4",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:1|"
+  },
+  {
+    "name": "Auto's Shop Purchase 5",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:1|"
+  },
+  {
+    "name": "Auto's Shop Purchase 6",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:1|"
+  },
+  {
+    "name": "Auto's Shop Purchase 7",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:1|"
+  },
+  {
+    "name": "Auto's Shop Purchase 8",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:1|"
+  },
+  {
+    "name": "Auto's Shop Purchase 9",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:1|"
+  },
+  {
+    "name": "Auto's Shop Purchase 10",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:1|"
+  },
+  {
+    "name": "Auto's Shop Purchase 11",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:2|"
+  },
+  {
+    "name": "Auto's Shop Purchase 12",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:2|"
+  },
+  {
+    "name": "Auto's Shop Purchase 13",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:2|"
+  },
+  {
+    "name": "Auto's Shop Purchase 14",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:2|"
+  },
+  {
+    "name": "Auto's Shop Purchase 15",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:2|"
+  },
+  {
+    "name": "Auto's Shop Purchase 16",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:2|"
+  },
+  {
+    "name": "Auto's Shop Purchase 17",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:2|"
+  },
+  {
+    "name": "Auto's Shop Purchase 18",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:2|"
+  },
+  {
+    "name": "Auto's Shop Purchase 19",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:2|"
+  },
+  {
+    "name": "Auto's Shop Purchase 20",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:2|"
+  },
+  {
+    "name": "Auto's Shop Purchase 21",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:3|"
+  },
+  {
+    "name": "Auto's Shop Purchase 22",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:3|"
+  },
+  {
+    "name": "Auto's Shop Purchase 23",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:3|"
+  },
+  {
+    "name": "Auto's Shop Purchase 24",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:3|"
+  },
+  {
+    "name": "Auto's Shop Purchase 25",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:3|"
+  },
+  {
+    "name": "Auto's Shop Purchase 26",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:3|"
+  },
+  {
+    "name": "Auto's Shop Purchase 27",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:3|"
+  },
+  {
+    "name": "Auto's Shop Purchase 28",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:3|"
+  },
+  {
+    "name": "Auto's Shop Purchase 29",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:3|"
+  },
+  {
+    "name": "Auto's Shop Purchase 30",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:3|"
+  },
+  {
+    "name": "Auto's Shop Purchase 31",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:4|"
+  },
+  {
+    "name": "Auto's Shop Purchase 32",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:4|"
+  },
+  {
+    "name": "Auto's Shop Purchase 33",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:4|"
+  },
+  {
+    "name": "Auto's Shop Purchase 34",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:4|"
+  },
+  {
+    "name": "Auto's Shop Purchase 35",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:4|"
+  },
+  {
+    "name": "Auto's Shop Purchase 36",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:4|"
+  },
+  {
+    "name": "Auto's Shop Purchase 37",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:4|"
+  },
+  {
+    "name": "Auto's Shop Purchase 38",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:4|"
+  },
+  {
+    "name": "Auto's Shop Purchase 39",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:4|"
+  },
+  {
+    "name": "Auto's Shop Purchase 40",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:4|"
+  },
+  {
+    "name": "Auto's Shop Purchase 41",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:5|"
+  },
+  {
+    "name": "Auto's Shop Purchase 42",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:5|"
+  },
+  {
+    "name": "Auto's Shop Purchase 43",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:5|"
+  },
+  {
+    "name": "Auto's Shop Purchase 44",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:5|"
+  },
+  {
+    "name": "Auto's Shop Purchase 45",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:5|"
+  },
+  {
+    "name": "Auto's Shop Purchase 46",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:5|"
+  },
+  {
+    "name": "Auto's Shop Purchase 47",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:5|"
+  },
+  {
+    "name": "Auto's Shop Purchase 48",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:5|"
+  },
+  {
+    "name": "Auto's Shop Purchase 49",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:5|"
+  },
+  {
+    "name": "Auto's Shop Purchase 50",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:5|"
+  },
+  {
+    "name": "Auto's Shop Purchase 51",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:6|"
+  },
+  {
+    "name": "Auto's Shop Purchase 52",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:6|"
+  },
+  {
+    "name": "Auto's Shop Purchase 53",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:6|"
+  },
+  {
+    "name": "Auto's Shop Purchase 54",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:6|"
+  },
+  {
+    "name": "Auto's Shop Purchase 55",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:6|"
+  },
+  {
+    "name": "Auto's Shop Purchase 56",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:6|"
+  },
+  {
+    "name": "Auto's Shop Purchase 57",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:6|"
+  },
+  {
+    "name": "Auto's Shop Purchase 58",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:6|"
+  },
+  {
+    "name": "Auto's Shop Purchase 59",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:6|"
+  },
+  {
+    "name": "Auto's Shop Purchase 60",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:6|"
+  },
+  {
+    "name": "Auto's Shop Purchase 61",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:7|"
+  },
+  {
+    "name": "Auto's Shop Purchase 62",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:7|"
+  },
+  {
+    "name": "Auto's Shop Purchase 63",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:7|"
+  },
+  {
+    "name": "Auto's Shop Purchase 64",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:7|"
+  },
+  {
+    "name": "Auto's Shop Purchase 65",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:7|"
+  },
+  {
+    "name": "Auto's Shop Purchase 66",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:7|"
+  },
+  {
+    "name": "Auto's Shop Purchase 67",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:7|"
+  },
+  {
+    "name": "Auto's Shop Purchase 68",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:7|"
+  },
+  {
+    "name": "Auto's Shop Purchase 69",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:7|"
+  },
+  {
+    "name": "Auto's Shop Purchase 70",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:7|"
+  },
+  {
+    "name": "Auto's Shop Purchase 71",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:8|"
+  },
+  {
+    "name": "Auto's Shop Purchase 72",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:8|"
+  },
+  {
+    "name": "Auto's Shop Purchase 73",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:8|"
+  },
+  {
+    "name": "Auto's Shop Purchase 74",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:8|"
+  },
+  {
+    "name": "Auto's Shop Purchase 75",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:8|"
+  },
+  {
+    "name": "Auto's Shop Purchase 76",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:8|"
+  },
+  {
+    "name": "Auto's Shop Purchase 77",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:8|"
+  },
+  {
+    "name": "Auto's Shop Purchase 78",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:8|"
+  },
+  {
+    "name": "Auto's Shop Purchase 79",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:8|"
+  },
+  {
+    "name": "Auto's Shop Purchase 80",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:8|"
+  },
+  {
+    "name": "Auto's Shop Purchase 81",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:9|"
+  },
+  {
+    "name": "Auto's Shop Purchase 82",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:9|"
+  },
+  {
+    "name": "Auto's Shop Purchase 83",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:9|"
+  },
+  {
+    "name": "Auto's Shop Purchase 84",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:9|"
+  },
+  {
+    "name": "Auto's Shop Purchase 85",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:9|"
+  },
+  {
+    "name": "Auto's Shop Purchase 86",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:9|"
+  },
+  {
+    "name": "Auto's Shop Purchase 87",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:9|"
+  },
+  {
+    "name": "Auto's Shop Purchase 88",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:9|"
+  },
+  {
+    "name": "Auto's Shop Purchase 89",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:9|"
+  },
+  {
+    "name": "Auto's Shop Purchase 90",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:9|"
+  },
+  {
+    "name": "Auto's Shop Purchase 91",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:10|"
+  },
+  {
+    "name": "Auto's Shop Purchase 92",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:10|"
+  },
+  {
+    "name": "Auto's Shop Purchase 93",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:10|"
+  },
+  {
+    "name": "Auto's Shop Purchase 94",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:10|"
+  },
+  {
+    "name": "Auto's Shop Purchase 95",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:10|"
+  },
+  {
+    "name": "Auto's Shop Purchase 96",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:10|"
+  },
+  {
+    "name": "Auto's Shop Purchase 97",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:10|"
+  },
+  {
+    "name": "Auto's Shop Purchase 98",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:10|"
+  },
+  {
+    "name": "Auto's Shop Purchase 99",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:10|"
+  },
+  {
+    "name": "Auto's Shop Purchase 100",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:10|"
+  },
+  {
+    "name": "Auto's Shop Purchase 101",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:10|"
+  },
+  {
+    "name": "Auto's Shop Purchase 102",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:10|"
+  },
+  {
+    "name": "Auto's Shop Purchase 103",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:10|"
+  },
+  {
+    "name": "Auto's Shop Purchase 104",
+    "region": "Shop",
+    "category": [
+      "! Shop",
+      "shopsanity"
+    ],
+    "requires": "|Progressive Shop Stock:10|"
+  },
+  {
     "name": "Copy 1 Defeated",
     "region": "Boss",
     "category": [
