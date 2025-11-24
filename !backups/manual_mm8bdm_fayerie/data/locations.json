@@ -7877,7 +7877,7 @@
     "region": "Wily Station Manufactory",
     "category": [
       "! Frags",
-      "Wily Station ArchiManufactoryves"
+      "Wily Station Manufactory"
     ],
     "requires": []
   },
@@ -9868,7 +9868,7 @@
       "! Boss Defeats",
       "Boss"
     ],
-    "requires": "|Level Clear (MM7):6| AND |Super Adaptor|"
+    "requires": "|Level Clear (MM7):6|"
   },
   {
     "name": "Wily Capsule Defeated",
