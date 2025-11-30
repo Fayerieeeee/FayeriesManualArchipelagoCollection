@@ -1,0 +1,7 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "Sonic1Forever",
+  "creator": "Fayerie",
+  "filler_item_name": "10 Rings",
+  "starting_items": []
+}
