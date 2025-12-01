@@ -2,217 +2,300 @@
   {
     "count": 1,
     "name": "Green Hill Key",
-    "category": ["Zones"],
+    "category": [
+      "Zones"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Marble Key",
-    "category": ["Zones"],
+    "category": [
+      "Zones"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Spring Yard Key",
-    "category": ["Zones"],
+    "category": [
+      "Zones"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Labyrinth Key",
-    "category": ["Zones"],
+    "category": [
+      "Zones"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Star Light Key",
-    "category": ["Zones"],
+    "category": [
+      "Zones"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Scrap Brain Key",
-    "category": ["Zones"],
+    "category": [
+      "Zones"
+    ],
     "progression": true
   },
   {
     "count": 6,
     "name": "Special Stage Key",
-    "category": ["Special Stages"],
+    "category": [
+      "Special Stages"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 2,
     "name": "Bonus Special Stage Key",
-    "category": ["Special Stages", "Bonus Special Stages"],
+    "category": [
+      "Special Stages",
+      "Bonus Special Stages"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Sky Base Key",
-    "category": ["Extras", "Boss Rush"],
+    "category": [
+      "Extras",
+      "Boss Rush"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Golf Club",
-    "category": ["Extras", "Golf Forever"],
+    "category": [
+      "Extras",
+      "Golf Forever"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 6,
     "name": "Chaos Emerald",
-    "category": ["Chaos Emeralds"],
+    "category": [
+      "Chaos Emeralds"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "7th Chaos Emerald",
-    "category": ["Chaos Emeralds", "Super Form"],
+    "category": [
+      "Chaos Emeralds",
+      "Super Form"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Sonic",
-    "category": ["Characters"],
+    "category": [
+      "Characters"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Tails",
-    "category": ["Characters"],
+    "category": [
+      "Characters"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Knuckles",
-    "category": ["Characters"],
+    "category": [
+      "Characters"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Amy",
-    "category": ["Characters"],
+    "category": [
+      "Characters"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Mighty",
-    "category": ["Characters", "Epilogue Expansion"],
+    "category": [
+      "Characters",
+      "Epilogue Expansion"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Ray",
-    "category": ["Characters", "Epilogue Expansion"],
+    "category": [
+      "Characters",
+      "Epilogue Expansion"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Spindash (S2)",
-    "category": ["Movesets"],
+    "category": [
+      "Movesets"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Spindash (CD)",
-    "category": ["Movesets"],
+    "category": [
+      "Movesets"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Super Peelout",
-    "category": ["Movesets"],
+    "category": [
+      "Movesets"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Insta-Shield",
-    "category": ["Movesets"],
+    "category": [
+      "Movesets"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Drop Dash",
-    "category": ["Movesets"],
+    "category": [
+      "Movesets"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Fly",
-    "category": ["Movesets"],
+    "category": [
+      "Movesets"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Glide",
-    "category": ["Movesets"],
+    "category": [
+      "Movesets"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Wall Climbing",
-    "category": ["Movesets"],
+    "category": [
+      "Movesets"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Forever (Amy)",
-    "category": ["Movesets"],
+    "category": [
+      "Movesets"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Advancesque (Amy)",
-    "category": ["Movesets"],
+    "category": [
+      "Movesets"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Elemental Shields",
-    "category": ["Movesets"],
+    "category": [
+      "Movesets"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Upgraded Aqua Shield",
-    "category": ["Movesets"],
+    "category": [
+      "Movesets"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Flight Cancel",
-    "category": ["Movesets"],
+    "category": [
+      "Movesets"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Super Cancel",
-    "category": ["Movesets", "Super Form"],
+    "category": [
+      "Movesets",
+      "Super Form"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Wall Jump",
-    "category": ["Movesets", "Epilogue Expansion"],
+    "category": [
+      "Movesets",
+      "Epilogue Expansion"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Hammer Drop",
-    "category": ["Movesets", "Epilogue Expansion"],
+    "category": [
+      "Movesets",
+      "Epilogue Expansion"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Air Glide",
-    "category": ["Movesets", "Epilogue Expansion"],
+    "category": [
+      "Movesets",
+      "Epilogue Expansion"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Tail Whip",
-    "category": ["Movesets", "Epilogue Expansion"],
+    "category": [
+      "Movesets",
+      "Epilogue Expansion"
+    ],
     "useful": true
   },
   {
@@ -240,33 +323,43 @@
     "filler": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "Damage Trap",
-    "category": ["Traps"],
+    "category": [
+      "Traps"
+    ],
     "trap": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "Freeze Trap",
-    "category": ["Traps"],
+    "category": [
+      "Traps"
+    ],
     "trap": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "Time Limit Trap",
-    "category": ["Traps"],
+    "category": [
+      "Traps"
+    ],
     "trap": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "Random Monitor Trap",
-    "category": ["Traps"],
+    "category": [
+      "Traps"
+    ],
     "trap": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "Spike Bug Trap",
-    "category": ["Traps"],
+    "category": [
+      "Traps"
+    ],
     "trap": true
   }
 ]
