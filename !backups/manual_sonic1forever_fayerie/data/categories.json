@@ -1,1 +1,25 @@
-{}
+{
+    "Bonus Special Stages": {
+        "yaml_option": ["extra_special_stages"],
+        "hidden": true
+    },
+    "Boss Rush": {
+        "yaml_option": ["boss_rush"],
+        "hidden": true
+    },
+    "Golf Forever": {
+        "yaml_option": ["golf"],
+        "hidden": true
+    },
+    "Achievemets": {
+        "yaml_option": ["achievements"]
+    },
+    "Super Form": {
+        "yaml_option": ["super_form"],
+        "hidden": true
+    },
+    "Epilogue Expansion": {
+        "yaml_option": ["epilogue_expansion"],
+        "hidden": true
+    }
+}

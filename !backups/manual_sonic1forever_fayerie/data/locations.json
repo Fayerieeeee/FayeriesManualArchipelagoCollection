@@ -1,7 +1,842 @@
 [
   {
-    "name": "t",
-    "category": [],
+    "name": "Green Hill Act 1 (Sonic)",
+    "region": "Green Hill",
+    "category": ["Green Hill"],
+    "requires": ["Sonic"]
+  },
+  {
+     "name": "Green Hill Act 1 (Tails)",
+     "region": "Green Hill",
+     "category": ["Green Hill"],
+     "requires": ["Tails"]
+  },
+  {
+     "name": "Green Hill Act 1 (Knuckles)",
+     "region": "Green Hill",
+     "category": ["Green Hill"],
+     "requires": ["Knuckles"]
+  },
+  {
+     "name": "Green Hill Act 1 (Amy)",
+     "region": "Green Hill",
+     "category": ["Green Hill"],
+     "requires": ["Amy"]
+  },
+  {
+    "name": "Green Hill Act 2 (Sonic)",
+    "region": "Green Hill",
+    "category": ["Green Hill"],
+    "requires": ["Sonic"]
+  },
+  {
+     "name": "Green Hill Act 2 (Tails)",
+     "region": "Green Hill",
+     "category": ["Green Hill"],
+     "requires": ["Tails"]
+  },
+  {
+     "name": "Green Hill Act 2 (Knuckles)",
+     "region": "Green Hill",
+     "category": ["Green Hill"],
+     "requires": ["Knuckles"]
+  },
+  {
+     "name": "Green Hill Act 2 (Amy)",
+     "region": "Green Hill",
+     "category": ["Green Hill"],
+     "requires": ["Amy"]
+  },
+  {
+    "name": "Green Hill Act 3 (Sonic)",
+    "region": "Green Hill",
+    "category": ["Green Hill"],
+    "requires": ["Sonic"]
+  },
+  {
+     "name": "Green Hill Act 3 (Tails)",
+     "region": "Green Hill",
+     "category": ["Green Hill"],
+     "requires": ["Tails"]
+  },
+  {
+     "name": "Green Hill Act 3 (Knuckles)",
+     "region": "Green Hill",
+     "category": ["Green Hill"],
+     "requires": ["Knuckles"]
+  },
+  {
+     "name": "Green Hill Act 3 (Amy)",
+     "region": "Green Hill",
+     "category": ["Green Hill"],
+     "requires": ["Amy"]
+  },
+  {
+    "name": "Marble Act 1 (Sonic)",
+    "region": "Marble",
+    "category": ["Marble"],
+    "requires": ["Sonic"]
+  },
+  {
+     "name": "Marble Act 1 (Tails)",
+     "region": "Marble",
+     "category": ["Marble"],
+     "requires": ["Tails"]
+  },
+  {
+     "name": "Marble Act 1 (Knuckles)",
+     "region": "Marble",
+     "category": ["Marble"],
+     "requires": ["Knuckles"]
+  },
+  {
+     "name": "Marble Act 1 (Amy)",
+     "region": "Marble",
+     "category": ["Marble"],
+     "requires": ["Amy"]
+  },
+  {
+    "name": "Marble Act 2 (Sonic)",
+    "region": "Marble",
+    "category": ["Marble"],
+    "requires": ["Sonic"]
+  },
+  {
+     "name": "Marble Act 2 (Tails)",
+     "region": "Marble",
+     "category": ["Marble"],
+     "requires": ["Tails"]
+  },
+  {
+     "name": "Marble Act 2 (Knuckles)",
+     "region": "Marble",
+     "category": ["Marble"],
+     "requires": ["Knuckles"]
+  },
+  {
+     "name": "Marble Act 2 (Amy)",
+     "region": "Marble",
+     "category": ["Marble"],
+     "requires": ["Amy"]
+  },
+  {
+    "name": "Marble Act 3 (Sonic)",
+    "region": "Marble",
+    "category": ["Marble"],
+    "requires": ["Sonic"]
+  },
+  {
+     "name": "Marble Act 3 (Tails)",
+     "region": "Marble",
+     "category": ["Marble"],
+     "requires": ["Tails"]
+  },
+  {
+     "name": "Marble Act 3 (Knuckles)",
+     "region": "Marble",
+     "category": ["Marble"],
+     "requires": ["Knuckles"]
+  },
+  {
+     "name": "Marble Act 3 (Amy)",
+     "region": "Marble",
+     "category": ["Marble"],
+     "requires": ["Amy"]
+  },
+  {
+    "name": "Spring Yard Act 1 (Sonic)",
+    "region": "Spring Yard",
+    "category": ["Spring Yard"],
+    "requires": ["Sonic"]
+  },
+  {
+     "name": "Spring Yard Act 1 (Tails)",
+     "region": "Spring Yard",
+     "category": ["Spring Yard"],
+     "requires": ["Tails"]
+  },
+  {
+     "name": "Spring Yard Act 1 (Knuckles)",
+     "region": "Spring Yard",
+     "category": ["Spring Yard"],
+     "requires": ["Knuckles"]
+  },
+  {
+     "name": "Spring Yard Act 1 (Amy)",
+     "region": "Spring Yard",
+     "category": ["Spring Yard"],
+     "requires": ["Amy"]
+  },
+  {
+    "name": "Spring Yard Act 2 (Sonic)",
+    "region": "Spring Yard",
+    "category": ["Spring Yard"],
+    "requires": ["Sonic"]
+  },
+  {
+     "name": "Spring Yard Act 2 (Tails)",
+     "region": "Spring Yard",
+     "category": ["Spring Yard"],
+     "requires": ["Tails"]
+  },
+  {
+     "name": "Spring Yard Act 2 (Knuckles)",
+     "region": "Spring Yard",
+     "category": ["Spring Yard"],
+     "requires": ["Knuckles"]
+  },
+  {
+     "name": "Spring Yard Act 2 (Amy)",
+     "region": "Spring Yard",
+     "category": ["Spring Yard"],
+     "requires": ["Amy"]
+  },
+  {
+    "name": "Spring Yard Act 3 (Sonic)",
+    "region": "Spring Yard",
+    "category": ["Spring Yard"],
+    "requires": ["Sonic"]
+  },
+  {
+     "name": "Spring Yard Act 3 (Tails)",
+     "region": "Spring Yard",
+     "category": ["Spring Yard"],
+     "requires": ["Tails"]
+  },
+  {
+     "name": "Spring Yard Act 3 (Knuckles)",
+     "region": "Spring Yard",
+     "category": ["Spring Yard"],
+     "requires": ["Knuckles"]
+  },
+  {
+     "name": "Spring Yard Act 3 (Amy)",
+     "region": "Spring Yard",
+     "category": ["Spring Yard"],
+     "requires": ["Amy"]
+  },
+  {
+    "name": "Labyrinth Act 1 (Sonic)",
+    "region": "Labyrinth",
+    "category": ["Labyrinth"],
+    "requires": ["Sonic"]
+  },
+  {
+     "name": "Labyrinth Act 1 (Tails)",
+     "region": "Labyrinth",
+     "category": ["Labyrinth"],
+     "requires": ["Tails"]
+  },
+  {
+     "name": "Labyrinth Act 1 (Knuckles)",
+     "region": "Labyrinth",
+     "category": ["Labyrinth"],
+     "requires": ["Knuckles"]
+  },
+  {
+     "name": "Labyrinth Act 1 (Amy)",
+     "region": "Labyrinth",
+     "category": ["Labyrinth"],
+     "requires": ["Amy"]
+  },
+  {
+    "name": "Labyrinth Act 2 (Sonic)",
+    "region": "Labyrinth",
+    "category": ["Labyrinth"],
+    "requires": ["Sonic"]
+  },
+  {
+     "name": "Labyrinth Act 2 (Tails)",
+     "region": "Labyrinth",
+     "category": ["Labyrinth"],
+     "requires": ["Tails"]
+  },
+  {
+     "name": "Labyrinth Act 2 (Knuckles)",
+     "region": "Labyrinth",
+     "category": ["Labyrinth"],
+     "requires": ["Knuckles"]
+  },
+  {
+     "name": "Labyrinth Act 2 (Amy)",
+     "region": "Labyrinth",
+     "category": ["Labyrinth"],
+     "requires": ["Amy"]
+  },
+  {
+    "name": "Labyrinth Act 3 (Sonic)",
+    "region": "Labyrinth",
+    "category": ["Labyrinth"],
+    "requires": ["Sonic"]
+  },
+  {
+     "name": "Labyrinth Act 3 (Tails)",
+     "region": "Labyrinth",
+     "category": ["Labyrinth"],
+     "requires": ["Tails"]
+  },
+  {
+     "name": "Labyrinth Act 3 (Knuckles)",
+     "region": "Labyrinth",
+     "category": ["Labyrinth"],
+     "requires": ["Knuckles"]
+  },
+  {
+     "name": "Labyrinth Act 3 (Amy)",
+     "region": "Labyrinth",
+     "category": ["Labyrinth"],
+     "requires": ["Amy"]
+  },
+  {
+    "name": "Star Light Act 1 (Sonic)",
+    "region": "Star Light",
+    "category": ["Star Light"],
+    "requires": ["Sonic"]
+  },
+  {
+     "name": "Star Light Act 1 (Tails)",
+     "region": "Star Light",
+     "category": ["Star Light"],
+     "requires": ["Tails"]
+  },
+  {
+     "name": "Star Light Act 1 (Knuckles)",
+     "region": "Star Light",
+     "category": ["Star Light"],
+     "requires": ["Knuckles"]
+  },
+  {
+     "name": "Star Light Act 1 (Amy)",
+     "region": "Star Light",
+     "category": ["Star Light"],
+     "requires": ["Amy"]
+  },
+  {
+    "name": "Star Light Act 2 (Sonic)",
+    "region": "Star Light",
+    "category": ["Star Light"],
+    "requires": ["Sonic"]
+  },
+  {
+     "name": "Star Light Act 2 (Tails)",
+     "region": "Star Light",
+     "category": ["Star Light"],
+     "requires": ["Tails"]
+  },
+  {
+     "name": "Star Light Act 2 (Knuckles)",
+     "region": "Star Light",
+     "category": ["Star Light"],
+     "requires": ["Knuckles"]
+  },
+  {
+     "name": "Star Light Act 2 (Amy)",
+     "region": "Star Light",
+     "category": ["Star Light"],
+     "requires": ["Amy"]
+  },
+  {
+    "name": "Star Light Act 3 (Sonic)",
+    "region": "Star Light",
+    "category": ["Star Light"],
+    "requires": ["Sonic"]
+  },
+  {
+     "name": "Star Light Act 3 (Tails)",
+     "region": "Star Light",
+     "category": ["Star Light"],
+     "requires": ["Tails"]
+  },
+  {
+     "name": "Star Light Act 3 (Knuckles)",
+     "region": "Star Light",
+     "category": ["Star Light"],
+     "requires": ["Knuckles"]
+  },
+  {
+     "name": "Star Light Act 3 (Amy)",
+     "region": "Star Light",
+     "category": ["Star Light"],
+     "requires": ["Amy"]
+  },
+  {
+    "name": "Scrap Brain Act 1 (Sonic)",
+    "region": "Scrap Brain",
+    "category": ["Scrap Brain"],
+    "requires": ["Sonic"]
+  },
+  {
+     "name": "Scrap Brain Act 1 (Tails)",
+     "region": "Scrap Brain",
+     "category": ["Scrap Brain"],
+     "requires": ["Tails"]
+  },
+  {
+     "name": "Scrap Brain Act 1 (Knuckles)",
+     "region": "Scrap Brain",
+     "category": ["Scrap Brain"],
+     "requires": ["Knuckles"]
+  },
+  {
+     "name": "Scrap Brain Act 1 (Amy)",
+     "region": "Scrap Brain",
+     "category": ["Scrap Brain"],
+     "requires": ["Amy"]
+  },
+  {
+    "name": "Scrap Brain Act 2 (Sonic)",
+    "region": "Scrap Brain",
+    "category": ["Scrap Brain"],
+    "requires": ["Sonic"]
+  },
+  {
+     "name": "Scrap Brain Act 2 (Tails)",
+     "region": "Scrap Brain",
+     "category": ["Scrap Brain"],
+     "requires": ["Tails"]
+  },
+  {
+     "name": "Scrap Brain Act 2 (Knuckles)",
+     "region": "Scrap Brain",
+     "category": ["Scrap Brain"],
+     "requires": ["Knuckles"]
+  },
+  {
+     "name": "Scrap Brain Act 2 (Amy)",
+     "region": "Scrap Brain",
+     "category": ["Scrap Brain"],
+     "requires": ["Amy"]
+  },
+  {
+    "name": "Scrap Brain Act 3 (Sonic)",
+    "region": "Scrap Brain",
+    "category": ["Scrap Brain"],
+    "requires": ["Sonic"]
+  },
+  {
+     "name": "Scrap Brain Act 3 (Tails)",
+     "region": "Scrap Brain",
+     "category": ["Scrap Brain"],
+     "requires": ["Tails"]
+  },
+  {
+     "name": "Scrap Brain Act 3 (Knuckles)",
+     "region": "Scrap Brain",
+     "category": ["Scrap Brain"],
+     "requires": ["Knuckles"]
+  },
+  {
+     "name": "Scrap Brain Act 3 (Amy)",
+     "region": "Scrap Brain",
+     "category": ["Scrap Brain"],
+     "requires": ["Amy"]
+  },
+  {
+    "name": "Final Clear",
+    "region": "Final",
+    "category": ["Final", "! GOAL"],
     "requires": []
+  },
+  {
+    "name": "Special Stage 1",
+    "region": "Special Stage",
+    "category": ["Special Stage"],
+    "requires": ["@Special Stages:1"]
+  },
+  {
+    "name": "Special Stage 2",
+    "region": "Special Stage",
+    "category": ["Special Stage"],
+    "requires": ["@Special Stages:2"]
+  },
+  {
+    "name": "Special Stage 3",
+    "region": "Special Stage",
+    "category": ["Special Stage"],
+    "requires": ["@Special Stages:3"]
+  },
+  {
+    "name": "Special Stage 4",
+    "region": "Special Stage",
+    "category": ["Special Stage"],
+    "requires": ["@Special Stages:4"]
+  },
+  {
+    "name": "Special Stage 5",
+    "region": "Special Stage",
+    "category": ["Special Stage"],
+    "requires": ["@Special Stages:5"]
+  },
+  {
+    "name": "Special Stage 6",
+    "region": "Special Stage",
+    "category": ["Special Stage"],
+    "requires": ["@Special Stages:6"]
+  },
+  {
+    "name": "Special Stage 7",
+    "region": "Special Stage",
+    "category": ["Special Stage", "Bonus Special Stages"],
+    "requires": ["@Special Stages:7"]
+  },
+  {
+    "name": "Special Stage 8",
+    "region": "Special Stage",
+    "category": ["Special Stage", "Bonus Special Stages"],
+    "requires": ["@Special Stages:8"]
+  },
+  {
+    "name": "Sky Base (Sonic)",
+    "region": "Sky Base",
+    "category": ["Sky Base", "Boss Rush"],
+    "requires": ["Sonic"]
+  },
+  {
+    "name": "Sky Base (Tails)",
+    "region": "Sky Base",
+    "category": ["Sky Base", "Boss Rush"],
+    "requires": ["Tails"]
+  },
+  {
+    "name": "Sky Base (Knuckles)",
+    "region": "Sky Base",
+    "category": ["Sky Base", "Boss Rush"],
+    "requires": ["Knuckles"]
+  },
+  {
+    "name": "Sky Base (Amy)",
+    "region": "Sky Base",
+    "category": ["Sky Base", "Boss Rush"],
+    "requires": ["Amy"]
+  },
+  {
+    "name": "Golf Forever - Hole 1 (Sonic)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Sonic"]
+  },
+  {
+    "name": "Golf Forever - Hole 2 (Sonic)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Sonic"]
+  },
+  {
+    "name": "Golf Forever - Hole 3 (Sonic)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Sonic"]
+  },
+  {
+    "name": "Golf Forever - Hole 4 (Sonic)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Sonic"]
+  },
+  {
+    "name": "Golf Forever - Hole 5 (Sonic)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Sonic"]
+  },
+  {
+    "name": "Golf Forever - Hole 6 (Sonic)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Sonic"]
+  },
+  {
+    "name": "Golf Forever - Hole 7 (Sonic)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Sonic"]
+  },
+  {
+    "name": "Golf Forever - Hole 8 (Sonic)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Sonic"]
+  },
+  {
+    "name": "Golf Forever - Hole 9 (Sonic)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Sonic"]
+  },
+  {
+    "name": "Golf Forever - Hole 1 (Tails)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Tails"]
+  },
+  {
+    "name": "Golf Forever - Hole 2 (Tails)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Tails"]
+  },
+  {
+    "name": "Golf Forever - Hole 3 (Tails)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Tails"]
+  },
+  {
+    "name": "Golf Forever - Hole 4 (Tails)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Tails"]
+  },
+  {
+    "name": "Golf Forever - Hole 5 (Tails)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Tails"]
+  },
+  {
+    "name": "Golf Forever - Hole 6 (Tails)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Tails"]
+  },
+  {
+    "name": "Golf Forever - Hole 7 (Tails)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Tails"]
+  },
+  {
+    "name": "Golf Forever - Hole 8 (Tails)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Tails"]
+  },
+  {
+    "name": "Golf Forever - Hole 9 (Tails)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Tails"]
+  },
+  {
+    "name": "Golf Forever - Hole 1 (Knuckles)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Knuckles"]
+  },
+  {
+    "name": "Golf Forever - Hole 2 (Knuckles)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Knuckles"]
+  },
+  {
+    "name": "Golf Forever - Hole 3 (Knuckles)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Knuckles"]
+  },
+  {
+    "name": "Golf Forever - Hole 4 (Knuckles)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Knuckles"]
+  },
+  {
+    "name": "Golf Forever - Hole 5 (Knuckles)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Knuckles"]
+  },
+  {
+    "name": "Golf Forever - Hole 6 (Knuckles)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Knuckles"]
+  },
+  {
+    "name": "Golf Forever - Hole 7 (Knuckles)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Knuckles"]
+  },
+  {
+    "name": "Golf Forever - Hole 8 (Knuckles)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Knuckles"]
+  },
+  {
+    "name": "Golf Forever - Hole 9 (Knuckles)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Knuckles"]
+  },
+  {
+    "name": "Golf Forever - Hole 1 (Amy)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Amy"]
+  },
+  {
+    "name": "Golf Forever - Hole 2 (Amy)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Amy"]
+  },
+  {
+    "name": "Golf Forever - Hole 3 (Amy)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Amy"]
+  },
+  {
+    "name": "Golf Forever - Hole 4 (Amy)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Amy"]
+  },
+  {
+    "name": "Golf Forever - Hole 5 (Amy)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Amy"]
+  },
+  {
+    "name": "Golf Forever - Hole 6 (Amy)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Amy"]
+  },
+  {
+    "name": "Golf Forever - Hole 7 (Amy)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Amy"]
+  },
+  {
+    "name": "Golf Forever - Hole 8 (Amy)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Amy"]
+  },
+  {
+    "name": "Golf Forever - Hole 9 (Amy)",
+    "region": "Golf Forever",
+    "category": ["Golf Forever"],
+    "requires": ["Amy"]
+  },
+  {
+    "name": "Blast Processing",
+    "region": "Achievements",
+    "category": ["Achievements"],
+    "requires": ["Green Hill Key"]
+  },
+  {
+    "name": "Ring King",
+    "region": "Achievements",
+    "category": ["Achievements"],
+    "requires": ["@Zones:4"]
+  },
+  {
+    "name": "Ramp Ring Acrobatics",
+    "region": "Achievements",
+    "category": ["Achievements"],
+    "requires": ["Green Hill Key"]
+  },
+  {
+    "name": "Secret of Marble Zone",
+    "region": "Achievements",
+    "category": ["Achievements"],
+    "requires": ["Marble Key"]
+  },
+  {
+    "name": "Block Buster",
+    "region": "Achievements",
+    "category": ["Achievements"],
+    "requires": ["Marble Key"]
+  },
+  {
+    "name": "Rooftop Run",
+    "region": "Achievements",
+    "category": ["Achievements"],
+    "requires": ["Spring Yard Key"]
+  },
+  {
+    "name": "Chaos Connoisseur",
+    "region": "Achievements",
+    "category": ["Achievements"],
+    "requires": ["@Special Stages:6"]
+  },
+  {
+    "name": "Secret of Labyrinth Zone",
+    "region": "Achievements",
+    "category": ["Achievements"],
+    "requires": ["Labyrinth Key"]
+  },
+  {
+    "name": "Flawless Pursuit",
+    "region": "Achievements",
+    "category": ["Achievements"],
+    "requires": "|Labyrinth Key| OR |Sky Base Key|"
+  },
+  {
+    "name": "Out of Order",
+    "region": "Achievements",
+    "category": ["Achievements"],
+    "requires": ["Star Light Key"]
+  },
+  {
+    "name": "Bombs Away",
+    "region": "Achievements",
+    "category": ["Achievements"],
+    "requires": "|Star Light Key| OR |Sky Base Key|"
+  },
+  {
+    "name": "Hidden Transporter",
+    "region": "Achievements",
+    "category": ["Achievements"],
+    "requires": ["Scrap Brain Key"]
+  },
+  {
+    "name": "Eye Protection",
+    "region": "Achievements",
+    "category": ["Achievements"],
+    "requires": ["Scrap Brain Key"]
+  },
+  {
+    "name": "One for the Road",
+    "region": "Achievements",
+    "category": ["Achievements"],
+    "requires": "|@Chaos Emeralds:6| OR |Sky Base Key|"
+  },
+  {
+    "name": "Beat the Clock",
+    "region": "Achievements",
+    "category": ["Achievements"],
+    "requires": ["@Zones:6", "@Special Stages:6"]
+  },
+  {
+    "name": "Stairway to Heaven",
+    "region": "Achievements",
+    "category": ["Achievements"],
+    "requires": ["Star Light Key"]
+  },
+  {
+    "name": "Death Chamber",
+    "region": "Achievements",
+    "category": ["Achievements"],
+    "requires": ["Spring Yard Key"]
+  },
+  {
+    "name": "Get to the Points",
+    "region": "Achievements",
+    "category": ["Achievements"],
+    "requires": ["@Zones:6"]
+  },
+  {
+    "name": "Monitor Mania",
+    "region": "Achievements",
+    "category": ["Achievements"],
+    "requires": ["Green Hill Key"]
   }
 ]

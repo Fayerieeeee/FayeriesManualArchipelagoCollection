@@ -3,5 +3,15 @@
   "game": "Sonic1Forever",
   "creator": "Fayerie",
   "filler_item_name": "10 Rings",
-  "starting_items": []
+  "death_link": true,
+  "starting_items": [
+    {
+      "item_categories": ["Characters"],
+      "random": 1
+    },
+    {
+      "item_categories": ["Movesets"],
+      "yaml_option": ["randomize_movesets"]
+    }
+  ]
 }

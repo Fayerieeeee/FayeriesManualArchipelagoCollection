@@ -3,10 +3,7 @@
     "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
     "core": {
         "goal":{
-            "_comment": [
-                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
-            ],
-            "display_name": "The End Objective",
+            "display_name": "Final Zone Clear",
             "description": "How to End your Randomized playthrough.",
             "aliases": {"easiest": 0},
             "hidden": false
@@ -15,68 +12,81 @@
             "default": false
         },
         "filler_traps": {
-            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
             "values": {
-                "recommended": 20
+                "recommended": 0,
+                "default": 20
             }
         }
     },
     "user": {
-        "_commented_out_option":{
-            "type": "Toggle",
-            "default": true
-        },
-        "Example_Toggle":{
+        "randomize_movesets":{
+            "display_name": "Randomize Movesets",
             "description": [
-                "This is a Toggle",
-                "A simple boolean, aka True or False set the initial value with \"default\""
+                "Randomize the available S1F Movesets?",
+                " ",
+                "This will shuffle all of Sonic's toggleable moves",
+                "Tails', Knuckles' and Amy's base moveset.",
+                "You'll be forced to start with no moves if you enable this."
             ],
             "type": "Toggle",
             "default": false,
-            "group": "Example Options"
+            "group": "Sonic Forever"
         },
-        "Example_Choice":{
-            "type": "Choice",
+        "super_form":{
+            "display_name": "Super Form",
             "description": [
-                "This is a Choice",
-                "Let the user pick from a list of values",
-                "allow_custom_value let a player define their own text value",
-                "Currently the only use for Choice in Manual outside of hooks is the goal"
+                "Allows Sonic and co. to go super.",
+                "This'll add a 7th Chaos Emerald and Super Cancel into the pool."
             ],
-            "values": {
-                "start":0,
-                "test":1
-             },
-            "default": 0,
-            "allow_custom_value": false,
-            "group": "Example Options"
-        },
-        "Example_Range":{
-            "type": "Range",
-            "description": [
-                "This is a Range",
-                "Allow the player to specify a value between 'start' and 'end'",
-                "if you include a \"values\" you can define the label for certain values",
-                "Currently the only use for Range in Manual outside of hooks is 'filler_trap'"
-            ],
-            "range_start": 0,
-            "default": 1,
-            "range_end": 10,
-            "values": {"example": 2},
-            "group": "Example Options"
-        },
-
-        "DLC_enabled":{
-            "display_name": "DLC Enabled",
-            "description": "Is the Dlc enabled?",
             "type": "Toggle",
-            "visibility": [
-                "simple_ui",
-                "complex_ui",
-                "template"
+            "default": false,
+            "group": "Sonic Forever"
+        },
+        "extra_special_stages":{
+            "display_name": "Extra Special Stages",
+            "description": [
+                "Adds the extra two special stages as checks. [2 Locations]"
             ],
-            "default": true
+            "type": "Toggle",
+            "default": false,
+            "group": "Sonic Forever"
+        },
+        "boss_rush":{
+            "display_name": "Boss Rush",
+            "description": [
+                "Adds Sky Base Zone as an available zone to clear. [4 Locations]"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Sonic Forever"
+        },
+        "golf":{
+            "display_name": "Golf Forever",
+            "description": [
+                "Adds the Golf Forever Mode and its holes as checks. [36 Locations]"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Sonic Forever"
+        },
+        "achievements":{
+            "display_name": "Achievements",
+            "description": [
+                "Adds the game's various achievements as checks. [19 Locations]"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Sonic Forever"
+        },
+        "epilogue_expansion":{
+            "display_name": "Epilogue Expansion",
+            "description": [
+                "CURRENTLY UNDERCONSTRUCTION",
+                "DO NOT ENABLE"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Epilogue Expansion"
         }
     }
-
 }
