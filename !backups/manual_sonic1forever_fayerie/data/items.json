@@ -299,31 +299,7 @@
     "useful": true
   },
   {
-    "count": 10,
-    "name": "Temporary Shield",
-    "category": [],
-    "filler": true
-  },
-  {
-    "count": 10,
-    "name": "Temporary Invincibility",
-    "category": [],
-    "filler": true
-  },
-  {
-    "count": 10,
-    "name": "Temporary Speed Shoes",
-    "category": [],
-    "filler": true
-  },
-  {
-    "count": 10,
-    "name": "Extra Life",
-    "category": [],
-    "filler": true
-  },
-  {
-    "count": 1,
+    "count": 0,
     "name": "Damage Trap",
     "category": [
       "Traps"
@@ -331,7 +307,7 @@
     "trap": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "Freeze Trap",
     "category": [
       "Traps"
@@ -339,7 +315,7 @@
     "trap": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "Time Limit Trap",
     "category": [
       "Traps"
@@ -347,7 +323,7 @@
     "trap": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "Random Monitor Trap",
     "category": [
       "Traps"
@@ -355,7 +331,7 @@
     "trap": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "Spike Bug Trap",
     "category": [
       "Traps"

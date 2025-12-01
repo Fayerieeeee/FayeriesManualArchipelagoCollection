@@ -582,7 +582,8 @@
       "Final",
       "! GOAL"
     ],
-    "requires": []
+    "requires": [],
+    "victory": true
   },
   {
     "name": "Special Stage 1",
