@@ -1,7 +1,132 @@
 [
   {
     "count": 1,
+    "name": "'Nana Peel",
+    "category": [
+      "Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
     "name": "An Apple for Baldi",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "BSODA",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Coal",
+    "category": [
+      "Items",
+      "Campfire Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dangerous Teleporter",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Diet BSODA",
+    "category": [
+      "Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Gasoline",
+    "category": [
+      "Items",
+      "Campfire Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Invisibility Elixir",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Log",
+    "category": [
+      "Items",
+      "Campfire Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Plunger",
+    "category": [
+      "Items",
+      "Wildwest Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Presents",
+    "category": [
+      "Items",
+      "Glitched Schoolhouse Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Quarter",
+    "category": [
+      "Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Shape Keys",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Super Stretchy Glove",
+    "category": [
+      "Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Techno Boots",
+    "category": [
+      "Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Zesty Bar",
     "category": [
       "Items"
     ],
