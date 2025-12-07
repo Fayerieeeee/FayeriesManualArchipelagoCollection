@@ -1,8 +1,6 @@
 {
   "Green Hill": {
-    "connects_to": [
-      "Green Hill"
-    ],
+    "connects_to": [],
     "requires": "|Green Hill Key|"
   },
   "Marble": {

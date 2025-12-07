@@ -299,7 +299,7 @@
     "useful": true
   },
   {
-    "count": 0,
+    "count": "0",
     "name": "Damage Trap",
     "category": [
       "Traps"
@@ -307,7 +307,7 @@
     "trap": true
   },
   {
-    "count": 0,
+    "count": "0",
     "name": "Freeze Trap",
     "category": [
       "Traps"
@@ -315,7 +315,7 @@
     "trap": true
   },
   {
-    "count": 0,
+    "count": "0",
     "name": "Time Limit Trap",
     "category": [
       "Traps"
@@ -323,7 +323,7 @@
     "trap": true
   },
   {
-    "count": 0,
+    "count": "0",
     "name": "Random Monitor Trap",
     "category": [
       "Traps"
@@ -331,7 +331,7 @@
     "trap": true
   },
   {
-    "count": 0,
+    "count": "0",
     "name": "Spike Bug Trap",
     "category": [
       "Traps"
