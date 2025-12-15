@@ -1,0 +1,664 @@
+[
+  {
+    "count": "9",
+    "name": "Bomb Up",
+    "category": [
+      "Stats"
+    ],
+    "filler": true
+  },
+  {
+    "count": "9",
+    "name": "Fire Up",
+    "category": [
+      "Stats"
+    ],
+    "filler": true
+  },
+  {
+    "count": "9",
+    "name": "Speed Up",
+    "category": [
+      "Stats"
+    ],
+    "filler": true
+  },
+  {
+    "count": "9",
+    "name": "Bomb Down",
+    "category": [
+      "Stats"
+    ],
+    "trap": true
+  },
+  {
+    "count": "9",
+    "name": "Fire Down",
+    "category": [
+      "Stats"
+    ],
+    "trap": true
+  },
+  {
+    "count": "9",
+    "name": "Geta",
+    "category": [
+      "Stats"
+    ],
+    "trap": true
+  },
+  {
+    "count": "3",
+    "name": "Tri Bomb Up",
+    "category": [
+      "Stats"
+    ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "Tri Fire Up",
+    "category": [
+      "Stats"
+    ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "Tri Speed Up",
+    "category": [
+      "Stats"
+    ],
+    "filler": true
+  },
+  {
+    "count": "9",
+    "name": "Heart",
+    "category": [
+      "Stats"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Vest",
+    "category": [
+      "Power Ups"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bomb Kick",
+    "category": [
+      "Power Ups"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Line Bomb",
+    "category": [
+      "Power Ups"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Power Glove",
+    "category": [
+      "Power Ups",
+      "Solo Gloves"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Super Power Glove",
+    "category": [
+      "Power Ups",
+      "Solo Gloves"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Progressive Power Glove",
+    "category": [
+      "Power Ups",
+      "Progressive Gloves"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bomb Punch",
+    "category": [
+      "Power Ups"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Push",
+    "category": [
+      "Power Ups"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bead Bomb",
+    "category": [
+      "Power Ups"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Juggle Glove",
+    "category": [
+      "Power Ups"
+    ],
+    "useful": true
+  },
+  {
+    "count": "5",
+    "name": "Detonator",
+    "category": [
+      "Power Ups"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Drill",
+    "category": [
+      "Power Ups"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Shield",
+    "category": [
+      "Power Ups"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rocket",
+    "category": [
+      "Power Ups"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bomb Change",
+    "category": [
+      "Power Ups"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ruse",
+    "category": [
+      "Power Ups"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dash",
+    "category": [
+      "Power Ups"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Whip",
+    "category": [
+      "Power Ups"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gun",
+    "category": [
+      "Power Ups",
+      "Solo Guns"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Squirt Gun",
+    "category": [
+      "Power Ups",
+      "Solo Guns"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Progressive Gun",
+    "category": [
+      "Power Ups",
+      "Progressive Guns"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bomb Conjure",
+    "category": [
+      "Power Ups"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bomb Pass",
+    "category": [
+      "Power Ups"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Wall Pass",
+    "category": [
+      "Power Ups"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Full Fire",
+    "category": [
+      "Power Ups"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Remote Bomb",
+    "category": [
+      "Bombs"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Penetration Bomb",
+    "category": [
+      "Bombs"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Power Bomb",
+    "category": [
+      "Bombs"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Bouncing Bomb",
+    "category": [
+      "Bombs"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mine Bomb",
+    "category": [
+      "Bombs"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Dangerous Bomb",
+    "category": [
+      "Bombs"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Trace Bomb",
+    "category": [
+      "Bombs"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Cherry Bomb",
+    "category": [
+      "Bombs"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Pile Bomb",
+    "category": [
+      "Bombs"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Bubble Bomb",
+    "category": [
+      "Bombs"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Heavy Bomb",
+    "category": [
+      "Bombs"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Magnet Bomb",
+    "category": [
+      "Bombs"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Lightning Bomb",
+    "category": [
+      "Bombs"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Light Bomb",
+    "category": [
+      "Bombs"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "RC Bomb",
+    "category": [
+      "Bombs"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Blow Bomb",
+    "category": [
+      "Bombs"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Crumble Bomb",
+    "category": [
+      "Bombs"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Missile Bomb",
+    "category": [
+      "Bombs"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Bowling Bomb",
+    "category": [
+      "Bombs"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": "10",
+    "name": "Salt Bomb",
+    "category": [
+      "Bombs"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Star Bomb",
+    "category": [
+      "Bombs"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Vacuum Bomb",
+    "category": [
+      "Bombs"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Propeller Bomb",
+    "category": [
+      "Bombs"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Repel",
+    "category": [
+      "Power Ups"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Invisibility",
+    "category": [
+      "Power Ups",
+      "Online Only"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Cosplay",
+    "category": [
+      "Power Ups"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Merger",
+    "category": [
+      "Power Ups"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Blast Lens",
+    "category": [
+      "Power Ups",
+      "Online Only"
+    ],
+    "filler": true
+  },
+  {
+    "count": "100",
+    "name": "Random Handicap",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Kerooi (Blue)",
+    "category": [
+      "Louies"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Hanerooi (Pink)",
+    "category": [
+      "Louies"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Marooi (Green)",
+    "category": [
+      "Louies"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Galooi (Yellow)",
+    "category": [
+      "Louies"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Magicalooi (Purple)",
+    "category": [
+      "Louies"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Nagurooi (Red)",
+    "category": [
+      "Louies"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mamorooi (Orange)",
+    "category": [
+      "Louies"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Buckarooi (Beige)",
+    "category": [
+      "Louies"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Tamerooi (Brown)",
+    "category": [
+      "Louies"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Torooi (Cocoa)",
+    "category": [
+      "Louies"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Metalooi (Robo)",
+    "category": [
+      "Louies"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Digitalooi (Digital)",
+    "category": [
+      "Louies"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Warooi (Black)",
+    "category": [
+      "Louies"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bottlooi (Violet)",
+    "category": [
+      "Louies"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bundorooi (Maroon)",
+    "category": [
+      "Louies"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Gozarooi (Navy)",
+    "category": [
+      "Louies"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Tatarooi (Olive)",
+    "category": [
+      "Louies"
+    ],
+    "filler": true
+  },
+  {
+    "count": "10",
+    "name": "Skull Trap",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  }
+]
