@@ -1,0 +1,7 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "ConkersBadFurDay",
+  "creator": "Fayerie",
+  "filler_item_name": "Anti-Gravity Chocolate",
+  "starting_items": []
+}
