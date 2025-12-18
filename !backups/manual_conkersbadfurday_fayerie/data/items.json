@@ -1,8 +1,155 @@
 [
   {
     "count": 1,
+    "name": "Windy Chapter",
+    "category": [
+      "Chapters",
+      "HUB Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bat's Tower Chapter",
+    "category": [
+      "Chapters",
+      "Progression Chapters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Barn Boys Chapter",
+    "category": [
+      "Chapters",
+      "Progression Chapters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sloprano Chapter",
+    "category": [
+      "Chapters",
+      "Progression Chapters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Uga Buga Chapter",
+    "category": [
+      "Chapters",
+      "Progression Chapters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Spooky Chapter",
+    "category": [
+      "Chapters",
+      "Progression Chapters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "It's War Chapter",
+    "category": [
+      "Chapters",
+      "Progression Chapters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Heist Chapter",
+    "category": [
+      "Chapters",
+      "Progression Chapters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Wad of Cash",
-    "category": [],
-    "filler": true
+    "category": [
+      "Cash"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Franky",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Frying Pan",
+    "category": [
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Blowtorch",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Throwing Knives",
+    "category": [
+      "Weapons",
+      "Context Sensitive"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Game Manual",
+    "category": [
+      "Context Sensitive"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Slingshot",
+    "category": [
+      "Context Sensitive"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mrs. Bee's Beehive",
+    "category": [
+      "Quest Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 3,
+    "name": "Cheese Wedge",
+    "category": [
+      "Quest Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 5,
+    "name": "Swarm of Tickly Bees",
+    "category": [
+      "Quest Items"
+    ],
+    "progression": true
   }
 ]

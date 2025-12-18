@@ -1,6 +1,361 @@
 [
   {
-    "category": [],
+    "name": "Windy - Chocolate Hungover Entrance #1",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
     "requires": []
+  },
+  {
+    "name": "Windy - Chocolate Hungover Entrance #2",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Windy - Chocolate Hungover Entrance #3",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Windy - Squirrel Tail Signpost",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Windy - Mrs. Bee Cash Prize",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": [
+      "Mrs. Bee's Beehive"
+    ]
+  },
+  {
+    "name": "Windy - Scarecrow Birdy Cash Payment",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": [
+      "@Cash"
+    ]
+  },
+  {
+    "name": "Windy - B Platform Dung Beetles",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": [
+      "@Cash",
+      "Game Manual"
+    ]
+  },
+  {
+    "name": "Windy - Dung Beetle Bullies",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": [
+      "@Cash",
+      "Game Manual",
+      "Slingshot"
+    ]
+  },
+  {
+    "name": "Barn Boys - Chocolate Between Sunflower & Wooden Crate",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Barn Boys - Chocolate Leftside of Cheese Farm",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Barn Boys - Chocolate Rightside of Cheese Farm",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Barn Boys - Chocolate Before Barn Button",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": [
+      "Frying Pan",
+      "Cheese Wedge:3"
+    ]
+  },
+  {
+    "name": "Barn Boys - Chocolate Next to Barn Exit",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": [
+      "Frying Pan",
+      "Cheese Wedge:3"
+    ]
+  },
+  {
+    "name": "Barn Boys - Chocolate Corner Inside Barn",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": [
+      "Frying Pan",
+      "Cheese Wedge:3"
+    ]
+  },
+  {
+    "name": "Barn Boys - Chocolate Top Of Barn",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": [
+      "Frying Pan",
+      "Cheese Wedge:3"
+    ]
+  },
+  {
+    "name": "Barn Boys - Chocolate During Tightroping #1",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": [
+      "Frying Pan",
+      "Cheese Wedge:3"
+    ]
+  },
+  {
+    "name": "Barn Boys - Chocolate During Tightroping #2",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": [
+      "Frying Pan",
+      "Cheese Wedge:3"
+    ]
+  },
+  {
+    "name": "Barn Boys - Chocolate During Tightroping #3",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": [
+      "Frying Pan",
+      "Cheese Wedge:3"
+    ]
+  },
+  {
+    "name": "Barn Boys - Chocolate Behind Waterpipe #1",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": [
+      "Frying Pan",
+      "Cheese Wedge:3",
+      "Franky"
+    ]
+  },
+  {
+    "name": "Barn Boys - Chocolate Behind Waterpipe #2",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": [
+      "Frying Pan",
+      "Cheese Wedge:3",
+      "Franky"
+    ]
+  },
+  {
+    "name": "Barn Boys - Chocolate Behind Waterpipe #3",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": [
+      "Frying Pan",
+      "Cheese Wedge:3",
+      "Franky"
+    ]
+  },
+  {
+    "name": "Barn Boys - Chocolate Behind Waterpipe #4",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": [
+      "Frying Pan",
+      "Cheese Wedge:3",
+      "Franky"
+    ]
+  },
+  {
+    "name": "Barn Boys - Chocolate Behind Waterpipe #5",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": [
+      "Frying Pan",
+      "Cheese Wedge:3",
+      "Franky"
+    ]
+  },
+  {
+    "name": "Barn Boys - Chocolate Behind Waterpipe #6",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": [
+      "Frying Pan",
+      "Cheese Wedge:3",
+      "Franky"
+    ]
+  },
+  {
+    "name": "Barn Boys - Squirrel Tail Behind Cheese Farm Walls",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": [
+      "Anvil"
+    ]
+  },
+  {
+    "name": "Barn Boys - Wad of Cash top of Barn",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": [
+      "Frying Pan",
+      "Cheese Wedge:3"
+    ]
+  },
+  {
+    "name": "Barn Boys - Wad of Cash Inside hole",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": [
+      "Frying Pan",
+      "Cheese Wedge:3",
+      "Swarm of Tickly Bees:5"
+    ]
+  },
+  {
+    "name": "Barn Boys - Burt Cheese Gate",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Barn Boys - Overfeed Marvin",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": [
+      "Frying Pan",
+      "Cheese Wedge:3"
+    ]
+  },
+  {
+    "name": "Barn Boys - Franky the Pitchfork Defeated",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": [
+      "Frying Pan",
+      "Cheese Wedge:3"
+    ]
+  },
+  {
+    "name": "Barn Boys - Sunflower Tickled",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": [
+      "Frying Pan",
+      "Cheese Wedge:3",
+      "Swarm of Tickly Bees:5"
+    ]
+  },
+  {
+    "name": "Barn Boys - B Platform Hanging Franky",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": [
+      "Frying Pan",
+      "Cheese Wedge:3"
+    ]
+  },
+  {
+    "name": "Barn Boys - Free Franky",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": [
+      "Frying Pan",
+      "Cheese Wedge:3",
+      "Throwing Knives"
+    ]
+  },
+  {
+    "name": "Barn Boys - Haybot Defeated",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": [
+      "Frying Pan",
+      "Cheese Wedge:3",
+      "Throwing Knives",
+      "Franky"
+    ]
   }
 ]
