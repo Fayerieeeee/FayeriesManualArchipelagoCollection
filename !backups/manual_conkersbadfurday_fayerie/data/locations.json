@@ -37,9 +37,7 @@
     "category": [
       "Windy"
     ],
-    "requires": [
-      "Mrs. Bee's Beehive"
-    ]
+    "requires": "(|Mrs. Bee's Beehive| OR |Progressive Beehive:1|)"
   },
   {
     "name": "Windy - Scarecrow Birdy Cash Payment",
@@ -58,8 +56,7 @@
       "Windy"
     ],
     "requires": [
-      "@Cash",
-      "Game Manual"
+      "@Cash"
     ]
   },
   {
@@ -70,7 +67,6 @@
     ],
     "requires": [
       "@Cash",
-      "Game Manual",
       "Slingshot"
     ]
   },
@@ -104,10 +100,7 @@
     "category": [
       "Barn Boys"
     ],
-    "requires": [
-      "Frying Pan",
-      "Cheese Wedge:3"
-    ]
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
   },
   {
     "name": "Barn Boys - Chocolate Next to Barn Exit",
@@ -115,10 +108,7 @@
     "category": [
       "Barn Boys"
     ],
-    "requires": [
-      "Frying Pan",
-      "Cheese Wedge:3"
-    ]
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
   },
   {
     "name": "Barn Boys - Chocolate Corner Inside Barn",
@@ -126,10 +116,7 @@
     "category": [
       "Barn Boys"
     ],
-    "requires": [
-      "Frying Pan",
-      "Cheese Wedge:3"
-    ]
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
   },
   {
     "name": "Barn Boys - Chocolate Top Of Barn",
@@ -137,10 +124,7 @@
     "category": [
       "Barn Boys"
     ],
-    "requires": [
-      "Frying Pan",
-      "Cheese Wedge:3"
-    ]
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
   },
   {
     "name": "Barn Boys - Chocolate During Tightroping #1",
@@ -148,10 +132,7 @@
     "category": [
       "Barn Boys"
     ],
-    "requires": [
-      "Frying Pan",
-      "Cheese Wedge:3"
-    ]
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
   },
   {
     "name": "Barn Boys - Chocolate During Tightroping #2",
@@ -159,10 +140,7 @@
     "category": [
       "Barn Boys"
     ],
-    "requires": [
-      "Frying Pan",
-      "Cheese Wedge:3"
-    ]
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
   },
   {
     "name": "Barn Boys - Chocolate During Tightroping #3",
@@ -170,10 +148,7 @@
     "category": [
       "Barn Boys"
     ],
-    "requires": [
-      "Frying Pan",
-      "Cheese Wedge:3"
-    ]
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
   },
   {
     "name": "Barn Boys - Chocolate Behind Waterpipe #1",
@@ -181,11 +156,7 @@
     "category": [
       "Barn Boys"
     ],
-    "requires": [
-      "Frying Pan",
-      "Cheese Wedge:3",
-      "Franky"
-    ]
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
   },
   {
     "name": "Barn Boys - Chocolate Behind Waterpipe #2",
@@ -193,11 +164,7 @@
     "category": [
       "Barn Boys"
     ],
-    "requires": [
-      "Frying Pan",
-      "Cheese Wedge:3",
-      "Franky"
-    ]
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
   },
   {
     "name": "Barn Boys - Chocolate Behind Waterpipe #3",
@@ -205,11 +172,7 @@
     "category": [
       "Barn Boys"
     ],
-    "requires": [
-      "Frying Pan",
-      "Cheese Wedge:3",
-      "Franky"
-    ]
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
   },
   {
     "name": "Barn Boys - Chocolate Behind Waterpipe #4",
@@ -217,11 +180,7 @@
     "category": [
       "Barn Boys"
     ],
-    "requires": [
-      "Frying Pan",
-      "Cheese Wedge:3",
-      "Franky"
-    ]
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
   },
   {
     "name": "Barn Boys - Chocolate Behind Waterpipe #5",
@@ -229,11 +188,7 @@
     "category": [
       "Barn Boys"
     ],
-    "requires": [
-      "Frying Pan",
-      "Cheese Wedge:3",
-      "Franky"
-    ]
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
   },
   {
     "name": "Barn Boys - Chocolate Behind Waterpipe #6",
@@ -241,11 +196,23 @@
     "category": [
       "Barn Boys"
     ],
-    "requires": [
-      "Frying Pan",
-      "Cheese Wedge:3",
-      "Franky"
-    ]
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
+  },
+  {
+    "name": "Barn Boys - Chocolate Behind Boarded Room in Barn #1",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
+  },
+  {
+    "name": "Barn Boys - Chocolate Behind Boarded Room in Barn #2",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
   },
   {
     "name": "Barn Boys - Squirrel Tail Behind Cheese Farm Walls",
@@ -263,10 +230,7 @@
     "category": [
       "Barn Boys"
     ],
-    "requires": [
-      "Frying Pan",
-      "Cheese Wedge:3"
-    ]
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
   },
   {
     "name": "Barn Boys - Wad of Cash Inside hole",
@@ -274,11 +238,7 @@
     "category": [
       "Barn Boys"
     ],
-    "requires": [
-      "Frying Pan",
-      "Cheese Wedge:3",
-      "Swarm of Tickly Bees:5"
-    ]
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND (|Swarm of Tickly Bees| OR |Progressive Tickly Bees:5|)"
   },
   {
     "name": "Barn Boys - Burt Cheese Gate",
@@ -294,10 +254,7 @@
     "category": [
       "Barn Boys"
     ],
-    "requires": [
-      "Frying Pan",
-      "Cheese Wedge:3"
-    ]
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
   },
   {
     "name": "Barn Boys - Franky the Pitchfork Defeated",
@@ -305,10 +262,7 @@
     "category": [
       "Barn Boys"
     ],
-    "requires": [
-      "Frying Pan",
-      "Cheese Wedge:3"
-    ]
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
   },
   {
     "name": "Barn Boys - Sunflower Tickled",
@@ -316,11 +270,7 @@
     "category": [
       "Barn Boys"
     ],
-    "requires": [
-      "Frying Pan",
-      "Cheese Wedge:3",
-      "Swarm of Tickly Bees:5"
-    ]
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND (|Swarm of Tickly Bees| OR |Progressive Tickly Bees:5|)"
   },
   {
     "name": "Barn Boys - B Platform Hanging Franky",
@@ -328,10 +278,7 @@
     "category": [
       "Barn Boys"
     ],
-    "requires": [
-      "Frying Pan",
-      "Cheese Wedge:3"
-    ]
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
   },
   {
     "name": "Barn Boys - Free Franky",
@@ -339,11 +286,7 @@
     "category": [
       "Barn Boys"
     ],
-    "requires": [
-      "Frying Pan",
-      "Cheese Wedge:3",
-      "Throwing Knives"
-    ]
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives|"
   },
   {
     "name": "Barn Boys - Haybot Defeated",
@@ -351,11 +294,22 @@
     "category": [
       "Barn Boys"
     ],
-    "requires": [
-      "Frying Pan",
-      "Cheese Wedge:3",
-      "Throwing Knives",
-      "Franky"
-    ]
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
+  },
+  {
+    "name": "Barn Boys - B Platform Top of Waterpipe #1",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
+  },
+  {
+    "name": "Barn Boys - B Platform Top of Waterpipe #2",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
   }
 ]
