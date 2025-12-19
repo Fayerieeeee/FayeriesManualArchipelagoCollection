@@ -127,6 +127,14 @@
     "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
   },
   {
+    "name": "Barn Boys - Chocolate Very Top Of Barn",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
+  },
+  {
     "name": "Barn Boys - Chocolate During Tightroping #1",
     "region": "Barn Boys",
     "category": [
@@ -215,6 +223,62 @@
     "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
   },
   {
+    "name": "Barn Boys - Chocolate Behind Boarded Room in Barn #3",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
+  },
+  {
+    "name": "Barn Boys - Chocolate Behind Boarded Room in Barn #4",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
+  },
+  {
+    "name": "Barn Boys - Chocolate on Side of Barn Near Ladders",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
+  },
+  {
+    "name": "Barn Boys - Chocolate Barnside Ladder Climb #1",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
+  },
+  {
+    "name": "Barn Boys - Chocolate Barnside Ladder Climb #2",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
+  },
+  {
+    "name": "Barn Boys - Chocolate Anvil Diving Board #1",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
+  },
+  {
+    "name": "Barn Boys - Chocolate Anvil Diving Board #2",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
+  },
+  {
     "name": "Barn Boys - Squirrel Tail Behind Cheese Farm Walls",
     "region": "Barn Boys",
     "category": [
@@ -223,6 +287,14 @@
     "requires": [
       "Anvil"
     ]
+  },
+  {
+    "name": "Barn Boys - Squirrel Tail Behind Gated Door",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky| AND |Anvil|"
   },
   {
     "name": "Barn Boys - Wad of Cash top of Barn",
@@ -241,6 +313,22 @@
     "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND (|Swarm of Tickly Bees| OR |Progressive Tickly Bees:5|)"
   },
   {
+    "name": "Barn Boys - Wad of Cash Behind Boarded Room in Barn",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
+  },
+  {
+    "name": "Barn Boys - Wad of Cash Behind Gated Door",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky| AND |Anvil|"
+  },
+  {
     "name": "Barn Boys - Burt Cheese Gate",
     "region": "Barn Boys",
     "category": [
@@ -250,6 +338,14 @@
   },
   {
     "name": "Barn Boys - Overfeed Marvin",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
+  },
+  {
+    "name": "Barn Boys - B Platform Very Top of Barn",
     "region": "Barn Boys",
     "category": [
       "Barn Boys"
@@ -311,5 +407,13 @@
       "Barn Boys"
     ],
     "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
-  }
+  },
+  {
+    "name": "Barn Boys - Anvil Diving into Button",
+    "region": "Barn Boys",
+    "category": [
+      "Barn Boys"
+    ],
+    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky| AND |Anvil|"
+  },
 ]
