@@ -72,7 +72,7 @@
     "progression": true
   },
   {
-    "count": 3,
+    "count": 13,
     "name": "Wad of Cash",
     "category": [
       "Cash"
@@ -99,9 +99,10 @@
     "count": 1,
     "name": "Blowtorch",
     "category": [
-      "Weapons"
+      "Weapons",
+      "Context Sensitive"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -115,6 +116,46 @@
   {
     "count": 1,
     "name": "Slingshot",
+    "category": [
+      "Context Sensitive"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Confidence Pills",
+    "category": [
+      "Context Sensitive"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flashlight Helmet",
+    "category": [
+      "Context Sensitive"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Beer Keg",
+    "category": [
+      "Context Sensitive"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Red Bricks",
+    "category": [
+      "Context Sensitive"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "TNT",
     "category": [
       "Context Sensitive"
     ],
@@ -173,5 +214,49 @@
       "Progressive Quest Items"
     ],
     "progression": true
-  }
+  },
+  {
+    "count": 1,
+    "name": "Herd of Cows",
+    "category": [
+      "Quest Items",
+      "Single Quest Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 3,
+    "name": "Progressive Cow",
+    "category": [
+      "Quest Items",
+      "Progressive Quest Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Poo Balls",
+    "category": [
+      "Quest Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cog Ladies",
+    "category": [
+      "Quest Items",
+      "Single Quest Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 3,
+    "name": "Progressive Lady Cog",
+    "category": [
+      "Quest Items",
+      "Progressive Quest Items"
+    ],
+    "progression": true
+  },
 ]

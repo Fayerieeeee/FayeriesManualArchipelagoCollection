@@ -416,4 +416,380 @@
     ],
     "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky| AND |Anvil|"
   },
+  {
+    "name": "Windy - Chocolate Rope Climbing in Poo Cabin #1",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
+  },
+  {
+    "name": "Windy - Chocolate Rope Climbing in Poo Cabin #2",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
+  },
+  {
+    "name": "Windy - Chocolate Rope Climbing in Poo Cabin #3",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
+  },
+  {
+    "name": "Windy - Chocolate Rope Climbing in Poo Cabin #4",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
+  },
+  {
+    "name": "Windy - Chocolate Rope Climbing in Poo Cabin #5",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
+  },
+  {
+    "name": "Windy - Chocolate Bull Arena Exterior #1",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
+  },
+  {
+    "name": "Windy - Chocolate Bull Arena Exterior #2",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
+  },
+  {
+    "name": "Windy - Chocolate Bull Arena Exterior #3",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
+  },
+  {
+    "name": "Windy - Chocolate Bull Arena Exterior #4",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
+  },
+  {
+    "name": "Windy - Chocolate Bull Arena Exterior #5",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
+  },
+  {
+    "name": "Windy - Chocolate Bull Arena Exterior #6",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
+  },
+  {
+    "name": "Windy - Chocolate Top of Prune Juice Container #1",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
+  },
+  {
+    "name": "Windy - Chocolate Top of Prune Juice Container #2",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
+  },
+  {
+    "name": "Windy - Chocolate Near B Platform Under Poo Cabin #1",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil| AND (|Herd of Cows| OR |Progressive Cow:3|)"
+  },
+  {
+    "name": "Windy - Chocolate Near B Platform Under Poo Cabin #2",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil| AND (|Herd of Cows| OR |Progressive Cow:3|)"
+  },
+  {
+    "name": "Windy - Chocolate Near B Platform Under Poo Cabin #3",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil| AND (|Herd of Cows| OR |Progressive Cow:3|)"
+  },
+  {
+    "name": "Windy - Chocolate Near B Platform Under Poo Cabin #4",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil| AND (|Herd of Cows| OR |Progressive Cow:3|)"
+  },
+  {
+    "name": "Windy - Squirrel Tail Top of Rope Climbing in Poo Cabin",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
+  },
+  {
+    "name": "Windy - Wad of Cash Inside Poo Cabin",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil| AND (|Herd of Cows| OR |Progressive Cow:3|) AND |Confidence Pills|"
+  },
+  {
+    "name": "Windy - Wad of Cash Top of Poo Mountain",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil| AND (|Herd of Cows| OR |Progressive Cow:3|) AND | Confidence Pills| AND |Poo Balls|"
+  },
+  {
+    "name": "Windy - Bull Defeated",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil| AND (|Herd of Cows| OR |Progressive Cow:3|)"
+  },
+  {
+    "name": "Windy - B Platform Post Bull Fight",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil| AND (|Herd of Cows| OR |Progressive Cow:3|)"
+  },
+  {
+    "name": "Windy - B Platform Lake Drain",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil| AND (|Herd of Cows| OR |Progressive Cow:3|) AND | Confidence Pills| AND |Poo Balls|"
+  },
+  {
+    "name": "Bat's Tower - Chocolate Near Level Entrance #1",
+    "region": "Bat's Tower",
+    "category": [
+      "Bat's Tower"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bat's Tower - Chocolate Near Level Entrance #2",
+    "region": "Bat's Tower",
+    "category": [
+      "Bat's Tower"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bat's Tower - Chocolate Behind Waterfall #1",
+    "region": "Bat's Tower",
+    "category": [
+      "Bat's Tower"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bat's Tower - Chocolate Behind Waterfall #2",
+    "region": "Bat's Tower",
+    "category": [
+      "Bat's Tower"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bat's Tower - Chocolate Infront of Safe",
+    "region": "Bat's Tower",
+    "category": [
+      "Bat's Tower"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bat's Tower - Chocolate on Ball Pressure Plate",
+    "region": "Bat's Tower",
+    "category": [
+      "Bat's Tower"
+    ],
+    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet|"
+  },
+  {
+    "name": "Bat's Tower - Chocolate Near Medstation #1",
+    "region": "Bat's Tower",
+    "category": [
+      "Bat's Tower"
+    ],
+    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet|"
+  },
+  {
+    "name": "Bat's Tower - Chocolate Near Medstation #2",
+    "region": "Bat's Tower",
+    "category": [
+      "Bat's Tower"
+    ],
+    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet|"
+  },
+  {
+    "name": "Bat's Tower - Squirrel Tail Behind Waterfall",
+    "region": "Bat's Tower",
+    "category": [
+      "Bat's Tower"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bat's Tower - Wad of Cash Top of Bat's Tower",
+    "region": "Bat's Tower",
+    "category": [
+      "Bat's Tower"
+    ],
+    "requires": "|Confidence Pills|"
+  },
+  {
+    "name": "Bat's Tower - Wad of Cash Post Big Big Guy Boss",
+    "region": "Bat's Tower",
+    "category": [
+      "Bat's Tower"
+    ],
+    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet| AND |Beer Keg| AND |Red Bricks|"
+  },
+  {
+    "name": "Bat's Tower - Wads of Cash Post Bullfish Chase #1",
+    "region": "Bat's Tower",
+    "category": [
+      "Bat's Tower"
+    ],
+    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet| AND |Beer Keg| AND |Red Bricks|"
+  },
+  {
+    "name": "Bat's Tower - Wads of Cash Post Bullfish Chase #2",
+    "region": "Bat's Tower",
+    "category": [
+      "Bat's Tower"
+    ],
+    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet| AND |Beer Keg| AND |Red Bricks|"
+  },
+  {
+    "name": "Bat's Tower - Wads of Cash Post Bullfish Chase #3",
+    "region": "Bat's Tower",
+    "category": [
+      "Bat's Tower"
+    ],
+    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet| AND |Beer Keg| AND |Red Bricks|"
+  },
+  {
+    "name": "Bat's Tower - Bullfish's Chain Retracted",
+    "region": "Bat's Tower",
+    "category": [
+      "Bat's Tower"
+    ],
+    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|)"
+  },
+  {
+    "name": "Bat's Tower - B Platform Inside Safe",
+    "region": "Bat's Tower",
+    "category": [
+      "Bat's Tower"
+    ],
+    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|)"
+  },
+  {
+    "name": "Bat's Tower - Safe Interior Opened",
+    "region": "Bat's Tower",
+    "category": [
+      "Bat's Tower"
+    ],
+    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot|"
+  },
+  {
+    "name": "Bat's Tower - B Platform Post OPEN Combination",
+    "region": "Bat's Tower",
+    "category": [
+      "Bat's Tower"
+    ],
+    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot|"
+  },
+  {
+    "name": "Bat's Tower - B Platform Underwater Maze Air Pocket",
+    "region": "Bat's Tower",
+    "category": [
+      "Bat's Tower"
+    ],
+    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet|"
+  },
+  {
+    "name": "Bat's Tower - B Platform Beer Ceg",
+    "region": "Bat's Tower",
+    "category": [
+      "Bat's Tower"
+    ],
+    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet|"
+  },
+  {
+    "name": "Bat's Tower - B Platform Medstation",
+    "region": "Bat's Tower",
+    "category": [
+      "Bat's Tower"
+    ],
+    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet| AND |Beer Keg|"
+  },
+  {
+    "name": "Bat's Tower - Extinguish the Fire Imps",
+    "region": "Bat's Tower",
+    "category": [
+      "Bat's Tower"
+    ],
+    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet| AND |Beer Keg|"
+  },
+  {
+    "name": "Bat's Tower - The Big Big Guy Defeated",
+    "region": "Bat's Tower",
+    "category": [
+      "Bat's Tower"
+    ],
+    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet| AND |Beer Keg| AND |Red Bricks|"
+  },
+  {
+    "name": "Windy - Explode Big Dung Beetle",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": "|@Cash| AND |Slingshot| AND |Anvil| AND (|Herd of Cows| OR |Progressive Cow:3|) AND | Confidence Pills| AND |Poo Balls| AND |TNT|"
+  },
 ]
