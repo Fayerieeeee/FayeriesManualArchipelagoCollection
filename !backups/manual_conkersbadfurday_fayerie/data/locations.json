@@ -24,7 +24,23 @@
     "requires": []
   },
   {
+    "name": "Windy - Chocolate Near River",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": []
+  },
+  {
     "name": "Windy - Squirrel Tail Signpost",
+    "region": "Windy",
+    "category": [
+      "Windy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Windy - Wad of Cash Honeycomb",
     "region": "Windy",
     "category": [
       "Windy"
@@ -791,5 +807,109 @@
       "Windy"
     ],
     "requires": "|@Cash| AND |Slingshot| AND |Anvil| AND (|Herd of Cows| OR |Progressive Cow:3|) AND | Confidence Pills| AND |Poo Balls| AND |TNT|"
+  },
+  {
+    "name": "Sloprano - Chocolate Near Broken Bridge #1",
+    "region": "Sloprano",
+    "category": [
+      "Sloprano"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sloprano - Chocolate Near Broken Bridge #2",
+    "region": "Sloprano",
+    "category": [
+      "Sloprano"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sloprano - Chocolate Bridge Crossway #1",
+    "region": "Sloprano",
+    "category": [
+      "Sloprano"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sloprano - Chocolate Bridge Crossway #2",
+    "region": "Sloprano",
+    "category": [
+      "Sloprano"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sloprano - Chocolate Bridge Crossway #3",
+    "region": "Sloprano",
+    "category": [
+      "Sloprano"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sloprano - Chocolate Bridge Crossway #4",
+    "region": "Sloprano",
+    "category": [
+      "Sloprano"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sloprano - Chocolate Bridge Crossway #5",
+    "region": "Sloprano",
+    "category": [
+      "Sloprano"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sloprano - Chocolate Bridge Crossway #6",
+    "region": "Sloprano",
+    "category": [
+      "Sloprano"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sloprano - Chocolate Bridge Crossway #7",
+    "region": "Sloprano",
+    "category": [
+      "Sloprano"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sloprano - Wad of Cash Behind Glass",
+    "region": "Sloprano",
+    "category": [
+      "Sloprano"
+    ],
+    "requires": "(|Bag of Sweet Corn| OR |Progressive Sweet Corn:6|) AND |Toilet Paper Rolls|"
+  },
+  {
+    "name": "Sloprano - B Platform Mighty Poo #1",
+    "region": "Sloprano",
+    "category": [
+      "Sloprano"
+    ],
+    "requires": "(|Bag of Sweet Corn| OR |Progressive Sweet Corn:6|)"
+  },
+  {
+    "name": "Sloprano - B Platform Mighty Poo #2",
+    "region": "Sloprano",
+    "category": [
+      "Sloprano"
+    ],
+    "requires": "(|Bag of Sweet Corn| OR |Progressive Sweet Corn:6|) AND |Toilet Paper Rolls|"
+  },
+  {
+    "name": "Sloprano - B Platform Mighty Poo #3",
+    "region": "Sloprano",
+    "category": [
+      "Sloprano"
+    ],
+    "requires": "(|Bag of Sweet Corn| OR |Progressive Sweet Corn:6|) AND |Toilet Paper Rolls|"
   },
 ]
