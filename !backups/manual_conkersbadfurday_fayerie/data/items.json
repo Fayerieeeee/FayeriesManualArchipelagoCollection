@@ -274,7 +274,7 @@
       "Quest Items",
       "Single Quest Items"
     ],
-    "progression": true,
+    "progression": true
   },
   {
     "count": 6,
@@ -284,5 +284,5 @@
       "Progressive Quest Items"
     ],
     "progression": true
-  },
+  }
 ]
