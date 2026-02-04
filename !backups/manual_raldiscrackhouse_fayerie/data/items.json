@@ -1,8 +1,122 @@
 [
   {
     "count": 1,
-    "name": "test",
-    "category": [],
+    "name": "Crackhouse Pass",
+    "category": ["Passes"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crack Tower Pass",
+    "category": ["Passes"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Double Trouble Pass",
+    "category": ["Passes"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jollyhouse Pass",
+    "category": ["Passes", "Jollyhouse"],
+    "progression": true
+  },
+  {
+    "count": 10,
+    "name": "Notebook (Crackhouse)",
+    "category": ["Notebooks", "Notebooks (Crackhouse)"],
+    "progression": true
+  },
+  {
+    "count": 29,
+    "name": "Notebook (Crack Tower)",
+    "category": ["Notebooks", "Notebooks (Pizza Mode)"],
+    "progression": true
+  },
+  {
+    "count": 10,
+    "name": "Notebook (Double Trouble)",
+    "category": ["Notebooks", "Notebooks (Double Trouble)"],
+    "progression": true
+  },
+  {
+    "count": 10,
+    "name": "Notebook (Jollyhouse)",
+    "category": ["Notebooks", "Notebooks (Xmas Mode)", "Jollyhouse"],
+    "progression": true
+  },
+  {
+    "count": 16,
+    "name": "Skin",
+    "category": ["Skins", "Skinned Mode"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Faculty Room Keys",
+    "category": ["Progression Items"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "'BALLS' Posters",
+    "category": ["Progression Items"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Nether Portal (Lap 2)",
+    "category": ["Progression Items"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Alarm Clock",
+    "category": ["Common Items"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Energy Flavored Zesty Bar",
+    "category": ["Common Items"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "GameBoy Color",
+    "category": ["Uncommon Items"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Get Out of Jail Free Card",
+    "category": ["Common Items"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Glock",
+    "category": ["Common Items"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Hammer for Sticky Situations",
+    "category": ["Common Items"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mystery Tape",
+    "category": ["Common Items"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Poop Meter",
+    "category": ["Common Items"],
     "filler": true
   }
 ]

@@ -3,5 +3,12 @@
   "game": "RaldisCrackhouse",
   "creator": "Fayerie",
   "filler_item_name": "Noteboo",
-  "starting_items": []
+  "starting_items": [
+    {
+      "item_categories": [
+        "Passes"
+      ],
+      "random": 1
+    }
+  ]
 }

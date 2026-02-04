@@ -1,7 +1,62 @@
 [
   {
-    "name": "test",
-    "category": [],
+    "name": "Blue Notebook (Crackhouse)",
+    "category": ["! Notebooks", "Crackhouse"],
     "requires": ""
+  },
+  {
+    "name": "Pink Notebook (Crackhouse)",
+    "category": ["! Notebooks", "Crackhouse"],
+    "requires": ""
+  },
+  {
+    "name": "Black Notebook (Crackhouse)",
+    "category": ["! Notebooks", "Crackhouse"],
+    "requires": "|Notebook (Crackhouse):2|"
+  },
+  {
+    "name": "Raldi Quarter Prize",
+    "category": ["! Items"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):1|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):1|) OR (|Jollyhouse Pass| AND |Notebook (Jollyhouse):1|)"
+  },
+  {
+    "name": "Glock Black Notebook",
+    "category": ["! Items", "Classroom"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)"
+  },
+  {
+    "name": "Hammer Black Notebook",
+    "category": ["! Items", "Classroom"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)"
+  },
+  {
+    "name": "Poop Meter Black Notebook",
+    "category": ["! Items", "Classroom"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)"
+  },
+  {
+    "name": "Zesty Bar South West",
+    "category": ["! Items", "Faculty Room"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)"
+  },
+  {
+    "name": "Alarm Clock South West",
+    "category": ["! Items", "Faculty Room"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)"
+  },
+  {
+    "name": "Mystery Tape South West",
+    "category": ["! Items", "Faculty Room"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)"
+  },
+  {
+    "name": "Jail Free Card South West",
+    "category": ["! Items", "Faculty Room"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)"
+  },
+  {
+    "name": "GameBoy Color South West",
+    "category": ["! Items", "BALLS Poster Room"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)"
   }
 ]
