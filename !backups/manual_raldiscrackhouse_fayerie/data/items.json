@@ -73,9 +73,21 @@
   },
   {
     "count": 1,
+    "name": "A Crackpipe for Raldi",
+    "category": ["Uncommon Items"],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Alarm Clock",
     "category": ["Common Items"],
     "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ender Pearl",
+    "category": ["Uncommon Items"],
+    "progression_skip_balancing": true
   },
   {
     "count": 1,
@@ -98,14 +110,38 @@
   {
     "count": 1,
     "name": "Glock",
-    "category": ["Common Items"],
-    "progression_skip_balancing": true
+    "category": ["Common Items", "Window Breaker"],
+    "progression": true
   },
   {
     "count": 1,
     "name": "Hammer for Sticky Situations",
-    "category": ["Common Items"],
-    "progression_skip_balancing": true
+    "category": ["Common Items", "Window Breaker"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "iPhone",
+    "category": ["Uncommon Items"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Call Hitman App",
+    "category": ["iPhone Apps"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ping Notebooks App",
+    "category": ["iPhone Apps"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Monkenator",
+    "category": ["Common Items", "Window Breaker"],
+    "progression": true
   },
   {
     "count": 1,
@@ -115,8 +151,50 @@
   },
   {
     "count": 1,
+    "name": "Pink Frosted Donut",
+    "category": ["Common Items"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Polish Cow Marker",
+    "category": ["Common Items"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Polish Milk",
+    "category": ["Common Items"],
+    "useful": true
+  },
+  {
+    "count": 1,
     "name": "Poop Meter",
     "category": ["Common Items"],
     "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Swinging Door Lock",
+    "category": ["Common Items"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Quarter",
+    "category": ["Common Items"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Quarter Pouch",
+    "category": ["Progression Items", "Quarter Pouch"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "WD-NoSquee",
+    "category": ["Common Items"],
+    "useful": true
   }
 ]

@@ -1,1 +1,26 @@
-{}
+{
+    "Classroom":{
+        "connects_to": [],
+        "requires": ""
+    },
+    "Faculty Room":{
+        "connects_to": [],
+        "requires": "|Faculty Room Keys|"
+    },
+    "Restroom":{
+        "connects_to": [],
+        "requires": ""
+    },
+    "Outside":{
+        "connects_to": [],
+        "requires": ""
+    },
+    "Hallway":{
+        "connects_to": [],
+        "requires": ""
+    },
+    "BALLS Poster":{
+        "connects_to": [],
+        "requires": "|'BALLS' Posters|"
+    }
+}

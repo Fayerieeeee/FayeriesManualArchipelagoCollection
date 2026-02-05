@@ -2,61 +2,211 @@
   {
     "name": "Blue Notebook (Crackhouse)",
     "category": ["! Notebooks", "Crackhouse"],
-    "requires": ""
+    "requires": "",
+    "region": "Classroom"
   },
   {
     "name": "Pink Notebook (Crackhouse)",
     "category": ["! Notebooks", "Crackhouse"],
-    "requires": ""
+    "requires": "",
+    "region": "Classroom"
   },
   {
     "name": "Black Notebook (Crackhouse)",
     "category": ["! Notebooks", "Crackhouse"],
-    "requires": "|Notebook (Crackhouse):2|"
+    "requires": "|Notebook (Crackhouse):2|",
+    "region": "Classroom"
+  },
+  {
+    "name": "Gradient Notebook (Crackhouse)",
+    "category": ["! Notebooks", "Crackhouse"],
+    "requires": "|Notebook (Crackhouse):2|",
+    "region": "Classroom"
+  },
+  {
+    "name": "Cyan Notebook (Crackhouse)",
+    "category": ["! Notebooks", "Crackhouse"],
+    "requires": "|Notebook (Crackhouse):2|",
+    "region": "Classroom"
+  },
+  {
+    "name": "Brown Notebook (Crackhouse)",
+    "category": ["! Notebooks", "Crackhouse"],
+    "requires": "|Notebook (Crackhouse):2| AND |@Window Breaker|",
+    "region": "Classroom"
+  },
+  {
+    "name": "Yellow Notebook (Crackhouse)",
+    "category": ["! Notebooks", "Crackhouse"],
+    "requires": "|Notebook (Crackhouse):2|",
+    "region": "Classroom"
   },
   {
     "name": "Raldi Quarter Prize",
-    "category": ["! Items"],
-    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):1|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):1|) OR (|Jollyhouse Pass| AND |Notebook (Jollyhouse):1|)"
+    "category": ["! Items", "Hallway"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):1|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):1|) OR (|Jollyhouse Pass| AND |Notebook (Jollyhouse):1|)",
+    "region": "Hallway"
+  },
+  {
+    "name": "BSODA Vending Machine South West",
+    "category": ["! Vending Machines", "Hallway"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Hallway"
+  },
+  {
+    "name": "Monkenator South",
+    "category": ["! Items", "Outside"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Outside"
+  },
+  {
+    "name": "Polish Milk Bench",
+    "category": ["! Items", "Outside"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Outside"
+  },
+  {
+    "name": "Zesty Bar Bench",
+    "category": ["! Items", "Outside"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Outside"
+  },
+  {
+    "name": "Ender Pearl Vending Machine",
+    "category": ["! Vending Machines", "Outside"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Outside"
   },
   {
     "name": "Glock Black Notebook",
     "category": ["! Items", "Classroom"],
-    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)"
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Classroom"
   },
   {
     "name": "Hammer Black Notebook",
     "category": ["! Items", "Classroom"],
-    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)"
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Classroom"
   },
   {
     "name": "Poop Meter Black Notebook",
     "category": ["! Items", "Classroom"],
-    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)"
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Classroom"
+  },
+  {
+    "name": "Alarm Clock Gradient Notebook",
+    "category": ["! Items", "Classroom"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Classroom"
+  },
+  {
+    "name": "Polish Cow Marker Cyan Notebook",
+    "category": ["! Items", "Classroom"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Classroom"
+  },
+  {
+    "name": "Hammer Cyan Notebook",
+    "category": ["! Items", "Classroom"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Classroom"
+  },
+  {
+    "name": "Hammer Brown Notebook",
+    "category": ["! Items", "Classroom"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Classroom"
+  },
+  {
+    "name": "PSX Controller Gustav",
+    "category": ["! Items", "Classroom"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Classroom"
+  },
+  {
+    "name": "Medkit Gustav",
+    "category": ["! Items", "Faculty Room"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Faculty Room"
   },
   {
     "name": "Zesty Bar South West",
     "category": ["! Items", "Faculty Room"],
-    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)"
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Faculty Room"
   },
   {
     "name": "Alarm Clock South West",
     "category": ["! Items", "Faculty Room"],
-    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)"
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Faculty Room"
   },
   {
     "name": "Mystery Tape South West",
     "category": ["! Items", "Faculty Room"],
-    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)"
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Faculty Room"
   },
   {
     "name": "Jail Free Card South West",
     "category": ["! Items", "Faculty Room"],
-    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)"
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Faculty Room"
+  },
+  {
+    "name": "iPhone Police",
+    "category": ["! Items", "Faculty Room"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Faculty Room"
+  },
+  {
+    "name": "Donut Box Police",
+    "category": ["! Items", "Faculty Room"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Faculty Room"
+  },
+  {
+    "name": "Monkenator Police",
+    "category": ["! Items", "Faculty Room"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Faculty Room"
+  },
+  {
+    "name": "Swinging Door Lock South",
+    "category": ["! Items", "Restroom"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Restroom"
+  },
+  {
+    "name": "Mystery Item South",
+    "category": ["! Items", "Restroom"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Restroom"
+  },
+  {
+    "name": "Mystery Vending Machine South",
+    "category": ["! Vending Machines", "Restroom"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Restroom"
+  },
+  {
+    "name": "WD-NoSquee South",
+    "category": ["! Items", "Supplies Closet"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Crack Tower Pass|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "Classroom"
   },
   {
     "name": "GameBoy Color South West",
     "category": ["! Items", "BALLS Poster Room"],
-    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)"
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "BALLS Poster"
+  },
+  {
+    "name": "Crackpipe South",
+    "category": ["! Items", "BALLS Poster Room", "Non-Family Friendly"],
+    "requires": "(|Crackhouse Pass| AND |Notebook (Crackhouse):2|) OR (|Double Trouble Pass| AND |Notebook (Double Trouble):2|)",
+    "region": "BALLS Poster"
   }
 ]
