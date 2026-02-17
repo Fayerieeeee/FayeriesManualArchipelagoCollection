@@ -1360,5 +1360,251 @@
     "name": ".lua Class",
     "category": ["Classes", ".lua Chars"],
     "useful": true
-  }
+  },
+  {
+    "count": 1,
+    "name": "Anton (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Asteron (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Aquis (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Balloon (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Barrel (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bata-pyon (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bomb (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bubbles (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Buggernaut (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Buzz Bomber (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Chainspike (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Chaos Emerald (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Egg Pod (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Flasher (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ga (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Goddess (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Hotaru (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Hyudoro (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Jaws (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Jellygnite (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Kabasira (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Meramora Jr. (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mosqui (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Motobricks (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Motobuddy (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mushmeanie (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Nebula (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Newtron (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Octus (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Orbinaut (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Poh-Bee (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Prison Egg (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "S.P.B. Jr. (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sol (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Spikebonker (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Super Emerald (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Technosqueek (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Tonbo (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Tornado (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "UFO (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Uni-Uni (Follower)",
+    "category": ["Follower"],
+    "filler": true
+  },
 ]
