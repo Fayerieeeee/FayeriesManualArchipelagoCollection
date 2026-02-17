@@ -55,7 +55,75 @@
   },
   {
     "count": 1,
-    "name": ""
+    "name": "Aqua Cup",
+    "category": ["Cups", "S2 Cups"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lightning Cup",
+    "category": ["Cups", "S2 Cups"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flame Cup",
+    "category": ["Cups", "S2 Cups"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Super Cup",
+    "category": ["Cups", "S2 Cups"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Egg Cup",
+    "category": ["Cups", "S2 Cups"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Goggles Cup",
+    "category": ["Cups", "S3 Cups"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Timer Cup",
+    "category": ["Cups", "S3 Cups"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Grow Cup",
+    "category": ["Cups", "S3 Cups"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chao Cup",
+    "category": ["Cups", "S3 Cups"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wing Cup",
+    "category": ["Cups", "S3 Cups"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mega Cup",
+    "category": ["Cups", "S3 Cups"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Phantom Cup",
+    "category": ["Cups", "S3 Cups"],
+    "progression": true
   },
   {
     "count": 1,
@@ -98,5 +166,1199 @@
     "name": "Skate Cup",
     "category": ["Cups", "S4 Cups"],
     "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Recycle Cup (A)",
+    "category": ["Cups", "S5 Cups"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Recycle Cup (B)",
+    "category": ["Cups", "S5 Cups"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lost & Found Cup",
+    "category": ["Cups", "S5 Cups"],
+    "progression": true
+  },
+  {
+    "count": 7,
+    "name": "Chaos Emerald",
+    "category": ["Emeralds"],
+    "progression": true
+  },
+  {
+    "count": 7,
+    "name": "Super Emerald",
+    "category": ["Emeralds"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ballhog",
+    "category": ["Item Unlocks", "Solo Items"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 7,
+    "name": "Progressive Ballhog",
+    "category": ["Item Unlocks", "Progressive Items"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Banana",
+    "category": ["Item Unlocks", "Solo Items"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Triple Bananas",
+    "category": ["Item Unlocks", "Solo Items"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 3,
+    "name": "Progressive Bananas",
+    "category": ["Item Unlocks", "Solo Items"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Bubble Shield",
+    "category": ["Item Unlocks"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Drop Target",
+    "category": ["Item Unlocks"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Eggmark",
+    "category": ["Item Unlocks"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Flame Shield",
+    "category": ["Item Unlocks"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Gachabom",
+    "category": ["Item Unlocks", "Solo Items"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Triple Gachaboms",
+    "category": ["Item Unlocks", "Solo Items"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 3,
+    "name": "Progressive Gachaboms",
+    "category": ["Item Unlocks", "Progressive Items"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Gardentop",
+    "category": ["Item Unlocks"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Grow",
+    "category": ["Item Unlocks"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Hyudoro",
+    "category": ["Item Unlocks"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Insta-Whip",
+    "category": ["Item Unlocks", "Melee"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Invincibility",
+    "category": ["Item Unlocks"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Jawz",
+    "category": ["Item Unlocks", "Solo Items"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Dual Jawz",
+    "category": ["Item Unlocks", "Solo Items"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Jawz",
+    "category": ["Item Unlocks", "Progressive Items"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Kitchen Sink",
+    "category": ["Item Unlocks"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Land Mine",
+    "category": ["Item Unlocks"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Lightning Shield",
+    "category": ["Item Unlocks"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Orbinaut",
+    "category": ["Item Unlocks", "Solo Items"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Triple Orbinauts",
+    "category": ["Item Unlocks", "Solo Items"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Quadriple Orbinauts",
+    "category": ["Item Unlocks", "Solo Items"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 4,
+    "name": "Progressive Orbinauts",
+    "category": ["Item Unlocks", "Progressive Items"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Pogo Spring",
+    "category": ["Item Unlocks"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Proximity Mine",
+    "category": ["Item Unlocks"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Self-Propelled Bomb",
+    "category": ["Item Unlocks"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Shrink",
+    "category": ["Item Unlocks"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Sneaker",
+    "category": ["Item Unlocks", "Solo Items"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Dual Sneakers",
+    "category": ["Item Unlocks", "Solo Items"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Triple Sneakers",
+    "category": ["Item Unlocks", "Solo Items"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Rocket Sneaker",
+    "category": ["Item Unlocks", "Solo Items"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 4,
+    "name": "Progressive Sneakers",
+    "category": ["Item Unlocks", "Progressive Items"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Stone Shoe",
+    "category": ["Item Unlocks"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Super Ring",
+    "category": ["Item Unlocks"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Toxomister",
+    "category": ["Item Unlocks"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "AiAi (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Aigis (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Amy (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Arle (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Azusa Miura (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bark (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Battle Kukku XV (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bean (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Big (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Billy Hatcher (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Blaze (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bomb (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Carol (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Caterkiller (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Chao (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Chaos Zero (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Charmy (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "ChuChu (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Cluckoid (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Cream (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ecco (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Eggman (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Eggrobo (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Emerl (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Espio (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Fang (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Flicky (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gum (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gutbuster (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Headdy (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Heavy (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Heavy Magician (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Honey (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Jack Frost (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Jet (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Knuckles (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Mail (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Maria (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Mecha Sonic (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Metal Knuckles (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Metal Sonic (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Mighty (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Motobug (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "NiGHTS (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Orta (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Pulseman (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rappy (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ray (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Redz (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ring (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rouge (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Sakura Shinguji (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Shadow (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Silver (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Sonic (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Surge (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Tails (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Tails Doll (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Tikal (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Trouble Bruin (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Vectorman (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Whisper (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Wonder Boy (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Zipp (Racer)",
+    "category": ["Chars"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class A (S1-W1)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class A (S1-W2)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class A (S1-W3)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class A (S2-W1)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class A (S2-W2)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class A (S2-W3)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class A (S3-W1)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class A (S3-W2)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class A (S3-W3)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class B (S4-W1)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class B (S4-W2)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class B (S4-W3)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class B (S5-W1)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class B (S5-W2)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class B (S5-W3)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class B (S6-W1)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class B (S6-W2)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class B (S6-W3)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class C (S7-W1)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class C (S7-W2)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class C (S7-W3)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class C (S8-W1)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class C (S8-W2)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class C (S8-W3)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class C (S9-W1)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class C (S9-W2)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class C (S9-W3)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class D (S1-W4)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class D (S1-W5)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class D (S1-W6)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class D (S2-W4)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class D (S2-W5)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class D (S2-W6)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class D (S3-W4)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class D (S3-W5)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class D (S3-W6)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class E (S4-W4)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class E (S4-W5)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class E (S4-W6)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class E (S5-W4)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class E (S5-W5)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class E (S5-W6)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class E (S6-W4)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class E (S6-W5)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class E (S6-W6)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class F (S7-W4)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class F (S7-W5)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class F (S7-W6)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class F (S8-W4)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class F (S8-W5)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class F (S8-W6)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class F (S9-W4)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class F (S9-W5)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class F (S9-W6)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class G (S1-W7)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class G (S1-W8)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class G (S1-W9)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class G (S2-W7)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class G (S2-W8)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class G (S2-W9)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class G (S3-W7)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class G (S3-W8)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class G (S3-W9)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class H (S4-W7)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class H (S4-W8)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class H (S4-W9)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class H (S5-W7)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class H (S5-W8)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class H (S5-W9)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class H (S6-W7)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class H (S6-W8)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class H (S6-W9)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class I (S7-W7)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class I (S7-W8)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class I (S7-W9)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class I (S8-W7)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class I (S8-W8)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class I (S8-W9)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class I (S9-W7)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class I (S9-W8)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class I (S9-W9)",
+    "category": ["Classes", "Separate Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class A",
+    "category": ["Classes", "Bundled Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class B",
+    "category": ["Classes", "Bundled Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class C",
+    "category": ["Classes", "Bundled Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class D",
+    "category": ["Classes", "Bundled Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class E",
+    "category": ["Classes", "Bundled Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class F",
+    "category": ["Classes", "Bundled Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class G",
+    "category": ["Classes", "Bundled Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class H",
+    "category": ["Classes", "Bundled Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Class I",
+    "category": ["Classes", "Bundled Classes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": ".lua Class",
+    "category": ["Classes", ".lua Chars"],
+    "useful": true
   }
 ]

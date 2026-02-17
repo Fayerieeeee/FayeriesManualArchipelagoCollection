@@ -1,3 +1,4 @@
+AP-SCAN { "flags": [] }
 AP-MAP { "map": "E1M1", "checksum": "b49f7a6c519757d390d52667db7d8793", "rank": 0, "monster_count": 29, "info": { "levelnum": 1, "title": "HUSTR_E1M1", "is_lookup": true, "sky1": "SKY1", "sky1speed": "0.000000", "sky2": "SKY1", "sky2speed": "0.000000", "music": "$MUSIC_E1M1", "music_track": "0", "cluster": 0, "flags": [] } }
 AP-ITEM { "map": "E1M1", "category": "big-armor", "typename": "BlueArmor", "tag": "BlueArmor", "position": { "x": 1824, "y": -3280, "z": -80 } }
 AP-ITEM { "map": "E1M1", "category": "medium-health", "typename": "Medikit", "tag": "Medikit", "position": { "x": 2880, "y": -4416, "z": -24 } }
