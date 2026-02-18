@@ -1363,248 +1363,1400 @@
   },
   {
     "count": 1,
+    "name": "Ancient Gear (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
     "name": "Anton (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Asterite (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Asteron (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Attack Boo (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Aquis (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bacura (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Balldron (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Balloon (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Barrel (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bat (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Bata-pyon (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Billiards Cactus (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Blend Eye (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Bomb (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bombaberry (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bomber (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bomblur (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Boo (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bowling Pin (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bubbler's Mother (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Bubbles (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Buggernaut (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Burboom (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bushbubble (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Buzz Bomber (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "C.H.R.O.M.E. (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Cacodemon (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Canary (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Cake From Hell (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Cappy (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Chaclon (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Chainspike (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Chao (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Chao Egg (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Chaos Drive (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Chaos Emerald (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Cheese (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Claw Guy (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Clucky (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Controller (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Dark Chao (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Dove (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Egg Flapper (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Egg Pod (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Emerald Radar (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Final Duck (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Firefly (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fish (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Flasher (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Flicky (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Flicky Turncoat (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Flysquid (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Frogger (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Froggy (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Ga (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Gaikoko (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Glyph (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Goddess (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Gold Beetle (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Gold Klagen (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Gotcha (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Green Flicky (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "GuardRobo (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Gyro (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Has Bean (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Hermit Crab (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Hero Chao (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Hint Orb (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Hotaru (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "HotRobo (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Hyudoro (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Jaws (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Jellygnite (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Jet Booster (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Jetarang (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Kabasira (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Kart Kiki (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Klagen (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Kobu (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mag (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Manegg (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Marble UAP (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mean Bean (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mecha Hiyoko (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Meramora Jr. (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mono Beetle (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Mosqui (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Motobricks (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Motobuddy (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Motorspike (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mukaka (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Mushmeanie (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mystic Melody (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Nebula (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Newtron (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Nomi (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Octus (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Orbinaut (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Orblet (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Pink Flicky (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Piranhy (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Poh-Bee (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Prison Egg (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Puffin (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Pyrex (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Red Flicky (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "S.P.B. Jr. (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sandoom (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Scouter (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Shade Core (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Silver Sonic (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Snowman (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Sol (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Spidal Tap (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Spikebonker (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Spinner (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Spinpole (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Splats (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Spybot 2000 (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "SRB1 Crawla (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "SRB2 Crawla (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Stegospike (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Super Emerald (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Technosqueek (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ticktock (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Tonbo (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Tornado (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Tridentz (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Tridrill (Follower)",
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "UFO (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
     "filler": true
   },
   {
     "count": 1,
     "name": "Uni-Uni (Follower)",
-    "category": ["Follower"],
+    "category": ["Followers"],
     "filler": true
   },
+  {
+    "count": 1,
+    "name": "Whirl (Follower)",
+    "category": ["Followers"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "White (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Silver (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Grey (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Nickel (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Black (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Skunk (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fairy (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Popcorn (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Artichoke (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Pigeon (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sepia (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Beige (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Caramel (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Peach (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Brown (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Leather (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Pink (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Rose (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Cinnamon (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ruby (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Raspberry (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Red (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Crimson (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Maroon (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Lemonade (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Scarlet (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ketchup (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Dawn (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sunslam (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Creamsicle (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Orange (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Rosewood (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Tangerine (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Tan (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Cream (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Gold (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Royal (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bronze (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Copper (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Yellow (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mustard (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Banana (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Olive (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Crocodile (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Peridot (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Vomit (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Garden (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Lime (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Handheld (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Tea (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Pistachio (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Moss (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Camouflage (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mint (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Green (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Pinetree (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Turtle (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Swamp (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Dream (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Plague (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Emerald (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Algae (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Aquamarine (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Turquoise (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Teal (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Robin (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Cyan (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Jawz (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Cerulean (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Navy (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Platinum (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Slate (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Steel (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Thunder (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Nova (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Rust (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Wristwatch (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Jet (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sapphire (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ultramarine (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Periwinkle (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Blue (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Midnight (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Blueberry (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Thistle (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Purple (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Pastel (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Moonset (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Dusk (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Violet (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Magenta (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fuchsia (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Toxic (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mauve (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Lavender (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Byzantium (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Pomegranate (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Lilac (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Blossom (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Taffy (Spray Can)",
+    "category": ["Spray Cans"],
+    "filler": true
+  }
 ]
