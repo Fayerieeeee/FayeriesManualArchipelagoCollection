@@ -2,5 +2,133 @@
   "Ring Cup": {
     "connects_to": [],
     "requires": "|Ring Cup|"
+  },
+  "Sneaker Cup":{
+    "connects_to": [],
+    "requires": "|Sneaker Cup|"
+  },
+  "Spring Cup":{
+    "connects_to": [],
+    "requires": "|Spring Cup|"
+  },
+  "Barrier Cup":{
+    "connects_to": [],
+    "requires": "|Barrier Cup|"
+  },
+  "Invincible Cup":{
+    "connects_to": [],
+    "requires": "|Invincible Cup|"
+  },
+  "Emerald Cup":{
+    "connects_to": [],
+    "requires": "|Emerald Cup|"
+  },
+  "Extra Cup":{
+    "connects_to": [],
+    "requires": "|Extra Cup|"
+  },
+  "S.P.B. Cup":{
+    "connects_to": [],
+    "requires": "|S.P.B. Cup|"
+  },
+  "Rocket Cup":{
+    "connects_to": [],
+    "requires": "|Rocket Cup|"
+  },
+  "Aqua Cup":{
+    "connects_to": [],
+    "requires": "|Aqua Cup|"
+  },
+  "Lightning Cup":{
+    "connects_to": [],
+    "requires": "|Lightning Cup|"
+  },
+  "Flame Cup":{
+    "connects_to": [],
+    "requires": "|Flame Cup|"
+  },
+  "Super Cup":{
+    "connects_to": [],
+    "requires": "|Super Cup|"
+  },
+  "Egg Cup":{
+    "connects_to": [],
+    "requires": "|Egg Cup|"
+  },
+  "Goggles Cup":{
+    "connects_to": [],
+    "requires": "|Goggles Cup|"
+  },
+  "Timer Cup":{
+    "connects_to": [],
+    "requires": "|Timer Cup|"
+  },
+  "Grow Cup":{
+    "connects_to": [],
+    "requires": "|Grow Cup|"
+  },
+  "Chao Cup":{
+    "connects_to": [],
+    "requires": "|Chao Cup|"
+  },
+  "Wing Cup":{
+    "connects_to": [],
+    "requires": "|Wing Cup|"
+  },
+  "Mega Cup":{
+    "connects_to": [],
+    "requires": "|Mega Cup|"
+  },
+  "Phantom Cup":{
+    "connects_to": [],
+    "requires": "|Phantom Cup|"
+  },
+  "Flash Cup":{
+    "connects_to": [],
+    "requires": "|Flash Cup|"
+  },
+  "Swap Cup":{
+    "connects_to": [],
+    "requires": "|Swap Cup|"
+  },
+  "Shrink Cup":{
+    "connects_to": [],
+    "requires": "|Shrink Cup|"
+  },
+  "Bomb Cup":{
+    "connects_to": [],
+    "requires": "|Bomb Cup|"
+  },
+  "Power Cup":{
+    "connects_to": [],
+    "requires": "|Power Cup|"
+  },
+  "Genesis Cup":{
+    "connects_to": [],
+    "requires": "|Genesis Cup|"
+  },
+  "Skate Cup":{
+    "connects_to": [],
+    "requires": "|Skate Cup|"
+  },
+  "Recycle Cup (A)":{
+    "connects_to": [],
+    "requires": "|Recycle Cup (A)|"
+  },
+  "Recycle Cup (B)":{
+    "connects_to": [],
+    "requires": "|Recycle Cup (B)|"
+  },
+  "Lost & Found Cup":{
+    "connects_to": [],
+    "requires": "|Lost & Found Cup|"
+  },
+  "Blend Eye":{
+    "connects_to": [],
+    "requires": "|@Emeralds:7| AND |@Melee| AND |@Gachaboms:1|"
+  },
+  "Mean Blend Eye":{
+    "connects_to": [],
+    "requires": "|@Emeralds:14| AND |@Melee| AND |@Gachaboms:1|"
   }
 }

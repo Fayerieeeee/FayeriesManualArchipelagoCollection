@@ -23,6 +23,18 @@
         "hidden": true,
         "yaml_option": ["super_emeralds"]
     },
+    "Tripwire":{
+        "hidden": true
+    },
+    "Gachaboms":{
+        "hidden": true
+    },
+    "UFO Catcher":{
+        "hidden": true
+    },
+    "Progressive UFO Catcher":{
+        "hidden": true
+    },
     "Solo Items":{
         "hidden": true,
         "yaml_option": ["non-progressive_items"]
@@ -35,13 +47,17 @@
         "hidden": true,
         "yaml_option": ["useless_battlemode_items"]
     },
-    "Midrace Traps":{
+    "Char Traps":{
         "hidden": true,
-        "yaml_option": ["midrace_traps"]
+        "yaml_option": ["char_traps"]
     },
-    "Prerace Traps":{
+    "CPU Traps":{
         "hidden": true,
-        "yaml_option": ["prerace_traps"]
+        "yaml_option": ["cpu_traps"]
+    },
+    "Damage Traps":{
+        "hidden": true,
+        "yaml_option": ["damage_traps"]
     },
     "Chars":{
         "yaml_option": ["vanilla_chars"]
@@ -63,5 +79,9 @@
     },
     "Spray Cans":{
         "yaml_option": ["spray_cans"]
+    },
+    "Jokes":{
+        "hidden": true,
+        "yaml_option": ["filler_jokes"]
     }
 }

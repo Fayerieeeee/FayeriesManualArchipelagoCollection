@@ -212,26 +212,26 @@
   {
     "count": 1,
     "name": "Banana",
-    "category": ["Item Unlocks", "Solo Items"],
-    "progression_skip_balancing": true
+    "category": ["Item Unlocks", "Solo Items", "UFO Catcher"],
+    "progression": true
   },
   {
     "count": 1,
     "name": "Triple Bananas",
-    "category": ["Item Unlocks", "Solo Items"],
-    "progression_skip_balancing": true
+    "category": ["Item Unlocks", "Solo Items", "UFO Catcher"],
+    "progression": true
   },
   {
     "count": 3,
     "name": "Progressive Bananas",
-    "category": ["Item Unlocks", "Solo Items"],
-    "progression_skip_balancing": true
+    "category": ["Item Unlocks", "Progressive Items", "Progressive UFO Catcher"],
+    "progression": true
   },
   {
     "count": 1,
     "name": "Bubble Shield",
-    "category": ["Item Unlocks"],
-    "progression_skip_balancing": true
+    "category": ["Item Unlocks", "Tripwire"],
+    "progression": true
   },
   {
     "count": 1,
@@ -248,38 +248,38 @@
   {
     "count": 1,
     "name": "Flame Shield",
-    "category": ["Item Unlocks"],
-    "progression_skip_balancing": true
+    "category": ["Item Unlocks", "Tripwire"],
+    "progression": true
   },
   {
     "count": 1,
     "name": "Gachabom",
-    "category": ["Item Unlocks", "Solo Items"],
-    "progression_skip_balancing": true
+    "category": ["Item Unlocks", "Solo Items", "Gachaboms"],
+    "progression": true
   },
   {
     "count": 1,
     "name": "Triple Gachaboms",
-    "category": ["Item Unlocks", "Solo Items"],
-    "progression_skip_balancing": true
+    "category": ["Item Unlocks", "Solo Items", "Gachaboms"],
+    "progression": true
   },
   {
     "count": 3,
     "name": "Progressive Gachaboms",
-    "category": ["Item Unlocks", "Progressive Items"],
-    "progression_skip_balancing": true
+    "category": ["Item Unlocks", "Progressive Items", "Gachaboms"],
+    "progression": true
   },
   {
     "count": 1,
     "name": "Gardentop",
-    "category": ["Item Unlocks"],
-    "progression_skip_balancing": true
+    "category": ["Item Unlocks", "Tripwire", "UFO Catcher"],
+    "progression": true
   },
   {
     "count": 1,
     "name": "Grow",
-    "category": ["Item Unlocks"],
-    "progression_skip_balancing": true
+    "category": ["Item Unlocks", "Tripwire"],
+    "progression": true
   },
   {
     "count": 1,
@@ -290,32 +290,32 @@
   {
     "count": 1,
     "name": "Insta-Whip",
-    "category": ["Item Unlocks", "Melee"],
+    "category": ["Item Unlocks", "Melee", "UFO Catcher"],
     "progression": true
   },
   {
     "count": 1,
     "name": "Invincibility",
-    "category": ["Item Unlocks"],
-    "progression_skip_balancing": true
+    "category": ["Item Unlocks", "Tripwire"],
+    "progression": true
   },
   {
     "count": 1,
     "name": "Jawz",
-    "category": ["Item Unlocks", "Solo Items"],
-    "progression_skip_balancing": true
+    "category": ["Item Unlocks", "Solo Items", "UFO Catcher"],
+    "progression": true
   },
   {
     "count": 1,
     "name": "Dual Jawz",
-    "category": ["Item Unlocks", "Solo Items"],
-    "progression_skip_balancing": true
+    "category": ["Item Unlocks", "Solo Items", "UFO Catcher"],
+    "progression": true
   },
   {
     "count": 2,
     "name": "Progressive Jawz",
-    "category": ["Item Unlocks", "Progressive Items"],
-    "progression_skip_balancing": true
+    "category": ["Item Unlocks", "Progressive Items", "Progressive UFO Catcher"],
+    "progression": true
   },
   {
     "count": 1,
@@ -338,26 +338,26 @@
   {
     "count": 1,
     "name": "Orbinaut",
-    "category": ["Item Unlocks", "Solo Items"],
-    "progression_skip_balancing": true
+    "category": ["Item Unlocks", "Solo Items", "UFO Catcher"],
+    "progression": true
   },
   {
     "count": 1,
     "name": "Triple Orbinauts",
-    "category": ["Item Unlocks", "Solo Items"],
-    "progression_skip_balancing": true
+    "category": ["Item Unlocks", "Solo Items", "UFO Catcher"],
+    "progression": true
   },
   {
     "count": 1,
     "name": "Quadriple Orbinauts",
-    "category": ["Item Unlocks", "Solo Items"],
-    "progression_skip_balancing": true
+    "category": ["Item Unlocks", "Solo Items", "UFO Catcher"],
+    "progression": true
   },
   {
     "count": 4,
     "name": "Progressive Orbinauts",
-    "category": ["Item Unlocks", "Progressive Items"],
-    "progression_skip_balancing": true
+    "category": ["Item Unlocks", "Progressive Items", "Progressive UFO Catcher"],
+    "progression": true
   },
   {
     "count": 1,
@@ -380,38 +380,38 @@
   {
     "count": 1,
     "name": "Shrink",
-    "category": ["Item Unlocks"],
+    "category": ["Item Unlocks", "Tripwire"],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Sneaker",
-    "category": ["Item Unlocks", "Solo Items"],
-    "progression_skip_balancing": true
+    "category": ["Item Unlocks", "Solo Items", "Tripwire", "UFO Catcher"],
+    "progression": true
   },
   {
     "count": 1,
     "name": "Dual Sneakers",
-    "category": ["Item Unlocks", "Solo Items"],
-    "progression_skip_balancing": true
+    "category": ["Item Unlocks", "Solo Items", "Tripwire", "UFO Catcher"],
+    "progression": true
   },
   {
     "count": 1,
     "name": "Triple Sneakers",
-    "category": ["Item Unlocks", "Solo Items"],
-    "progression_skip_balancing": true
+    "category": ["Item Unlocks", "Solo Items", "Tripwire", "UFO Catcher"],
+    "progression": true
   },
   {
     "count": 1,
     "name": "Rocket Sneaker",
-    "category": ["Item Unlocks", "Solo Items"],
-    "progression_skip_balancing": true
+    "category": ["Item Unlocks", "Solo Items", "Tripwire"],
+    "progression": true
   },
   {
     "count": 4,
     "name": "Progressive Sneakers",
-    "category": ["Item Unlocks", "Progressive Items"],
-    "progression_skip_balancing": true
+    "category": ["Item Unlocks", "Progressive Items", "Tripwire", "Progressive UFO Catcher"],
+    "progression": true
   },
   {
     "count": 1,
@@ -632,85 +632,85 @@
   {
     "count": 0,
     "name": "Amped Down Trap",
-    "category": ["Mechanics", "Traps", "Midrace Traps"],
+    "category": ["Mechanics", "Traps", "Char Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Brutal CPUs Trap",
-    "category": ["Mechanics", "Traps", "Prerace Traps"],
+    "category": ["Mechanics", "Traps", "CPU Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Damage Trap",
-    "category": ["Mechanics", "Traps", "Midrace Traps"],
+    "category": ["Mechanics", "Traps", "Damage Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Explode Trap",
-    "category": ["Mechanics", "Traps", "Midrace Traps"],
+    "category": ["Mechanics", "Traps", "Damage Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Fuzz Trap",
-    "category": ["Mechanics", "Traps", "Midrace Traps"],
+    "category": ["Mechanics", "Traps", "Char Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Gravflip Trap",
-    "category": ["Mechanics", "Traps", "Midrace Traps"],
+    "category": ["Mechanics", "Traps", "Char Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Imbalance Trap",
-    "category": ["Mechanics", "Traps", "Prerace Traps"],
+    "category": ["Mechanics", "Traps", "CPU Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Invisible Trap",
-    "category": ["Mechanics", "Traps", "Midrace Traps"],
+    "category": ["Mechanics", "Traps", "Char Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Paper Item Trap",
-    "category": ["Mechanics", "Traps", "Midrace Traps"],
+    "category": ["Mechanics", "Traps", "Char Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Ring Debt Trap",
-    "category": ["Mechanics", "Traps", "Midrace Traps"],
+    "category": ["Mechanics", "Traps", "Char Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Sting Trap",
-    "category": ["Mechanics", "Traps", "Midrace Traps"],
+    "category": ["Mechanics", "Traps", "Damage Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Stumble Trap",
-    "category": ["Mechanics", "Traps", "Midrace Traps"],
+    "category": ["Mechanics", "Traps", "Damage Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Tumble Trap",
-    "category": ["Mechanics", "Traps", "Midrace Traps"],
+    "category": ["Mechanics", "Traps", "Damage Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Wombo Combo Trap",
-    "category": ["Mechanics", "Traps", "Midrace Traps"],
+    "category": ["Mechanics", "Traps", "Damage Traps"],
     "trap": true
   },
   {
@@ -3044,7 +3044,25 @@
   {
     "count": 1,
     "name": "$70 for CrossWorlds",
-    "category": [],
+    "category": ["Jokes"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Dr. Robotnik's Ring Racers v2.3",
+    "category": ["Jokes"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "SRB2Kart Download Link",
+    "category": ["Jokes"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Blankart Download Link",
+    "category": ["Jokes"],
     "filler": true
   }
 ]
