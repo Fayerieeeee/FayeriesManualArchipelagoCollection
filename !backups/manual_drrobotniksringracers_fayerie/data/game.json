@@ -3,6 +3,7 @@
   "game": "DrRobotniksRingRacers",
   "creator": "Fayerie",
   "filler_item_name": "Nothing",
+  "death_link": true,
   "starting_items": [
     {
       "item_categories": ["Cups"],
