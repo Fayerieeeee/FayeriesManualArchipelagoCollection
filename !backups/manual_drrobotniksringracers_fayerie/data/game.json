@@ -3,5 +3,18 @@
   "game": "DrRobotniksRingRacers",
   "creator": "Fayerie",
   "filler_item_name": "Nothing",
-  "starting_items": []
+  "starting_items": [
+    {
+      "item_categories": ["Cups"],
+      "random": 1
+    },
+    {
+      "item_categories": ["Chars", "Classes"],
+      "random": 1
+    },
+    {
+      "item_categories": ["Melee"],
+      "yaml_option": "starting_insta_whip"
+    }
+  ]
 }
