@@ -15,7 +15,7 @@
     },
     {
       "item_categories": ["Melee"],
-      "yaml_option": "starting_insta_whip"
+      "yaml_option": ["starting_insta_whip"]
     }
   ]
 }
