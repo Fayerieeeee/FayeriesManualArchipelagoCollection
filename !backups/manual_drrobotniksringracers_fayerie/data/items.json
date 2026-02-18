@@ -291,7 +291,7 @@
     "count": 1,
     "name": "Insta-Whip",
     "category": ["Item Unlocks", "Melee"],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": 1,
@@ -430,6 +430,288 @@
     "name": "Toxomister",
     "category": ["Item Unlocks"],
     "progression_skip_balancing": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Ballhog",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Banana",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Bubble Shield",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Drop Target",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Eggmark",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Flame Shield",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Gachabom",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Gardentop",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Grow",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Hyudoro",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Insta-Whip",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Invincibility",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Jawz",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Kitchen Sink",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Land Mine",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Lightning Shield",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Orbinaut",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Pogo Spring",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Proximity Mine",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Self-Propelled Bomb",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Shrink",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Sneaker",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Rocket Sneaker",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Stone Shoe",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Super Ring",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Starting Toxomister",
+    "category": ["Starting Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Mega Barrier",
+    "category": ["Battlemode Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Super Power",
+    "category": ["Battlemode Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Super Flicky",
+    "category": ["Battlemode Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Bonus Points",
+    "category": ["Battlemode Items", "Useless Battlemode Items"],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "Bumper Restock",
+    "category": ["Battlemode Items", "Useless Battlemode Items"],
+    "filler": true
+  },
+  {
+    "count": 25,
+    "name": "Ring Restock",
+    "category": ["Mechanics"],
+    "filler": true
+  },
+  {
+    "count": 25,
+    "name": "Amped Up",
+    "category": ["Mechanics"],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Amped Down Trap",
+    "category": ["Mechanics", "Traps"],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Brutal CPUs Trap",
+    "category": ["Mechanics", "Traps"],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Damage Trap",
+    "category": ["Mechanics", "Traps"],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Explode Trap",
+    "category": ["Mechanics", "Traps"],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Fuzz Trap",
+    "category": ["Mechanics", "Traps"],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Gravflip Trap",
+    "category": ["Mechanics", "Traps"],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Imbalance Trap",
+    "category": ["Mechanics", "Traps"],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Invisible Trap",
+    "category": ["Mechanics", "Traps"],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Paper Item Trap",
+    "category": ["Mechanics", "Traps"],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Ring Debt Trap",
+    "category": ["Mechanics", "Traps"],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Sting Trap",
+    "category": ["Mechanics", "Traps"],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Stumble Trap",
+    "category": ["Mechanics", "Traps"],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Tumble Trap",
+    "category": ["Mechanics", "Traps"],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Wombo Combo Trap",
+    "category": ["Mechanics", "Traps"],
+    "trap": true
   },
   {
     "count": 1,
@@ -2757,6 +3039,12 @@
     "count": 1,
     "name": "Taffy (Spray Can)",
     "category": ["Spray Cans"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "$70 for CrossWorlds",
+    "category": [],
     "filler": true
   }
 ]
