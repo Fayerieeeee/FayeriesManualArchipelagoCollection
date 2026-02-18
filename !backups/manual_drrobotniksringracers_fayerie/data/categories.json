@@ -1,1 +1,67 @@
-{}
+{
+    "S1 Cups":{
+        "hidden": true,
+        "yaml_option": ["section_1_cups"]
+    },
+    "S2 Cups":{
+        "hidden": true,
+        "yaml_option": ["section_2_cups"]
+    },
+    "S3 Cups":{
+        "hidden": true,
+        "yaml_option": ["section_3_cups"]
+    },
+    "S4 Cups":{
+        "hidden": true,
+        "yaml_option": ["section_4_cups"]
+    },
+    "S5 Cups":{
+        "hidden": true,
+        "yaml_option": ["extra_cups"]
+    },
+    "Super Emeralds":{
+        "hidden": true,
+        "yaml_option": ["super_emeralds"]
+    },
+    "Solo Items":{
+        "hidden": true,
+        "yaml_option": ["non-progressive_items"]
+    },
+    "Progressive Items":{
+        "hidden": true,
+        "yaml_option": ["progressive_items"]
+    },
+    "Useless Battlemode Items":{
+        "hidden": true,
+        "yaml_option": ["useless_battlemode_items"]
+    },
+    "Midrace Traps":{
+        "hidden": true,
+        "yaml_option": ["midrace_traps"]
+    },
+    "Prerace Traps":{
+        "hidden": true,
+        "yaml_option": ["prerace_traps"]
+    },
+    "Chars":{
+        "yaml_option": ["vanilla_chars"]
+    },
+    "Separate Classes":{
+        "hidden": true,
+        "yaml_option": ["modded_chars"]
+    },
+    "Bundled Classes":{
+        "hidden": true,
+        "yaml_option": ["class_bundles"]
+    },
+    ".lua Chars":{
+        "hidden": true,
+        "yaml_option": [".lua_chars"]
+    },
+    "Followers":{
+        "yaml_option": ["followers"]
+    },
+    "Spray Cans":{
+        "yaml_option": ["spray_cans"]
+    }
+}

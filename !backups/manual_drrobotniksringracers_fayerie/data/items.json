@@ -194,7 +194,7 @@
   {
     "count": 7,
     "name": "Super Emerald",
-    "category": ["Emeralds"],
+    "category": ["Emeralds", "Super Emeralds"],
     "progression": true
   },
   {
@@ -632,85 +632,85 @@
   {
     "count": 0,
     "name": "Amped Down Trap",
-    "category": ["Mechanics", "Traps"],
+    "category": ["Mechanics", "Traps", "Midrace Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Brutal CPUs Trap",
-    "category": ["Mechanics", "Traps"],
+    "category": ["Mechanics", "Traps", "Prerace Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Damage Trap",
-    "category": ["Mechanics", "Traps"],
+    "category": ["Mechanics", "Traps", "Midrace Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Explode Trap",
-    "category": ["Mechanics", "Traps"],
+    "category": ["Mechanics", "Traps", "Midrace Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Fuzz Trap",
-    "category": ["Mechanics", "Traps"],
+    "category": ["Mechanics", "Traps", "Midrace Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Gravflip Trap",
-    "category": ["Mechanics", "Traps"],
+    "category": ["Mechanics", "Traps", "Midrace Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Imbalance Trap",
-    "category": ["Mechanics", "Traps"],
+    "category": ["Mechanics", "Traps", "Prerace Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Invisible Trap",
-    "category": ["Mechanics", "Traps"],
+    "category": ["Mechanics", "Traps", "Midrace Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Paper Item Trap",
-    "category": ["Mechanics", "Traps"],
+    "category": ["Mechanics", "Traps", "Midrace Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Ring Debt Trap",
-    "category": ["Mechanics", "Traps"],
+    "category": ["Mechanics", "Traps", "Midrace Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Sting Trap",
-    "category": ["Mechanics", "Traps"],
+    "category": ["Mechanics", "Traps", "Midrace Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Stumble Trap",
-    "category": ["Mechanics", "Traps"],
+    "category": ["Mechanics", "Traps", "Midrace Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Tumble Trap",
-    "category": ["Mechanics", "Traps"],
+    "category": ["Mechanics", "Traps", "Midrace Traps"],
     "trap": true
   },
   {
     "count": 0,
     "name": "Wombo Combo Trap",
-    "category": ["Mechanics", "Traps"],
+    "category": ["Mechanics", "Traps", "Midrace Traps"],
     "trap": true
   },
   {
