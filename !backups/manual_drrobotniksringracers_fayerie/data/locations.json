@@ -90,4 +90,1156 @@
     "category": ["! Placement", "Ring Cup", "S1 Cups"],
     "requires": []
   },
+  {
+    "name": "Emerald Coast 1st Place",
+    "region": "Sneaker Cup",
+    "category": ["! Placement", "Sneaker Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Emerald Coast 2nd Place",
+    "region": "Sneaker Cup",
+    "category": ["! Placement", "Sneaker Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Emerald Coast 3rd Place",
+    "region": "Sneaker Cup",
+    "category": ["! Placement", "Sneaker Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Storm Rig 1st Place",
+    "region": "Sneaker Cup",
+    "category": ["! Placement", "Sneaker Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Storm Rig 2nd Place",
+    "region": "Sneaker Cup",
+    "category": ["! Placement", "Sneaker Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Storm Rig 3rd Place",
+    "region": "Sneaker Cup",
+    "category": ["! Placement", "Sneaker Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Lucid Pass 1st Place",
+    "region": "Sneaker Cup",
+    "category": ["! Placement", "Sneaker Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Lucid Pass 2nd Place",
+    "region": "Sneaker Cup",
+    "category": ["! Placement", "Sneaker Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Lucid Pass 3rd Place",
+    "region": "Sneaker Cup",
+    "category": ["! Placement", "Sneaker Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Autumn Ring 1st Place",
+    "region": "Sneaker Cup",
+    "category": ["! Placement", "Sneaker Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Autumn Ring 2nd Place",
+    "region": "Sneaker Cup",
+    "category": ["! Placement", "Sneaker Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Autumn Ring 3rd Place",
+    "region": "Sneaker Cup",
+    "category": ["! Placement", "Sneaker Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Withering Chateau 1st Place",
+    "region": "Sneaker Cup",
+    "category": ["! Placement", "Sneaker Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Withering Chateau 2nd Place",
+    "region": "Sneaker Cup",
+    "category": ["! Placement", "Sneaker Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Withering Chateau 3rd Place",
+    "region": "Sneaker Cup",
+    "category": ["! Placement", "Sneaker Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Popcorn Workshop 1st Place",
+    "region": "Spring Cup",
+    "category": ["! Placement", "Spring Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Popcorn Workshop 2nd Place",
+    "region": "Spring Cup",
+    "category": ["! Placement", "Spring Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Popcorn Workshop 3rd Place",
+    "region": "Spring Cup",
+    "category": ["! Placement", "Spring Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Sundae Drive 1st Place",
+    "region": "Spring Cup",
+    "category": ["! Placement", "Spring Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Sundae Drive 2nd Place",
+    "region": "Spring Cup",
+    "category": ["! Placement", "Spring Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Sundae Drive 3rd Place",
+    "region": "Spring Cup",
+    "category": ["! Placement", "Spring Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Cadillac Cascade 1st Place",
+    "region": "Spring Cup",
+    "category": ["! Placement", "Spring Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Cadillac Cascade 2nd Place",
+    "region": "Spring Cup",
+    "category": ["! Placement", "Spring Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Cadillac Cascade 3rd Place",
+    "region": "Spring Cup",
+    "category": ["! Placement", "Spring Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Rumble Ridge 1st Place",
+    "region": "Spring Cup",
+    "category": ["! Placement", "Spring Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Rumble Ridge 2nd Place",
+    "region": "Spring Cup",
+    "category": ["! Placement", "Spring Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Rumble Ridge 3rd Place",
+    "region": "Spring Cup",
+    "category": ["! Placement", "Spring Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Opulence 1st Place",
+    "region": "Spring Cup",
+    "category": ["! Placement", "Spring Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Opulence 2nd Place",
+    "region": "Spring Cup",
+    "category": ["! Placement", "Spring Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Opulence 3rd Place",
+    "region": "Spring Cup",
+    "category": ["! Placement", "Spring Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Angel Island 1st Place",
+    "region": "Barrier Cup",
+    "category": ["! Placement", "Barrier Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Angel Island 2nd Place",
+    "region": "Barrier Cup",
+    "category": ["! Placement", "Barrier Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Angel Island 3rd Place",
+    "region": "Barrier Cup",
+    "category": ["! Placement", "Barrier Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Roasted Ruins 1st Place",
+    "region": "Barrier Cup",
+    "category": ["! Placement", "Barrier Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Roasted Ruins 2nd Place",
+    "region": "Barrier Cup",
+    "category": ["! Placement", "Barrier Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Roasted Ruins 3rd Place",
+    "region": "Barrier Cup",
+    "category": ["! Placement", "Barrier Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Obsidian Oasis 1st Place",
+    "region": "Barrier Cup",
+    "category": ["! Placement", "Barrier Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Obsidian Oasis 2nd Place",
+    "region": "Barrier Cup",
+    "category": ["! Placement", "Barrier Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Obsidian Oasis 3rd Place",
+    "region": "Barrier Cup",
+    "category": ["! Placement", "Barrier Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mirage Saloon 1st Place",
+    "region": "Barrier Cup",
+    "category": ["! Placement", "Barrier Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mirage Saloon 2nd Place",
+    "region": "Barrier Cup",
+    "category": ["! Placement", "Barrier Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mirage Saloon 3rd Place",
+    "region": "Barrier Cup",
+    "category": ["! Placement", "Barrier Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Regal Ruin 1st Place",
+    "region": "Barrier Cup",
+    "category": ["! Placement", "Barrier Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Regal Ruin 2nd Place",
+    "region": "Barrier Cup",
+    "category": ["! Placement", "Barrier Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Regal Ruin 3rd Place",
+    "region": "Barrier Cup",
+    "category": ["! Placement", "Barrier Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Isolated Island 1st Place",
+    "region": "Invincible Cup",
+    "category": ["! Placement", "Invincible Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Isolated Island 2nd Place",
+    "region": "Invincible Cup",
+    "category": ["! Placement", "Invincible Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Isolated Island 3rd Place",
+    "region": "Invincible Cup",
+    "category": ["! Placement", "Invincible Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Gigapolis 1st Place",
+    "region": "Invincible Cup",
+    "category": ["! Placement", "Invincible Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Gigapolis 2nd Place",
+    "region": "Invincible Cup",
+    "category": ["! Placement", "Invincible Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Gigapolis 3rd Place",
+    "region": "Invincible Cup",
+    "category": ["! Placement", "Invincible Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Darkvile Castle 1 1st Place",
+    "region": "Invincible Cup",
+    "category": ["! Placement", "Invincible Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Darkvile Castle 1 2nd Place",
+    "region": "Invincible Cup",
+    "category": ["! Placement", "Invincible Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Darkvile Castle 1 3rd Place",
+    "region": "Invincible Cup",
+    "category": ["! Placement", "Invincible Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Bronze Lake 1st Place",
+    "region": "Invincible Cup",
+    "category": ["! Placement", "Invincible Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Bronze Lake 2nd Place",
+    "region": "Invincible Cup",
+    "category": ["! Placement", "Invincible Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Bronze Lake 3rd Place",
+    "region": "Invincible Cup",
+    "category": ["! Placement", "Invincible Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Collision Chaos 1st Place",
+    "region": "Invincible Cup",
+    "category": ["! Placement", "Invincible Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Collision Chaos 2nd Place",
+    "region": "Invincible Cup",
+    "category": ["! Placement", "Invincible Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Collision Chaos 3rd Place",
+    "region": "Invincible Cup",
+    "category": ["! Placement", "Invincible Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Emerald Hill 1st Place",
+    "region": "Emerald Cup",
+    "category": ["! Placement", "Emerald Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Emerald Hill 2nd Place",
+    "region": "Emerald Cup",
+    "category": ["! Placement", "Emerald Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Emerald Hill 3rd Place",
+    "region": "Emerald Cup",
+    "category": ["! Placement", "Emerald Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Azure City 1st Place",
+    "region": "Emerald Cup",
+    "category": ["! Placement", "Emerald Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Azure City 2nd Place",
+    "region": "Emerald Cup",
+    "category": ["! Placement", "Emerald Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Azure City 3rd Place",
+    "region": "Emerald Cup",
+    "category": ["! Placement", "Emerald Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Gust Planet 1st Place",
+    "region": "Emerald Cup",
+    "category": ["! Placement", "Emerald Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Gust Planet 2nd Place",
+    "region": "Emerald Cup",
+    "category": ["! Placement", "Emerald Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Gust Planet 3rd Place",
+    "region": "Emerald Cup",
+    "category": ["! Placement", "Emerald Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mystic Cave 1st Place",
+    "region": "Emerald Cup",
+    "category": ["! Placement", "Emerald Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mystic Cave 2nd Place",
+    "region": "Emerald Cup",
+    "category": ["! Placement", "Emerald Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mystic Cave 3rd Place",
+    "region": "Emerald Cup",
+    "category": ["! Placement", "Emerald Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Joypolis 1st Place",
+    "region": "Emerald Cup",
+    "category": ["! Placement", "Emerald Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Joypolis 2nd Place",
+    "region": "Emerald Cup",
+    "category": ["! Placement", "Emerald Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Joypolis 3rd Place",
+    "region": "Emerald Cup",
+    "category": ["! Placement", "Emerald Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hill Top 1st Place",
+    "region": "Extra Cup",
+    "category": ["! Placement", "Extra Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hill Top 2nd Place",
+    "region": "Extra Cup",
+    "category": ["! Placement", "Extra Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hill Top 3rd Place",
+    "region": "Extra Cup",
+    "category": ["! Placement", "Extra Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Marble Garden 1st Place",
+    "region": "Extra Cup",
+    "category": ["! Placement", "Extra Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Marble Garden 2nd Place",
+    "region": "Extra Cup",
+    "category": ["! Placement", "Extra Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Marble Garden 3rd Place",
+    "region": "Extra Cup",
+    "category": ["! Placement", "Extra Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Silvercloud Island 1st Place",
+    "region": "Extra Cup",
+    "category": ["! Placement", "Extra Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Silvercloud Island 2nd Place",
+    "region": "Extra Cup",
+    "category": ["! Placement", "Extra Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Silvercloud Island 3rd Place",
+    "region": "Extra Cup",
+    "category": ["! Placement", "Extra Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Sub-Zero Peak 1st Place",
+    "region": "Extra Cup",
+    "category": ["! Placement", "Extra Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Sub-Zero Peak 2nd Place",
+    "region": "Extra Cup",
+    "category": ["! Placement", "Extra Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Sub-Zero Peak 3rd Place",
+    "region": "Extra Cup",
+    "category": ["! Placement", "Extra Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Launch Base 1st Place",
+    "region": "Extra Cup",
+    "category": ["! Placement", "Extra Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Launch Base 2nd Place",
+    "region": "Extra Cup",
+    "category": ["! Placement", "Extra Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Launch Base 3rd Place",
+    "region": "Extra Cup",
+    "category": ["! Placement", "Extra Cup", "S1 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Azure Lake 1st Place",
+    "region": "S.P.B. Cup",
+    "category": ["! Placement", "S.P.B. Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Azure Lake 2nd Place",
+    "region": "S.P.B. Cup",
+    "category": ["! Placement", "S.P.B. Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Azure Lake 3rd Place",
+    "region": "S.P.B. Cup",
+    "category": ["! Placement", "S.P.B. Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Balloon Park 1st Place",
+    "region": "S.P.B. Cup",
+    "category": ["! Placement", "S.P.B. Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Balloon Park 2nd Place",
+    "region": "S.P.B. Cup",
+    "category": ["! Placement", "S.P.B. Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Balloon Park 3rd Place",
+    "region": "S.P.B. Cup",
+    "category": ["! Placement", "S.P.B. Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Chrome Gadget 1st Place",
+    "region": "S.P.B. Cup",
+    "category": ["! Placement", "S.P.B. Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Chrome Gadget 2nd Place",
+    "region": "S.P.B. Cup",
+    "category": ["! Placement", "S.P.B. Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Chrome Gadget 3rd Place",
+    "region": "S.P.B. Cup",
+    "category": ["! Placement", "S.P.B. Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Desert Palace 1st Place",
+    "region": "S.P.B. Cup",
+    "category": ["! Placement", "S.P.B. Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Desert Palace 2nd Place",
+    "region": "S.P.B. Cup",
+    "category": ["! Placement", "S.P.B. Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Desert Palace 3rd Place",
+    "region": "S.P.B. Cup",
+    "category": ["! Placement", "S.P.B. Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Endless Mine 1 1st Place",
+    "region": "S.P.B. Cup",
+    "category": ["! Placement", "S.P.B. Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Endless Mine 1 2nd Place",
+    "region": "S.P.B. Cup",
+    "category": ["! Placement", "S.P.B. Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Endless Mine 1 3rd Place",
+    "region": "S.P.B. Cup",
+    "category": ["! Placement", "S.P.B. Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hard-Boiled Stadium 1st Place",
+    "region": "Rocket Cup",
+    "category": ["! Placement", "Rocket Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hard-Boiled Stadium 2nd Place",
+    "region": "Rocket Cup",
+    "category": ["! Placement", "Rocket Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hard-Boiled Stadium 3rd Place",
+    "region": "Rocket Cup",
+    "category": ["! Placement", "Rocket Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hardhat Havoc 1st Place",
+    "region": "Rocket Cup",
+    "category": ["! Placement", "Rocket Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hardhat Havoc 2nd Place",
+    "region": "Rocket Cup",
+    "category": ["! Placement", "Rocket Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hardhat Havoc 3rd Place",
+    "region": "Rocket Cup",
+    "category": ["! Placement", "Rocket Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Press Garden 1st Place",
+    "region": "Rocket Cup",
+    "category": ["! Placement", "Rocket Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Press Garden 2nd Place",
+    "region": "Rocket Cup",
+    "category": ["! Placement", "Rocket Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Press Garden 3rd Place",
+    "region": "Rocket Cup",
+    "category": ["! Placement", "Rocket Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Pico Park 1st Place",
+    "region": "Rocket Cup",
+    "category": ["! Placement", "Rocket Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Pico Park 2nd Place",
+    "region": "Rocket Cup",
+    "category": ["! Placement", "Rocket Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Pico Park 3rd Place",
+    "region": "Rocket Cup",
+    "category": ["! Placement", "Rocket Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "City Escape 1st Place",
+    "region": "Rocket Cup",
+    "category": ["! Placement", "Rocket Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "City Escape 2nd Place",
+    "region": "Rocket Cup",
+    "category": ["! Placement", "Rocket Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "City Escape 3rd Place",
+    "region": "Rocket Cup",
+    "category": ["! Placement", "Rocket Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Palmtree Panic 1st Place",
+    "region": "Aqua Cup",
+    "category": ["! Placement", "Aqua Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Palmtree Panic 2nd Place",
+    "region": "Aqua Cup",
+    "category": ["! Placement", "Aqua Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Palmtree Panic 3rd Place",
+    "region": "Aqua Cup",
+    "category": ["! Placement", "Aqua Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Darkvile Castle 2 1st Place",
+    "region": "Aqua Cup",
+    "category": ["! Placement", "Aqua Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Darkvile Castle 2 2nd Place",
+    "region": "Aqua Cup",
+    "category": ["! Placement", "Aqua Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Darkvile Castle 2 3rd Place",
+    "region": "Aqua Cup",
+    "category": ["! Placement", "Aqua Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Scarlet Gardens 1st Place",
+    "region": "Aqua Cup",
+    "category": ["! Placement", "Aqua Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Scarlet Gardens 2nd Place",
+    "region": "Aqua Cup",
+    "category": ["! Placement", "Aqua Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Scarlet Gardens 3rd Place",
+    "region": "Aqua Cup",
+    "category": ["! Placement", "Aqua Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Motobug Motorway 1st Place",
+    "region": "Aqua Cup",
+    "category": ["! Placement", "Aqua Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Motobug Motorway 2nd Place",
+    "region": "Aqua Cup",
+    "category": ["! Placement", "Aqua Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Motobug Motorway 3rd Place",
+    "region": "Aqua Cup",
+    "category": ["! Placement", "Aqua Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Star Light 1st Place",
+    "region": "Aqua Cup",
+    "category": ["! Placement", "Aqua Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Star Light 2nd Place",
+    "region": "Aqua Cup",
+    "category": ["! Placement", "Aqua Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Star Light 3rd Place",
+    "region": "Aqua Cup",
+    "category": ["! Placement", "Aqua Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Metropolis 1st Place",
+    "region": "Lightning Cup",
+    "category": ["! Placement", "Lightning Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Metropolis 2nd Place",
+    "region": "Lightning Cup",
+    "category": ["! Placement", "Lightning Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Metropolis 3rd Place",
+    "region": "Lightning Cup",
+    "category": ["! Placement", "Lightning Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Frozen Production 1st Place",
+    "region": "Lightning Cup",
+    "category": ["! Placement", "Lightning Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Frozen Production 2nd Place",
+    "region": "Lightning Cup",
+    "category": ["! Placement", "Lightning Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Frozen Production 3rd Place",
+    "region": "Lightning Cup",
+    "category": ["! Placement", "Lightning Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Aqueduct Crystal 1st Place",
+    "region": "Lightning Cup",
+    "category": ["! Placement", "Lightning Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Aqueduct Crystal 2nd Place",
+    "region": "Lightning Cup",
+    "category": ["! Placement", "Lightning Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Aqueduct Crystal 3rd Place",
+    "region": "Lightning Cup",
+    "category": ["! Placement", "Lightning Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Nova Shore 1st Place",
+    "region": "Lightning Cup",
+    "category": ["! Placement", "Lightning Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Nova Shore 2nd Place",
+    "region": "Lightning Cup",
+    "category": ["! Placement", "Lightning Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Nova Shore 3rd Place",
+    "region": "Lightning Cup",
+    "category": ["! Placement", "Lightning Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hydro City 1st Place",
+    "region": "Lightning Cup",
+    "category": ["! Placement", "Lightning Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hydro City 2nd Place",
+    "region": "Lightning Cup",
+    "category": ["! Placement", "Lightning Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hydro City 3rd Place",
+    "region": "Lightning Cup",
+    "category": ["! Placement", "Lightning Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Trap Tower 1st Place",
+    "region": "Flame Cup",
+    "category": ["! Placement", "Flame Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Trap Tower 2nd Place",
+    "region": "Flame Cup",
+    "category": ["! Placement", "Flame Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Trap Tower 3rd Place",
+    "region": "Flame Cup",
+    "category": ["! Placement", "Flame Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Diamond Dust 1st Place",
+    "region": "Flame Cup",
+    "category": ["! Placement", "Flame Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Diamond Dust 2nd Place",
+    "region": "Flame Cup",
+    "category": ["! Placement", "Flame Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Diamond Dust 3rd Place",
+    "region": "Flame Cup",
+    "category": ["! Placement", "Flame Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Blue Mountain 1 1st Place",
+    "region": "Flame Cup",
+    "category": ["! Placement", "Flame Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Blue Mountain 1 2nd Place",
+    "region": "Flame Cup",
+    "category": ["! Placement", "Flame Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Blue Mountain 1 3rd Place",
+    "region": "Flame Cup",
+    "category": ["! Placement", "Flame Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Blue Mountain 2 1st Place",
+    "region": "Flame Cup",
+    "category": ["! Placement", "Flame Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Blue Mountain 2 2nd Place",
+    "region": "Flame Cup",
+    "category": ["! Placement", "Flame Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Blue Mountain 2 3rd Place",
+    "region": "Flame Cup",
+    "category": ["! Placement", "Flame Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Speed Highway 1st Place",
+    "region": "Flame Cup",
+    "category": ["! Placement", "Flame Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Speed Highway 2nd Place",
+    "region": "Flame Cup",
+    "category": ["! Placement", "Flame Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Speed Highway 3rd Place",
+    "region": "Flame Cup",
+    "category": ["! Placement", "Flame Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Carnival Night 1st Place",
+    "region": "Super Cup",
+    "category": ["! Placement", "Super Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Carnival Night 2nd Place",
+    "region": "Super Cup",
+    "category": ["! Placement", "Super Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Carnival Night 3rd Place",
+    "region": "Super Cup",
+    "category": ["! Placement", "Super Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Virtual Highway 1st Place",
+    "region": "Super Cup",
+    "category": ["! Placement", "Super Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Virtual Highway 2nd Place",
+    "region": "Super Cup",
+    "category": ["! Placement", "Super Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Virtual Highway 3rd Place",
+    "region": "Super Cup",
+    "category": ["! Placement", "Super Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Dark Fortress 1st Place",
+    "region": "Super Cup",
+    "category": ["! Placement", "Super Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Dark Fortress 2nd Place",
+    "region": "Super Cup",
+    "category": ["! Placement", "Super Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Dark Fortress 3rd Place",
+    "region": "Super Cup",
+    "category": ["! Placement", "Super Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Spring Yard 1st Place",
+    "region": "Super Cup",
+    "category": ["! Placement", "Super Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Spring Yard 2nd Place",
+    "region": "Super Cup",
+    "category": ["! Placement", "Super Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Spring Yard 3rd Place",
+    "region": "Super Cup",
+    "category": ["! Placement", "Super Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Labyrinth 1st Place",
+    "region": "Super Cup",
+    "category": ["! Placement", "Super Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Labyrinth 2nd Place",
+    "region": "Super Cup",
+    "category": ["! Placement", "Super Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Labyrinth 3rd Place",
+    "region": "Super Cup",
+    "category": ["! Placement", "Super Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hot Shelter 1st Place",
+    "region": "Egg Cup",
+    "category": ["! Placement", "Egg Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hot Shelter 2nd Place",
+    "region": "Egg Cup",
+    "category": ["! Placement", "Egg Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hot Shelter 3rd Place",
+    "region": "Egg Cup",
+    "category": ["! Placement", "Egg Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Sky Sanctuary 1st Place",
+    "region": "Egg Cup",
+    "category": ["! Placement", "Egg Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Sky Sanctuary 2nd Place",
+    "region": "Egg Cup",
+    "category": ["! Placement", "Egg Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Sky Sanctuary 3rd Place",
+    "region": "Egg Cup",
+    "category": ["! Placement", "Egg Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Lost Colony 1st Place",
+    "region": "Egg Cup",
+    "category": ["! Placement", "Egg Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Lost Colony 2nd Place",
+    "region": "Egg Cup",
+    "category": ["! Placement", "Egg Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Lost Colony 3rd Place",
+    "region": "Egg Cup",
+    "category": ["! Placement", "Egg Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Death Egg 1st Place",
+    "region": "Egg Cup",
+    "category": ["! Placement", "Egg Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Death Egg 2nd Place",
+    "region": "Egg Cup",
+    "category": ["! Placement", "Egg Cup", "S2 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Death Egg 3rd Place",
+    "region": "Egg Cup",
+    "category": ["! Placement", "Egg Cup", "S2 Cups"],
+    "requires": []
+  }
 ]
