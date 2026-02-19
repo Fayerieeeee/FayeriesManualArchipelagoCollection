@@ -1241,5 +1241,635 @@
     "region": "Egg Cup",
     "category": ["! Placement", "Egg Cup", "S2 Cups"],
     "requires": []
+  },
+  {
+    "name": "765 Stadium 1st Place",
+    "region": "Goggles Cup",
+    "category": ["! Placement", "Goggles Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "765 Stadium 2nd Place",
+    "region": "Goggles Cup",
+    "category": ["! Placement", "Goggles Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "765 Stadium 3rd Place",
+    "region": "Goggles Cup",
+    "category": ["! Placement", "Goggles Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Skyscraper Leaps 1st Place",
+    "region": "Goggles Cup",
+    "category": ["! Placement", "Goggles Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Skyscraper Leaps 2nd Place",
+    "region": "Goggles Cup",
+    "category": ["! Placement", "Goggles Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Skyscraper Leaps 3rd Place",
+    "region": "Goggles Cup",
+    "category": ["! Placement", "Goggles Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Green Triangle 1st Place",
+    "region": "Goggles Cup",
+    "category": ["! Placement", "Goggles Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Green Triangle 2nd Place",
+    "region": "Goggles Cup",
+    "category": ["! Placement", "Goggles Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Green Triangle 3rd Place",
+    "region": "Goggles Cup",
+    "category": ["! Placement", "Goggles Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Zoned City 1st Place",
+    "region": "Goggles Cup",
+    "category": ["! Placement", "Goggles Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Zoned City 2nd Place",
+    "region": "Goggles Cup",
+    "category": ["! Placement", "Goggles Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Zoned City 3rd Place",
+    "region": "Goggles Cup",
+    "category": ["! Placement", "Goggles Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Sunset Hill 1st Place",
+    "region": "Goggles Cup",
+    "category": ["! Placement", "Goggles Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Sunset Hill 2nd Place",
+    "region": "Goggles Cup",
+    "category": ["! Placement", "Goggles Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Sunset Hill 3rd Place",
+    "region": "Goggles Cup",
+    "category": ["! Placement", "Goggles Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Savannah Citadel 1st Place",
+    "region": "Timer Cup",
+    "category": ["! Placement", "Timer Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Savannah Citadel 2nd Place",
+    "region": "Timer Cup",
+    "category": ["! Placement", "Timer Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Savannah Citadel 3rd Place",
+    "region": "Timer Cup",
+    "category": ["! Placement", "Timer Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Umbrella Rushwinds 1st Place",
+    "region": "Timer Cup",
+    "category": ["! Placement", "Timer Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Umbrella Rushwinds 2nd Place",
+    "region": "Timer Cup",
+    "category": ["! Placement", "Timer Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Umbrella Rushwinds 3rd Place",
+    "region": "Timer Cup",
+    "category": ["! Placement", "Timer Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Avant Garden 1st Place",
+    "region": "Timer Cup",
+    "category": ["! Placement", "Timer Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Avant Garden 2nd Place",
+    "region": "Timer Cup",
+    "category": ["! Placement", "Timer Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Avant Garden 3rd Place",
+    "region": "Timer Cup",
+    "category": ["! Placement", "Timer Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Bigtime Breakdown 1st Place",
+    "region": "Timer Cup",
+    "category": ["! Placement", "Timer Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Bigtime Breakdown 2nd Place",
+    "region": "Timer Cup",
+    "category": ["! Placement", "Timer Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Bigtime Breakdown 3rd Place",
+    "region": "Timer Cup",
+    "category": ["! Placement", "Timer Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Vantablack Violet 1st Place",
+    "region": "Timer Cup",
+    "category": ["! Placement", "Timer Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Vantablack Violet 2nd Place",
+    "region": "Timer Cup",
+    "category": ["! Placement", "Timer Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Vantablack Violet 3rd Place",
+    "region": "Timer Cup",
+    "category": ["! Placement", "Timer Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Chaos Chute 1st Place",
+    "region": "Grow Cup",
+    "category": ["! Placement", "Grow Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Chaos Chute 2nd Place",
+    "region": "Grow Cup",
+    "category": ["! Placement", "Grow Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Chaos Chute 3rd Place",
+    "region": "Grow Cup",
+    "category": ["! Placement", "Grow Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Dimension Disaster 1st Place",
+    "region": "Grow Cup",
+    "category": ["! Placement", "Grow Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Dimension Disaster 2nd Place",
+    "region": "Grow Cup",
+    "category": ["! Placement", "Grow Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Dimension Disaster 3rd Place",
+    "region": "Grow Cup",
+    "category": ["! Placement", "Grow Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Aurora Atoll 1st Place",
+    "region": "Grow Cup",
+    "category": ["! Placement", "Grow Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Aurora Atoll 2nd Place",
+    "region": "Grow Cup",
+    "category": ["! Placement", "Grow Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Aurora Atoll 3rd Place",
+    "region": "Grow Cup",
+    "category": ["! Placement", "Grow Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Daytona Speedway 1st Place",
+    "region": "Grow Cup",
+    "category": ["! Placement", "Grow Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Daytona Speedway 2nd Place",
+    "region": "Grow Cup",
+    "category": ["! Placement", "Grow Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Daytona Speedway 3rd Place",
+    "region": "Grow Cup",
+    "category": ["! Placement", "Grow Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Turquoise Hill 1st Place",
+    "region": "Grow Cup",
+    "category": ["! Placement", "Grow Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Turquoise Hill 2nd Place",
+    "region": "Grow Cup",
+    "category": ["! Placement", "Grow Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Turquoise Hill 3rd Place",
+    "region": "Grow Cup",
+    "category": ["! Placement", "Grow Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Weiss Waterway 1st Place",
+    "region": "Chao Cup",
+    "category": ["! Placement", "Chao Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Weiss Waterway 2nd Place",
+    "region": "Chao Cup",
+    "category": ["! Placement", "Chao Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Weiss Waterway 3rd Place",
+    "region": "Chao Cup",
+    "category": ["! Placement", "Chao Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Ice Paradise 1st Place",
+    "region": "Chao Cup",
+    "category": ["! Placement", "Chao Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Ice Paradise 2nd Place",
+    "region": "Chao Cup",
+    "category": ["! Placement", "Chao Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Ice Paradise 3rd Place",
+    "region": "Chao Cup",
+    "category": ["! Placement", "Chao Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Sunsplashed Getaway 1st Place",
+    "region": "Chao Cup",
+    "category": ["! Placement", "Chao Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Sunsplashed Getaway 2nd Place",
+    "region": "Chao Cup",
+    "category": ["! Placement", "Chao Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Sunsplashed Getaway 3rd Place",
+    "region": "Chao Cup",
+    "category": ["! Placement", "Chao Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Fae Falls 1st Place",
+    "region": "Chao Cup",
+    "category": ["! Placement", "Chao Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Fae Falls 2nd Place",
+    "region": "Chao Cup",
+    "category": ["! Placement", "Chao Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Fae Falls 3rd Place",
+    "region": "Chao Cup",
+    "category": ["! Placement", "Chao Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Azure Axiom 1st Place",
+    "region": "Chao Cup",
+    "category": ["! Placement", "Chao Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Azure Axiom 2nd Place",
+    "region": "Chao Cup",
+    "category": ["! Placement", "Chao Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Azure Axiom 3rd Place",
+    "region": "Chao Cup",
+    "category": ["! Placement", "Chao Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hanagumi Hall 1st Place",
+    "region": "Wing Cup",
+    "category": ["! Placement", "Wing Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hanagumi Hall 2nd Place",
+    "region": "Wing Cup",
+    "category": ["! Placement", "Wing Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hanagumi Hall 3rd Place",
+    "region": "Wing Cup",
+    "category": ["! Placement", "Wing Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Aerial Highlands 1st Place",
+    "region": "Wing Cup",
+    "category": ["! Placement", "Wing Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Aerial Highlands 2nd Place",
+    "region": "Wing Cup",
+    "category": ["! Placement", "Wing Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Aerial Highlands 3rd Place",
+    "region": "Wing Cup",
+    "category": ["! Placement", "Wing Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Crispy Canyon 1st Place",
+    "region": "Wing Cup",
+    "category": ["! Placement", "Wing Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Crispy Canyon 2nd Place",
+    "region": "Wing Cup",
+    "category": ["! Placement", "Wing Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Crispy Canyon 3rd Place",
+    "region": "Wing Cup",
+    "category": ["! Placement", "Wing Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Technology Tundra 1st Place",
+    "region": "Wing Cup",
+    "category": ["! Placement", "Wing Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Technology Tundra 2nd Place",
+    "region": "Wing Cup",
+    "category": ["! Placement", "Wing Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Technology Tundra 3rd Place",
+    "region": "Wing Cup",
+    "category": ["! Placement", "Wing Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Operator's Overspace 1st Place",
+    "region": "Wing Cup",
+    "category": ["! Placement", "Wing Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Operator's Overspace 2nd Place",
+    "region": "Wing Cup",
+    "category": ["! Placement", "Wing Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Operator's Overspace 3rd Place",
+    "region": "Wing Cup",
+    "category": ["! Placement", "Wing Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Green Hill 1st Place",
+    "region": "Mega Cup",
+    "category": ["! Placement", "Mega Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Green Hill 2nd Place",
+    "region": "Mega Cup",
+    "category": ["! Placement", "Mega Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Green Hill 3rd Place",
+    "region": "Mega Cup",
+    "category": ["! Placement", "Mega Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Bridge 1st Place",
+    "region": "Mega Cup",
+    "category": ["! Placement", "Mega Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Bridge 2nd Place",
+    "region": "Mega Cup",
+    "category": ["! Placement", "Mega Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Bridge 3rd Place",
+    "region": "Mega Cup",
+    "category": ["! Placement", "Mega Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Lava Reef 1st Place",
+    "region": "Mega Cup",
+    "category": ["! Placement", "Mega Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Lava Reef 2nd Place",
+    "region": "Mega Cup",
+    "category": ["! Placement", "Mega Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Lava Reef 3rd Place",
+    "region": "Mega Cup",
+    "category": ["! Placement", "Mega Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Ice Cap 1st Place",
+    "region": "Mega Cup",
+    "category": ["! Placement", "Mega Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Ice Cap 2nd Place",
+    "region": "Mega Cup",
+    "category": ["! Placement", "Mega Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Ice Cap 3rd Place",
+    "region": "Mega Cup",
+    "category": ["! Placement", "Mega Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Scrap Brain 1st Place",
+    "region": "Mega Cup",
+    "category": ["! Placement", "Mega Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Scrap Brain 2nd Place",
+    "region": "Mega Cup",
+    "category": ["! Placement", "Mega Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Scrap Brain 3rd Place",
+    "region": "Mega Cup",
+    "category": ["! Placement", "Mega Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Wavecrash Dimension 1 1st Place",
+    "region": "Phantom Cup",
+    "category": ["! Placement", "Phantom Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Wavecrash Dimension 1 2nd Place",
+    "region": "Phantom Cup",
+    "category": ["! Placement", "Phantom Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Wavecrash Dimension 1 3rd Place",
+    "region": "Phantom Cup",
+    "category": ["! Placement", "Phantom Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Nightfall Dimension 2 1st Place",
+    "region": "Phantom Cup",
+    "category": ["! Placement", "Phantom Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Nightfall Dimension 2 2nd Place",
+    "region": "Phantom Cup",
+    "category": ["! Placement", "Phantom Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Nightfall Dimension 2 3rd Place",
+    "region": "Phantom Cup",
+    "category": ["! Placement", "Phantom Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Voiddance Dimension 3 1st Place",
+    "region": "Phantom Cup",
+    "category": ["! Placement", "Phantom Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Voiddance Dimension 3 2nd Place",
+    "region": "Phantom Cup",
+    "category": ["! Placement", "Phantom Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Voiddance Dimension 3 3rd Place",
+    "region": "Phantom Cup",
+    "category": ["! Placement", "Phantom Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Cloudtop Dimension 4 1st Place",
+    "region": "Phantom Cup",
+    "category": ["! Placement", "Phantom Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Cloudtop Dimension 4 2nd Place",
+    "region": "Phantom Cup",
+    "category": ["! Placement", "Phantom Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Cloudtop Dimension 4 3rd Place",
+    "region": "Phantom Cup",
+    "category": ["! Placement", "Phantom Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Gravtech Dimension 5 1st Place",
+    "region": "Phantom Cup",
+    "category": ["! Placement", "Phantom Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Gravtech Dimension 5 2nd Place",
+    "region": "Phantom Cup",
+    "category": ["! Placement", "Phantom Cup", "S3 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Gravtech Dimension 5 3rd Place",
+    "region": "Phantom Cup",
+    "category": ["! Placement", "Phantom Cup", "S3 Cups"],
+    "requires": []
   }
 ]
