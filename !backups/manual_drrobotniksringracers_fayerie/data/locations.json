@@ -1871,5 +1871,887 @@
     "region": "Phantom Cup",
     "category": ["! Placement", "Phantom Cup", "S3 Cups"],
     "requires": []
+  },
+  {
+    "name": "Espresso Lane 1st Place",
+    "region": "Flash Cup",
+    "category": ["! Placement", "Flash Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Espresso Lane 2nd Place",
+    "region": "Flash Cup",
+    "category": ["! Placement", "Flash Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Espresso Lane 3rd Place",
+    "region": "Flash Cup",
+    "category": ["! Placement", "Flash Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Melty Manor 1st Place",
+    "region": "Flash Cup",
+    "category": ["! Placement", "Flash Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Melty Manor 2nd Place",
+    "region": "Flash Cup",
+    "category": ["! Placement", "Flash Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Melty Manor 3rd Place",
+    "region": "Flash Cup",
+    "category": ["! Placement", "Flash Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Leaf Storm 1st Place",
+    "region": "Flash Cup",
+    "category": ["! Placement", "Flash Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Leaf Storm 2nd Place",
+    "region": "Flash Cup",
+    "category": ["! Placement", "Flash Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Leaf Storm 3rd Place",
+    "region": "Flash Cup",
+    "category": ["! Placement", "Flash Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Lake Margorite 1st Place",
+    "region": "Flash Cup",
+    "category": ["! Placement", "Flash Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Lake Margorite 2nd Place",
+    "region": "Flash Cup",
+    "category": ["! Placement", "Flash Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Lake Margorite 3rd Place",
+    "region": "Flash Cup",
+    "category": ["! Placement", "Flash Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Endless Mine 2 1st Place",
+    "region": "Flash Cup",
+    "category": ["! Placement", "Flash Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Endless Mine 2 2nd Place",
+    "region": "Flash Cup",
+    "category": ["! Placement", "Flash Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Endless Mine 2 3rd Place",
+    "region": "Flash Cup",
+    "category": ["! Placement", "Flash Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Cyan Belltower 1st Place",
+    "region": "Swap Cup",
+    "category": ["! Placement", "Swap Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Cyan Belltower 2nd Place",
+    "region": "Swap Cup",
+    "category": ["! Placement", "Swap Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Cyan Belltower 3rd Place",
+    "region": "Swap Cup",
+    "category": ["! Placement", "Swap Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Quartz Quadrant 1st Place",
+    "region": "Swap Cup",
+    "category": ["! Placement", "Swap Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Quartz Quadrant 2nd Place",
+    "region": "Swap Cup",
+    "category": ["! Placement", "Swap Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Quartz Quadrant 3rd Place",
+    "region": "Swap Cup",
+    "category": ["! Placement", "Swap Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Aqua Tunnel 1st Place",
+    "region": "Swap Cup",
+    "category": ["! Placement", "Swap Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Aqua Tunnel 2nd Place",
+    "region": "Swap Cup",
+    "category": ["! Placement", "Swap Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Aqua Tunnel 3rd Place",
+    "region": "Swap Cup",
+    "category": ["! Placement", "Swap Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Water Palace 1st Place",
+    "region": "Swap Cup",
+    "category": ["! Placement", "Swap Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Water Palace 2nd Place",
+    "region": "Swap Cup",
+    "category": ["! Placement", "Swap Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Water Palace 3rd Place",
+    "region": "Swap Cup",
+    "category": ["! Placement", "Swap Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Final Fall 1st Place",
+    "region": "Swap Cup",
+    "category": ["! Placement", "Swap Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Final Fall 2nd Place",
+    "region": "Swap Cup",
+    "category": ["! Placement", "Swap Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Final Fall 3rd Place",
+    "region": "Swap Cup",
+    "category": ["! Placement", "Swap Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Haunted Ship 1st Place",
+    "region": "Shrink Cup",
+    "category": ["! Placement", "Shrink Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Haunted Ship 2nd Place",
+    "region": "Shrink Cup",
+    "category": ["! Placement", "Shrink Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Haunted Ship 3rd Place",
+    "region": "Shrink Cup",
+    "category": ["! Placement", "Shrink Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Robotnik Winter 1st Place",
+    "region": "Shrink Cup",
+    "category": ["! Placement", "Shrink Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Robotnik Winter 2nd Place",
+    "region": "Shrink Cup",
+    "category": ["! Placement", "Shrink Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Robotnik Winter 3rd Place",
+    "region": "Shrink Cup",
+    "category": ["! Placement", "Shrink Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Dragonspire Sewer 1 1st Place",
+    "region": "Shrink Cup",
+    "category": ["! Placement", "Shrink Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Dragonspire Sewer 1 2nd Place",
+    "region": "Shrink Cup",
+    "category": ["! Placement", "Shrink Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Dragonspire Sewer 1 3rd Place",
+    "region": "Shrink Cup",
+    "category": ["! Placement", "Shrink Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Abyss Garden 1st Place",
+    "region": "Shrink Cup",
+    "category": ["! Placement", "Shrink Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Abyss Garden 2nd Place",
+    "region": "Shrink Cup",
+    "category": ["! Placement", "Shrink Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Abyss Garden 3rd Place",
+    "region": "Shrink Cup",
+    "category": ["! Placement", "Shrink Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Blizzard Peaks 1st Place",
+    "region": "Shrink Cup",
+    "category": ["! Placement", "Shrink Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Blizzard Peaks 2nd Place",
+    "region": "Shrink Cup",
+    "category": ["! Placement", "Shrink Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Blizzard Peaks 3rd Place",
+    "region": "Shrink Cup",
+    "category": ["! Placement", "Shrink Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Vermilion Vessel 1st Place",
+    "region": "Bomb Cup",
+    "category": ["! Placement", "Bomb Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Vermilion Vessel 2nd Place",
+    "region": "Bomb Cup",
+    "category": ["! Placement", "Bomb Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Vermilion Vessel 3rd Place",
+    "region": "Bomb Cup",
+    "category": ["! Placement", "Bomb Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Dragonspire Sewer 2 1st Place",
+    "region": "Bomb Cup",
+    "category": ["! Placement", "Bomb Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Dragonspire Sewer 2 2nd Place",
+    "region": "Bomb Cup",
+    "category": ["! Placement", "Bomb Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Dragonspire Sewer 2 3rd Place",
+    "region": "Bomb Cup",
+    "category": ["! Placement", "Bomb Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Chemical Facility 1st Place",
+    "region": "Bomb Cup",
+    "category": ["! Placement", "Bomb Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Chemical Facility 2nd Place",
+    "region": "Bomb Cup",
+    "category": ["! Placement", "Bomb Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Chemical Facility 3rd Place",
+    "region": "Bomb Cup",
+    "category": ["! Placement", "Bomb Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Coastal Temple 1st Place",
+    "region": "Bomb Cup",
+    "category": ["! Placement", "Bomb Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Coastal Temple 2nd Place",
+    "region": "Bomb Cup",
+    "category": ["! Placement", "Bomb Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Coastal Temple 3rd Place",
+    "region": "Bomb Cup",
+    "category": ["! Placement", "Bomb Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Monkey Mall 1st Place",
+    "region": "Bomb Cup",
+    "category": ["! Placement", "Bomb Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Monkey Mall 2nd Place",
+    "region": "Bomb Cup",
+    "category": ["! Placement", "Bomb Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Monkey Mall 3rd Place",
+    "region": "Bomb Cup",
+    "category": ["! Placement", "Bomb Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Ramp Park 1st Place",
+    "region": "Power Cup",
+    "category": ["! Placement", "Power Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Ramp Park 2nd Place",
+    "region": "Power Cup",
+    "category": ["! Placement", "Power Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Ramp Park 3rd Place",
+    "region": "Power Cup",
+    "category": ["! Placement", "Power Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Advent Angel 1st Place",
+    "region": "Power Cup",
+    "category": ["! Placement", "Power Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Advent Angel 2nd Place",
+    "region": "Power Cup",
+    "category": ["! Placement", "Power Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Advent Angel 3rd Place",
+    "region": "Power Cup",
+    "category": ["! Placement", "Power Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Pestilence 1st Place",
+    "region": "Power Cup",
+    "category": ["! Placement", "Power Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Pestilence 2nd Place",
+    "region": "Power Cup",
+    "category": ["! Placement", "Power Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Pestilence 3rd Place",
+    "region": "Power Cup",
+    "category": ["! Placement", "Power Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Crimson Core 1st Place",
+    "region": "Power Cup",
+    "category": ["! Placement", "Power Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Crimson Core 2nd Place",
+    "region": "Power Cup",
+    "category": ["! Placement", "Power Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Crimson Core 3rd Place",
+    "region": "Power Cup",
+    "category": ["! Placement", "Power Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Las Vegas 1st Place",
+    "region": "Power Cup",
+    "category": ["! Placement", "Power Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Las Vegas 2nd Place",
+    "region": "Power Cup",
+    "category": ["! Placement", "Power Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Las Vegas 3rd Place",
+    "region": "Power Cup",
+    "category": ["! Placement", "Power Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Collision Chaos 1st Place",
+    "region": "Genesis Cup",
+    "category": ["! Placement", "Genesis Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Collision Chaos 2nd Place",
+    "region": "Genesis Cup",
+    "category": ["! Placement", "Genesis Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Collision Chaos 3rd Place",
+    "region": "Genesis Cup",
+    "category": ["! Placement", "Genesis Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Star Light 1st Place",
+    "region": "Genesis Cup",
+    "category": ["! Placement", "Genesis Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Star Light 2nd Place",
+    "region": "Genesis Cup",
+    "category": ["! Placement", "Genesis Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Star Light 3rd Place",
+    "region": "Genesis Cup",
+    "category": ["! Placement", "Genesis Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Sandopolis 1st Place",
+    "region": "Genesis Cup",
+    "category": ["! Placement", "Genesis Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Sandopolis 2nd Place",
+    "region": "Genesis Cup",
+    "category": ["! Placement", "Genesis Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Sandopolis 3rd Place",
+    "region": "Genesis Cup",
+    "category": ["! Placement", "Genesis Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Aqua Lake 1st Place",
+    "region": "Genesis Cup",
+    "category": ["! Placement", "Genesis Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Aqua Lake 2nd Place",
+    "region": "Genesis Cup",
+    "category": ["! Placement", "Genesis Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Aqua Lake 3rd Place",
+    "region": "Genesis Cup",
+    "category": ["! Placement", "Genesis Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Flying Battery 1st Place",
+    "region": "Genesis Cup",
+    "category": ["! Placement", "Genesis Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Flying Battery 2nd Place",
+    "region": "Genesis Cup",
+    "category": ["! Placement", "Genesis Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Mega Flying Battery 3rd Place",
+    "region": "Genesis Cup",
+    "category": ["! Placement", "Genesis Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Sky Babylon 1st Place",
+    "region": "Skate Cup",
+    "category": ["! Placement", "Skate Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Sky Babylon 2nd Place",
+    "region": "Skate Cup",
+    "category": ["! Placement", "Skate Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Sky Babylon 3rd Place",
+    "region": "Skate Cup",
+    "category": ["! Placement", "Skate Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Kodachrome Void 1st Place",
+    "region": "Skate Cup",
+    "category": ["! Placement", "Skate Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Kodachrome Void 2nd Place",
+    "region": "Skate Cup",
+    "category": ["! Placement", "Skate Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Kodachrome Void 3rd Place",
+    "region": "Skate Cup",
+    "category": ["! Placement", "Skate Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Lavender Shrine 1st Place",
+    "region": "Skate Cup",
+    "category": ["! Placement", "Skate Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Lavender Shrine 2nd Place",
+    "region": "Skate Cup",
+    "category": ["! Placement", "Skate Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Lavender Shrine 3rd Place",
+    "region": "Skate Cup",
+    "category": ["! Placement", "Skate Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hot Crater 1st Place",
+    "region": "Skate Cup",
+    "category": ["! Placement", "Skate Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hot Crater 2nd Place",
+    "region": "Skate Cup",
+    "category": ["! Placement", "Skate Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hot Crater 3rd Place",
+    "region": "Skate Cup",
+    "category": ["! Placement", "Skate Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Thunder Piston 1st Place",
+    "region": "Skate Cup",
+    "category": ["! Placement", "Skate Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Thunder Piston 2nd Place",
+    "region": "Skate Cup",
+    "category": ["! Placement", "Skate Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Thunder Piston 3rd Place",
+    "region": "Skate Cup",
+    "category": ["! Placement", "Skate Cup", "S4 Cups"],
+    "requires": []
+  },
+  {
+    "name": "SRB2 Frozen Night 1st Place",
+    "region": "Recycle Cup (A)",
+    "category": ["! Placement", "Recycle Cup (A)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "SRB2 Frozen Night 2nd Place",
+    "region": "Recycle Cup (A)",
+    "category": ["! Placement", "Recycle Cup (A)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "SRB2 Frozen Night 3rd Place",
+    "region": "Recycle Cup (A)",
+    "category": ["! Placement", "Recycle Cup (A)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Barren Badlands 1st Place",
+    "region": "Recycle Cup (A)",
+    "category": ["! Placement", "Recycle Cup (A)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Barren Badlands 2nd Place",
+    "region": "Recycle Cup (A)",
+    "category": ["! Placement", "Recycle Cup (A)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Barren Badlands 3rd Place",
+    "region": "Recycle Cup (A)",
+    "category": ["! Placement", "Recycle Cup (A)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Shuffle Square 1st Place",
+    "region": "Recycle Cup (A)",
+    "category": ["! Placement", "Recycle Cup (A)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Shuffle Square 2nd Place",
+    "region": "Recycle Cup (A)",
+    "category": ["! Placement", "Recycle Cup (A)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Shuffle Square 3rd Place",
+    "region": "Recycle Cup (A)",
+    "category": ["! Placement", "Recycle Cup (A)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Blue Mountain Classic 1st Place",
+    "region": "Recycle Cup (A)",
+    "category": ["! Placement", "Recycle Cup (A)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Blue Mountain Classic 2nd Place",
+    "region": "Recycle Cup (A)",
+    "category": ["! Placement", "Recycle Cup (A)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Blue Mountain Classic 3rd Place",
+    "region": "Recycle Cup (A)",
+    "category": ["! Placement", "Recycle Cup (A)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Angel Arrow Classic 1st Place",
+    "region": "Recycle Cup (A)",
+    "category": ["! Placement", "Recycle Cup (A)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Angel Arrow Classic 2nd Place",
+    "region": "Recycle Cup (A)",
+    "category": ["! Placement", "Recycle Cup (A)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Angel Arrow Classic 3rd Place",
+    "region": "Recycle Cup (A)",
+    "category": ["! Placement", "Recycle Cup (A)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Cadillac Canyon Classic 1st Place",
+    "region": "Recycle Cup (B)",
+    "category": ["! Placement", "Recycle Cup (B)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Cadillac Canyon Classic 2nd Place",
+    "region": "Recycle Cup (B)",
+    "category": ["! Placement", "Recycle Cup (B)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Cadillac Canyon Classic 3rd Place",
+    "region": "Recycle Cup (B)",
+    "category": ["! Placement", "Recycle Cup (B)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Diamond Dust Classic 1st Place",
+    "region": "Recycle Cup (B)",
+    "category": ["! Placement", "Recycle Cup (B)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Diamond Dust Classic 2nd Place",
+    "region": "Recycle Cup (B)",
+    "category": ["! Placement", "Recycle Cup (B)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Diamond Dust Classic 3rd Place",
+    "region": "Recycle Cup (B)",
+    "category": ["! Placement", "Recycle Cup (B)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Blizzard Peaks Classic 1st Place",
+    "region": "Recycle Cup (B)",
+    "category": ["! Placement", "Recycle Cup (B)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Blizzard Peaks Classic 2nd Place",
+    "region": "Recycle Cup (B)",
+    "category": ["! Placement", "Recycle Cup (B)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Blizzard Peaks Classic 3rd Place",
+    "region": "Recycle Cup (B)",
+    "category": ["! Placement", "Recycle Cup (B)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Launch Base Classic 1st Place",
+    "region": "Recycle Cup (B)",
+    "category": ["! Placement", "Recycle Cup (B)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Launch Base Classic 2nd Place",
+    "region": "Recycle Cup (B)",
+    "category": ["! Placement", "Recycle Cup (B)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Launch Base Classic 3rd Place",
+    "region": "Recycle Cup (B)",
+    "category": ["! Placement", "Recycle Cup (B)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Lavender Shrine Classic 1st Place",
+    "region": "Recycle Cup (B)",
+    "category": ["! Placement", "Recycle Cup (B)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Lavender Shrine Classic 2nd Place",
+    "region": "Recycle Cup (B)",
+    "category": ["! Placement", "Recycle Cup (B)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Lavender Shrine Classic 3rd Place",
+    "region": "Recycle Cup (B)",
+    "category": ["! Placement", "Recycle Cup (B)", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Test Run 1st Place",
+    "region": "Lost & Found Cup",
+    "category": ["! Placement", "Lost & Found Cup", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Test Run 2nd Place",
+    "region": "Lost & Found Cup",
+    "category": ["! Placement", "Lost & Found Cup", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Test Run 3rd Place",
+    "region": "Lost & Found Cup",
+    "category": ["! Placement", "Lost & Found Cup", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Test Track 1st Place",
+    "region": "Lost & Found Cup",
+    "category": ["! Placement", "Lost & Found Cup", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Test Track 2nd Place",
+    "region": "Lost & Found Cup",
+    "category": ["! Placement", "Lost & Found Cup", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Test Track 3rd Place",
+    "region": "Lost & Found Cup",
+    "category": ["! Placement", "Lost & Found Cup", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hidden Palace 1st Place",
+    "region": "Lost & Found Cup",
+    "category": ["! Placement", "Lost & Found Cup", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hidden Palace 2nd Place",
+    "region": "Lost & Found Cup",
+    "category": ["! Placement", "Lost & Found Cup", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Hidden Palace 3rd Place",
+    "region": "Lost & Found Cup",
+    "category": ["! Placement", "Lost & Found Cup", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Route 1980 1st Place",
+    "region": "Lost & Found Cup",
+    "category": ["! Placement", "Lost & Found Cup", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Route 1980 2nd Place",
+    "region": "Lost & Found Cup",
+    "category": ["! Placement", "Lost & Found Cup", "S5 Cups"],
+    "requires": []
+  },
+  {
+    "name": "Route 1980 3rd Place",
+    "region": "Lost & Found Cup",
+    "category": ["! Placement", "Lost & Found Cup", "S5 Cups"],
+    "requires": []
   }
 ]

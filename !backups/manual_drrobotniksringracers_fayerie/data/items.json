@@ -679,6 +679,12 @@
   },
   {
     "count": 0,
+    "name": "Phantom Ruby Trap",
+    "category": ["Mechanics", "Traps"],
+    "trap": true
+  },
+  {
+    "count": 0,
     "name": "Paper Item Trap",
     "category": ["Mechanics", "Traps", "Char Traps"],
     "trap": true
