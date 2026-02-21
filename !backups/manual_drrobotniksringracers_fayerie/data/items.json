@@ -2399,7 +2399,7 @@
     "name": ".lua Class",
     "category": [
       "Classes",
-      ".lua Chars"
+      "lua Chars"
     ],
     "useful": true
   },

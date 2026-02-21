@@ -8,20 +8,6 @@
             "aliases": {"easiest": 0},
             "hidden": false
         },
-        "blend_eye_difficulty":{
-            "display_name": "Blend Eye Difficulty",
-            "description": [
-                "Which varient of the Blend Eye boss would you like to fight?",
-                "Note: This option doesn't affect anything in-game, it solely exists for host/manual client usage"
-            ],
-            "type": "Choice",
-            "values": {
-                "normal":0,
-                "hard":1
-             },
-            "default": 0,
-            "allow_custom_value": false
-        },
         "death_link": {
             "default": false
         },
@@ -77,6 +63,20 @@
             "type": "Toggle",
             "default": false,
             "group": "Cups"
+        },
+        "blend_eye_difficulty":{
+            "display_name": "Blend Eye Difficulty",
+            "description": [
+                "Which varient of the Blend Eye boss would you like to fight?",
+                "Note: This option doesn't affect anything in-game, it solely exists for host/manual client usage"
+            ],
+            "type": "Choice",
+            "values": {
+                "normal":0,
+                "hard":1
+             },
+            "default": 0,
+            "allow_custom_value": false
         },
         "random_item_start":{
             "display_name": "Random Item",
