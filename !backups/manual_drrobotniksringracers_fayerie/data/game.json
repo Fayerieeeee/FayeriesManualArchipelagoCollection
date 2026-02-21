@@ -2,25 +2,36 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
   "game": "DrRobotniksRingRacers",
   "creator": "Fayerie",
+  "deathlink": true,
   "filler_item_name": "Nothing",
-  "death_link": true,
   "starting_items": [
     {
-      "item_categories": ["Item Unlocks"],
+      "item_categories": [
+        "Item Unlocks"
+      ],
       "random": 1,
       "yaml_option": "starting_item"
     },
     {
-      "item_categories": ["Cups"],
+      "item_categories": [
+        "Cups"
+      ],
       "random": 1
     },
     {
-      "item_categories": ["Chars", "Classes"],
+      "item_categories": [
+        "Chars",
+        "Classes"
+      ],
       "random": 1
     },
     {
-      "item_categories": ["Melee"],
-      "yaml_option": ["starting_insta_whip"]
+      "item_categories": [
+        "Melee"
+      ],
+      "yaml_option": [
+        "starting_insta_whip"
+      ]
     }
   ]
 }
