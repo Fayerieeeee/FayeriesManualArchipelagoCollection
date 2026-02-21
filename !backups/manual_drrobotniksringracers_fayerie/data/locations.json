@@ -4598,7 +4598,7 @@
       "Ring Cup",
       "S1 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|Gachaboms:2| OR |Progressive Gachaboms:3|)"
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
   },
   {
     "name": "CD Special Stage 1 Clear",
