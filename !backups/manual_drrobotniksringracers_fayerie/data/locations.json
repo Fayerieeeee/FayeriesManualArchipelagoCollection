@@ -2753,5 +2753,463 @@
     "region": "Lost & Found Cup",
     "category": ["! Placement", "Lost & Found Cup", "S5 Cups"],
     "requires": []
+  },
+  {
+    "name": "Municipal Meadow Clear",
+    "region": "Ring Cup",
+    "category": ["! Prisons", "Ring Cup", "S1 Cups"],
+    "requires": "|Insta-Whip| AND (|Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "CD Special Stage 1 Clear",
+    "region": "Ring Cup",
+    "category": ["! Prisons", "Ring Cup", "S1 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Tinkerer's Arena Clear",
+    "region": "Sneaker Cup",
+    "category": ["! Prisons", "Sneaker Cup", "S1 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Tricircle Marina Clear",
+    "region": "Sneaker Cup",
+    "category": ["! Prisons", "Sneaker Cup", "S1 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Mystery Gate Clear",
+    "region": "Spring Cup",
+    "category": ["! Prisons", "Spring Cup", "S1 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Rusty Rig Clear",
+    "region": "Spring Cup",
+    "category": ["! Prisons", "Spring Cup", "S1 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Marble Foyer Clear",
+    "region": "Barrier Cup",
+    "category": ["! Prisons", "Barrier Cup", "S1 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Rock World Clear",
+    "region": "Barrier Cup",
+    "category": ["! Prisons", "Barrier Cup", "S1 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "World 1 Map Clear",
+    "region": "Invincible Cup",
+    "category": ["! Prisons", "Invincible Cup", "S1 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "CD Special Stage 8 Clear",
+    "region": "Invincible Cup",
+    "category": ["! Prisons", "Invincible Cup", "S1 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Sega Saturn Clear",
+    "region": "Emerald Cup",
+    "category": ["! Prisons", "Emerald Cup", "S1 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Electra Clacker Clear",
+    "region": "Emerald Cup",
+    "category": ["! Prisons", "Emerald Cup", "S1 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Thunder Top Clear",
+    "region": "Extra Cup",
+    "category": ["! Prisons", "Extra Cup", "S1 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Tree Ring Clear",
+    "region": "Extra Cup",
+    "category": ["! Prisons", "Extra Cup", "S1 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Frigid Cove Clear",
+    "region": "S.P.B. Cup",
+    "category": ["! Prisons", "S.P.B. Cup", "S2 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Gizmo Bastion Clear",
+    "region": "S.P.B. Cup",
+    "category": ["! Prisons", "S.P.B. Cup", "S2 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Carbon Crucible Clear",
+    "region": "Rocket Cup",
+    "category": ["! Prisons", "Rocket Cup", "S2 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Security Hall Clear",
+    "region": "Rocket Cup",
+    "category": ["! Prisons", "Rocket Cup", "S2 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Gems Museum Clear",
+    "region": "Aqua Cup",
+    "category": ["! Prisons", "Aqua Cup", "S2 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Media Studio Clear",
+    "region": "Aqua Cup",
+    "category": ["! Prisons", "Aqua Cup", "S2 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Honeycomb Hollow Clear",
+    "region": "Lightning Cup",
+    "category": ["! Prisons", "Lightning Cup", "S2 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Wood Clear",
+    "region": "Lightning Cup",
+    "category": ["! Prisons", "Lightning Cup", "S2 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Brawl Fort Clear",
+    "region": "Flame Cup",
+    "category": ["! Prisons", "Flame Cup", "S2 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Crystal Island Clear",
+    "region": "Flame Cup",
+    "category": ["! Prisons", "Flame Cup", "S2 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Cyber Arena Clear",
+    "region": "Super Cup",
+    "category": ["! Prisons", "Super Cup", "S2 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Neon Resort Clear",
+    "region": "Super Cup",
+    "category": ["! Prisons", "Super Cup", "S2 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Meteor Herd Clear",
+    "region": "Egg Cup",
+    "category": ["! Prisons", "Egg Cup", "S2 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Death Egg's Eye Clear",
+    "region": "Egg Cup",
+    "category": ["! Prisons", "Egg Cup", "S2 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Tails' Lab Clear",
+    "region": "Goggles Cup",
+    "category": ["! Prisons", "Goggles Cup", "S3 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Power Plant Clear",
+    "region": "Goggles Cup",
+    "category": ["! Prisons", "Goggles Cup", "S3 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "City Skyline Clear",
+    "region": "Timer Cup",
+    "category": ["! Prisons", "Timer Cup", "S3 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Vantablack Atrium Clear",
+    "region": "Timer Cup",
+    "category": ["! Prisons", "Timer Cup", "S3 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Dead Simple Clear",
+    "region": "Grow Cup",
+    "category": ["! Prisons", "Grow Cup", "S3 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Martian Matrix Clear",
+    "region": "Grow Cup",
+    "category": ["! Prisons", "Grow Cup", "S3 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Dark Chao Garden Clear",
+    "region": "Chao Cup",
+    "category": ["! Prisons", "Chao Cup", "S3 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Hero Chao Garden Clear",
+    "region": "Chao Cup",
+    "category": ["! Prisons", "Chao Cup", "S3 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Whirl Waters Clear",
+    "region": "Wing Cup",
+    "category": ["! Prisons", "Wing Cup", "S3 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Deluged Metroplex Clear",
+    "region": "Wing Cup",
+    "category": ["! Prisons", "Wing Cup", "S3 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Mega Emerald Beach Clear",
+    "region": "Mega Cup",
+    "category": ["! Prisons", "Mega Cup", "S3 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Mega Labyrinth Clear",
+    "region": "Mega Cup",
+    "category": ["! Prisons", "Mega Cup", "S3 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Fungal Dimension Clear",
+    "region": "Phantom Cup",
+    "category": ["! Prisons", "Phantom Cup", "S3 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Astral Dimension Clear",
+    "region": "Phantom Cup",
+    "category": ["! Prisons", "Phantom Cup", "S3 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Chaos Seraph Clear",
+    "region": "Flash Cup",
+    "category": ["! Prisons", "Flash Cup", "S4 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Toy Kingdom Clear",
+    "region": "Flash Cup",
+    "category": ["! Prisons", "Flash Cup", "S4 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Aquatic Cathedral 1 Clear",
+    "region": "Swap Cup",
+    "category": ["! Prisons", "Swap Cup", "S4 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Aquatic Cathedral 2 Clear",
+    "region": "Swap Cup",
+    "category": ["! Prisons", "Swap Cup", "S4 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Frosty Courtyard Clear",
+    "region": "Shrink Cup",
+    "category": ["! Prisons", "Shrink Cup", "S4 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Abyss Gate Clear",
+    "region": "Shrink Cup",
+    "category": ["! Prisons", "Shrink Cup", "S4 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Sonic's Schoolhouse Clear",
+    "region": "Bomb Cup",
+    "category": ["! Prisons", "Bomb Cup", "S4 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Record Attack Clear",
+    "region": "Bomb Cup",
+    "category": ["! Prisons", "Bomb Cup", "S4 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Peanut Palace Clear",
+    "region": "Power Cup",
+    "category": ["! Prisons", "Power Cup", "S4 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Hydro Plant Clear",
+    "region": "Power Cup",
+    "category": ["! Prisons", "Power Cup", "S4 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Mega Metropolis Clear",
+    "region": "Genesis Cup",
+    "category": ["! Prisons", "Genesis Cup", "S4 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Mega Marble Clear",
+    "region": "Genesis Cup",
+    "category": ["! Prisons", "Genesis Cup", "S4 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Thunder Lab Clear",
+    "region": "Skate Cup",
+    "category": ["! Prisons", "Skate Cup", "S4 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Malign Eggshrine Clear",
+    "region": "Skate Cup",
+    "category": ["! Prisons", "Skate Cup", "S4 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "SRB2 Meadow Match Clear",
+    "region": "Recycle Cup (A)",
+    "category": ["! Prisons", "Recycle Cup (A)", "S5 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Armored Armadillo Clear",
+    "region": "Recycle Cup (A)",
+    "category": ["! Prisons", "Recycle Cup (A)", "S5 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Clucky Farms Clear",
+    "region": "Recycle Cup (B)",
+    "category": ["! Prisons", "Recycle Cup (B)", "S5 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Dried Battledune Clear",
+    "region": "Recycle Cup (B)",
+    "category": ["! Prisons", "Recycle Cup (B)", "S5 Cups"],
+    "requires": "|Insta-Whip| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
+  },
+  {
+    "name": "Balconies Clear",
+    "region": "Special Stage",
+    "category": ["! UFO Catcher"],
+    "requires": "|@Special Stage Keys:1|"
+  },
+  {
+    "name": "Church Clear",
+    "region": "Special Stage",
+    "category": ["! UFO Catcher"],
+    "requires": "|@Special Stage Keys:2|"
+  },
+  {
+    "name": "Courtyard Clear",
+    "region": "Special Stage",
+    "category": ["! UFO Catcher"],
+    "requires": "|@Special Stage Keys:3|"
+  },
+  {
+    "name": "Villa Clear",
+    "region": "Special Stage",
+    "category": ["! UFO Catcher"],
+    "requires": "|@Special Stage Keys:4|"
+  },
+  {
+    "name": "Venice Clear",
+    "region": "Special Stage",
+    "category": ["! UFO Catcher"],
+    "requires": "|@Special Stage Keys:5|"
+  },
+  {
+    "name": "Spikes Clear",
+    "region": "Special Stage",
+    "category": ["! UFO Catcher"],
+    "requires": "|@Special Stage Keys:6|"
+  },
+  {
+    "name": "Fountain Clear",
+    "region": "Special Stage",
+    "category": ["! UFO Catcher"],
+    "requires": "|@Special Stage Keys:7|"
+  },
+  {
+    "name": "Gallery Clear",
+    "region": "Special Stage",
+    "category": ["! UFO Catcher"],
+    "requires": "|@Special Stage Keys:8|"
+  },
+  {
+    "name": "Alley Clear",
+    "region": "Special Stage",
+    "category": ["! UFO Catcher"],
+    "requires": "|@Special Stage Keys:9|"
+  },
+  {
+    "name": "Steeple Clear",
+    "region": "Special Stage",
+    "category": ["! UFO Catcher"],
+    "requires": "|@Special Stage Keys:10|"
+  },
+  {
+    "name": "Rooftops Clear",
+    "region": "Special Stage",
+    "category": ["! UFO Catcher"],
+    "requires": "|@Special Stage Keys:11|"
+  },
+  {
+    "name": "Roulette Clear",
+    "region": "Special Stage",
+    "category": ["! UFO Catcher"],
+    "requires": "|@Special Stage Keys:12|"
+  },
+  {
+    "name": "Towers Clear",
+    "region": "Special Stage",
+    "category": ["! UFO Catcher"],
+    "requires": "|@Special Stage Keys:13|"
+  },
+  {
+    "name": "Atlantis Clear",
+    "region": "Special Stage",
+    "category": ["! UFO Catcher"],
+    "requires": "|@Special Stage Keys:14|"
+  },
+  {
+    "name": "Blend Eye Defeated",
+    "region": "Blend Eye",
+    "category": ["!! GOAL"],
+    "requires": [],
+    "victory": true
+  },
+  {
+    "name": "Mean Blend Eye Defeated",
+    "region": "Mean Blend Eye",
+    "category": ["!! GOAL"],
+    "requires": [],
+    "victory": true
   }
 ]

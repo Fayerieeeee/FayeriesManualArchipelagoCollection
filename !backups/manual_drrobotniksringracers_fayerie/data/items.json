@@ -187,6 +187,18 @@
   },
   {
     "count": 7,
+    "name": "UFO Catcher Key (A)",
+    "category": ["Special Stage Keys"],
+    "progression": true
+  },
+  {
+    "count": 7,
+    "name": "UFO Catcher Key (B)",
+    "category": ["Special Stage Keys", "SS Extra Keys"],
+    "progression": true
+  },
+  {
+    "count": 7,
     "name": "Chaos Emerald",
     "category": ["Emeralds"],
     "progression": true
@@ -266,7 +278,7 @@
   {
     "count": 3,
     "name": "Progressive Gachaboms",
-    "category": ["Item Unlocks", "Progressive Items", "Gachaboms"],
+    "category": ["Item Unlocks", "Progressive Items"],
     "progression": true
   },
   {

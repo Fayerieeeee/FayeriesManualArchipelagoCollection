@@ -19,6 +19,10 @@
         "hidden": true,
         "yaml_option": ["extra_cups"]
     },
+    "SS Extra Keys":{
+        "hidden": true,
+        "yaml_option": ["extra_special_stage_keys"]
+    },
     "Super Emeralds":{
         "hidden": true,
         "yaml_option": ["super_emeralds"]

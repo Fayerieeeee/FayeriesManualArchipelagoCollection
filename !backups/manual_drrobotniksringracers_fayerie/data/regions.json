@@ -123,12 +123,16 @@
     "connects_to": [],
     "requires": "|Lost & Found Cup|"
   },
+  "Special Stage":{
+    "connects_to": [],
+    "requires": ""
+  },
   "Blend Eye":{
     "connects_to": [],
-    "requires": "|@Emeralds:7| AND |@Melee| AND |@Gachaboms:1|"
+    "requires": "|@Emeralds:7| AND |@Melee| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
   },
   "Mean Blend Eye":{
     "connects_to": [],
-    "requires": "|@Emeralds:14| AND |@Melee| AND |@Gachaboms:1|"
+    "requires": "|@Emeralds:14| AND |@Melee| AND (|@Gachaboms:2| OR |Progressive Gachaboms:3|)"
   }
 }
