@@ -891,6 +891,14 @@
   },
   {
     "count": 10,
+    "name": "Rhythm Badge",
+    "category": [
+      "Battlemode Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 10,
     "name": "Bonus Points",
     "category": [
       "Battlemode Items",
