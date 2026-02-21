@@ -28,8 +28,8 @@
       "random": 1
     },
     {
-      "item": [
-        "Insta-Whip"
+      "item_categories": [
+        "Melee"
       ],
       "yaml_option": [
         "starting_insta_whip"

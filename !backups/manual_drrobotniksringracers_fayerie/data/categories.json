@@ -50,7 +50,7 @@
   "Solo Items": {
     "hidden": true,
     "yaml_option": [
-      "non-progressive_items"
+      "nonprogressive_items"
     ]
   },
   "Progressive Items": {
@@ -100,10 +100,10 @@
       "class_bundles"
     ]
   },
-  ".lua Chars": {
+  "lua Chars": {
     "hidden": true,
     "yaml_option": [
-      ".lua_chars"
+      "lua_chars"
     ]
   },
   "Followers": {

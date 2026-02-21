@@ -69,7 +69,7 @@
             "default": true,
             "group": "Cups"
         },
-        "section_5_cups":{
+        "extra_cups":{
             "display_name": "Section 5 Cups",
             "description":[
                 "Enable the section 5 cups? Recycle Cups, Lost & Found (46 Locations)"
@@ -106,7 +106,7 @@
             "default": false,
             "group": "Items"
         },
-        "non-progressive_items":{
+        "nonprogressive_items":{
             "display_name": "Non-Progressive Items",
             "description":[
                 "Use the non-progressive varient of items?",
@@ -209,7 +209,7 @@
             "default": false,
             "group": "Characters"
         },
-        ".lua_chars":{
+        "lua_chars":{
             "display_name": ".lua Characters",
             "description":[
                 "Add game defying characters as an optional item? You'll need to obtain the class item that lua character resides in however",
