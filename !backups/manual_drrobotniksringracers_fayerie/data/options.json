@@ -3,19 +3,29 @@
     "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
     "core": {
         "goal":{
-            "_comment": [
-                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
-            ],
-            "display_name": "The End Objective",
+            "display_name": "Blend Eye Emerald Cost",
             "description": "How many Emeralds are required for your goal?",
             "aliases": {"easiest": 0},
             "hidden": false
+        },
+        "blend_eye_difficulty":{
+            "display_name": "Blend Eye Difficulty",
+            "description": [
+                "Which varient of the Blend Eye boss would you like to fight?",
+                "Note: This option doesn't affect anything in-game, it solely exists for host/manual client usage"
+            ],
+            "type": "Choice",
+            "values": {
+                "normal":0,
+                "hard":1
+             },
+            "default": 0,
+            "allow_custom_value": false
         },
         "death_link": {
             "default": false
         },
         "filler_traps": {
-            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
             "values": {
                 "recommended": 5,
                 "default": 20
@@ -23,14 +33,218 @@
         }
     },
     "user": {
-        "Example_Toggle":{
-            "description": [
-                "This is a Toggle",
-                "A simple boolean, aka True or False set the initial value with \"default\""
+        "section_1_cups":{
+            "display_name": "Section 1 Cups",
+            "description":[
+                "Enable the section 1 cups? Ring Cup-Extra Cup (119 Locations)"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Cups"
+        },
+        "section_2_cups":{
+            "display_name": "Section 2 Cups",
+            "description":[
+                "Enable the section 2 cups? S.P.B. Cup-Egg Cup (116 Locations)"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Cups"
+        },
+        "section_3_cups":{
+            "display_name": "Section 3 Cups",
+            "description":[
+                "Enable the section 3 cups? Goggles Cup-Phantom Cup (119 Locations)"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Cups"
+        },
+        "section_4_cups":{
+            "display_name": "Section 4 Cups",
+            "description":[
+                "Enable the section 4 cups? Flash Cup-Skate Cup (119 Locations)"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Cups"
+        },
+        "section_5_cups":{
+            "display_name": "Section 5 Cups",
+            "description":[
+                "Enable the section 5 cups? Recycle Cups, Lost & Found (46 Locations)"
             ],
             "type": "Toggle",
             "default": false,
-            "group": "Example Options"
+            "group": "Cups"
+        },
+        "random_item_start":{
+            "display_name": "Random Item",
+            "description":[
+                "Give yourself a random item? Useful if you downright don't like Ring Box only races"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Items"
+        },
+        "starting_insta_whip":{
+            "display_name": "Starting Insta-Whip",
+            "description":[
+                "Give yourself the Insta-Whip at the start?"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Items"
+        },
+        "super_emeralds":{
+            "display_name": "Super Emeralds",
+            "description":[
+                "Add the Super Emeralds into the pool?",
+                "Required to be enabled if you're doing the 14 Emerald Goal"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Items"
+        },
+        "non-progressive_items":{
+            "display_name": "Non-Progressive Items",
+            "description":[
+                "Use the non-progressive varient of items?",
+                "Example: Banana and Triple Banana separate items",
+                " ",
+                "### If this is toggled on, you MUST turn off 'Progressive Items' or things WILL break. ###"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Items"
+        },
+        "progressive_items":{
+            "display_name": "Progressive Items",
+            "description":[
+                "Use the progressive varient of items?",
+                "Example: 3 Progressive Bananas = Triple Bananas, 7 Progressive Ballhogs = Ballhog",
+                " ",
+                "### If this is toggled on, you MUST turn off 'Non-Progressive Items' or things WILL break. ###"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Items"
+        },
+        "useless_battlemode_items":{
+            "display_name": "Useless Battlemode Items",
+            "description":[
+                "Add in the useless battlemode items into the pool? (Bonus Points, Bumper Restock)",
+                "Note: This will intentionally freeze you in place since its a battlemode item, consider this as a 'trap' of sorts"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Items"
+        },
+        "char_traps":{
+            "display_name": "Character Traps",
+            "description":[
+                "Add in traps that affect the player directly?",
+                " ",
+                "Amped Down, Fuzz, Gravflip, Invincibility, Paper Items, Ring Debt"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Traps"
+        },
+        "cpu_traps":{
+            "display_name": "CPU Traps",
+            "description":[
+                "Add in traps that affects CPUs per race?",
+                " ",
+                "Imbalance: 16 Player Races",
+                "Brutal CPUs: Lv. MAX"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Traps"
+        },
+        "damage_traps":{
+            "display_name": "Damage Traps",
+            "description":[
+                "Add in traps that damages the player directly?",
+                " ",
+                "Damage, Explode, Sting, Stumble, Tumble, Wombo Combo"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Traps"
+        },
+        "vanilla_chars":{
+            "display_name": "Vanilla Characters",
+            "description":[
+                "Add the base game characters into the pool? (v2.4)",
+                " ",
+                "Toggling multiple character options is not recommended as this will cause bloat and repeated items"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Characters"
+        },
+        "modded_chars":{
+            "display_name": "Class Types",
+            "description":[
+                "Add the different class types into the pool? Recommended for modded character usage",
+                "Example: Class A (s1 - w1)",
+                " ",
+                "Toggling multiple character options is not recommended as this will cause bloat and repeated items"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Characters"
+        },
+        "class_bundles":{
+            "display_name": "Bundle Classes",
+            "description":[
+                "Add the different class types bundled up into a single item?",
+                "Example: Class A item = 9 characters",
+                " ",
+                "Toggling multiple character options is not recommended as this will cause bloat and repeated items"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Characters"
+        },
+        ".lua_chars":{
+            "display_name": ".lua Characters",
+            "description":[
+                "Add game defying characters as an optional item? You'll need to obtain the class item that lua character resides in however",
+                "Example: Peppino, Feet Sonic, Super Sonic"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Characters"
+        },
+        "followers":{
+            "display_name": "Followers",
+            "description":[
+                "Add followers as junk items?"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Junk"
+        },
+        "spray_cans":{
+            "display_name": "Spray Cans",
+            "description":[
+                "Add spray cans as junk items?"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Junk"
+        },
+        "filler_jokes":{
+            "display_name": "Jokes",
+            "description":[
+                "Add funny:tm: 'joke' items as junk items?"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Junk"
         }
     }
 }

@@ -5303,7 +5303,7 @@
     "requires": "|@Special Stage Keys:14|"
   },
   {
-    "name": "Blend Eye Defeated",
+    "name": "Blend Eye Defeated (7)",
     "region": "Blend Eye",
     "category": [
       "!! GOAL"
@@ -5312,7 +5312,7 @@
     "victory": true
   },
   {
-    "name": "Mean Blend Eye Defeated",
+    "name": "Blend Eye Defeated (14)",
     "region": "Mean Blend Eye",
     "category": [
       "!! GOAL"

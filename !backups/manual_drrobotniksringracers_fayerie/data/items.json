@@ -279,19 +279,10 @@
     "progression": true
   },
   {
-    "count": 7,
-    "name": "UFO Catcher Key (A)",
+    "count": 14,
+    "name": "UFO Catcher Key",
     "category": [
       "Special Stage Keys"
-    ],
-    "progression": true
-  },
-  {
-    "count": 7,
-    "name": "UFO Catcher Key (B)",
-    "category": [
-      "Special Stage Keys",
-      "SS Extra Keys"
     ],
     "progression": true
   },
