@@ -31,7 +31,6 @@
       "item_categories": [
         "Melee"
       ],
-      "hidden": true,
       "yaml_option": [
         "starting_insta_whip"
       ]

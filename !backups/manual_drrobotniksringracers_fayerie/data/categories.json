@@ -35,6 +35,9 @@
       "super_emeralds"
     ]
   },
+  "Melee": {
+    "hidden": true
+  },
   "Tripwire": {
     "hidden": true
   },
