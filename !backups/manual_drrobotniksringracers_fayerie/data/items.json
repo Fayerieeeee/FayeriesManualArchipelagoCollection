@@ -446,8 +446,7 @@
     "name": "Insta-Whip",
     "category": [
       "Item Unlocks",
-      "Melee",
-      "UFO Catcher"
+      "Melee"
     ],
     "progression": true
   },
@@ -520,6 +519,7 @@
     "category": [
       "Item Unlocks",
       "Solo Items",
+      "Orbinauts",
       "UFO Catcher"
     ],
     "progression": true
@@ -530,6 +530,7 @@
     "category": [
       "Item Unlocks",
       "Solo Items",
+      "Orbinauts",
       "UFO Catcher"
     ],
     "progression": true
@@ -540,6 +541,7 @@
     "category": [
       "Item Unlocks",
       "Solo Items",
+      "Orbinauts",
       "UFO Catcher"
     ],
     "progression": true
@@ -574,7 +576,8 @@
     "count": 1,
     "name": "Self-Propelled Bomb",
     "category": [
-      "Item Unlocks"
+      "Item Unlocks",
+      "UFO Catcher"
     ],
     "progression_skip_balancing": true
   },
@@ -653,7 +656,8 @@
     "count": 1,
     "name": "Super Ring",
     "category": [
-      "Item Unlocks"
+      "Item Unlocks",
+      "UFO Catcher"
     ],
     "progression_skip_balancing": true
   },
@@ -666,7 +670,7 @@
     "progression_skip_balancing": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Ballhog",
     "category": [
       "Starting Items"
@@ -674,7 +678,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Banana",
     "category": [
       "Starting Items"
@@ -682,7 +686,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Bubble Shield",
     "category": [
       "Starting Items"
@@ -690,7 +694,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Drop Target",
     "category": [
       "Starting Items"
@@ -698,7 +702,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Eggmark",
     "category": [
       "Starting Items"
@@ -706,7 +710,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Flame Shield",
     "category": [
       "Starting Items"
@@ -714,7 +718,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Gachabom",
     "category": [
       "Starting Items"
@@ -722,7 +726,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Gardentop",
     "category": [
       "Starting Items"
@@ -730,7 +734,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Grow",
     "category": [
       "Starting Items"
@@ -738,7 +742,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Hyudoro",
     "category": [
       "Starting Items"
@@ -746,7 +750,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Invincibility",
     "category": [
       "Starting Items"
@@ -754,7 +758,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Jawz",
     "category": [
       "Starting Items"
@@ -762,7 +766,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Kitchen Sink",
     "category": [
       "Starting Items"
@@ -770,7 +774,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Land Mine",
     "category": [
       "Starting Items"
@@ -778,7 +782,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Lightning Shield",
     "category": [
       "Starting Items"
@@ -786,7 +790,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Orbinaut",
     "category": [
       "Starting Items"
@@ -794,7 +798,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Pogo Spring",
     "category": [
       "Starting Items"
@@ -802,7 +806,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Proximity Mine",
     "category": [
       "Starting Items"
@@ -810,7 +814,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Self-Propelled Bomb",
     "category": [
       "Starting Items"
@@ -818,7 +822,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Shrink",
     "category": [
       "Starting Items"
@@ -826,7 +830,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Sneaker",
     "category": [
       "Starting Items"
@@ -834,7 +838,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Rocket Sneaker",
     "category": [
       "Starting Items"
@@ -842,7 +846,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Stone Shoe",
     "category": [
       "Starting Items"
@@ -850,7 +854,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Super Ring",
     "category": [
       "Starting Items"
@@ -858,7 +862,7 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 5,
     "name": "Starting Toxomister",
     "category": [
       "Starting Items"
