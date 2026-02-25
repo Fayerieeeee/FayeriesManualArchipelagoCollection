@@ -14,6 +14,7 @@
         "filler_traps": {
             "values": {
                 "recommended": 5,
+                "max": 100,
                 "default": 20
             }
         }
@@ -43,7 +44,7 @@
                 "Enable the section 3 cups? Goggles Cup-Phantom Cup (119 Locations)"
             ],
             "type": "Toggle",
-            "default": true,
+            "default": false,
             "group": "Cups"
         },
         "section_4_cups":{
@@ -52,7 +53,7 @@
                 "Enable the section 4 cups? Flash Cup-Skate Cup (119 Locations)"
             ],
             "type": "Toggle",
-            "default": true,
+            "default": false,
             "group": "Cups"
         },
         "extra_cups":{
@@ -64,6 +65,15 @@
             "default": false,
             "group": "Cups"
         },
+        "special_stages":{
+            "display_name": "Special Stages",
+            "description":[
+                "Enable the special stages and its keys? (14 Locations)"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Cups"
+        },
         "blend_eye_difficulty":{
             "display_name": "Blend Eye Difficulty",
             "description": [
@@ -73,7 +83,9 @@
             "type": "Choice",
             "values": {
                 "normal":0,
-                "hard":1
+                "hard":1,
+                "both":2,
+                "modded":3
              },
             "default": 0,
             "allow_custom_value": false

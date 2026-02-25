@@ -35,6 +35,12 @@
       "super_emeralds"
     ]
   },
+  "Special Stages": {
+    "hidden": true,
+    "yaml_option": [
+      "special_stages"
+    ]
+  },
   "Melee": {
     "hidden": true
   },

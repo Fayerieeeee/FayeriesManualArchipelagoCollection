@@ -5194,7 +5194,8 @@
     "name": "Balconies (Special Stage 1)",
     "region": "Special Stage",
     "category": [
-      "! UFO Catcher"
+      "! UFO Catcher",
+      "Special Stages"
     ],
     "requires": "|@Special Stage Keys:1|"
   },
@@ -5202,7 +5203,8 @@
     "name": "Church (Special Stage 2)",
     "region": "Special Stage",
     "category": [
-      "! UFO Catcher"
+      "! UFO Catcher",
+      "Special Stages"
     ],
     "requires": "|@Special Stage Keys:2|"
   },
@@ -5210,7 +5212,8 @@
     "name": "Courtyard (Special Stage 3)",
     "region": "Special Stage",
     "category": [
-      "! UFO Catcher"
+      "! UFO Catcher",
+      "Special Stages"
     ],
     "requires": "|@Special Stage Keys:3|"
   },
@@ -5218,7 +5221,8 @@
     "name": "Villa (Special Stage 4)",
     "region": "Special Stage",
     "category": [
-      "! UFO Catcher"
+      "! UFO Catcher",
+      "Special Stages"
     ],
     "requires": "|@Special Stage Keys:4|"
   },
@@ -5226,7 +5230,8 @@
     "name": "Venice (Special Stage 5)",
     "region": "Special Stage",
     "category": [
-      "! UFO Catcher"
+      "! UFO Catcher",
+      "Special Stages"
     ],
     "requires": "|@Special Stage Keys:5|"
   },
@@ -5234,7 +5239,8 @@
     "name": "Spikes (Special Stage 6)",
     "region": "Special Stage",
     "category": [
-      "! UFO Catcher"
+      "! UFO Catcher",
+      "Special Stages"
     ],
     "requires": "|@Special Stage Keys:6|"
   },
@@ -5242,7 +5248,8 @@
     "name": "Fountain (Special Stage 7)",
     "region": "Special Stage",
     "category": [
-      "! UFO Catcher"
+      "! UFO Catcher",
+      "Special Stages"
     ],
     "requires": "|@Special Stage Keys:7|"
   },
@@ -5250,7 +5257,8 @@
     "name": "Gallery (Special Stage 8)",
     "region": "Special Stage",
     "category": [
-      "! UFO Catcher"
+      "! UFO Catcher",
+      "Special Stages"
     ],
     "requires": "|@Special Stage Keys:8|"
   },
@@ -5258,7 +5266,8 @@
     "name": "Alley (Special Stage 9)",
     "region": "Special Stage",
     "category": [
-      "! UFO Catcher"
+      "! UFO Catcher",
+      "Special Stages"
     ],
     "requires": "|@Special Stage Keys:9|"
   },
@@ -5266,7 +5275,8 @@
     "name": "Steeple (Special Stage 10)",
     "region": "Special Stage",
     "category": [
-      "! UFO Catcher"
+      "! UFO Catcher",
+      "Special Stages"
     ],
     "requires": "|@Special Stage Keys:10|"
   },
@@ -5274,7 +5284,8 @@
     "name": "Rooftops (Special Stage 11)",
     "region": "Special Stage",
     "category": [
-      "! UFO Catcher"
+      "! UFO Catcher",
+      "Special Stages"
     ],
     "requires": "|@Special Stage Keys:11|"
   },
@@ -5282,7 +5293,8 @@
     "name": "Roulette (Special Stage 12)",
     "region": "Special Stage",
     "category": [
-      "! UFO Catcher"
+      "! UFO Catcher",
+      "Special Stages"
     ],
     "requires": "|@Special Stage Keys:12|"
   },
@@ -5290,7 +5302,8 @@
     "name": "Towers (Special Stage 13)",
     "region": "Special Stage",
     "category": [
-      "! UFO Catcher"
+      "! UFO Catcher",
+      "Special Stages"
     ],
     "requires": "|@Special Stage Keys:13|"
   },
@@ -5298,13 +5311,14 @@
     "name": "Atlantis (Special Stage 14)",
     "region": "Special Stage",
     "category": [
-      "! UFO Catcher"
+      "! UFO Catcher",
+      "Special Stages"
     ],
     "requires": "|@Special Stage Keys:14|"
   },
   {
     "name": "Blend Eye Defeated (7 Emeralds)",
-    "region": "",
+    "region": "Special Stage",
     "category": [
       "!! GOAL"
     ],
@@ -5313,7 +5327,7 @@
   },
   {
     "name": "Blend Eye Defeated (14 Emeralds)",
-    "region": "",
+    "region": "Special Stage",
     "category": [
       "!! GOAL"
     ],
