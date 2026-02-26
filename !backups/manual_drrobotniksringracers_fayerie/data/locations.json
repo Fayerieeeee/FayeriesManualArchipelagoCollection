@@ -4598,7 +4598,7 @@
       "Ring Cup",
       "S1 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "|Insta-Whip| OR (|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "CD Special Stage 1 Prisons (Ring Cup)",
@@ -4608,7 +4608,7 @@
       "Ring Cup",
       "S1 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Tinkerer's Arena Prisons (Sneaker Cup)",
@@ -4618,7 +4618,7 @@
       "Sneaker Cup",
       "S1 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Tricircle Marina Prisons (Sneaker Cup)",
@@ -4628,7 +4628,7 @@
       "Sneaker Cup",
       "S1 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Mystery Gate Prisons (Spring Cup)",
@@ -4638,7 +4638,7 @@
       "Spring Cup",
       "S1 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "|Insta-Whip| OR (|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Rusty Rig Prisons (Spring Cup)",
@@ -4648,7 +4648,7 @@
       "Spring Cup",
       "S1 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Marble Foyer Prisons (Barrier Cup)",
@@ -4658,7 +4658,7 @@
       "Barrier Cup",
       "S1 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Rock World Prisons (Barrier Cup)",
@@ -4668,7 +4668,7 @@
       "Barrier Cup",
       "S1 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "World 1 Map Prisons (Invincible Cup)",
@@ -4688,7 +4688,7 @@
       "Invincible Cup",
       "S1 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Sega Saturn Prisons (Emerald Cup)",
@@ -4698,7 +4698,7 @@
       "Emerald Cup",
       "S1 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Electra Clacker Prisons (Emerald Cup)",
@@ -4708,7 +4708,7 @@
       "Emerald Cup",
       "S1 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "|Insta-Whip| OR (|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Thunder Top Prisons (Extra Cup)",
@@ -4718,7 +4718,7 @@
       "Extra Cup",
       "S1 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Tree Ring Prisons (Extra Cup)",
@@ -4728,7 +4728,7 @@
       "Extra Cup",
       "S1 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "|Insta-Whip| OR (|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Frigid Cove Prisons (S.P.B. Cup)",
@@ -4738,7 +4738,7 @@
       "S.P.B. Cup",
       "S2 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Gizmo Bastion Prisons (S.P.B. Cup)",
@@ -4748,7 +4748,7 @@
       "S.P.B. Cup",
       "S2 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Carbon Crucible Prisons (Rocket Cup)",
@@ -4768,7 +4768,7 @@
       "Rocket Cup",
       "S2 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "|Insta-Whip| OR (|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Gems Museum Prisons (Aqua Cup)",
@@ -4778,7 +4778,7 @@
       "Aqua Cup",
       "S2 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Media Studio Prisons (Aqua Cup)",
@@ -4788,7 +4788,7 @@
       "Aqua Cup",
       "S2 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Honeycomb Hollow Prisons (Lightning Cup)",
@@ -4798,7 +4798,7 @@
       "Lightning Cup",
       "S2 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "|Insta-Whip| OR (|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Wood Prisons (Lightning Cup)",
@@ -4808,7 +4808,7 @@
       "Lightning Cup",
       "S2 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Brawl Fort Prisons (Flame Cup)",
@@ -4818,7 +4818,7 @@
       "Flame Cup",
       "S2 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Crystal Island Prisons (Flame Cup)",
@@ -4828,7 +4828,7 @@
       "Flame Cup",
       "S2 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "|Insta-Whip| OR (|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Cyber Arena Prisons (Super Cup)",
@@ -4838,7 +4838,7 @@
       "Super Cup",
       "S2 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "|Insta-Whip| OR (|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Neon Resort Prisons (Super Cup)",
@@ -4848,7 +4848,7 @@
       "Super Cup",
       "S2 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Meteor Herd Prisons (Egg Cup)",
@@ -4858,7 +4858,7 @@
       "Egg Cup",
       "S2 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Death Egg's Eye Prisons (Egg Cup)",
@@ -4868,7 +4868,7 @@
       "Egg Cup",
       "S2 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Tails' Lab Prisons (Goggles Cup)",
@@ -4878,7 +4878,7 @@
       "Goggles Cup",
       "S3 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "|Insta-Whip| OR (|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Power Plant Prisons (Goggles Cup)",
@@ -4888,7 +4888,7 @@
       "Goggles Cup",
       "S3 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "City Skyline Prisons (Timer Cup)",
@@ -4898,7 +4898,7 @@
       "Timer Cup",
       "S3 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Vantablack Atrium Prisons (Timer Cup)",
@@ -4908,7 +4908,7 @@
       "Timer Cup",
       "S3 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "|Insta-Whip| OR (|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Dead Simple Prisons (Grow Cup)",
@@ -4918,7 +4918,7 @@
       "Grow Cup",
       "S3 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "|Insta-Whip| OR (|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Martian Matrix Prisons (Grow Cup)",
@@ -4928,7 +4928,7 @@
       "Grow Cup",
       "S3 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Dark Chao Garden Prisons (Chao Cup)",
@@ -4938,7 +4938,7 @@
       "Chao Cup",
       "S3 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Hero Chao Garden Prisons (Chao Cup)",
@@ -4948,7 +4948,7 @@
       "Chao Cup",
       "S3 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Whirl Waters Prisons (Wing Cup)",
@@ -4958,7 +4958,7 @@
       "Wing Cup",
       "S3 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "|Insta-Whip| OR (|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Deluged Metroplex Prisons (Wing Cup)",
@@ -4968,7 +4968,7 @@
       "Wing Cup",
       "S3 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Mega Emerald Beach Prisons (Mega Cup)",
@@ -4978,7 +4978,7 @@
       "Mega Cup",
       "S3 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Mega Labyrinth Prisons (Mega Cup)",
@@ -4988,7 +4988,7 @@
       "Mega Cup",
       "S3 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Fungal Dimension Prisons (Phantom Cup)",
@@ -4998,7 +4998,7 @@
       "Phantom Cup",
       "S3 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Astral Dimension Prisons (Phantom Cup)",
@@ -5008,7 +5008,7 @@
       "Phantom Cup",
       "S3 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Chaos Seraph Prisons (Flash Cup)",
@@ -5018,7 +5018,7 @@
       "Flash Cup",
       "S4 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Toy Kingdom Prisons (Flash Cup)",
@@ -5028,7 +5028,7 @@
       "Flash Cup",
       "S4 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "|Insta-Whip| OR (|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Aquatic Cathedral 1 Prisons (Swap Cup)",
@@ -5038,7 +5038,7 @@
       "Swap Cup",
       "S4 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Aquatic Cathedral 2 Prisons (Swap Cup)",
@@ -5048,7 +5048,7 @@
       "Swap Cup",
       "S4 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Frosty Courtyard Prisons (Shrink Cup)",
@@ -5058,7 +5058,7 @@
       "Shrink Cup",
       "S4 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "|Insta-Whip| OR (|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Abyss Gate Prisons (Shrink Cup)",
@@ -5068,7 +5068,7 @@
       "Shrink Cup",
       "S4 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Sonic's Schoolhouse Prisons (Bomb Cup)",
@@ -5078,7 +5078,7 @@
       "Bomb Cup",
       "S4 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Record Attack Prisons (Bomb Cup)",
@@ -5088,7 +5088,7 @@
       "Bomb Cup",
       "S4 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Peanut Palace Prisons (Power Cup)",
@@ -5098,7 +5098,7 @@
       "Power Cup",
       "S4 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Hydro Plant Prisons (Power Cup)",
@@ -5108,7 +5108,7 @@
       "Power Cup",
       "S4 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Mega Metropolis Prisons (Genesis Cup)",
@@ -5118,7 +5118,7 @@
       "Genesis Cup",
       "S4 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Mega Marble Prisons (Genesis Cup)",
@@ -5128,7 +5128,7 @@
       "Genesis Cup",
       "S4 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Thunder Lab Prisons (Skate Cup)",
@@ -5138,7 +5138,7 @@
       "Skate Cup",
       "S4 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Malign Eggshrine Prisons (Skate Cup)",
@@ -5148,7 +5148,7 @@
       "Skate Cup",
       "S4 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "SRB2 Meadow Match Prisons (Recycle Cup (A))",
@@ -5158,7 +5158,7 @@
       "Recycle Cup (A)",
       "S5 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Armored Armadillo Prisons (Recycle Cup (A))",
@@ -5168,7 +5168,7 @@
       "Recycle Cup (A)",
       "S5 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Clucky Farms Prisons (Recycle Cup (B))",
@@ -5178,7 +5178,7 @@
       "Recycle Cup (B)",
       "S5 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "|Insta-Whip| OR (|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Dried Battledune Prisons (Recycle Cup (B))",
@@ -5188,7 +5188,17 @@
       "Recycle Cup (B)",
       "S5 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
+  },
+  {
+    "name": "Dual Busters Prisons (Lost & Found Cup)",
+    "region": "Lost & Found Cup",
+    "category": [
+      "! Prisons",
+      "Lost & Found Cup",
+      "S5 Cups"
+    ],
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Balconies (Special Stage 1)",
