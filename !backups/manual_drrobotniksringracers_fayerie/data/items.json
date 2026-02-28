@@ -937,151 +937,122 @@
     "filler": true
   },
   {
-    "count": 1,
+    "count": 9,
+    "name": "Time Increase (+30s)",
+    "category": [
+      "Mechanics"
+    ],
+    "useful": true
+  },
+  {
+    "count": 0,
     "name": "Amped Down Trap",
     "category": [
-      "Mechanics",
-      "Traps",
-      "Char Traps"
-    ],
-    "trap": true
-  },
-  {
-    "count": 1,
-    "name": "Brutal CPUs Trap",
-    "category": [
-      "Mechanics",
-      "Traps",
-      "CPU Traps"
-    ],
-    "trap": true
-  },
-  {
-    "count": 1,
-    "name": "Damage Trap",
-    "category": [
-      "Mechanics",
-      "Traps",
-      "Damage Traps"
-    ],
-    "trap": true
-  },
-  {
-    "count": 1,
-    "name": "Explode Trap",
-    "category": [
-      "Mechanics",
-      "Traps",
-      "Damage Traps"
-    ],
-    "trap": true
-  },
-  {
-    "count": 1,
-    "name": "Fuzz Trap",
-    "category": [
-      "Mechanics",
-      "Traps",
-      "Char Traps"
-    ],
-    "trap": true
-  },
-  {
-    "count": 1,
-    "name": "Gravflip Trap",
-    "category": [
-      "Mechanics",
-      "Traps",
-      "Char Traps"
-    ],
-    "trap": true
-  },
-  {
-    "count": 1,
-    "name": "Imbalance Trap",
-    "category": [
-      "Mechanics",
-      "Traps",
-      "CPU Traps"
-    ],
-    "trap": true
-  },
-  {
-    "count": 1,
-    "name": "Invisible Trap",
-    "category": [
-      "Mechanics",
-      "Traps",
-      "Char Traps"
-    ],
-    "trap": true
-  },
-  {
-    "count": 1,
-    "name": "Phantom Ruby Trap",
-    "category": [
-      "Mechanics",
       "Traps"
     ],
     "trap": true
   },
   {
-    "count": 1,
-    "name": "Paper Item Trap",
+    "count": 0,
+    "name": "Damage Trap",
     "category": [
-      "Mechanics",
-      "Traps",
-      "Char Traps"
+      "Traps"
     ],
     "trap": true
   },
   {
-    "count": 1,
+    "count": 0,
+    "name": "Explode Trap",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Extra Lap Trap",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Fuzz Trap",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Gravflip Trap",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Invisible Trap",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Phantom Ruby Trap",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Item Removal Trap",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 0,
     "name": "Ring Debt Trap",
     "category": [
-      "Mechanics",
-      "Traps",
-      "Char Traps"
+      "Traps"
     ],
     "trap": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "Sting Trap",
     "category": [
-      "Mechanics",
-      "Traps",
-      "Damage Traps"
+      "Traps"
     ],
     "trap": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "Stumble Trap",
     "category": [
-      "Mechanics",
-      "Traps",
-      "Damage Traps"
+      "Traps"
     ],
     "trap": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "Tumble Trap",
     "category": [
-      "Mechanics",
-      "Traps",
-      "Damage Traps"
+      "Traps"
     ],
     "trap": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "Wombo Combo Trap",
     "category": [
-      "Mechanics",
-      "Traps",
-      "Damage Traps"
+      "Traps"
     ],
     "trap": true
   },
@@ -1599,7 +1570,7 @@
   },
   {
     "count": 1,
-    "name": "Class A (S1-W1)",
+    "name": "Class A Racers (S1-W1)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1608,7 +1579,7 @@
   },
   {
     "count": 1,
-    "name": "Class A (S1-W2)",
+    "name": "Class A Racers (S1-W2)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1617,7 +1588,7 @@
   },
   {
     "count": 1,
-    "name": "Class A (S1-W3)",
+    "name": "Class A Racers (S1-W3)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1626,7 +1597,7 @@
   },
   {
     "count": 1,
-    "name": "Class A (S2-W1)",
+    "name": "Class A Racers (S2-W1)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1635,7 +1606,7 @@
   },
   {
     "count": 1,
-    "name": "Class A (S2-W2)",
+    "name": "Class A Racers (S2-W2)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1644,7 +1615,7 @@
   },
   {
     "count": 1,
-    "name": "Class A (S2-W3)",
+    "name": "Class A Racers (S2-W3)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1653,7 +1624,7 @@
   },
   {
     "count": 1,
-    "name": "Class A (S3-W1)",
+    "name": "Class A Racers (S3-W1)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1662,7 +1633,7 @@
   },
   {
     "count": 1,
-    "name": "Class A (S3-W2)",
+    "name": "Class A Racers (S3-W2)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1671,7 +1642,7 @@
   },
   {
     "count": 1,
-    "name": "Class A (S3-W3)",
+    "name": "Class A Racers (S3-W3)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1680,7 +1651,7 @@
   },
   {
     "count": 1,
-    "name": "Class B (S4-W1)",
+    "name": "Class B Racers (S4-W1)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1689,7 +1660,7 @@
   },
   {
     "count": 1,
-    "name": "Class B (S4-W2)",
+    "name": "Class B Racers (S4-W2)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1698,7 +1669,7 @@
   },
   {
     "count": 1,
-    "name": "Class B (S4-W3)",
+    "name": "Class B Racers (S4-W3)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1707,7 +1678,7 @@
   },
   {
     "count": 1,
-    "name": "Class B (S5-W1)",
+    "name": "Class B Racers (S5-W1)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1716,7 +1687,7 @@
   },
   {
     "count": 1,
-    "name": "Class B (S5-W2)",
+    "name": "Class B Racers (S5-W2)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1725,7 +1696,7 @@
   },
   {
     "count": 1,
-    "name": "Class B (S5-W3)",
+    "name": "Class B Racers (S5-W3)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1734,7 +1705,7 @@
   },
   {
     "count": 1,
-    "name": "Class B (S6-W1)",
+    "name": "Class B Racers (S6-W1)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1743,7 +1714,7 @@
   },
   {
     "count": 1,
-    "name": "Class B (S6-W2)",
+    "name": "Class B Racers (S6-W2)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1752,7 +1723,7 @@
   },
   {
     "count": 1,
-    "name": "Class B (S6-W3)",
+    "name": "Class B Racers (S6-W3)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1761,7 +1732,7 @@
   },
   {
     "count": 1,
-    "name": "Class C (S7-W1)",
+    "name": "Class C Racers (S7-W1)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1770,7 +1741,7 @@
   },
   {
     "count": 1,
-    "name": "Class C (S7-W2)",
+    "name": "Class C Racers (S7-W2)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1779,7 +1750,7 @@
   },
   {
     "count": 1,
-    "name": "Class C (S7-W3)",
+    "name": "Class C Racers (S7-W3)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1788,7 +1759,7 @@
   },
   {
     "count": 1,
-    "name": "Class C (S8-W1)",
+    "name": "Class C Racers (S8-W1)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1797,7 +1768,7 @@
   },
   {
     "count": 1,
-    "name": "Class C (S8-W2)",
+    "name": "Class C Racers (S8-W2)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1806,7 +1777,7 @@
   },
   {
     "count": 1,
-    "name": "Class C (S8-W3)",
+    "name": "Class C Racers (S8-W3)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1815,7 +1786,7 @@
   },
   {
     "count": 1,
-    "name": "Class C (S9-W1)",
+    "name": "Class C Racers (S9-W1)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1824,7 +1795,7 @@
   },
   {
     "count": 1,
-    "name": "Class C (S9-W2)",
+    "name": "Class C Racers (S9-W2)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1833,7 +1804,7 @@
   },
   {
     "count": 1,
-    "name": "Class C (S9-W3)",
+    "name": "Class C Racers (S9-W3)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1842,7 +1813,7 @@
   },
   {
     "count": 1,
-    "name": "Class D (S1-W4)",
+    "name": "Class D Racers (S1-W4)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1851,7 +1822,7 @@
   },
   {
     "count": 1,
-    "name": "Class D (S1-W5)",
+    "name": "Class D Racers (S1-W5)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1860,7 +1831,7 @@
   },
   {
     "count": 1,
-    "name": "Class D (S1-W6)",
+    "name": "Class D Racers (S1-W6)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1869,7 +1840,7 @@
   },
   {
     "count": 1,
-    "name": "Class D (S2-W4)",
+    "name": "Class D Racers (S2-W4)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1878,7 +1849,7 @@
   },
   {
     "count": 1,
-    "name": "Class D (S2-W5)",
+    "name": "Class D Racers (S2-W5)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1887,7 +1858,7 @@
   },
   {
     "count": 1,
-    "name": "Class D (S2-W6)",
+    "name": "Class D Racers (S2-W6)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1896,7 +1867,7 @@
   },
   {
     "count": 1,
-    "name": "Class D (S3-W4)",
+    "name": "Class D Racers (S3-W4)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1905,7 +1876,7 @@
   },
   {
     "count": 1,
-    "name": "Class D (S3-W5)",
+    "name": "Class D Racers (S3-W5)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1914,7 +1885,7 @@
   },
   {
     "count": 1,
-    "name": "Class D (S3-W6)",
+    "name": "Class D Racers (S3-W6)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1923,7 +1894,7 @@
   },
   {
     "count": 1,
-    "name": "Class E (S4-W4)",
+    "name": "Class E Racers (S4-W4)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1932,7 +1903,7 @@
   },
   {
     "count": 1,
-    "name": "Class E (S4-W5)",
+    "name": "Class E Racers (S4-W5)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1941,7 +1912,7 @@
   },
   {
     "count": 1,
-    "name": "Class E (S4-W6)",
+    "name": "Class E Racers (S4-W6)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1950,7 +1921,7 @@
   },
   {
     "count": 1,
-    "name": "Class E (S5-W4)",
+    "name": "Class E Racers (S5-W4)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1959,7 +1930,7 @@
   },
   {
     "count": 1,
-    "name": "Class E (S5-W5)",
+    "name": "Class E Racers (S5-W5)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1968,7 +1939,7 @@
   },
   {
     "count": 1,
-    "name": "Class E (S5-W6)",
+    "name": "Class E Racers (S5-W6)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1977,7 +1948,7 @@
   },
   {
     "count": 1,
-    "name": "Class E (S6-W4)",
+    "name": "Class E Racers (S6-W4)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1986,7 +1957,7 @@
   },
   {
     "count": 1,
-    "name": "Class E (S6-W5)",
+    "name": "Class E Racers (S6-W5)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -1995,7 +1966,7 @@
   },
   {
     "count": 1,
-    "name": "Class E (S6-W6)",
+    "name": "Class E Racers (S6-W6)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2004,7 +1975,7 @@
   },
   {
     "count": 1,
-    "name": "Class F (S7-W4)",
+    "name": "Class F Racers (S7-W4)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2013,7 +1984,7 @@
   },
   {
     "count": 1,
-    "name": "Class F (S7-W5)",
+    "name": "Class F Racers (S7-W5)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2022,7 +1993,7 @@
   },
   {
     "count": 1,
-    "name": "Class F (S7-W6)",
+    "name": "Class F Racers (S7-W6)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2031,7 +2002,7 @@
   },
   {
     "count": 1,
-    "name": "Class F (S8-W4)",
+    "name": "Class F Racers (S8-W4)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2040,7 +2011,7 @@
   },
   {
     "count": 1,
-    "name": "Class F (S8-W5)",
+    "name": "Class F Racers (S8-W5)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2049,7 +2020,7 @@
   },
   {
     "count": 1,
-    "name": "Class F (S8-W6)",
+    "name": "Class F Racers (S8-W6)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2058,7 +2029,7 @@
   },
   {
     "count": 1,
-    "name": "Class F (S9-W4)",
+    "name": "Class F Racers (S9-W4)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2067,7 +2038,7 @@
   },
   {
     "count": 1,
-    "name": "Class F (S9-W5)",
+    "name": "Class F Racers (S9-W5)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2076,7 +2047,7 @@
   },
   {
     "count": 1,
-    "name": "Class F (S9-W6)",
+    "name": "Class F Racers (S9-W6)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2085,7 +2056,7 @@
   },
   {
     "count": 1,
-    "name": "Class G (S1-W7)",
+    "name": "Class G Racers (S1-W7)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2094,7 +2065,7 @@
   },
   {
     "count": 1,
-    "name": "Class G (S1-W8)",
+    "name": "Class G Racers (S1-W8)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2103,7 +2074,7 @@
   },
   {
     "count": 1,
-    "name": "Class G (S1-W9)",
+    "name": "Class G Racers (S1-W9)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2112,7 +2083,7 @@
   },
   {
     "count": 1,
-    "name": "Class G (S2-W7)",
+    "name": "Class G Racers (S2-W7)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2121,7 +2092,7 @@
   },
   {
     "count": 1,
-    "name": "Class G (S2-W8)",
+    "name": "Class G Racers (S2-W8)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2130,7 +2101,7 @@
   },
   {
     "count": 1,
-    "name": "Class G (S2-W9)",
+    "name": "Class G Racers (S2-W9)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2139,7 +2110,7 @@
   },
   {
     "count": 1,
-    "name": "Class G (S3-W7)",
+    "name": "Class G Racers (S3-W7)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2148,7 +2119,7 @@
   },
   {
     "count": 1,
-    "name": "Class G (S3-W8)",
+    "name": "Class G Racers (S3-W8)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2157,7 +2128,7 @@
   },
   {
     "count": 1,
-    "name": "Class G (S3-W9)",
+    "name": "Class G Racers (S3-W9)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2166,7 +2137,7 @@
   },
   {
     "count": 1,
-    "name": "Class H (S4-W7)",
+    "name": "Class H Racers (S4-W7)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2175,7 +2146,7 @@
   },
   {
     "count": 1,
-    "name": "Class H (S4-W8)",
+    "name": "Class H Racers (S4-W8)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2184,7 +2155,7 @@
   },
   {
     "count": 1,
-    "name": "Class H (S4-W9)",
+    "name": "Class H Racers (S4-W9)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2193,7 +2164,7 @@
   },
   {
     "count": 1,
-    "name": "Class H (S5-W7)",
+    "name": "Class H Racers (S5-W7)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2202,7 +2173,7 @@
   },
   {
     "count": 1,
-    "name": "Class H (S5-W8)",
+    "name": "Class H Racers (S5-W8)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2211,7 +2182,7 @@
   },
   {
     "count": 1,
-    "name": "Class H (S5-W9)",
+    "name": "Class H Racers (S5-W9)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2220,7 +2191,7 @@
   },
   {
     "count": 1,
-    "name": "Class H (S6-W7)",
+    "name": "Class H Racers (S6-W7)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2229,7 +2200,7 @@
   },
   {
     "count": 1,
-    "name": "Class H (S6-W8)",
+    "name": "Class H Racers (S6-W8)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2238,7 +2209,7 @@
   },
   {
     "count": 1,
-    "name": "Class H (S6-W9)",
+    "name": "Class H Racers (S6-W9)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2247,7 +2218,7 @@
   },
   {
     "count": 1,
-    "name": "Class I (S7-W7)",
+    "name": "Class I Racers (S7-W7)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2256,7 +2227,7 @@
   },
   {
     "count": 1,
-    "name": "Class I (S7-W8)",
+    "name": "Class I Racers (S7-W8)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2265,7 +2236,7 @@
   },
   {
     "count": 1,
-    "name": "Class I (S7-W9)",
+    "name": "Class I Racers (S7-W9)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2274,7 +2245,7 @@
   },
   {
     "count": 1,
-    "name": "Class I (S8-W7)",
+    "name": "Class I Racers (S8-W7)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2283,7 +2254,7 @@
   },
   {
     "count": 1,
-    "name": "Class I (S8-W8)",
+    "name": "Class I Racers (S8-W8)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2292,7 +2263,7 @@
   },
   {
     "count": 1,
-    "name": "Class I (S8-W9)",
+    "name": "Class I Racers (S8-W9)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2301,7 +2272,7 @@
   },
   {
     "count": 1,
-    "name": "Class I (S9-W7)",
+    "name": "Class I Racers (S9-W7)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2310,7 +2281,7 @@
   },
   {
     "count": 1,
-    "name": "Class I (S9-W8)",
+    "name": "Class I Racers (S9-W8)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2319,7 +2290,7 @@
   },
   {
     "count": 1,
-    "name": "Class I (S9-W9)",
+    "name": "Class I Racers (S9-W9)",
     "category": [
       "Classes",
       "Separate Classes"
@@ -2328,7 +2299,7 @@
   },
   {
     "count": 1,
-    "name": "Class A",
+    "name": "Class A Racers",
     "category": [
       "Classes",
       "Bundled Classes"
@@ -2337,7 +2308,7 @@
   },
   {
     "count": 1,
-    "name": "Class B",
+    "name": "Class B Racers",
     "category": [
       "Classes",
       "Bundled Classes"
@@ -2346,7 +2317,7 @@
   },
   {
     "count": 1,
-    "name": "Class C",
+    "name": "Class C Racers",
     "category": [
       "Classes",
       "Bundled Classes"
@@ -2355,7 +2326,7 @@
   },
   {
     "count": 1,
-    "name": "Class D",
+    "name": "Class D Racers",
     "category": [
       "Classes",
       "Bundled Classes"
@@ -2364,7 +2335,7 @@
   },
   {
     "count": 1,
-    "name": "Class E",
+    "name": "Class E Racers",
     "category": [
       "Classes",
       "Bundled Classes"
@@ -2373,7 +2344,7 @@
   },
   {
     "count": 1,
-    "name": "Class F",
+    "name": "Class F Racers",
     "category": [
       "Classes",
       "Bundled Classes"
@@ -2382,7 +2353,7 @@
   },
   {
     "count": 1,
-    "name": "Class G",
+    "name": "Class G Racers",
     "category": [
       "Classes",
       "Bundled Classes"
@@ -2391,7 +2362,7 @@
   },
   {
     "count": 1,
-    "name": "Class H",
+    "name": "Class H Racers",
     "category": [
       "Classes",
       "Bundled Classes"
@@ -2400,7 +2371,7 @@
   },
   {
     "count": 1,
-    "name": "Class I",
+    "name": "Class I Racers",
     "category": [
       "Classes",
       "Bundled Classes"
