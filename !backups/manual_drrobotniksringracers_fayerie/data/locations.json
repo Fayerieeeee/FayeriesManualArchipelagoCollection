@@ -4758,7 +4758,7 @@
       "Rocket Cup",
       "S2 Cups"
     ],
-    "requires": "|Insta-Whip| AND (|@Gachaboms| OR |Progressive Gachaboms|)"
+    "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
     "name": "Security Hall Prisons (Rocket Cup)",
