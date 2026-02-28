@@ -77,24 +77,6 @@
       "useless_battlemode_items"
     ]
   },
-  "Char Traps": {
-    "hidden": true,
-    "yaml_option": [
-      "char_traps"
-    ]
-  },
-  "CPU Traps": {
-    "hidden": true,
-    "yaml_option": [
-      "cpu_traps"
-    ]
-  },
-  "Damage Traps": {
-    "hidden": true,
-    "yaml_option": [
-      "damage_traps"
-    ]
-  },
   "Chars": {
     "yaml_option": [
       "vanilla_chars"
