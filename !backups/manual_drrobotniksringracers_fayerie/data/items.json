@@ -306,6 +306,15 @@
   },
   {
     "count": 1,
+    "name": "Phantom Ruby",
+    "category": [
+      "Cups",
+      "Boss Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Ballhog",
     "category": [
       "Item Unlocks",
@@ -1003,14 +1012,6 @@
   {
     "count": 0,
     "name": "Item Removal Trap",
-    "category": [
-      "Traps"
-    ],
-    "trap": true
-  },
-  {
-    "count": 0,
-    "name": "Phantom Ruby Trap",
     "category": [
       "Traps"
     ],
