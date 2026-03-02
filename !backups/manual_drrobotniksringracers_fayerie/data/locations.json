@@ -5673,7 +5673,8 @@
     "category": [
       "!! GOAL"
     ],
-    "requires": "|Phantom Ruby| AND |@Emeralds:7| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND |@Emeralds:7| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|",
+    "victory": true
   },
   {
     "name": "Death Egg Final Boss Defeated (14 Emeralds)",
@@ -5681,7 +5682,8 @@
     "category": [
       "!! GOAL"
     ],
-    "requires": "|Phantom Ruby| AND |@Emeralds:7| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND |@Emeralds:7| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|",
+    "victory": true
   },
   {
     "name": "Blend Eye Defeated (7 Emeralds)",
