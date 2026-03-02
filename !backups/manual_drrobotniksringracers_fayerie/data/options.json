@@ -23,7 +23,7 @@
         "section_1_cups":{
             "display_name": "Section 1 Cups",
             "description":[
-                "Enable the section 1 cups? Ring Cup-Extra Cup (119 Locations)"
+                "Enable the section 1 cups? Ring Cup-Extra Cup (105 Locations)"
             ],
             "type": "Toggle",
             "default": true,
@@ -32,7 +32,7 @@
         "section_2_cups":{
             "display_name": "Section 2 Cups",
             "description":[
-                "Enable the section 2 cups? S.P.B. Cup-Egg Cup (116 Locations)"
+                "Enable the section 2 cups? S.P.B. Cup-Egg Cup (102 Locations)"
             ],
             "type": "Toggle",
             "default": true,
@@ -41,7 +41,7 @@
         "section_3_cups":{
             "display_name": "Section 3 Cups",
             "description":[
-                "Enable the section 3 cups? Goggles Cup-Phantom Cup (119 Locations)"
+                "Enable the section 3 cups? Goggles Cup-Phantom Cup (105 Locations)"
             ],
             "type": "Toggle",
             "default": false,
@@ -50,7 +50,7 @@
         "section_4_cups":{
             "display_name": "Section 4 Cups",
             "description":[
-                "Enable the section 4 cups? Flash Cup-Skate Cup (119 Locations)"
+                "Enable the section 4 cups? Flash Cup-Skate Cup (105 Locations)"
             ],
             "type": "Toggle",
             "default": false,
@@ -59,10 +59,28 @@
         "extra_cups":{
             "display_name": "Section 5 Cups",
             "description":[
-                "Enable the section 5 cups? Recycle Cups, Lost & Found (46 Locations)"
+                "Enable the section 5 cups? Recycle Cups, Lost & Found (41 Locations)"
             ],
             "type": "Toggle",
             "default": false,
+            "group": "Cups"
+        },
+        "prisons":{
+            "display_name": "Prisons",
+            "description":[
+                "Enable the prisons based battle modes? (33 Locations)"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Cups"
+        },
+        "boss_races":{
+            "display_name": "Boss Races",
+            "description":[
+                "Enable boss races? (31 Locations)"
+            ],
+            "type": "Toggle",
+            "default": true,
             "group": "Cups"
         },
         "special_stages":{
@@ -151,40 +169,6 @@
             "type": "Toggle",
             "default": false,
             "group": "Items"
-        },
-        "char_traps":{
-            "display_name": "Character Traps",
-            "description":[
-                "Add in traps that affect the player directly?",
-                " ",
-                "Amped Down, Fuzz, Gravflip, Invincibility, Paper Items, Ring Debt"
-            ],
-            "type": "Toggle",
-            "default": true,
-            "group": "Traps"
-        },
-        "cpu_traps":{
-            "display_name": "CPU Traps",
-            "description":[
-                "Add in traps that affects CPUs per race?",
-                " ",
-                "Imbalance: 16 Player Races",
-                "Brutal CPUs: Lv. MAX"
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Traps"
-        },
-        "damage_traps":{
-            "display_name": "Damage Traps",
-            "description":[
-                "Add in traps that damages the player directly?",
-                " ",
-                "Damage, Explode, Sting, Stumble, Tumble, Wombo Combo"
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Traps"
         },
         "vanilla_chars":{
             "display_name": "Vanilla Characters",

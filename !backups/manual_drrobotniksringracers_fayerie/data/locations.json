@@ -5201,6 +5201,347 @@
     "requires": "(|@Gachaboms| OR |Progressive Gachaboms|)"
   },
   {
+    "name": "Ring Cup Boss Defeated",
+    "region": "Ring Cup",
+    "category": [
+      "! Boss",
+      "Ring Cup",
+      "S1 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Sneaker Cup Boss Defeated",
+    "region": "Sneaker Cup",
+    "category": [
+      "! Boss",
+      "Sneaker Cup",
+      "S1 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Spring Cup Boss Defeated",
+    "region": "Spring Cup",
+    "category": [
+      "! Boss",
+      "Spring Cup",
+      "S1 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Barrier Cup Boss Defeated",
+    "region": "Barrier Cup",
+    "category": [
+      "! Boss",
+      "Barrier Cup",
+      "S1 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Invincible Cup Boss Defeated",
+    "region": "Invincible Cup",
+    "category": [
+      "! Boss",
+      "Invincible Cup",
+      "S1 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Emerald Cup Boss Defeated",
+    "region": "Emerald Cup",
+    "category": [
+      "! Boss",
+      "Emerald Cup",
+      "S1 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Extra Cup Boss Defeated",
+    "region": "Extra Cup",
+    "category": [
+      "! Boss",
+      "Extra Cup",
+      "S1 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "S.P.B. Cup Boss Defeated",
+    "region": "S.P.B. Cup",
+    "category": [
+      "! Boss",
+      "S.P.B. Cup",
+      "S2 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Rocket Cup Boss Defeated",
+    "region": "Rocket Cup",
+    "category": [
+      "! Boss",
+      "Rocket Cup",
+      "S2 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Aqua Cup Boss Defeated",
+    "region": "Aqua Cup",
+    "category": [
+      "! Boss",
+      "Aqua Cup",
+      "S2 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Lightning Cup Boss Defeated",
+    "region": "Lightning Cup",
+    "category": [
+      "! Boss",
+      "Lightning Cup",
+      "S2 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Flame Cup Boss Defeated",
+    "region": "Flame Cup",
+    "category": [
+      "! Boss",
+      "Flame Cup",
+      "S2 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Super Cup Boss Defeated",
+    "region": "Super Cup",
+    "category": [
+      "! Boss",
+      "Super Cup",
+      "S2 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Egg Cup Boss Defeated",
+    "region": "Egg Cup",
+    "category": [
+      "! Boss",
+      "Egg Cup",
+      "S2 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Goggles Cup Boss Defeated",
+    "region": "Goggles Cup",
+    "category": [
+      "! Boss",
+      "Goggles Cup",
+      "S3 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Timer Cup Boss Defeated",
+    "region": "Timer Cup",
+    "category": [
+      "! Boss",
+      "Timer Cup",
+      "S3 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Grow Cup Boss Defeated",
+    "region": "Grow Cup",
+    "category": [
+      "! Boss",
+      "Grow Cup",
+      "S3 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Chao Cup Boss Defeated",
+    "region": "Chao Cup",
+    "category": [
+      "! Boss",
+      "Chao Cup",
+      "S3 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Wing Cup Boss Defeated",
+    "region": "Ring Cup",
+    "category": [
+      "! Boss",
+      "Wing Cup",
+      "S3 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Mega Cup Boss Defeated",
+    "region": "Mega Cup",
+    "category": [
+      "! Boss",
+      "Mega Cup",
+      "S3 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Phantom Cup Boss Defeated",
+    "region": "Phantom Cup",
+    "category": [
+      "! Boss",
+      "Phantom Cup",
+      "S3 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Flash Cup Boss Defeated",
+    "region": "Flash Cup",
+    "category": [
+      "! Boss",
+      "Flash Cup",
+      "S4 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Swap Cup Boss Defeated",
+    "region": "Swap Cup",
+    "category": [
+      "! Boss",
+      "Swap Cup",
+      "S4 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Shrink Cup Boss Defeated",
+    "region": "Shrink Cup",
+    "category": [
+      "! Boss",
+      "Shrink Cup",
+      "S4 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Bomb Cup Boss Defeated",
+    "region": "Bomb Cup",
+    "category": [
+      "! Boss",
+      "Bomb Cup",
+      "S4 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Power Cup Boss Defeated",
+    "region": "Power Cup",
+    "category": [
+      "! Boss",
+      "Power Cup",
+      "S4 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Genesis Cup Boss Defeated",
+    "region": "Genesis Cup",
+    "category": [
+      "! Boss",
+      "Genesis Cup",
+      "S4 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Skate Cup Boss Defeated",
+    "region": "Skate Cup",
+    "category": [
+      "! Boss",
+      "Skate Cup",
+      "S4 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Recycle Cup (A) Boss Defeated",
+    "region": "Recycle Cup (A)",
+    "category": [
+      "! Boss",
+      "Recycle Cup (A)",
+      "S5 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Recycle Cup (B) Boss Defeated",
+    "region": "Recycle Cup (B)",
+    "category": [
+      "! Boss",
+      "Recycle Cup (B)",
+      "S5 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Lost & Found Cup Boss Defeated",
+    "region": "Lost & Found Cup",
+    "category": [
+      "! Boss",
+      "Lost & Found Cup",
+      "S5 Cups",
+      "Boss Races"
+    ],
+    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
     "name": "Balconies (Special Stage 1)",
     "region": "Special Stage",
     "category": [
@@ -5332,7 +5673,7 @@
     "category": [
       "!! GOAL"
     ],
-    "requires": "|@Emeralds:7| AND |@Melee| AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Gachaboms| OR |Progressive Gachaboms|)",
+    "requires": "|@Emeralds:7| AND |@Melee| AND (|@Orbinauts| OR |Progressive Orbinauts|) OR (|@Gachaboms| OR |Progressive Gachaboms|)",
     "victory": true
   },
   {
@@ -5341,7 +5682,7 @@
     "category": [
       "!! GOAL"
     ],
-    "requires": "|@Emeralds:14| AND |@Melee| AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Gachaboms| OR |Progressive Gachaboms|)",
+    "requires": "|@Emeralds:14| AND |@Melee| AND (|@Orbinauts| OR |Progressive Orbinauts|) OR (|@Gachaboms| OR |Progressive Gachaboms|)",
     "victory": true
   }
 ]

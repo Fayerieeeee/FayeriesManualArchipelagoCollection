@@ -41,6 +41,17 @@
       "special_stages"
     ]
   },
+  "Boss Races": {
+    "hidden": true,
+    "yaml_option": [
+      "boss_races"
+    ]
+  },
+  "! Prisons": {
+    "yaml_option": [
+      "prisons"
+    ]
+  },
   "Melee": {
     "hidden": true
   },

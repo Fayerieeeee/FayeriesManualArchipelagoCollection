@@ -279,6 +279,15 @@
     "progression": true
   },
   {
+    "count": 1,
+    "name": "Phantom Ruby",
+    "category": [
+      "Cups",
+      "Boss Races"
+    ],
+    "progression": true
+  },
+  {
     "count": 14,
     "name": "UFO Catcher Key",
     "category": [
@@ -301,15 +310,6 @@
     "category": [
       "Emeralds",
       "Super Emeralds"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Phantom Ruby",
-    "category": [
-      "Cups",
-      "Boss Races"
     ],
     "progression": true
   },
