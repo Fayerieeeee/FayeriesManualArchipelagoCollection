@@ -5668,6 +5668,22 @@
     "requires": "|@Special Stage Keys:14|"
   },
   {
+    "name": "Death Egg Final Boss Defeated (7 Emeralds)",
+    "region": "Special Stage",
+    "category": [
+      "!! GOAL"
+    ],
+    "requires": "|Phantom Ruby| AND |@Emeralds:7| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
+    "name": "Death Egg Final Boss Defeated (14 Emeralds)",
+    "region": "Special Stage",
+    "category": [
+      "!! GOAL"
+    ],
+    "requires": "|Phantom Ruby| AND |@Emeralds:7| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+  },
+  {
     "name": "Blend Eye Defeated (7 Emeralds)",
     "region": "Special Stage",
     "category": [
