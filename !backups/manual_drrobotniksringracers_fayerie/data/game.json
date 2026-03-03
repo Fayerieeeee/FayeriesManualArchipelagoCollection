@@ -32,7 +32,15 @@
         "Melee"
       ],
       "yaml_option": [
-        "starting_insta_whip"
+        "insta_whip"
+      ]
+    },
+    {
+      "item_categories": [
+        "Phantom Ruby"
+      ],
+      "yaml_option": [
+        "phantom_ruby"
       ]
     }
   ]

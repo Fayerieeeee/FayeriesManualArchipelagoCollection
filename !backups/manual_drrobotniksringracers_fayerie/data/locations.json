@@ -5209,7 +5209,7 @@
       "S1 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Sneaker Cup Boss Defeated",
@@ -5220,7 +5220,7 @@
       "S1 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Spring Cup Boss Defeated",
@@ -5231,7 +5231,7 @@
       "S1 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Barrier Cup Boss Defeated",
@@ -5242,7 +5242,7 @@
       "S1 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Invincible Cup Boss Defeated",
@@ -5253,7 +5253,7 @@
       "S1 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Emerald Cup Boss Defeated",
@@ -5264,7 +5264,7 @@
       "S1 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Extra Cup Boss Defeated",
@@ -5275,7 +5275,7 @@
       "S1 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "S.P.B. Cup Boss Defeated",
@@ -5286,7 +5286,7 @@
       "S2 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Rocket Cup Boss Defeated",
@@ -5297,7 +5297,7 @@
       "S2 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Aqua Cup Boss Defeated",
@@ -5308,7 +5308,7 @@
       "S2 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Lightning Cup Boss Defeated",
@@ -5319,7 +5319,7 @@
       "S2 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Flame Cup Boss Defeated",
@@ -5330,7 +5330,7 @@
       "S2 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Super Cup Boss Defeated",
@@ -5341,7 +5341,7 @@
       "S2 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Egg Cup Boss Defeated",
@@ -5352,7 +5352,7 @@
       "S2 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Goggles Cup Boss Defeated",
@@ -5363,7 +5363,7 @@
       "S3 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Timer Cup Boss Defeated",
@@ -5374,7 +5374,7 @@
       "S3 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Grow Cup Boss Defeated",
@@ -5385,7 +5385,7 @@
       "S3 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Chao Cup Boss Defeated",
@@ -5396,7 +5396,7 @@
       "S3 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Wing Cup Boss Defeated",
@@ -5407,7 +5407,7 @@
       "S3 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Mega Cup Boss Defeated",
@@ -5418,7 +5418,7 @@
       "S3 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Phantom Cup Boss Defeated",
@@ -5429,7 +5429,7 @@
       "S3 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Flash Cup Boss Defeated",
@@ -5440,7 +5440,7 @@
       "S4 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Swap Cup Boss Defeated",
@@ -5451,7 +5451,7 @@
       "S4 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Shrink Cup Boss Defeated",
@@ -5462,7 +5462,7 @@
       "S4 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Bomb Cup Boss Defeated",
@@ -5473,7 +5473,7 @@
       "S4 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Power Cup Boss Defeated",
@@ -5484,7 +5484,7 @@
       "S4 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Genesis Cup Boss Defeated",
@@ -5495,7 +5495,7 @@
       "S4 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Skate Cup Boss Defeated",
@@ -5506,7 +5506,7 @@
       "S4 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Recycle Cup (A) Boss Defeated",
@@ -5517,7 +5517,7 @@
       "S5 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Recycle Cup (B) Boss Defeated",
@@ -5528,7 +5528,7 @@
       "S5 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Lost & Found Cup Boss Defeated",
@@ -5539,7 +5539,7 @@
       "S5 Cups",
       "Boss Races"
     ],
-    "requires": "|Phantom Ruby| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|"
+    "requires": "|Phantom Ruby| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|"
   },
   {
     "name": "Balconies (Special Stage 1)",
@@ -5673,7 +5673,7 @@
     "category": [
       "!! GOAL"
     ],
-    "requires": "|Phantom Ruby| AND |@Emeralds:7| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|",
+    "requires": "|Phantom Ruby| AND |@Emeralds:7| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|",
     "victory": true
   },
   {
@@ -5682,7 +5682,7 @@
     "category": [
       "!! GOAL"
     ],
-    "requires": "|Phantom Ruby| AND |@Emeralds:7| AND |@Bananas| AND |@Orbinauts| AND |@Sneakers| AND |@Jawzs| AND |Super Ring|",
+    "requires": "|Phantom Ruby| AND |@Emeralds:7| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|",
     "victory": true
   },
   {

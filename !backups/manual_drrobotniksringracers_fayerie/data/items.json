@@ -283,6 +283,7 @@
     "name": "Phantom Ruby",
     "category": [
       "Cups",
+      "Phantom Ruby",
       "Boss Races"
     ],
     "progression": true
@@ -869,10 +870,11 @@
     "filler": true
   },
   {
-    "count": 10,
+    "count": 0,
     "name": "Mega Barrier",
     "category": [
-      "Battlemode Items"
+      "Battlemode Items",
+      "Traps"
     ],
     "filler": true
   },

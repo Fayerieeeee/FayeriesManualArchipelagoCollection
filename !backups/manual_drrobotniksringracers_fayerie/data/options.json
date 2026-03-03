@@ -111,16 +111,27 @@
         "random_item_start":{
             "display_name": "Random Item",
             "description":[
-                "Give yourself a random item? Useful if you downright don't like Ring Box only races"
+                "Give yourself a random item?",
+                "Useful if you downright don't like Ring Box only races"
             ],
             "type": "Toggle",
             "default": false,
             "group": "Items"
         },
-        "starting_insta_whip":{
+        "insta_whip":{
             "display_name": "Starting Insta-Whip",
             "description":[
-                "Give yourself the Insta-Whip at the start?"
+                "Start with the Insta-Whip?"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Items"
+        },
+        "phantom_ruby":{
+            "display_name": "Starting Phantom Ruby",
+            "description":[
+                "Start with the Phantom Ruby?",
+                "Setting this to false effectively locks out boss races behind a key item."
             ],
             "type": "Toggle",
             "default": false,
@@ -164,7 +175,7 @@
             "display_name": "Useless Battlemode Items",
             "description":[
                 "Add in the useless battlemode items into the pool? (Bonus Points, Bumper Restock)",
-                "Note: This will intentionally freeze you in place since its a battlemode item, consider this as a 'trap' of sorts"
+                "Note: When item received, this will intentionally freeze you in place since its a battlemode item, consider this as a 'trap' of sorts"
             ],
             "type": "Toggle",
             "default": false,
@@ -173,7 +184,7 @@
         "vanilla_chars":{
             "display_name": "Vanilla Characters",
             "description":[
-                "Add the base game characters into the pool? (v2.4)",
+                "Add the base game characters into the pool? (RR v2.4)",
                 " ",
                 "Toggling multiple character options is not recommended as this will cause bloat and repeated items"
             ],
