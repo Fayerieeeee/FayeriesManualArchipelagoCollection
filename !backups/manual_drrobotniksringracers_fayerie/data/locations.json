@@ -5682,7 +5682,7 @@
     "category": [
       "!! GOAL"
     ],
-    "requires": "|Phantom Ruby| AND |@Emeralds:7| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|",
+    "requires": "|Phantom Ruby| AND |@Emeralds:14| AND (|@Bananas| OR |Progressive Bananas|) AND (|@Orbinauts| OR |Progressive Orbinauts|) AND (|@Sneakers| OR |Progressive Sneakers|) AND (|@Jawzs| OR |Progressive Jawz|) AND |Super Ring|",
     "victory": true
   },
   {
