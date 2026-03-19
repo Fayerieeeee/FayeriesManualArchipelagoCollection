@@ -870,7 +870,7 @@
     "filler": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "Mega Barrier",
     "category": [
       "Battlemode Items",
@@ -945,7 +945,7 @@
     "useful": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "Amped Down Trap",
     "category": [
       "Traps"
@@ -953,7 +953,7 @@
     "trap": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "Damage Trap",
     "category": [
       "Traps"
@@ -961,7 +961,7 @@
     "trap": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "Explode Trap",
     "category": [
       "Traps"
@@ -969,7 +969,7 @@
     "trap": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "Extra Lap Trap",
     "category": [
       "Traps"
@@ -977,7 +977,7 @@
     "trap": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "Fuzz Trap",
     "category": [
       "Traps"
@@ -985,7 +985,7 @@
     "trap": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "Gravflip Trap",
     "category": [
       "Traps"
@@ -993,7 +993,7 @@
     "trap": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "Invisible Trap",
     "category": [
       "Traps"
@@ -1001,7 +1001,7 @@
     "trap": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "Item Removal Trap",
     "category": [
       "Traps"
@@ -1009,7 +1009,7 @@
     "trap": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "Ring Debt Trap",
     "category": [
       "Traps"
@@ -1017,7 +1017,7 @@
     "trap": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "Sting Trap",
     "category": [
       "Traps"
@@ -1025,7 +1025,7 @@
     "trap": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "Stumble Trap",
     "category": [
       "Traps"
@@ -1033,7 +1033,7 @@
     "trap": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "Tumble Trap",
     "category": [
       "Traps"
@@ -1041,7 +1041,7 @@
     "trap": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "Wombo Combo Trap",
     "category": [
       "Traps"
