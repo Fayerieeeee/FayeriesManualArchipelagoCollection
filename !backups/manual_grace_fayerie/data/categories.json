@@ -1,1 +1,168 @@
-{}
+{
+    "Gleam":{
+        "hidden": true,
+        "yaml_option": ["gleam"]
+    },
+    "Greedroom":{
+        "hidden": true,
+        "yaml_option": ["greedroom"]
+    },
+    "CHAOS":{
+        "hidden": true,
+        "yaml_option": ["chaos"]
+    },
+    "Slugfish":{
+        "hidden": true,
+        "yaml_option": ["slugfish"]
+    },
+    "Elkman":{
+        "hidden": true,
+        "yaml_option": ["elkman"]
+    },
+    "Dozer":{
+        "hidden": true,
+        "yaml_option": ["dozer"]
+    },
+    "Sorrow":{
+        "hidden": true,
+        "yaml_option": ["sorrow"]
+    },
+    "Doppel":{
+        "hidden": true,
+        "yaml_option": ["doppel"]
+    },
+    "Litany":{
+        "hidden": true,
+        "yaml_option": ["litany"]
+    },
+    "Kookoo":{
+        "hidden": true,
+        "yaml_option": ["kookoo"]
+    },
+    "Rue":{
+        "hidden": true,
+        "yaml_option": ["rue"]
+    },
+    "Doombringer":{
+        "hidden": true,
+        "yaml_option": ["doombringer"]
+    },
+    "Golden Doombringer":{
+        "hidden": true,
+        "yaml_option": ["golden_doombringer"]
+    },
+    "Mime":{
+        "hidden": true,
+        "yaml_option": ["mime"]
+    },
+    "Drain":{
+        "hidden": true,
+        "yaml_option": ["drain"]
+    },
+    "Ire":{
+        "hidden": true,
+        "yaml_option": ["ire"]
+    },
+    "Seesay":{
+        "hidden": true,
+        "yaml_option": ["seesay"]
+    },
+    "Craven":{
+        "hidden": true,
+        "yaml_option": ["craven"]
+    },
+    "Fool":{
+        "hidden": true,
+        "yaml_option": ["fool"]
+    },
+    "S.N.A.P.":{
+        "hidden": true,
+        "yaml_option": ["snap"]
+    },
+    "Stem":{
+        "hidden": true,
+        "yaml_option": ["stem"]
+    },
+    "Covet":{
+        "hidden": true,
+        "yaml_option": ["covet"]
+    },
+    "zen":{
+        "hidden": true,
+        "yaml_option": ["zen"]
+    },
+    "zen Rank":{
+        "hidden": true,
+        "yaml_option": ["zen_rank"]
+    },
+    "REPRIEVE":{
+        "hidden": true,
+        "yaml_option": ["reprieve"]
+    },
+    "REPRIEVE Hard":{
+        "hidden": true,
+        "yaml_option": ["hard_reprieve"]
+    },
+    "WOED":{
+        "hidden": true,
+        "yaml_option": ["woed"]
+    },
+    "WOED Hard":{
+        "hidden": true,
+        "yaml_option": ["hard_woed"]
+    },
+    "MAYHEM":{
+        "hidden": true,
+        "yaml_option": ["mayhem"]
+    },
+    "MAYHEM Hard":{
+        "hidden": true,
+        "yaml_option": ["hard_mayhem"]
+    },
+    "P Rank":{
+        "hidden": true,
+        "yaml_option": ["p_rank"]
+    },
+    "T Rank":{
+        "hidden": true,
+        "yaml_option": ["t_rank"]
+    },
+    "MAX Severity":{
+        "hidden": true,
+        "yaml_option": ["max_severity"]
+    },
+    "Goobers":{
+        "hidden": true,
+        "yaml_option": ["goober_clicker"]
+    },
+    "Misc":{
+        "hidden": true,
+        "yaml_option": ["misc"]
+    },
+    "Stuff":{
+        "hidden": true,
+        "yaml_option": ["doodles"]
+    },
+    "Domain Extras":{
+        "hidden": true,
+        "yaml_option": ["domain_extras"]
+    },
+    "Starting Light":{
+        "hidden": true
+    },
+    "Good Light":{
+        "hidden": true
+    },
+    "Currency":{
+        "hidden": true
+    },
+    "OMNI Traits":{
+        "hidden": true
+    },
+    "Bound Traits":{
+        "hidden": true
+    },
+    "Shift Traits":{
+        "hidden": true
+    }
+}

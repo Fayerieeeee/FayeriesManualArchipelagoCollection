@@ -1,7 +1,1079 @@
 [
   {
-    "name": "t",
-    "category": [],
+    "name": "jabłoń (Survive Carnation)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": ""
+  },
+  {
+    "name": "ALWAYS SUFFER (Survive Goatman)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": ""
+  },
+  {
+    "name": "eye for an Eye (Survive Slight)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": ""
+  },
+  {
+    "name": "Peer Pressure (Survive Slugfish)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": ""
+  },
+  {
+    "name": "peek-a-boo (Survive Elkman)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": ""
+  },
+  {
+    "name": "STAREDOWN (Survive Heed)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": ""
+  },
+  {
+    "name": "SNOOZE (Survive Dozer)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": ""
+  },
+  {
+    "name": "it's a good day. (Survive Sorrow)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": ""
+  },
+  {
+    "name": "my many eyes (Survive Litany)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": "|Litany Modifiers|"
+  },
+  {
+    "name": "rotten innards (Survive Doppel)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": "|Doppel Modifiers|"
+  },
+  {
+    "name": "DECORRUPT? (Y/N) (Survive Kookoo)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": "|Kookoo Modifiers|"
+  },
+  {
+    "name": "pastwoeslifted (Flash Rue)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": "|Rue Modifiers| AND |@Good Light|"
+  },
+  {
+    "name": "all yours! (Shut Doombringer)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": "|Doombringer Modifiers|"
+  },
+  {
+    "name": "TEH EPIK DUCK IS COMING!!!! (Survive Duk)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": "|Duk Modifiers| AND |@Good Light|"
+  },
+  {
+    "name": "haa fresh meat (Kill Zomber)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": "|Zomber Modifiers| AND |Gleam|"
+  },
+  {
+    "name": "HANDSOFF (Survive Mime)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": "|Mime Modifiers|"
+  },
+  {
+    "name": "abstinence (Flash Drain)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": "|Drain Modifiers| AND |@Good Light|"
+  },
+  {
+    "name": "all equal (Survive Ire)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": "|Ire Modifiers|"
+  },
+  {
+    "name": "hurtful nothings (Flash Seesay)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": "|Seesay Modifiers| AND |@Good Light|"
+  },
+  {
+    "name": "it's and yours (Survive Craven)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": "|Craven Modifiers| AND |@Good Light|"
+  },
+  {
+    "name": "lost in your eyes (Survive Fool)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": "|Fool Modifiers| AND |@Good Light|"
+  },
+  {
+    "name": "SNAPPED BACK (Shut S.N.A.P.)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": "|S.N.A.P. Modifiers|"
+  },
+  {
+    "name": "korzeń (Survive Stem)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": "|Stem Modifiers|"
+  },
+  {
+    "name": "WHAT IS YOURS (Survive Covet)",
+    "region": "Grace",
+    "category": ["Encounters"],
+    "requires": "|Covet Modifiers|"
+  },
+  {
+    "name": "NO. (Flash Then Survive Goatman)",
+    "region": "Grace",
+    "category": ["Grace"],
+    "requires": "|@Good Light|"
+  },
+  {
+    "name": "LAP 2 (2 Saferooms in under 2min 30sec)",
+    "region": "Grace",
+    "category": ["Grace"],
+    "requires": ""
+  },
+  {
+    "name": "War of Spirit (Reach Saferoom 5)",
+    "region": "Grace",
+    "category": ["Grace"],
+    "requires": ""
+  },
+  {
+    "name": "ULTRASONIC (Reach Saferoom in under 1min)",
+    "region": "Grace",
+    "category": ["Grace"],
+    "requires": ""
+  },
+  {
+    "name": "Lightheaded (Equip 3 Light Sources)",
+    "region": "Grace",
+    "category": ["Grace"],
+    "requires": "|@Good Light:3|"
+  },
+  {
+    "name": "hijo. (No-miss Orbs with Gleam)",
+    "region": "Grace",
+    "category": ["Grace", "Gleam"],
+    "requires": "|Gleam|"
+  },
+  {
+    "name": "WILD WILD GRACE (Quickshoot with Gleam)",
+    "region": "Grace",
+    "category": ["Grace", "Gleam"],
+    "requires": "|Gleam|"
+  },
+  {
+    "name": "Whhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhy the long face? (Saferoom with 6 Modifiers)",
+    "region": "Grace",
+    "category": ["Grace"],
+    "requires": "|@Entities:6|"
+  },
+  {
+    "name": "IN THE LIGHT (Greedroom Complete)",
+    "region": "Grace",
+    "category": ["Grace", "Greedroom"],
+    "requires": ""
+  },
+  {
+    "name": "GRACE THE ROOF (5 Greedrooms in 1 Timer)",
+    "region": "Grace",
+    "category": ["Grace", "Greedroom"],
+    "requires": ""
+  },
+  {
+    "name": "NO REST FOR THE TEMPTED (Saferoom 5 with CHAOS Modifier)",
+    "region": "Grace",
+    "category": ["Grace", "CHAOS"],
+    "requires": "|CHAOS|"
+  },
+  {
+    "name": "Peashooter (30 Gleam Shots during Carnation)",
+    "region": "Grace",
+    "category": ["Grace", "Gleam"],
+    "requires": "|Gleam|"
+  },
+  {
+    "name": "OH LAWD ('Ride' Slugfish)",
+    "region": "Grace",
+    "category": ["Grace", "Slugfish"],
+    "requires": ""
+  },
+  {
+    "name": "Tight Squeeze (Enter Door with Slugfish)",
+    "region": "Grace",
+    "category": ["Grace", "Slugfish"],
+    "requires": ""
+  },
+  {
+    "name": "Gentleman (Open Door for Slugfish)",
+    "region": "Grace",
+    "category": ["Grace", "Slugfish"],
+    "requires": ""
+  },
+  {
+    "name": "DAPPED UP (Touch Elkman)",
+    "region": "Grace",
+    "category": ["Grace", "Elkman"],
+    "requires": ""
+  },
+  {
+    "name": "ELKING IT (5 Crouches Elkman)",
+    "region": "Grace",
+    "category": ["Grace", "Elkman"],
+    "requires": ""
+  },
+  {
+    "name": "Past Bed Time (5 Crouches Dozer)",
+    "region": "Grace",
+    "category": ["Grace", "Dozer"],
+    "requires": ""
+  },
+  {
+    "name": "Good Rest (Crouch Entire Dozer)",
+    "region": "Grace",
+    "category": ["Grace", "Dozer"],
+    "requires": ""
+  },
+  {
+    "name": "M.A.D. (Barely Survive Dozer)",
+    "region": "Grace",
+    "category": ["Grace", "Dozer"],
+    "requires": ""
+  },
+  {
+    "name": "The Yellow King (2 Dozers On-screen)",
+    "region": "Grace",
+    "category": ["Grace", "Dozer"],
+    "requires": ""
+  },
+  {
+    "name": "Near Crashout (Barely Survive Sorrow)",
+    "region": "Grace",
+    "category": ["Grace", "Sorrow"],
+    "requires": ""
+  },
+  {
+    "name": "Cope off (Flash Doppel 10 Times)",
+    "region": "Grace",
+    "category": ["Grace", "Doppel"],
+    "requires": "|Doppel Modifiers| AND |@Good Light|"
+  },
+  {
+    "name": "FACEOFF (Flash Doppel Closeup)",
+    "region": "Grace",
+    "category": ["Grace", "Doppel"],
+    "requires": "|Doppel Modifiers| AND |@Good Light|"
+  },
+  {
+    "name": "OUT OF MY HEAD (6+ Doppels)",
+    "region": "Grace",
+    "category": ["Grace", "Doppel"],
+    "requires": "|Doppel Modifiers|"
+  },
+  {
+    "name": "' (Survive Instakill Doppel)",
+    "region": "Grace",
+    "category": ["Grace", "Doppel"],
+    "requires": "|Doppel Modifiers|"
+  },
+  {
+    "name": "IDDY YET (Dozer Kookoo Litany On-screen)",
+    "region": "Grace",
+    "category": ["Grace", "Litany", "Kookoo"],
+    "requires": "|Litany Modifiers| AND |Kookoo Modifiers|"
+  },
+  {
+    "name": "Stretcher Joyride (Slide Entire Litany)",
+    "region": "Grace",
+    "category": ["Grace", "Litany"],
+    "requires": "|Litany Modifiers|"
+  },
+  {
+    "name": "starving (5 Doodles Kookoo)",
+    "region": "Grace",
+    "category": ["Grace", "Kookoo", "Stuff"],
+    "requires": "|Kookoo Modifiers| AND |Quill|"
+  },
+  {
+    "name": "ittookalot. (Flash Rue Closeup)",
+    "region": "Grace",
+    "category": ["Grace", "Rue"],
+    "requires": "|Rue Modifiers| AND |@Good Light|"
+  },
+  {
+    "name": "linger (Survive Rue)",
+    "region": "Grace",
+    "category": ["Grace", "Rue"],
+    "requires": "|Rue Modifiers|"
+  },
+  {
+    "name": "Pacificed (Shut Doombringer Quickly)",
+    "region": "Grace",
+    "category": ["Grace", "Doombringer"],
+    "requires": "|Doombringer Modifiers|"
+  },
+  {
+    "name": "ALL OF THE RULES (Equip Doombringer 5min)",
+    "region": "Grace",
+    "category": ["Grace", "Doombringer"],
+    "requires": "|Doombringer Modifiers|"
+  },
+  {
+    "name": "Caretaker (5 Doombringers Inventory)",
+    "region": "Grace",
+    "category": ["Grace", "Doombringer"],
+    "requires": "|Doombringer Modifiers|"
+  },
+  {
+    "name": "STUPID GAMES (Doombringer Disposes Item)",
+    "region": "Grace",
+    "category": ["Grace", "Doombringer"],
+    "requires": "|Doombringer Modifiers|"
+  },
+  {
+    "name": "Midasdam (Golden Doombringer)",
+    "region": "Grace",
+    "category": ["Grace", "Doombringer", "Golden Doombringer"],
+    "requires": "|Doombringer Modifiers|"
+  },
+  {
+    "name": "Misshapen (Spam Flash Mime)",
+    "region": "Grace",
+    "category": ["Grace", "Mime"],
+    "requires": "|Mime Modifiers| AND |@Good Light|"
+  },
+  {
+    "name": "while you still can (Flash Drain Closeup)",
+    "region": "Grace",
+    "category": ["Grace", "Drain"],
+    "requires": "|Drain Modifiers| AND |@Good Light|"
+  },
+  {
+    "name": "shame to His name (Die Drain Saferoom)",
+    "region": "Grace",
+    "category": ["Grace", "Drain"],
+    "requires": "|Drain Modifiers|"
+  },
+  {
+    "name": "WAKEUPCALL (Survive Ire Closeup)",
+    "region": "Grace",
+    "category": ["Grace", "Ire"],
+    "requires": "|Ire Modifiers|"
+  },
+  {
+    "name": "zipped tight (Flash Seesay Quickly)",
+    "region": "Grace",
+    "category": ["Grace", "Seesay"],
+    "requires": "|Seesay Modifiers| AND |@Good Light|"
+  },
+  {
+    "name": "tip of the tongue (Flash Seesay Closeup)",
+    "region": "Grace",
+    "category": ["Grace", "Seesay"],
+    "requires": "|Seesay Modifiers| AND |@Good Light|"
+  },
+  {
+    "name": "you alright? (Flash Craven Last Second)",
+    "region": "Grace",
+    "category": ["Grace", "Craven"],
+    "requires": "|Craven Modifiers| AND |@Good Light|"
+  },
+  {
+    "name": "not that. (Vanquish Craven)",
+    "region": "Grace",
+    "category": ["Grace", "Craven"],
+    "requires": "|Craven Modifiers| AND |@Good Light|"
+  },
+  {
+    "name": "COWARD (5 Rooms Fool Snaps)",
+    "region": "Grace",
+    "category": ["Grace", "Fool"],
+    "requires": "|Fool Modifiers|"
+  },
+  {
+    "name": "this way. (Vanquish Fool)",
+    "region": "Grace",
+    "category": ["Grace", "Fool"],
+    "requires": "|Fool Modifiers| AND |@Good Light|"
+  },
+  {
+    "name": "second thought (Barely Shut S.N.A.P.)",
+    "region": "Grace",
+    "category": ["Grace", "S.N.A.P."],
+    "requires": "|S.N.A.P. Modifiers|"
+  },
+  {
+    "name": "snappin' (Shut S.N.A.P. Midair)",
+    "region": "Grace",
+    "category": ["Grace", "S.N.A.P."],
+    "requires": "|S.N.A.P. Modifiers|"
+  },
+  {
+    "name": "SNAP OUT (10 Rooms Screaming S.N.A.P.)",
+    "region": "Grace",
+    "category": ["Grace", "S.N.A.P."],
+    "requires": "|S.N.A.P. Modifiers|"
+  },
+  {
+    "name": "IN A SNAP (Shut S.N.A.P. Quickly)",
+    "region": "Grace",
+    "category": ["Grace", "S.N.A.P."],
+    "requires": "|S.N.A.P. Modifiers|"
+  },
+  {
+    "name": "LIKE A SNAP GOD (Un/Equip S.N.A.P. 10 Times 1 Scream)",
+    "region": "Grace",
+    "category": ["Grace", "S.N.A.P."],
+    "requires": "|S.N.A.P. Modifiers|"
+  },
+  {
+    "name": "CICHOTA TO ŚCIEMA (Barely Survive Stem)",
+    "region": "Grace",
+    "category": ["Grace", "Stem"],
+    "requires": "|Stem Modifiers|"
+  },
+  {
+    "name": "YOUWANT (Survive 3 Covets)",
+    "region": "Grace",
+    "category": ["Grace", "Covet"],
+    "requires": "|Covet Modifiers|"
+  },
+  {
+    "name": "LOVESPILL (Nearly Fill LOVE Meter)",
+    "region": "Grace",
+    "category": ["Grace"],
+    "requires": "|@Traits|"
+  },
+  {
+    "name": "my difference (1 Trait Equipped)",
+    "region": "Grace",
+    "category": ["Grace"],
+    "requires": "|@Traits|"
+  },
+  {
+    "name": "for you (3 Traits Equipped)",
+    "region": "Grace",
+    "category": ["Grace"],
+    "requires": "|@Traits:3|"
+  },
+  {
+    "name": "personalized (1 Bound Trait Equipped)",
+    "region": "Grace",
+    "category": ["Grace"],
+    "requires": "|@Bound Traits|"
+  },
+  {
+    "name": "chains (3 Bound Traits Equipped)",
+    "region": "Grace",
+    "category": ["Grace"],
+    "requires": "|@Bound Traits:3|"
+  },
+  {
+    "name": "OMNI (1 Trait in OMNI Slot)",
+    "region": "Grace",
+    "category": ["Grace"],
+    "requires": "|@Traits: 3| AND |OMNI Traits|"
+  },
+  {
+    "name": "love of grace (Room 500 Grace)",
+    "region": "Grace",
+    "category": ["Grace"],
+    "requires": ""
+  },
+  {
+    "name": "Beyond the surface. (Enter zen)",
+    "region": "zen",
+    "category": ["zen"],
+    "requires": ""
+  },
+  {
+    "name": "grace of love (Room 500 clean zen)",
+    "region": "zen",
+    "category": ["zen"],
+    "requires": ""
+  },
+  {
+    "name": "meditation (Rest 5min)",
+    "region": "zen",
+    "category": ["zen"],
+    "requires": ""
+  },
+  {
+    "name": "uoy pleh ll'i (Spoil zen)",
+    "region": "zen",
+    "category": ["zen"],
+    "requires": ""
+  },
+  {
+    "name": "hollow victory (S Rank Spoiled zen)",
+    "region": "zen",
+    "category": ["zen"],
+    "requires": ""
+  },
+  {
+    "name": "hollow victory+ (++++++++++S Rank Spoiled zen)",
+    "region": "zen",
+    "category": ["zen", "zen Rank"],
+    "requires": ""
+  },
+  {
+    "name": "ON THE OFFENSE. (Enter REPRIEVE)",
+    "region": "REPRIEVE",
+    "category": ["REPRIEVE"],
+    "requires": ""
+  },
+  {
+    "name": "TRAGIC IRONY. (Die in REPRIEVE)",
+    "region": "REPRIEVE",
+    "category": ["REPRIEVE"],
+    "requires": ""
+  },
+  {
+    "name": "rachunek sumienia (Starting Area 2min)",
+    "region": "REPRIEVE",
+    "category": ["REPRIEVE"],
+    "requires": ""
+  },
+  {
+    "name": "grace rebuilt (Accomplish REPRIEVE)",
+    "region": "REPRIEVE",
+    "category": ["REPRIEVE"],
+    "requires": ""
+  },
+  {
+    "name": "RAGING ANGEL (Parry 10 Times 1 Floor)",
+    "region": "REPRIEVE",
+    "category": ["REPRIEVE"],
+    "requires": ""
+  },
+  {
+    "name": "COME AND GET IT (Parry SHAME Mach 1+)",
+    "region": "REPRIEVE",
+    "category": ["REPRIEVE"],
+    "requires": ""
+  },
+  {
+    "name": "HUMILIATION. (Parry Dozer)",
+    "region": "REPRIEVE",
+    "category": ["REPRIEVE"],
+    "requires": ""
+  },
+  {
+    "name": "I'LL DO MY OWN THING. (Parry Litany Completely)",
+    "region": "REPRIEVE",
+    "category": ["REPRIEVE"],
+    "requires": "|Litany Modifiers|"
+  },
+  {
+    "name": "TALK TO THE HAND. (Parry Doppel)",
+    "region": "REPRIEVE",
+    "category": ["REPRIEVE"],
+    "requires": "|Doppel Modifiers|"
+  },
+  {
+    "name": "A VOW TO REUNION. (Parry Rue)",
+    "region": "REPRIEVE",
+    "category": ["REPRIEVE"],
+    "requires": "|Rue Modifiers|"
+  },
+  {
+    "name": "MAKE IT RIGHT. (Parry Doombringer)",
+    "region": "REPRIEVE",
+    "category": ["REPRIEVE"],
+    "requires": "|Doombringer Modifiers|"
+  },
+  {
+    "name": "GET A CLUE. (Parry Duk)",
+    "region": "REPRIEVE",
+    "category": ["REPRIEVE"],
+    "requires": "Duk Modifiers|"
+  },
+  {
+    "name": "off all kind (Survive All Entities)",
+    "region": "REPRIEVE",
+    "category": ["REPRIEVE", "REPRIEVE Hard"],
+    "requires": "|Litany Modifiers| AND |Doppel Modifiers| AND |Rue Modifiers| AND |Doombringer Modifiers| AND |Duk Modifiers|"
+  },
+  {
+    "name": "NO SHAME NO GAIN (5sec Only)",
+    "region": "REPRIEVE",
+    "category": ["REPRIEVE", "REPRIEVE Hard"],
+    "requires": ""
+  },
+  {
+    "name": "THOROUGH (999,999 Score)",
+    "region": "REPRIEVE",
+    "category": ["REPRIEVE", "REPRIEVE Hard"],
+    "requires": ""
+  },
+  {
+    "name": "Big One (Survive with 10x Multiplier)",
+    "region": "REPRIEVE",
+    "category": ["REPRIEVE", "REPRIEVE Hard"],
+    "requires": ""
+  },
+  {
+    "name": "GOD'S EAGLE (Enter WOED)",
+    "region": "WOED",
+    "category": ["WOED"],
+    "requires": ""
+  },
+  {
+    "name": "WOE LIVES ON (Die in WOED)",
+    "region": "WOED",
+    "category": ["WOED"],
+    "requires": "|@Domains|"
+  },
+  {
+    "name": "Pick me! (Pick First Goober)",
+    "region": "WOED",
+    "category": ["WOED"],
+    "requires": ""
+  },
+  {
+    "name": "Roll! Roll! Roll! (Reroll 20 Times)",
+    "region": "WOED",
+    "category": ["WOED"],
+    "requires": ""
+  },
+  {
+    "name": "Goobermination (7 Goobers)",
+    "region": "WOED",
+    "category": ["WOED", "WOED Hard"],
+    "requires": "|@Domains|"
+  },
+  {
+    "name": "BLINDING LIGHT (Beat 3 Domains Consecutively)",
+    "region": "WOED",
+    "category": ["WOED", "WOED Hard"],
+    "requires": "|@Domains|"
+  },
+  {
+    "name": "This is MAYHEM (Die in MAYHEM)",
+    "region": "MAYHEM",
+    "category": ["MAYHEM"],
+    "requires": ""
+  },
+  {
+    "name": "GOTTA GO FAST (Survive Timer 45sec)",
+    "region": "MAYHEM",
+    "category": ["MAYHEM"],
+    "requires": ""
+  },
+  {
+    "name": "Broke (>65 Budget)",
+    "region": "MAYHEM",
+    "category": ["MAYHEM"],
+    "requires": ""
+  },
+  {
+    "name": "Customer Service (Reroll 10 Times)",
+    "region": "MAYHEM",
+    "category": ["MAYHEM"],
+    "requires": ""
+  },
+  {
+    "name": "body over soul (Commit/Witness VIOLATION)",
+    "region": "MAYHEM",
+    "category": ["MAYHEM"],
+    "requires": "|@Bound Traits| OR |@Shift Traits|"
+  },
+  {
+    "name": "White Light (Commit VIOLATION Flash Smoke Balls)",
+    "region": "MAYHEM",
+    "category": ["MAYHEM", "MAYHEM Hard"],
+    "requires": "(|@Bound Traits| OR |@Shift Traits|) AND |Gleam|"
+  },
+  {
+    "name": "IN GOES LIGHT (Survive Every Entity)",
+    "region": "MAYHEM",
+    "category": ["MAYHEM", "MAYHEM Hard"],
+    "requires": "|@Entities:16|"
+  },
+  {
+    "name": "AGAPE (Beat Domain)",
+    "region": "Domains",
+    "category": ["Domains"],
+    "requires": ""
+  },
+  {
+    "name": "SOUL OVER BODY (Beat Domain MAX Severity)",
+    "region": "Domains",
+    "category": ["Domains", "MAX Severity"],
+    "requires": ""
+  },
+  {
+    "name": "SIN FELLED (Beat Domain P Rank)",
+    "region": "Domains",
+    "category": ["Domains", "P Rank"],
+    "requires": ""
+  },
+  {
+    "name": "LIGHTWORK (Beat Domain Alone)",
+    "region": "Domains",
+    "category": ["Domains"],
+    "requires": ""
+  },
+  {
+    "name": "TRIBULATION (Enter Domain MAX Severity)",
+    "region": "Domains",
+    "category": ["Domains", "MAX Severity"],
+    "requires": ""
+  },
+  {
+    "name": "CONVICTION (Beat Nede A Rank)",
+    "region": "Domains",
+    "category": ["Domains"],
+    "requires": "|Domain of Nede|",
+    "place_item": ["NEDE FELLED"]
+  },
+  {
+    "name": "HEAD OUT THE POT (Beat Nede P Rank)",
+    "region": "Domains",
+    "category": ["Domains", "P Rank"],
+    "requires": ""
+  },
+  {
+    "name": "HEAD OUT THE POT+ (Beat Nede † Rank)",
+    "region": "Domains",
+    "category": ["Domains", "T Rank"],
+    "requires": "|Domain of Nede|"
+  },
+  {
+    "name": "TURF WAR (Beat Nede MAX Severity)",
+    "region": "Domains",
+    "category": ["Domains", "MAX Severity"],
+    "requires": "|Domain of Nede|"
+  },
+  {
+    "name": "LAWNMOWER (Beat Nede P Rank MAX Severity)",
+    "region": "Domains",
+    "category": ["Domains", "P Rank", "MAX Severity"],
+    "requires": "|Domain of Nede|"
+  },
+  {
+    "name": "LAWNMOWER+ (Beat Nede † Rank MAX Severity)",
+    "region": "Domains",
+    "category": ["Domains", "T Rank", "MAX Severity"],
+    "requires": "|Domain of Nede|"
+  },
+  {
+    "name": "dziecko grzechu (Flash 2 Flowerheads 1 Squirt)",
+    "region": "Domains",
+    "category": ["Domains"],
+    "requires": "|Domain of Nede|"
+  },
+  {
+    "name": "IF YOU'RE ABLE (Dodge 5 Flowerheads)",
+    "region": "Domains",
+    "category": ["Domains"],
+    "requires": "|Domain of Nede|"
+  },
+  {
+    "name": "'Problematic' (Sinrow 30 Wallkicks)",
+    "region": "Domains",
+    "category": ["Domains"],
+    "requires": "|Domain of Sinrow|"
+  },
+  {
+    "name": "MY HEAD (Beat Sinrow A Rank)",
+    "region": "Domains",
+    "category": ["Domains"],
+    "requires": "|Domain of Sinrow|",
+    "place_item": ["SINROW FELLED"]
+  },
+  {
+    "name": "AND... CUT! (Beat Sinrow P Rank)",
+    "region": "Domains",
+    "category": ["Domains", "P Rank"],
+    "requires": "|Domain of Sinrow|"
+  },
+  {
+    "name": "AND... CUT!+ (Beat Sinrow † Rank)",
+    "region": "Domains",
+    "category": ["Domains", "T Rank"],
+    "requires": "|Domain of Sinrow|"
+  },
+  {
+    "name": "DROP IT (Face Guilles Closeup)",
+    "region": "Domains",
+    "category": ["Domains"],
+    "requires": "|Domain of Sinrow|"
+  },
+  {
+    "name": "MASSACRE MARCH (Beat Sinrow MAX Severity)",
+    "region": "Domains",
+    "category": ["Domains", "MAX Severity"],
+    "requires": "|Domain of Sinrow|"
+  },
+  {
+    "name": "BRAZEN BULL (Beat Sinrow P Rank MAX Severity)",
+    "region": "Domains",
+    "category": ["Domains", "P Rank", "MAX Severity"],
+    "requires": "|Domain of Sinrow|"
+  },
+  {
+    "name": "BRAZEN BULL+ (Beat Sinrow † Rank MAX Severity)",
+    "region": "Domains",
+    "category": ["Domains", "T Rank", "MAX Severity"],
+    "requires": "|Domain of Sinrow|"
+  },
+  {
+    "name": "I FEEL LIKE AN ATOMBOMBATOMBOMBATOMBOMBATOMBOMB (Regain SANITY Near Empty Clot)",
+    "region": "Domains",
+    "category": ["Domains"],
+    "requires": "|Domain of Clot|"
+  },
+  {
+    "name": "RAIN MY HEART (Beat Clot A Rank)",
+    "region": "Domains",
+    "category": ["Domains"],
+    "requires": "|Domain of Clot|",
+    "place_item": ["CLOT FELLED"]
+  },
+  {
+    "name": "TRAGEDY NEVER DIES (Beat Clot P Rank)",
+    "region": "Domains",
+    "category": ["Domains", "P Rank"],
+    "requires": "|Domain of Clot|"
+  },
+  {
+    "name": "TRAGEDY NEVER DIES+ (Beat Clot † Rank)",
+    "region": "Domains",
+    "category": ["Domains", "T Rank"],
+    "requires": "|Domain of Clot|"
+  },
+  {
+    "name": "DROWN IN IT (Beat Clot MAX Severity)",
+    "region": "Domains",
+    "category": ["Domains", "MAX Severity"],
+    "requires": "|Domain of Clot|"
+  },
+  {
+    "name": "NO REACTION (Beat Clot P Rank MAX Severity)",
+    "region": "Domains",
+    "category": ["Domains", "P Rank", "MAX Severity"],
+    "requires": "|Domain of Clot|"
+  },
+  {
+    "name": "NO REACTION+ (Beat Clot † Rank MAX Severity)",
+    "region": "Domains",
+    "category": ["Domains", "T Rank", "MAX Severity"],
+    "requires": "|Domain of Clot|"
+  },
+  {
+    "name": "Have a Goober! (Regoob)",
+    "region": "Goobers",
+    "category": ["Goobers"],
+    "requires": ""
+  },
+  {
+    "name": "Goober Brain (2nd Regoob)",
+    "region": "Goobers",
+    "category": ["Goobers"],
+    "requires": ""
+  },
+  {
+    "name": "Long Goober (5th Regoob)",
+    "region": "Goobers",
+    "category": ["Goobers"],
+    "requires": ""
+  },
+  {
+    "name": "Tall Goober (10th Regoob)",
+    "region": "Goobers",
+    "category": ["Goobers"],
+    "requires": ""
+  },
+  {
+    "name": "! goober (20th Regoob)",
+    "region": "Goobers",
+    "category": ["Goobers"],
+    "requires": ""
+  },
+  {
+    "name": "Goober Rich (1mil Goobers)",
+    "region": "Goobers",
+    "category": ["Goobers"],
+    "requires": ""
+  },
+  {
+    "name": "Golden Goober (1bil Goobers)",
+    "region": "Goobers",
+    "category": ["Goobers"],
+    "requires": ""
+  },
+  {
+    "name": "Diamond Goober (1tril Goobers)",
+    "region": "Goobers",
+    "category": ["Goobers"],
+    "requires": ""
+  },
+  {
+    "name": "Goober Kinol (Click Goober 1k Times)",
+    "region": "Goobers",
+    "category": ["Goobers"],
+    "requires": ""
+  },
+  {
+    "name": "Strong Goober (Click Goober 10k Times)",
+    "region": "Goobers",
+    "category": ["Goobers"],
+    "requires": ""
+  },
+  {
+    "name": "Loving Goober (Regoob in a Run)",
+    "region": "Goobers",
+    "category": ["Goobers"],
+    "requires": ""
+  },
+  {
+    "name": "Another Goober (Regoob in zen)",
+    "region": "Goobers",
+    "category": ["Goobers"],
+    "requires": "|zen|"
+  },
+  {
+    "name": "A different Goober! (Regoob in REPRIEVE)",
+    "region": "Goobers",
+    "category": ["Goobers"],
+    "requires": "|REPRIEVE|"
+  },
+  {
+    "name": "Bone Goober (Regoob in the Shop)",
+    "region": "Goobers",
+    "category": ["Goobers"],
+    "requires": ""
+  },
+  {
+    "name": "NOT a Goober. (Regoob Doombringer Equipped)",
+    "region": "Goobers",
+    "category": ["Goobers"],
+    "requires": "|Doombringer Modifiers|"
+  },
+  {
+    "name": "Snappy Goober (Regoob S.N.A.P. Equipped)",
+    "region": "Goobers",
+    "category": ["Goobers"],
+    "requires": "|S.N.A.P. Modifiers|"
+  },
+  {
+    "name": "Goober Doodle (Regoob Quill Equipped)",
+    "region": "Goobers",
+    "category": ["Goobers", "Stuff"],
+    "requires": "|Quill|"
+  },
+  {
+    "name": "Zip Zloober (Regoob Midair)",
+    "region": "Goobers",
+    "category": ["Goobers"],
+    "requires": ""
+  },
+  {
+    "name": "Genesis (Join Grace)",
+    "region": "Misc",
+    "category": ["Misc"],
+    "requires": ""
+  },
+  {
+    "name": "i'll help you. (Die)",
+    "region": "Misc",
+    "category": ["Misc"],
+    "requires": ""
+  },
+  {
+    "name": "awwww (2sec Warning Screen)",
+    "region": "Misc",
+    "category": ["Misc"],
+    "requires": ""
+  },
+  {
+    "name": "already having fun? (1min Warning Screen)",
+    "region": "Misc",
+    "category": ["Misc"],
+    "requires": ""
+  },
+  {
+    "name": "BURNOUT (Barely Move Slide)",
+    "region": "Misc",
+    "category": ["Misc"],
+    "requires": ""
+  },
+  {
+    "name": "AWOOOGA (-60 FOV)",
+    "region": "Misc",
+    "category": ["Misc"],
+    "requires": ""
+  },
+  {
+    "name": "STIMULATED (Spin Flashlight)",
+    "region": "Misc",
+    "category": ["Misc"],
+    "requires": ""
+  },
+  {
+    "name": "B-B-BLAST!!! (Break Door)",
+    "region": "Misc",
+    "category": ["Misc"],
+    "requires": ""
+  },
+  {
+    "name": "BULLSEYE (Brick Door Fast)",
+    "region": "Misc",
+    "category": ["Misc"],
+    "requires": ""
+  },
+  {
+    "name": "Creative (First Doodle)",
+    "region": "Misc",
+    "category": ["Misc", "Stuff"],
+    "requires": "|Quill|"
+  },
+  {
+    "name": "PSYCHARTIST (2min 30sec Doodle Menu)",
+    "region": "Misc",
+    "category": ["Misc", "Stuff"],
+    "requires": "|Quill|"
+  },
+  {
+    "name": "Doodledicted (90 Doodles)",
+    "region": "Misc",
+    "category": ["Misc", "Stuff"],
+    "requires": "|Quill|"
+  },
+  {
+    "name": "THE WAY I SEE IT (Redeem Vision)",
+    "region": "Misc",
+    "category": ["Misc"],
+    "requires": ""
+  },
+  {
+    "name": "IS LIKE NO OTHER. (1 Vision per Entity)",
+    "region": "Misc",
+    "category": ["Misc"],
     "requires": ""
   }
 ]

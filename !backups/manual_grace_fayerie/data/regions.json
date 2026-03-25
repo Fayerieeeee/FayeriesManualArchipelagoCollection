@@ -1,6 +1,34 @@
 {
-  "t": {
+  "Grace": {
     "starting": true,
+    "connects_to": [],
+    "requires": "|Grace|"
+  },
+  "zen": {
+    "connects_to": [],
+    "requires": "|zen|"
+  },
+  "REPRIEVE": {
+    "connects_to": [],
+    "requires": "|REPRIEVE|"
+  },
+  "WOED": {
+    "connects_to": [],
+    "requires": "|WOED|"
+  },
+  "MAYHEM": {
+    "connects_to": [],
+    "requires": "|MAYHEM|"
+  },
+  "Domains": {
+    "connects_to": [],
+    "requires": "|@Domains|"
+  },
+  "Goobers": {
+    "connects_to": [],
+    "requires": "|Goober Clicker|"
+  },
+  "Misc": {
     "connects_to": [],
     "requires": ""
   }
