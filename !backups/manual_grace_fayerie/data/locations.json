@@ -864,7 +864,7 @@
     "category": [
       "REPRIEVE"
     ],
-    "requires": "Duk Modifiers|"
+    "requires": "|Duk Modifiers|"
   },
   {
     "name": "off all kind (Survive All Entities)",
