@@ -91,7 +91,7 @@
             "group": "Difficulties"
         },
         "t_rank":{
-            "display_name": "Hard REPRIEVE",
+            "display_name": "T Ranks",
             "type": "Toggle",
             "default": false,
             "group": "Difficulties"

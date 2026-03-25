@@ -1,6 +1,5 @@
 {
   "Grace": {
-    "starting": true,
     "connects_to": [],
     "requires": "|Grace|"
   },
