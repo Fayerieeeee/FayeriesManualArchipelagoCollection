@@ -2,589 +2,851 @@
   {
     "count": 1,
     "name": "Grace",
-    "category": ["Gamemodes", "Grace"],
+    "category": [
+      "Gamemodes",
+      "Grace"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "zen",
-    "category": ["Gamemodes", "zen"],
+    "category": [
+      "Gamemodes",
+      "zen"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "REPRIEVE",
-    "category": ["Gamemodes", "REPRIEVE"],
+    "category": [
+      "Gamemodes",
+      "REPRIEVE"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "WOED",
-    "category": ["Gamemodes", "WOED"],
+    "category": [
+      "Gamemodes",
+      "WOED"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "MAYHEM",
-    "category": ["Gamemodes", "MAYHEM"],
+    "category": [
+      "Gamemodes",
+      "MAYHEM"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "CHAOS",
-    "category": ["Gamemodes", "CHAOS"],
+    "category": [
+      "Gamemodes",
+      "CHAOS"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Goober Clicker",
-    "category": ["Gamemodes", "Goobers"],
+    "category": [
+      "Gamemodes",
+      "Goobers"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Domain of Nede",
-    "category": ["Domains"],
+    "category": [
+      "Domains"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Domain of Sinrow",
-    "category": ["Domains"],
+    "category": [
+      "Domains"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Domain of Clot",
-    "category": ["Domains"],
+    "category": [
+      "Domains"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Love Blossom",
-    "category": ["Domain Items", "Domain Extras"],
+    "category": [
+      "Domain Items",
+      "Domain Extras"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Rusted Shackle",
-    "category": ["Domain Items", "Domain Extras"],
+    "category": [
+      "Domain Items",
+      "Domain Extras"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Yellow Beacons",
-    "category": ["Domain Items", "Domain Extras"],
+    "category": [
+      "Domain Items",
+      "Domain Extras"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "NEDE FELLED",
-    "category": ["Domain Items"],
+    "category": [
+      "Domain Items"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "SINROW FELLED",
-    "category": ["Domain Items"],
+    "category": [
+      "Domain Items"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "CLOT FELLED",
-    "category": ["Domain Items"],
+    "category": [
+      "Domain Items"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Flashlight",
-    "category": ["Items", "Good Light", "Starting Light"],
+    "category": [
+      "Items",
+      "Good Light",
+      "Starting Light"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Lantern",
-    "category": ["Items", "Good Light", "Starting Light"],
+    "category": [
+      "Items",
+      "Good Light",
+      "Starting Light"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "S.H.A.K.E.",
-    "category": ["Items", "Good Light"],
+    "category": [
+      "Items",
+      "Good Light"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "B.R.I.C.K.",
-    "category": ["Items"],
+    "category": [
+      "Items"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Doombringer",
-    "category": ["Items"],
+    "category": [
+      "Items"
+    ],
     "trap": true
   },
   {
     "count": 1,
     "name": "S.N.A.P.",
-    "category": ["Items"],
+    "category": [
+      "Items"
+    ],
     "trap": true
   },
   {
     "count": 1,
     "name": "Gleam",
-    "category": ["Items", "Good Light", "Gleam"],
+    "category": [
+      "Items",
+      "Good Light",
+      "Gleam"
+    ],
     "progression": true
   },
   {
     "count": 10,
     "name": "Key",
-    "category": ["Items", "Currency"],
+    "category": [
+      "Items",
+      "Currency"
+    ],
     "filler": true
   },
   {
     "count": 10,
     "name": "Super Key",
-    "category": ["Items", "Currency"],
+    "category": [
+      "Items",
+      "Currency"
+    ],
     "filler": true
   },
   {
     "count": 10,
     "name": "Skin Can",
-    "category": ["Items", "Currency"],
+    "category": [
+      "Items",
+      "Currency"
+    ],
     "filler": true
   },
   {
     "count": 10,
     "name": "Trait Charm",
-    "category": ["Items", "Currency"],
+    "category": [
+      "Items",
+      "Currency"
+    ],
     "filler": true
   },
   {
     "count": 10,
     "name": "Vision",
-    "category": ["Items", "Currency"],
+    "category": [
+      "Items",
+      "Currency"
+    ],
     "filler": true
   },
   {
     "count": 1,
     "name": "Quill",
-    "category": ["Items", "Stuff"],
+    "category": [
+      "Items",
+      "Stuff"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Soulset",
-    "category": ["Items", "Stuff"],
+    "category": [
+      "Items",
+      "Stuff"
+    ],
     "filler": true
   },
   {
     "count": 1,
     "name": "10-Point Crampons Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Cog Trait",
-    "category": ["Traits", "OMNI Traits"],
+    "category": [
+      "Traits",
+      "OMNI Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Dedelusion Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Domehead Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Firework Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Fist of Steel Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Flutterby Wings Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Forevision Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Fractured Divinity Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Goober Cookie Trait",
-    "category": ["Traits", "OMNI Traits"],
+    "category": [
+      "Traits",
+      "OMNI Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Honk Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "L.O.V. Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Mistletoe Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Noisemaker Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Nulldive Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Propeller Cap Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Petal Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "P. Diving Gear Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Rosary Ring Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Steel-Toed Trait",
-    "category": ["Traits", "OMNI Traits"],
+    "category": [
+      "Traits",
+      "OMNI Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Sinth Sense Trait",
-    "category": ["Traits", "OMNI Traits"],
+    "category": [
+      "Traits",
+      "OMNI Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Teddy Teddy Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Artuma Trait",
-    "category": ["Traits", "Bound Traits", "OMNI Traits"],
+    "category": [
+      "Traits",
+      "Bound Traits",
+      "OMNI Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Cafdae Trait",
-    "category": ["Traits", "Bound Traits", "OMNI Traits"],
+    "category": [
+      "Traits",
+      "Bound Traits",
+      "OMNI Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Cangorrae Trait",
-    "category": ["Traits", "Bound Traits", "OMNI Traits"],
+    "category": [
+      "Traits",
+      "Bound Traits",
+      "OMNI Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Deggur Trait",
-    "category": ["Traits", "Bound Traits", "OMNI Traits"],
+    "category": [
+      "Traits",
+      "Bound Traits",
+      "OMNI Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Dripe Trait",
-    "category": ["Traits", "Bound Traits", "OMNI Traits"],
+    "category": [
+      "Traits",
+      "Bound Traits",
+      "OMNI Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Folo Trait",
-    "category": ["Traits", "Bound Traits", "OMNI Traits"],
+    "category": [
+      "Traits",
+      "Bound Traits",
+      "OMNI Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Kucluny Trait",
-    "category": ["Traits", "Bound Traits", "OMNI Traits"],
+    "category": [
+      "Traits",
+      "Bound Traits",
+      "OMNI Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Nurbed Trait",
-    "category": ["Traits", "Bound Traits", "OMNI Traits"],
+    "category": [
+      "Traits",
+      "Bound Traits",
+      "OMNI Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Pennetti Trait",
-    "category": ["Traits", "Bound Traits", "OMNI Traits"],
+    "category": [
+      "Traits",
+      "Bound Traits",
+      "OMNI Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Rotespact Trait",
-    "category": ["Traits", "Bound Traits", "OMNI Traits"],
+    "category": [
+      "Traits",
+      "Bound Traits",
+      "OMNI Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Solent Trait",
-    "category": ["Traits", "Bound Traits", "OMNI Traits"],
+    "category": [
+      "Traits",
+      "Bound Traits",
+      "OMNI Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Shifet Trait",
-    "category": ["Traits", "Bound Traits", "OMNI Traits"],
+    "category": [
+      "Traits",
+      "Bound Traits",
+      "OMNI Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Terlesis Trait",
-    "category": ["Traits", "Bound Traits", "OMNI Traits"],
+    "category": [
+      "Traits",
+      "Bound Traits",
+      "OMNI Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Toginco Trait",
-    "category": ["Traits", "Bound Traits", "OMNI Traits"],
+    "category": [
+      "Traits",
+      "Bound Traits",
+      "OMNI Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Treens Trait",
-    "category": ["Traits", "Bound Traits", "OMNI Traits"],
+    "category": [
+      "Traits",
+      "Bound Traits",
+      "OMNI Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Humble Trait",
-    "category": ["Traits", "Shift Traits", "OMNI Traits"],
+    "category": [
+      "Traits",
+      "Shift Traits",
+      "OMNI Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Perfectionist Trait",
-    "category": ["Traits", "Shift Traits", "OMNI Traits"],
+    "category": [
+      "Traits",
+      "Shift Traits",
+      "OMNI Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Self-Restrained Trait",
-    "category": ["Traits", "Shift Traits", "OMNI Traits"],
+    "category": [
+      "Traits",
+      "Shift Traits",
+      "OMNI Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Stonecold Trait",
-    "category": ["Traits", "Shift Traits", "OMNI Traits"],
+    "category": [
+      "Traits",
+      "Shift Traits",
+      "OMNI Traits"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Litany Modifiers",
-    "category": ["Entities"],
+    "category": [
+      "Entities"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Doppel Modifiers",
-    "category": ["Entities"],
+    "category": [
+      "Entities"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Doombringer Modifiers",
-    "category": ["Entities"],
+    "category": [
+      "Entities"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Kookoo Modifiers",
-    "category": ["Entities"],
+    "category": [
+      "Entities"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Tar Modifiers Trap",
-    "category": ["Entities"],
+    "category": [
+      "Entities"
+    ],
     "trap": true
   },
   {
     "count": 1,
     "name": "Rue Modifiers",
-    "category": ["Entities"],
+    "category": [
+      "Entities"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Drain Modifiers",
-    "category": ["Entities"],
+    "category": [
+      "Entities"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Mime Modifiers",
-    "category": ["Entities"],
+    "category": [
+      "Entities"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Ire Modifiers",
-    "category": ["Entities"],
+    "category": [
+      "Entities"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "S.N.A.P. Modifiers",
-    "category": ["Entities"],
+    "category": [
+      "Entities"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Covet Modifiers",
-    "category": ["Entities"],
+    "category": [
+      "Entities"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Fool Modifiers",
-    "category": ["Entities"],
+    "category": [
+      "Entities"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Craven Modifiers",
-    "category": ["Entities"],
+    "category": [
+      "Entities"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Seesay Modifiers",
-    "category": ["Entities"],
+    "category": [
+      "Entities"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Stem Modifiers",
-    "category": ["Entities"],
+    "category": [
+      "Entities"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Zomber Modifiers",
-    "category": ["Entities"],
+    "category": [
+      "Entities"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Duk Modifiers",
-    "category": ["Entities"],
+    "category": [
+      "Entities"
+    ],
     "progression_skip_balancing": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "PISHROW",
-    "category": ["Entities"],
+    "category": [
+      "Entities"
+    ],
     "trap": true
   },
   {
     "count": 1,
     "name": "Early Greedrooms",
-    "category": ["Modifiers"],
+    "category": [
+      "Modifiers"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Anti-Plug Modules",
-    "category": ["Modifiers"],
+    "category": [
+      "Modifiers"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Night Vision",
-    "category": ["Modifiers"],
+    "category": [
+      "Modifiers"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Null Vision",
-    "category": ["Modifiers"],
+    "category": [
+      "Modifiers"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Gifts of Null",
-    "category": ["Modifiers"],
+    "category": [
+      "Modifiers"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Archless Rooms",
-    "category": ["Modifiers"],
+    "category": [
+      "Modifiers"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Jetpark",
-    "category": ["Modifiers"],
+    "category": [
+      "Modifiers"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Ping Pong",
-    "category": ["Modifiers"],
+    "category": [
+      "Modifiers"
+    ],
     "useful": true
   },
   {
     "count": 10,
     "name": "How misfortunate.",
-    "category": ["Modifiers"],
+    "category": [
+      "Modifiers"
+    ],
     "trap": true
   }
 ]

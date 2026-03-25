@@ -3,9 +3,17 @@
   "game": "Grace",
   "creator": "Fayerie",
   "filler_item_name": "Brick",
-  "death_link": true,
   "starting_items": [
-    {"item_categories": ["Starting Light"], "random": 1},
-    {"item_categories": ["Grace"]}
+    {
+      "item_categories": [
+        "Starting Light"
+      ],
+      "random": 1
+    },
+    {
+      "item_categories": [
+        "Grace"
+      ]
+    }
   ]
 }
