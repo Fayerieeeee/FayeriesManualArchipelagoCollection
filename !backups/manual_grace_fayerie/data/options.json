@@ -216,6 +216,18 @@
             "default": false,
             "group": "Extra Entity Badges"
         },
+        "misc":{
+            "display_name": "Misc Badges",
+            "type": "Toggle",
+            "default": false,
+            "group": "Misc."
+        },
+        "doodles":{
+            "display_name": "Doodle Related Basges",
+            "type": "Toggle",
+            "default": false,
+            "group": "Misc."
+        },
         "gleam":{
             "display_name": "Gleam",
             "type": "Toggle",
