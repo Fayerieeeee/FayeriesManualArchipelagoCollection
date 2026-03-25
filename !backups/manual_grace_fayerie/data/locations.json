@@ -1074,7 +1074,7 @@
     "requires": ""
   },
   {
-    "name": "HEAD OUT THE POT+ (Beat Nede † Rank)",
+    "name": "HEAD OUT THE POT+ (Beat Nede T Rank)",
     "region": "Domains",
     "category": [
       "Domains",
@@ -1102,7 +1102,7 @@
     "requires": "|Domain of Nede|"
   },
   {
-    "name": "LAWNMOWER+ (Beat Nede † Rank MAX Severity)",
+    "name": "LAWNMOWER+ (Beat Nede T Rank MAX Severity)",
     "region": "Domains",
     "category": [
       "Domains",
@@ -1156,7 +1156,7 @@
     "requires": "|Domain of Sinrow|"
   },
   {
-    "name": "AND... CUT!+ (Beat Sinrow † Rank)",
+    "name": "AND... CUT!+ (Beat Sinrow T Rank)",
     "region": "Domains",
     "category": [
       "Domains",
@@ -1192,7 +1192,7 @@
     "requires": "|Domain of Sinrow|"
   },
   {
-    "name": "BRAZEN BULL+ (Beat Sinrow † Rank MAX Severity)",
+    "name": "BRAZEN BULL+ (Beat Sinrow T Rank MAX Severity)",
     "region": "Domains",
     "category": [
       "Domains",
@@ -1230,7 +1230,7 @@
     "requires": "|Domain of Clot|"
   },
   {
-    "name": "TRAGEDY NEVER DIES+ (Beat Clot † Rank)",
+    "name": "TRAGEDY NEVER DIES+ (Beat Clot T Rank)",
     "region": "Domains",
     "category": [
       "Domains",
@@ -1258,7 +1258,7 @@
     "requires": "|Domain of Clot|"
   },
   {
-    "name": "NO REACTION+ (Beat Clot † Rank MAX Severity)",
+    "name": "NO REACTION+ (Beat Clot T Rank MAX Severity)",
     "region": "Domains",
     "category": [
       "Domains",
@@ -1526,5 +1526,14 @@
       "Misc"
     ],
     "requires": ""
+  },
+  {
+    "name": "DOMAIN FELLED",
+    "region": "Misc",
+    "category": [
+      "! GOAL"
+    ],
+    "requires": "|NEDE FELLED| AND |SINROW FELLED| AND |CLOT FELLED|",
+    "victory": true
   }
 ]
