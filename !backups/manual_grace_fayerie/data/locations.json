@@ -85,7 +85,7 @@
     "category": [
       "Encounters"
     ],
-    "requires": "|Kookoo Modifiers|"
+    "requires": "|Kookoo Modifiers| OR |Doombringer Modifiers|"
   },
   {
     "name": "pastwoeslifted (Flash Rue)",
@@ -133,7 +133,7 @@
     "category": [
       "Encounters"
     ],
-    "requires": "|Drain Modifiers| AND |@Good Light|"
+    "requires": "(|Drain Modifiers| OR |Mime Modifiers|) AND |@Good Light|"
   },
   {
     "name": "all equal (Survive Ire)",
@@ -235,8 +235,7 @@
     "name": "hijo. (No-miss Orbs with Gleam)",
     "region": "Grace",
     "category": [
-      "Grace",
-      "Gleam"
+      "Grace"
     ],
     "requires": "|Gleam|"
   },
@@ -244,8 +243,7 @@
     "name": "WILD WILD GRACE (Quickshoot with Gleam)",
     "region": "Grace",
     "category": [
-      "Grace",
-      "Gleam"
+      "Grace"
     ],
     "requires": "|Gleam|"
   },
@@ -261,8 +259,7 @@
     "name": "IN THE LIGHT (Greedroom Complete)",
     "region": "Grace",
     "category": [
-      "Grace",
-      "Greedroom"
+      "Grace"
     ],
     "requires": ""
   },
@@ -270,8 +267,7 @@
     "name": "GRACE THE ROOF (5 Greedrooms in 1 Timer)",
     "region": "Grace",
     "category": [
-      "Grace",
-      "Greedroom"
+      "Grace"
     ],
     "requires": ""
   },
@@ -280,7 +276,7 @@
     "region": "Grace",
     "category": [
       "Grace",
-      "CHAOS"
+      "! CHAOS"
     ],
     "requires": "|CHAOS|"
   },
@@ -288,8 +284,7 @@
     "name": "Peashooter (30 Gleam Shots during Carnation)",
     "region": "Grace",
     "category": [
-      "Grace",
-      "Gleam"
+      "Grace"
     ],
     "requires": "|Gleam|"
   },
@@ -427,7 +422,7 @@
       "Litany",
       "Kookoo"
     ],
-    "requires": "|Litany Modifiers| AND |Kookoo Modifiers|"
+    "requires": "|Litany Modifiers| AND (|Kookoo Modifiers| OR |Doombringer Modifiers|)"
   },
   {
     "name": "Stretcher Joyride (Slide Entire Litany)",
@@ -446,7 +441,7 @@
       "Kookoo",
       "Stuff"
     ],
-    "requires": "|Kookoo Modifiers| AND |Quill|"
+    "requires": "(|Kookoo Modifiers| OR |Doombringer Modifiers|) AND |Quill|"
   },
   {
     "name": "ittookalot. (Flash Rue Closeup)",
@@ -458,7 +453,7 @@
     "requires": "|Rue Modifiers| AND |@Good Light|"
   },
   {
-    "name": "linger (Survive Rue)",
+    "name": "linger (Survive Rue Saferoom)",
     "region": "Grace",
     "category": [
       "Grace",
@@ -528,7 +523,7 @@
       "Grace",
       "Drain"
     ],
-    "requires": "|Drain Modifiers| AND |@Good Light|"
+    "requires": "(|Drain Modifiers| OR |Mime Modifiers|) AND |@Good Light|"
   },
   {
     "name": "shame to His name (Die Drain Saferoom)",
@@ -537,7 +532,7 @@
       "Grace",
       "Drain"
     ],
-    "requires": "|Drain Modifiers|"
+    "requires": "|Drain Modifiers| OR |Mime Modifiers|"
   },
   {
     "name": "WAKEUPCALL (Survive Ire Closeup)",
@@ -669,15 +664,17 @@
     "name": "LOVESPILL (Nearly Fill LOVE Meter)",
     "region": "Grace",
     "category": [
-      "Grace"
+      "Grace",
+      "! Traits"
     ],
-    "requires": "|@Traits|"
+    "requires": "|@Traits:5|"
   },
   {
     "name": "my difference (1 Trait Equipped)",
     "region": "Grace",
     "category": [
-      "Grace"
+      "Grace",
+      "! Traits"
     ],
     "requires": "|@Traits|"
   },
@@ -685,7 +682,8 @@
     "name": "for you (3 Traits Equipped)",
     "region": "Grace",
     "category": [
-      "Grace"
+      "Grace",
+      "! Traits"
     ],
     "requires": "|@Traits:3|"
   },
@@ -693,7 +691,8 @@
     "name": "personalized (1 Bound Trait Equipped)",
     "region": "Grace",
     "category": [
-      "Grace"
+      "Grace",
+      "! Traits"
     ],
     "requires": "|@Bound Traits|"
   },
@@ -701,7 +700,8 @@
     "name": "chains (3 Bound Traits Equipped)",
     "region": "Grace",
     "category": [
-      "Grace"
+      "Grace",
+      "! Traits"
     ],
     "requires": "|@Bound Traits:3|"
   },
@@ -709,7 +709,8 @@
     "name": "OMNI (1 Trait in OMNI Slot)",
     "region": "Grace",
     "category": [
-      "Grace"
+      "Grace",
+      "! Traits"
     ],
     "requires": "|@Traits: 3| AND |@OMNI Traits|"
   },
@@ -717,7 +718,8 @@
     "name": "love of grace (Room 500 Grace)",
     "region": "Grace",
     "category": [
-      "Grace"
+      "Grace",
+      "Grace 500"
     ],
     "requires": ""
   },
@@ -725,7 +727,8 @@
     "name": "Beyond the surface. (Enter zen)",
     "region": "zen",
     "category": [
-      "zen"
+      "zen",
+      "! zen"
     ],
     "requires": ""
   },
@@ -733,7 +736,8 @@
     "name": "grace of love (Room 500 clean zen)",
     "region": "zen",
     "category": [
-      "zen"
+      "zen",
+      "! zen"
     ],
     "requires": ""
   },
@@ -741,7 +745,8 @@
     "name": "meditation (Rest 5min)",
     "region": "zen",
     "category": [
-      "zen"
+      "zen",
+      "! zen"
     ],
     "requires": ""
   },
@@ -749,7 +754,8 @@
     "name": "uoy pleh ll'i (Spoil zen)",
     "region": "zen",
     "category": [
-      "zen"
+      "zen",
+      "! zen"
     ],
     "requires": ""
   },
@@ -757,7 +763,8 @@
     "name": "hollow victory (S Rank Spoiled zen)",
     "region": "zen",
     "category": [
-      "zen"
+      "zen",
+      "! zen"
     ],
     "requires": ""
   },
@@ -766,7 +773,8 @@
     "region": "zen",
     "category": [
       "zen",
-      "zen Rank"
+      "zen Rank",
+      "! zen"
     ],
     "requires": ""
   },
@@ -774,7 +782,8 @@
     "name": "ON THE OFFENSE. (Enter REPRIEVE)",
     "region": "REPRIEVE",
     "category": [
-      "REPRIEVE"
+      "REPRIEVE",
+      "! REPRIEVE"
     ],
     "requires": ""
   },
@@ -782,7 +791,8 @@
     "name": "TRAGIC IRONY. (Die in REPRIEVE)",
     "region": "REPRIEVE",
     "category": [
-      "REPRIEVE"
+      "REPRIEVE",
+      "! REPRIEVE"
     ],
     "requires": ""
   },
@@ -790,7 +800,8 @@
     "name": "rachunek sumienia (Starting Area 2min)",
     "region": "REPRIEVE",
     "category": [
-      "REPRIEVE"
+      "REPRIEVE",
+      "! REPRIEVE"
     ],
     "requires": ""
   },
@@ -798,7 +809,8 @@
     "name": "grace rebuilt (Accomplish REPRIEVE)",
     "region": "REPRIEVE",
     "category": [
-      "REPRIEVE"
+      "REPRIEVE",
+      "! REPRIEVE"
     ],
     "requires": ""
   },
@@ -806,7 +818,8 @@
     "name": "RAGING ANGEL (Parry 10 Times 1 Floor)",
     "region": "REPRIEVE",
     "category": [
-      "REPRIEVE"
+      "REPRIEVE",
+      "! REPRIEVE"
     ],
     "requires": ""
   },
@@ -814,7 +827,8 @@
     "name": "COME AND GET IT (Parry SHAME Mach 1+)",
     "region": "REPRIEVE",
     "category": [
-      "REPRIEVE"
+      "REPRIEVE",
+      "! REPRIEVE"
     ],
     "requires": ""
   },
@@ -822,7 +836,8 @@
     "name": "HUMILIATION. (Parry Dozer)",
     "region": "REPRIEVE",
     "category": [
-      "REPRIEVE"
+      "REPRIEVE",
+      "! REPRIEVE"
     ],
     "requires": ""
   },
@@ -830,7 +845,8 @@
     "name": "I'LL DO MY OWN THING. (Parry Litany Completely)",
     "region": "REPRIEVE",
     "category": [
-      "REPRIEVE"
+      "REPRIEVE",
+      "! REPRIEVE"
     ],
     "requires": "|Litany Modifiers|"
   },
@@ -838,7 +854,8 @@
     "name": "TALK TO THE HAND. (Parry Doppel)",
     "region": "REPRIEVE",
     "category": [
-      "REPRIEVE"
+      "REPRIEVE",
+      "! REPRIEVE"
     ],
     "requires": "|Doppel Modifiers|"
   },
@@ -846,7 +863,8 @@
     "name": "A VOW TO REUNION. (Parry Rue)",
     "region": "REPRIEVE",
     "category": [
-      "REPRIEVE"
+      "REPRIEVE",
+      "! REPRIEVE"
     ],
     "requires": "|Rue Modifiers|"
   },
@@ -854,7 +872,8 @@
     "name": "MAKE IT RIGHT. (Parry Doombringer)",
     "region": "REPRIEVE",
     "category": [
-      "REPRIEVE"
+      "REPRIEVE",
+      "! REPRIEVE"
     ],
     "requires": "|Doombringer Modifiers|"
   },
@@ -862,7 +881,8 @@
     "name": "GET A CLUE. (Parry Duk)",
     "region": "REPRIEVE",
     "category": [
-      "REPRIEVE"
+      "REPRIEVE",
+      "! REPRIEVE"
     ],
     "requires": "|Duk Modifiers|"
   },
@@ -871,7 +891,8 @@
     "region": "REPRIEVE",
     "category": [
       "REPRIEVE",
-      "REPRIEVE Hard"
+      "REPRIEVE Hard",
+      "! REPRIEVE"
     ],
     "requires": "|Litany Modifiers| AND |Doppel Modifiers| AND |Rue Modifiers| AND |Doombringer Modifiers| AND |Duk Modifiers|"
   },
@@ -880,7 +901,8 @@
     "region": "REPRIEVE",
     "category": [
       "REPRIEVE",
-      "REPRIEVE Hard"
+      "REPRIEVE Hard",
+      "! REPRIEVE"
     ],
     "requires": ""
   },
@@ -889,7 +911,8 @@
     "region": "REPRIEVE",
     "category": [
       "REPRIEVE",
-      "REPRIEVE Hard"
+      "REPRIEVE Hard",
+      "! REPRIEVE"
     ],
     "requires": ""
   },
@@ -898,7 +921,8 @@
     "region": "REPRIEVE",
     "category": [
       "REPRIEVE",
-      "REPRIEVE Hard"
+      "REPRIEVE Hard",
+      "! REPRIEVE"
     ],
     "requires": ""
   },
@@ -906,7 +930,8 @@
     "name": "GOD'S EAGLE (Enter WOED)",
     "region": "WOED",
     "category": [
-      "WOED"
+      "WOED",
+      "! WOED"
     ],
     "requires": ""
   },
@@ -914,7 +939,8 @@
     "name": "WOE LIVES ON (Die in WOED)",
     "region": "WOED",
     "category": [
-      "WOED"
+      "WOED",
+      "! WOED"
     ],
     "requires": "|@Domains|"
   },
@@ -922,7 +948,8 @@
     "name": "Pick me! (Pick First Goober)",
     "region": "WOED",
     "category": [
-      "WOED"
+      "WOED",
+      "! WOED"
     ],
     "requires": ""
   },
@@ -930,7 +957,8 @@
     "name": "Roll! Roll! Roll! (Reroll 20 Times)",
     "region": "WOED",
     "category": [
-      "WOED"
+      "WOED",
+      "! WOED"
     ],
     "requires": ""
   },
@@ -939,7 +967,8 @@
     "region": "WOED",
     "category": [
       "WOED",
-      "WOED Hard"
+      "WOED Hard",
+      "! WOED"
     ],
     "requires": "|@Domains|"
   },
@@ -948,7 +977,8 @@
     "region": "WOED",
     "category": [
       "WOED",
-      "WOED Hard"
+      "WOED Hard",
+      "! WOED"
     ],
     "requires": "|@Domains|"
   },
@@ -956,7 +986,8 @@
     "name": "This is MAYHEM (Die in MAYHEM)",
     "region": "MAYHEM",
     "category": [
-      "MAYHEM"
+      "MAYHEM",
+      "! MAYHEM"
     ],
     "requires": ""
   },
@@ -964,7 +995,8 @@
     "name": "GOTTA GO FAST (Survive Timer 45sec)",
     "region": "MAYHEM",
     "category": [
-      "MAYHEM"
+      "MAYHEM",
+      "! MAYHEM"
     ],
     "requires": ""
   },
@@ -972,7 +1004,8 @@
     "name": "Broke (>65 Budget)",
     "region": "MAYHEM",
     "category": [
-      "MAYHEM"
+      "MAYHEM",
+      "! MAYHEM"
     ],
     "requires": ""
   },
@@ -980,7 +1013,8 @@
     "name": "Customer Service (Reroll 10 Times)",
     "region": "MAYHEM",
     "category": [
-      "MAYHEM"
+      "MAYHEM",
+      "! MAYHEM"
     ],
     "requires": ""
   },
@@ -988,7 +1022,8 @@
     "name": "body over soul (Commit/Witness VIOLATION)",
     "region": "MAYHEM",
     "category": [
-      "MAYHEM"
+      "MAYHEM",
+      "! MAYHEM"
     ],
     "requires": "|@Bound Traits| OR |@Shift Traits|"
   },
@@ -997,7 +1032,8 @@
     "region": "MAYHEM",
     "category": [
       "MAYHEM",
-      "MAYHEM Hard"
+      "MAYHEM Hard",
+      "! MAYHEM"
     ],
     "requires": "(|@Bound Traits| OR |@Shift Traits|) AND |Gleam|"
   },
@@ -1006,7 +1042,8 @@
     "region": "MAYHEM",
     "category": [
       "MAYHEM",
-      "MAYHEM Hard"
+      "MAYHEM Hard",
+      "! MAYHEM"
     ],
     "requires": "|@Entities:16|"
   },
@@ -1016,7 +1053,7 @@
     "category": [
       "Domains"
     ],
-    "requires": ""
+    "requires": "(|Domain of Nede| AND |Love Blossom|) OR (|Domain of Sinrow| AND |Rusted Shackle|) OR (|Domain of Clot| AND |SANITY Beacons|)"
   },
   {
     "name": "SOUL OVER BODY (Beat Domain MAX Severity)",
@@ -1025,7 +1062,7 @@
       "Domains",
       "MAX Severity"
     ],
-    "requires": ""
+    "requires": "(|Domain of Nede| AND |Love Blossom|) OR (|Domain of Sinrow| AND |Rusted Shackle|) OR (|Domain of Clot| AND |SANITY Beacons|)"
   },
   {
     "name": "SIN FELLED (Beat Domain P Rank)",
@@ -1034,7 +1071,7 @@
       "Domains",
       "P Rank"
     ],
-    "requires": ""
+    "requires": "(|Domain of Nede| AND |Love Blossom|) OR (|Domain of Sinrow| AND |Rusted Shackle|) OR (|Domain of Clot| AND |SANITY Beacons|)"
   },
   {
     "name": "LIGHTWORK (Beat Domain Alone)",
@@ -1042,7 +1079,7 @@
     "category": [
       "Domains"
     ],
-    "requires": ""
+    "requires": "(|Domain of Nede| AND |Love Blossom|) OR (|Domain of Sinrow| AND |Rusted Shackle|) OR (|Domain of Clot| AND |SANITY Beacons|)"
   },
   {
     "name": "TRIBULATION (Enter Domain MAX Severity)",
@@ -1051,7 +1088,7 @@
       "Domains",
       "MAX Severity"
     ],
-    "requires": ""
+    "requires": "(|Domain of Nede| AND |Love Blossom|) OR (|Domain of Sinrow| AND |Rusted Shackle|) OR (|Domain of Clot| AND |SANITY Beacons|)"
   },
   {
     "name": "CONVICTION (Beat Nede A Rank)",
@@ -1059,7 +1096,7 @@
     "category": [
       "Domains"
     ],
-    "requires": "|Domain of Nede|",
+    "requires": "|Domain of Nede| AND |Love Blossom|",
     "place_item": [
       "NEDE FELLED"
     ]
@@ -1071,7 +1108,7 @@
       "Domains",
       "P Rank"
     ],
-    "requires": ""
+    "requires": "|Domain of Nede| AND |Love Blossom|"
   },
   {
     "name": "HEAD OUT THE POT+ (Beat Nede T Rank)",
@@ -1080,7 +1117,7 @@
       "Domains",
       "T Rank"
     ],
-    "requires": "|Domain of Nede|"
+    "requires": "|Domain of Nede| AND |Love Blossom|"
   },
   {
     "name": "TURF WAR (Beat Nede MAX Severity)",
@@ -1089,7 +1126,7 @@
       "Domains",
       "MAX Severity"
     ],
-    "requires": "|Domain of Nede|"
+    "requires": "|Domain of Nede| AND |Love Blossom|"
   },
   {
     "name": "LAWNMOWER (Beat Nede P Rank MAX Severity)",
@@ -1099,7 +1136,7 @@
       "P Rank",
       "MAX Severity"
     ],
-    "requires": "|Domain of Nede|"
+    "requires": "|Domain of Nede| AND |Love Blossom|"
   },
   {
     "name": "LAWNMOWER+ (Beat Nede T Rank MAX Severity)",
@@ -1109,7 +1146,7 @@
       "T Rank",
       "MAX Severity"
     ],
-    "requires": "|Domain of Nede|"
+    "requires": "|Domain of Nede| AND |Love Blossom|"
   },
   {
     "name": "dziecko grzechu (Flash 2 Flowerheads 1 Squirt)",
@@ -1117,7 +1154,7 @@
     "category": [
       "Domains"
     ],
-    "requires": "|Domain of Nede|"
+    "requires": "|Domain of Nede| AND |Love Blossom|"
   },
   {
     "name": "IF YOU'RE ABLE (Dodge 5 Flowerheads)",
@@ -1125,7 +1162,7 @@
     "category": [
       "Domains"
     ],
-    "requires": "|Domain of Nede|"
+    "requires": "|Domain of Nede| AND |Love Blossom|"
   },
   {
     "name": "'Problematic' (Sinrow 30 Wallkicks)",
@@ -1133,7 +1170,7 @@
     "category": [
       "Domains"
     ],
-    "requires": "|Domain of Sinrow|"
+    "requires": "|Domain of Sinrow| AND |Rusted Shackle|"
   },
   {
     "name": "MY HEAD (Beat Sinrow A Rank)",
@@ -1141,7 +1178,7 @@
     "category": [
       "Domains"
     ],
-    "requires": "|Domain of Sinrow|",
+    "requires": "|Domain of Sinrow| AND |Rusted Shackle|",
     "place_item": [
       "SINROW FELLED"
     ]
@@ -1153,7 +1190,7 @@
       "Domains",
       "P Rank"
     ],
-    "requires": "|Domain of Sinrow|"
+    "requires": "|Domain of Sinrow| AND |Rusted Shackle|"
   },
   {
     "name": "AND... CUT!+ (Beat Sinrow T Rank)",
@@ -1162,7 +1199,7 @@
       "Domains",
       "T Rank"
     ],
-    "requires": "|Domain of Sinrow|"
+    "requires": "|Domain of Sinrow| AND |Rusted Shackle|"
   },
   {
     "name": "DROP IT (Face Guilles Closeup)",
@@ -1170,7 +1207,7 @@
     "category": [
       "Domains"
     ],
-    "requires": "|Domain of Sinrow|"
+    "requires": "|Domain of Sinrow| AND |Rusted Shackle|"
   },
   {
     "name": "MASSACRE MARCH (Beat Sinrow MAX Severity)",
@@ -1179,7 +1216,7 @@
       "Domains",
       "MAX Severity"
     ],
-    "requires": "|Domain of Sinrow|"
+    "requires": "|Domain of Sinrow| AND |Rusted Shackle|"
   },
   {
     "name": "BRAZEN BULL (Beat Sinrow P Rank MAX Severity)",
@@ -1189,7 +1226,7 @@
       "P Rank",
       "MAX Severity"
     ],
-    "requires": "|Domain of Sinrow|"
+    "requires": "|Domain of Sinrow| AND |Rusted Shackle|"
   },
   {
     "name": "BRAZEN BULL+ (Beat Sinrow T Rank MAX Severity)",
@@ -1199,7 +1236,7 @@
       "T Rank",
       "MAX Severity"
     ],
-    "requires": "|Domain of Sinrow|"
+    "requires": "|Domain of Sinrow| AND |Rusted Shackle|"
   },
   {
     "name": "I FEEL LIKE AN ATOMBOMBATOMBOMBATOMBOMBATOMBOMB (Regain SANITY Near Empty Clot)",
@@ -1207,7 +1244,7 @@
     "category": [
       "Domains"
     ],
-    "requires": "|Domain of Clot|"
+    "requires": "|Domain of Clot| AND |SANITY Beacons|"
   },
   {
     "name": "RAIN MY HEART (Beat Clot A Rank)",
@@ -1215,7 +1252,7 @@
     "category": [
       "Domains"
     ],
-    "requires": "|Domain of Clot|",
+    "requires": "|Domain of Clot| AND |SANITY Beacons|",
     "place_item": [
       "CLOT FELLED"
     ]
@@ -1227,7 +1264,7 @@
       "Domains",
       "P Rank"
     ],
-    "requires": "|Domain of Clot|"
+    "requires": "|Domain of Clot| AND |SANITY Beacons|"
   },
   {
     "name": "TRAGEDY NEVER DIES+ (Beat Clot T Rank)",
@@ -1236,7 +1273,7 @@
       "Domains",
       "T Rank"
     ],
-    "requires": "|Domain of Clot|"
+    "requires": "|Domain of Clot| AND |SANITY Beacons|"
   },
   {
     "name": "DROWN IN IT (Beat Clot MAX Severity)",
@@ -1245,7 +1282,7 @@
       "Domains",
       "MAX Severity"
     ],
-    "requires": "|Domain of Clot|"
+    "requires": "|Domain of Clot| AND |SANITY Beacons|"
   },
   {
     "name": "NO REACTION (Beat Clot P Rank MAX Severity)",
@@ -1255,7 +1292,7 @@
       "P Rank",
       "MAX Severity"
     ],
-    "requires": "|Domain of Clot|"
+    "requires": "|Domain of Clot| AND |SANITY Beacons|"
   },
   {
     "name": "NO REACTION+ (Beat Clot T Rank MAX Severity)",
@@ -1265,7 +1302,7 @@
       "T Rank",
       "MAX Severity"
     ],
-    "requires": "|Domain of Clot|"
+    "requires": "|Domain of Clot| AND |SANITY Beacons|"
   },
   {
     "name": "Have a Goober! (Regoob)",
@@ -1466,7 +1503,7 @@
     "category": [
       "Misc"
     ],
-    "requires": ""
+    "requires": "|Flashlight|"
   },
   {
     "name": "B-B-BLAST!!! (Break Door)",
@@ -1482,7 +1519,7 @@
     "category": [
       "Misc"
     ],
-    "requires": ""
+    "requires": "|B.R.I.C.K.|"
   },
   {
     "name": "Creative (First Doodle)",
@@ -1529,7 +1566,7 @@
   },
   {
     "name": "DOMAIN FELLED",
-    "region": "Misc",
+    "region": "Domains",
     "category": [
       "! GOAL"
     ],

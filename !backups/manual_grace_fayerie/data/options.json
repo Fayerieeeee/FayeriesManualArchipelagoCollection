@@ -54,6 +54,12 @@
             "default": false,
             "group": "Game Modes"
         },
+        "grace_500_rooms":{
+            "display_name": "Grace 500 Rooms Badge",
+            "type": "Toggle",
+            "default": false,
+            "group": "Difficulties"
+        },
         "zen_rank":{
             "display_name": "zen ++++++++++S Rank",
             "type": "Toggle",
@@ -78,10 +84,10 @@
             "default": false,
             "group": "Difficulties"
         },
-        "domain_extras":{
+        "domain_items":{
             "display_name": "Extra Domain Items Logic",
             "type": "Toggle",
-            "default": false,
+            "default": true,
             "group": "Difficulties"
         },
         "p_rank":{
@@ -222,20 +228,14 @@
             "default": false,
             "group": "Misc."
         },
+        "traits":{
+            "display_name": "Shuffle Traits",
+            "type": "Toggle",
+            "default": true,
+            "group": "Misc."
+        },
         "doodles":{
-            "display_name": "Doodle Related Basges",
-            "type": "Toggle",
-            "default": false,
-            "group": "Misc."
-        },
-        "gleam":{
-            "display_name": "Gleam",
-            "type": "Toggle",
-            "default": false,
-            "group": "Misc."
-        },
-        "greedroom":{
-            "display_name": "Greedrooms",
+            "display_name": "Doodle Related Badges",
             "type": "Toggle",
             "default": false,
             "group": "Misc."

@@ -21,7 +21,7 @@
   },
   "Domains": {
     "connects_to": [],
-    "requires": "|@Domains|"
+    "requires": ""
   },
   "Goobers": {
     "connects_to": [],

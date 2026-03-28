@@ -13,7 +13,23 @@
     },
     {
       "item_categories": [
-        "Grace"
+        "! Grace"
+      ]
+    },
+    {
+      "item_categories": [
+        "Traits"
+      ],
+      "yaml_option": [
+        "!traits"
+      ]
+    },
+    {
+      "item_categories": [
+        "Domain Extras"
+      ],
+      "yaml_option": [
+        "!domain_items"
       ]
     }
   ]

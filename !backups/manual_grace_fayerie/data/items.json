@@ -4,7 +4,7 @@
     "name": "Grace",
     "category": [
       "Gamemodes",
-      "Grace"
+      "! Grace"
     ],
     "progression": true
   },
@@ -13,7 +13,7 @@
     "name": "zen",
     "category": [
       "Gamemodes",
-      "zen"
+      "! zen"
     ],
     "progression": true
   },
@@ -22,7 +22,7 @@
     "name": "REPRIEVE",
     "category": [
       "Gamemodes",
-      "REPRIEVE"
+      "! REPRIEVE"
     ],
     "progression": true
   },
@@ -31,7 +31,7 @@
     "name": "WOED",
     "category": [
       "Gamemodes",
-      "WOED"
+      "! WOED"
     ],
     "progression": true
   },
@@ -40,7 +40,7 @@
     "name": "MAYHEM",
     "category": [
       "Gamemodes",
-      "MAYHEM"
+      "! MAYHEM"
     ],
     "progression": true
   },
@@ -49,7 +49,7 @@
     "name": "CHAOS",
     "category": [
       "Gamemodes",
-      "CHAOS"
+      "! CHAOS"
     ],
     "progression": true
   },
@@ -90,7 +90,7 @@
     "count": 1,
     "name": "Love Blossom",
     "category": [
-      "Domain Items",
+      "Items",
       "Domain Extras"
     ],
     "progression": true
@@ -99,16 +99,16 @@
     "count": 1,
     "name": "Rusted Shackle",
     "category": [
-      "Domain Items",
+      "Items",
       "Domain Extras"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Yellow Beacons",
+    "name": "SANITY Beacons",
     "category": [
-      "Domain Items",
+      "Items",
       "Domain Extras"
     ],
     "progression": true
@@ -117,7 +117,7 @@
     "count": 1,
     "name": "NEDE FELLED",
     "category": [
-      "Domain Items"
+      "! Sins Felled"
     ],
     "progression": true
   },
@@ -125,7 +125,7 @@
     "count": 1,
     "name": "SINROW FELLED",
     "category": [
-      "Domain Items"
+      "! Sins Felled"
     ],
     "progression": true
   },
@@ -133,7 +133,7 @@
     "count": 1,
     "name": "CLOT FELLED",
     "category": [
-      "Domain Items"
+      "! Sins Felled"
     ],
     "progression": true
   },

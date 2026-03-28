@@ -1,17 +1,5 @@
 {
-  "Gleam": {
-    "hidden": true,
-    "yaml_option": [
-      "gleam"
-    ]
-  },
-  "Greedroom": {
-    "hidden": true,
-    "yaml_option": [
-      "greedroom"
-    ]
-  },
-  "CHAOS": {
+  "! CHAOS": {
     "yaml_option": [
       "chaos"
     ]
@@ -130,7 +118,7 @@
       "covet"
     ]
   },
-  "zen": {
+  "! zen": {
     "yaml_option": [
       "zen"
     ]
@@ -141,9 +129,14 @@
       "zen_rank"
     ]
   },
-  "REPRIEVE": {
+  "! REPRIEVE": {
     "yaml_option": [
       "reprieve"
+    ]
+  },
+  "Grace 500": {
+    "yaml_option": [
+      "grace_500_rooms"
     ]
   },
   "REPRIEVE Hard": {
@@ -152,7 +145,7 @@
       "hard_reprieve"
     ]
   },
-  "WOED": {
+  "! WOED": {
     "yaml_option": [
       "woed"
     ]
@@ -163,7 +156,7 @@
       "hard_woed"
     ]
   },
-  "MAYHEM": {
+  "! MAYHEM": {
     "yaml_option": [
       "mayhem"
     ]
@@ -203,6 +196,12 @@
       "misc"
     ]
   },
+  "! Traits": {
+    "hidden": true,
+    "yaml_option": [
+      "traitbadges"
+    ]
+  },
   "Stuff": {
     "hidden": true,
     "yaml_option": [
@@ -210,10 +209,7 @@
     ]
   },
   "Domain Extras": {
-    "hidden": true,
-    "yaml_option": [
-      "domain_extras"
-    ]
+    "hidden": true
   },
   "Starting Light": {
     "hidden": true
@@ -231,6 +227,9 @@
     "hidden": true
   },
   "Shift Traits": {
+    "hidden": true
+  },
+  "! Grace": {
     "hidden": true
   }
 }
