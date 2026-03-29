@@ -14,6 +14,9 @@
     {
       "item_categories": [
         "! Grace"
+      ],
+      "yaml_option": [
+        "grace"
       ]
     },
     {

@@ -185,7 +185,7 @@
       "max_severity"
     ]
   },
-  "Goobers": {
+  "! Goobers": {
     "hidden": true,
     "yaml_option": [
       "goober_clicker"
@@ -230,6 +230,30 @@
     "hidden": true
   },
   "! Grace": {
+    "hidden": true
+  },
+  "TRINITY": {
+    "hidden": true
+  },
+  "SIN": {
+    "hidden": true
+  },
+  "TAINT": {
+    "hidden": true
+  },
+  "SCAR": {
+    "hidden": true
+  },
+  "CATALYST": {
+    "hidden": true
+  },
+  "DOMAIN": {
+    "hidden": true
+  },
+  "SOUL": {
+    "hidden": true
+  },
+  "OTHER": {
     "hidden": true
   }
 }

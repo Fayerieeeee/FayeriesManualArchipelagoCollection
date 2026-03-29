@@ -18,6 +18,12 @@
         }
     },
     "user": {
+        "grace":{
+            "display_name": "Grace",
+            "type": "Toggle",
+            "default": true,
+            "group": "Game Modes"
+        },
         "zen":{
             "display_name": "zen",
             "type": "Toggle",
@@ -87,7 +93,7 @@
         "domain_items":{
             "display_name": "Extra Domain Items Logic",
             "type": "Toggle",
-            "default": true,
+            "default": false,
             "group": "Difficulties"
         },
         "p_rank":{

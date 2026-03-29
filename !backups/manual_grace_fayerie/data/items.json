@@ -58,7 +58,7 @@
     "name": "Goober Clicker",
     "category": [
       "Gamemodes",
-      "Goobers"
+      "! Goobers"
     ],
     "progression": true
   },
@@ -795,6 +795,14 @@
   },
   {
     "count": 1,
+    "name": "Saferoom 1 Skip",
+    "category": [
+      "Modifiers"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
     "name": "Night Vision",
     "category": [
       "Modifiers"
@@ -848,5 +856,517 @@
       "Modifiers"
     ],
     "trap": true
+  },
+  {
+    "count": 1,
+    "name": "'Benedict' Goober",
+    "category": [
+      "Goobers"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "'John' Goober",
+    "category": [
+      "Goobers"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "'Luke' Goober",
+    "category": [
+      "Goobers"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "'Mark' Goober",
+    "category": [
+      "Goobers"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "'Mary' Goober",
+    "category": [
+      "Goobers"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "'Matthew' Goober",
+    "category": [
+      "Goobers"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "'Michael' Goober",
+    "category": [
+      "Goobers"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "'Monica' Goober",
+    "category": [
+      "Goobers"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "'Peter' Goober",
+    "category": [
+      "Goobers"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "'Pio' Goober",
+    "category": [
+      "Goobers"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "God Document",
+    "category": [
+      "Documents",
+      "TRINITY"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Good Light Document",
+    "category": [
+      "Documents",
+      "TRINITY"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "H. Skel Document",
+    "category": [
+      "Documents",
+      "TRINITY"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Goatman Document",
+    "category": [
+      "Documents",
+      "SIN"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Slugfish Document",
+    "category": [
+      "Documents",
+      "SIN"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mime Document",
+    "category": [
+      "Documents",
+      "SIN"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Elkman Document",
+    "category": [
+      "Documents",
+      "SIN"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Sorrow Document",
+    "category": [
+      "Documents",
+      "SIN"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Drain Document",
+    "category": [
+      "Documents",
+      "SIN"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Kookoo Document",
+    "category": [
+      "Documents",
+      "SIN"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Fool Document",
+    "category": [
+      "Documents",
+      "SIN"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ire Document",
+    "category": [
+      "Documents",
+      "SIN"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Stem Document",
+    "category": [
+      "Documents",
+      "SIN"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "SHAME Document",
+    "category": [
+      "Documents",
+      "SIN"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Slight Document",
+    "category": [
+      "Documents",
+      "TAINT"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Dozer Document",
+    "category": [
+      "Documents",
+      "TAINT"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Carnation Document",
+    "category": [
+      "Documents",
+      "TAINT"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Heed Document",
+    "category": [
+      "Documents",
+      "TAINT"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "PISHROW Document",
+    "category": [
+      "Documents",
+      "TAINT"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Seesay Document",
+    "category": [
+      "Documents",
+      "TAINT"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Flowerhead Document",
+    "category": [
+      "Documents",
+      "TAINT"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Guille Document",
+    "category": [
+      "Documents",
+      "TAINT"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Litany Document",
+    "category": [
+      "Documents",
+      "TAINT"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Zomber Document",
+    "category": [
+      "Documents",
+      "TAINT"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Duk Document",
+    "category": [
+      "Documents",
+      "TAINT"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "S.N.A.P. Document",
+    "category": [
+      "Documents",
+      "TAINT"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Covet Document",
+    "category": [
+      "Documents",
+      "TAINT"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Tragedy Document",
+    "category": [
+      "Documents",
+      "TAINT"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Rue Document",
+    "category": [
+      "Documents",
+      "SCAR"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Tar Document",
+    "category": [
+      "Documents",
+      "SCAR"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Doppel Document",
+    "category": [
+      "Documents",
+      "SCAR"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Craven Document",
+    "category": [
+      "Documents",
+      "CATALYST"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Doombringer Document",
+    "category": [
+      "Documents",
+      "CATALYST"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clot Document",
+    "category": [
+      "Documents",
+      "DOMAIN"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Sinrow Document",
+    "category": [
+      "Documents",
+      "DOMAIN"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Nede Document",
+    "category": [
+      "Documents",
+      "DOMAIN"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Soul Document",
+    "category": [
+      "Documents",
+      "SOUL"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Grace Document",
+    "category": [
+      "Documents",
+      "SOUL"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "WOED Document",
+    "category": [
+      "Documents",
+      "SOUL"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "MAYHEM Document",
+    "category": [
+      "Documents",
+      "SOUL"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "zen Document",
+    "category": [
+      "Documents",
+      "SOUL"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "REPRIEVE Document",
+    "category": [
+      "Documents",
+      "SOUL"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Eyes Document",
+    "category": [
+      "Documents",
+      "SOUL"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "You Document",
+    "category": [
+      "Documents",
+      "SOUL"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Shepherd Document",
+    "category": [
+      "Documents",
+      "OTHER"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Goobers Document",
+    "category": [
+      "Documents",
+      "OTHER"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "The Body Document",
+    "category": [
+      "Documents",
+      "OTHER"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "sin Document",
+    "category": [
+      "Documents",
+      "OTHER"
+    ],
+    "progression_skip_balancing": true
   }
 ]
