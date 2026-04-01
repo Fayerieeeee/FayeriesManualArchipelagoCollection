@@ -5,10 +5,18 @@
   "filler_item_name": "Broken Flywatter",
   "starting_items": [
     {
-      "item_categories": ["Flyswatter"], "yaml_option": ["flyswatter"]
+      "item_categories": [
+        "Flyswatter"
+      ],
+      "yaml_option": [
+        "flyswatter"
+      ]
     },
     {
-      "item_categories": ["Stages"], "random": 1
+      "item_categories": [
+        "Stages"
+      ],
+      "random": 1
     }
   ]
 }
