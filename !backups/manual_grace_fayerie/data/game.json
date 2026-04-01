@@ -34,6 +34,14 @@
       "yaml_option": [
         "!domain_items"
       ]
+    },
+    {
+      "item_categories": [
+        "Documents"
+      ],
+      "yaml_option": [
+        "!documents"
+      ]
     }
   ]
 }
