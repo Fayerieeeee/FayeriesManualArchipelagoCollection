@@ -1,8 +1,15 @@
 [
   {
     "count": 1,
-    "name": "t",
-    "category": [],
-    "filler": true
+    "name": "Flyswatter",
+    "category": ["Flyswatter"],
+    "progression": true,
+    "early": true
+  },
+  {
+    "count": 9,
+    "name": "Progressive Stage",
+    "category": ["Stages"],
+    "progression_skip_balancing": true
   }
 ]

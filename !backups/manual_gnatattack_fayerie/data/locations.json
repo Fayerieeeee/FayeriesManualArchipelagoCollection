@@ -1,7 +1,63 @@
 [
   {
-    "name": "t",
-    "category": [],
-    "requires": ""
+    "name": "Mario Paint - Level 1 Clear",
+    "region": "Mario Paint",
+    "category": ["1. Mario Paint"],
+    "requires": "|Progressive Stage:1|"
+  },
+  {
+    "name": "Mario Paint - Level 2 Clear",
+    "region": "Mario Paint",
+    "category": ["1. Mario Paint"],
+    "requires": "|Progressive Stage:2|"
+  },
+  {
+    "name": "Mario Paint - Final Clear",
+    "region": "Mario Paint",
+    "category": ["1. Mario Paint"],
+    "requires": "|Progressive Stage:3|"
+  },
+  {
+    "name": "Super Mario Maker - Level 1 Clear (Normal)",
+    "region": "Super Mario Maker - Normal",
+    "category": ["2. Super Mario Maker - Normal"],
+    "requires": "|Progressive Stage:4|"
+  },
+  {
+    "name": "Super Mario Maker - Level 2 Clear (Normal)",
+    "region": "Super Mario Maker - Normal",
+    "category": ["2. Super Mario Maker - Normal"],
+    "requires": "|Progressive Stage:5|"
+  },
+  {
+    "name": "Super Mario Maker - Final Clear (Normal)",
+    "region": "Super Mario Maker - Normal",
+    "category": ["2. Super Mario Maker - Normal"],
+    "requires": "|Progressive Stage:6|"
+  },
+  {
+    "name": "Super Mario Maker - Level 1 Clear (Hard)",
+    "region": "Super Mario Maker - Hard",
+    "category": ["3. Super Mario Maker - Hard"],
+    "requires": "|Progressive Stage:7|"
+  },
+  {
+    "name": "Super Mario Maker - Level 2 Clear (Hard)",
+    "region": "Super Mario Maker - Hard",
+    "category": ["3. Super Mario Maker - Hard"],
+    "requires": "|Progressive Stage:8|"
+  },
+  {
+    "name": "Super Mario Maker - Final Clear (Hard)",
+    "region": "Super Mario Maker - Hard",
+    "category": ["3. Super Mario Maker - Hard"],
+    "requires": "|Progressive Stage:9|"
+  },
+  {
+    "name": "GOAL",
+    "region": "Super Mario Maker - Hard",
+    "category": ["3. Super Mario Maker - Hard", "! GOAL"],
+    "requires": "|Progressive Stage:9|",
+    "victory": true
   }
 ]

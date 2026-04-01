@@ -1,6 +1,15 @@
 {
-  "t": {
+  "Mario Paint": {
+    "connects_to": ["Super Mario Maker - Normal"],
+    "requires": "|Flyswatter|",
+    "starting": true
+  },
+  "Super Mario Maker - Normal": {
+    "connects_to": ["Super Mario Maker - Hard"],
+    "requires": "|Flyswatter|"
+  },
+  "Super Mario Maker - Hard": {
     "connects_to": [],
-    "requires": ""
+    "requires": "|Flyswatter|"
   }
 }
