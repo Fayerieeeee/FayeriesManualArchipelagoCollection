@@ -1910,7 +1910,7 @@
     "category": [
       "General"
     ],
-    "requires": "|@Traits:3| AND (|Grace| OR |MAYHEM|)",
+    "requires": "|@Trait Slots:3| AND (|Grace| OR |MAYHEM|)",
     "hint_entrance": "Go really fast and kick a door down"
   },
   {
