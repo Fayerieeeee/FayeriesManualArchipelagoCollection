@@ -7,6 +7,10 @@
     "connects_to": [],
     "requires": "|zen|"
   },
+  "rOT": {
+    "connects_to": [],
+    "requires": "|rOT|"
+  },
   "REPRIEVE": {
     "connects_to": [],
     "requires": "|REPRIEVE|"
@@ -28,6 +32,10 @@
     "requires": "|Goober Clicker|"
   },
   "Misc": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Sanity": {
     "connects_to": [],
     "requires": ""
   }

@@ -1,1576 +1,1891 @@
 [
   {
-    "name": "jabłoń (Survive Carnation)",
+    "name": "Survive Carnation",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": ""
+    "category": ["Encounters"],
+    "requires": "|Carnation|",
+    "hint_entrance": "Hide during Carnation's Encounter"
   },
   {
-    "name": "ALWAYS SUFFER (Survive Goatman)",
+    "name": "Survive Goatman",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": ""
+    "category": ["Encounters"],
+    "requires": "|Goatman|",
+    "hint_entrance": "Reach the next saferoom after the timer runs out"
   },
   {
-    "name": "eye for an Eye (Survive Slight)",
+    "name": "Survive Slight",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": ""
+    "category": ["Encounters"],
+    "requires": "|Slight|",
+    "hint_entrance": "Open the door after Slight's room without it possessing an eye"
   },
   {
-    "name": "Peer Pressure (Survive Slugfish)",
+    "name": "Survive Slugfish",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": ""
+    "category": ["Encounters"],
+    "requires": "|Slugfish|",
+    "hint_entrance": "Stay to the side and let Slugfish pass"
   },
   {
-    "name": "peek-a-boo (Survive Elkman)",
+    "name": "Survive Elkman",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": ""
+    "category": ["Encounters"],
+    "requires": "|Elkman|",
+    "hint_entrance": "Make it loose sight of you"
   },
   {
-    "name": "STAREDOWN (Survive Heed)",
+    "name": "Survive Heed",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": ""
+    "category": ["Encounters"],
+    "requires": "|Heed|",
+    "hint_entrance": "Open the door after Heed's room without it possessing an eye"
   },
   {
-    "name": "SNOOZE (Survive Dozer)",
+    "name": "Survive Dozer",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": ""
+    "category": ["Encounters"],
+    "requires": "|Dozer|",
+    "hint_entrance": "Crouch when Dozer opens its eyes"
   },
   {
-    "name": "it's a good day. (Survive Sorrow)",
+    "name": "Survive Sorrow",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": ""
+    "category": ["Encounters"],
+    "requires": "|Sorrow|",
+    "hint_entrance": "Get under a surface when Sorrow's rain becomes very heavy"
   },
   {
-    "name": "my many eyes (Survive Litany)",
+    "name": "Survive Litany",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": "|Litany Modifiers|"
+    "category": ["Encounters"],
+    "requires": "|Litany|",
+    "hint_entrance": "Slide or crouch when Litany opens its eyes, until it disappears"
   },
   {
-    "name": "rotten innards (Survive Doppel)",
+    "name": "Survive Doppel",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": "|Doppel Modifiers|"
+    "category": ["Encounters"],
+    "requires": "|Doppel|",
+    "hint_entrance": "Make Doppel despawn by running through ~20 rooms or reach the next saferoom"
   },
   {
-    "name": "DECORRUPT? (Y/N) (Survive Kookoo)",
+    "name": "Survive Doombringer",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": "|Kookoo Modifiers| OR |Doombringer Modifiers|"
+    "category": ["Encounters"],
+    "requires": "|Doombringer|",
+    "hint_entrance": "Close Doombringer's mouth when it starts screaming"
   },
   {
-    "name": "pastwoeslifted (Flash Rue)",
+    "name": "Survive Kookoo",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": "|Rue Modifiers| AND |@Good Light|"
+    "category": ["Encounters"],
+    "requires": "|Kookoo|",
+    "hint_entrance": "Have no items equipped when Kookoo's timer is done"
   },
   {
-    "name": "all yours! (Shut Doombringer)",
+    "name": "Survive Tar",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": "|Doombringer Modifiers|"
+    "category": ["Encounters"],
+    "requires": "|Tar|",
+    "hint_entrance": "Don't let the tar consume you and reach the next saferoom"
   },
   {
-    "name": "TEH EPIK DUCK IS COMING!!!! (Survive Duk)",
+    "name": "Survive Rue",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": "|Duk Modifiers| AND |@Good Light|"
+    "category": ["Encounters"],
+    "requires": "|Rue|",
+    "hint_entrance": "Flash Rue with any Light Sources or reach the next saferoom"
   },
   {
-    "name": "haa fresh meat (Kill Zomber)",
+    "name": "Survive Drain",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": "|Zomber Modifiers| AND |Gleam|"
+    "category": ["Encounters"],
+    "requires": "|Drain| AND |@Good Light|",
+    "hint_entrance": "Flash Drain when it gets close"
   },
   {
-    "name": "HANDSOFF (Survive Mime)",
+    "name": "Survive Mime",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": "|Mime Modifiers|"
+    "category": ["Encounters"],
+    "requires": "|Mime|",
+    "hint_entrance": "Reach the next saferoom after Mime spawns"
   },
   {
-    "name": "abstinence (Flash Drain)",
+    "name": "Survive Ire",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": "(|Drain Modifiers| OR |Mime Modifiers|) AND |@Good Light|"
+    "category": ["Encounters"],
+    "requires": "|Ire|",
+    "hint_entrance": "Jump once at any time before Ire opens its eyes"
   },
   {
-    "name": "all equal (Survive Ire)",
+    "name": "Survive Zomber",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": "|Ire Modifiers|"
+    "category": ["Encounters"],
+    "requires": "|Zomber|",
+    "hint_entrance": "Shoot a Zomber or reach the next saferoom"
   },
   {
-    "name": "hurtful nothings (Flash Seesay)",
+    "name": "Survive Duk",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": "|Seesay Modifiers| AND |@Good Light|"
+    "category": ["Encounters"],
+    "requires": "|Duk| AND |@Good Light|",
+    "hint_entrance": "Reach the next saferoom after Duk spawns"
   },
   {
-    "name": "it's and yours (Survive Craven)",
+    "name": "Survive Craven",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": "|Craven Modifiers| AND |@Good Light|"
+    "category": ["Encounters"],
+    "requires": "|Craven| AND |@Good Light|",
+    "hint_entrance": "Vanquish Craven with a light source or reach the next saferoom"
   },
   {
-    "name": "lost in your eyes (Survive Fool)",
+    "name": "Survive Fool",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": "|Fool Modifiers| AND |@Good Light|"
+    "category": ["Encounters"],
+    "requires": "|Fool|",
+    "hint_entrance": "Vanquish Fool with a light source or reach the next saferoom"
   },
   {
-    "name": "SNAPPED BACK (Shut S.N.A.P.)",
+    "name": "Survive Stem",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": "|S.N.A.P. Modifiers|"
+    "category": ["Encounters"],
+    "requires": "|Stem|",
+    "hint_entrance": "Keep sprinting when Stem appears"
   },
   {
-    "name": "korzeń (Survive Stem)",
+    "name": "Survive Covet",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": "|Stem Modifiers|"
+    "category": ["Encounters"],
+    "requires": "|Covet|",
+    "hint_entrance": "Reach the next saferoom while avoid Covet"
   },
   {
-    "name": "WHAT IS YOURS (Survive Covet)",
+    "name": "Survive Seesay",
     "region": "Grace",
-    "category": [
-      "Encounters"
-    ],
-    "requires": "|Covet Modifiers|"
+    "category": ["Encounters"],
+    "requires": "|Seesay| AND |@Good Light|",
+    "hint_entrance": "Flash Seesay before it gets you"
   },
   {
-    "name": "NO. (Flash Then Survive Goatman)",
+    "name": "Survive S.N.A.P.",
     "region": "Grace",
-    "category": [
-      "Grace"
-    ],
-    "requires": "|@Good Light|"
+    "category": ["Encounters"],
+    "requires": "|S.N.A.P.|",
+    "hint_entrance": "Look for the target on S.N.A.P. and take a picture of it"
   },
   {
-    "name": "LAP 2 (2 Saferooms in under 2min 30sec)",
+    "name": "'Survive' PISHROW",
     "region": "Grace",
-    "category": [
-      "Grace"
-    ],
-    "requires": ""
+    "category": ["Encounters", "PISHROW"],
+    "requires": "|PISHROW|",
+    "hint_entrance": "MHEDWMEHIXYF -6.666666666666666e+34% XP"
   },
   {
-    "name": "War of Spirit (Reach Saferoom 5)",
+    "name": "Survive Innego",
     "region": "Grace",
-    "category": [
-      "Grace"
-    ],
-    "requires": ""
+    "category": ["Encounters"],
+    "requires": "|Innego|",
+    "hint_entrance": "Reach the next saferoom and don't collect all of Innego's parts"
   },
   {
-    "name": "ULTRASONIC (Reach Saferoom in under 1min)",
+    "name": "Survive Sundial",
     "region": "Grace",
-    "category": [
-      "Grace"
-    ],
-    "requires": ""
+    "category": ["Encounters"],
+    "requires": "|Sundial| AND |@Good Light|",
+    "hint_entrance": "Reach the next saferoom while keeping Sundial at bay"
   },
   {
-    "name": "Lightheaded (Equip 3 Light Sources)",
+    "name": "Goatman Flash Escape",
     "region": "Grace",
-    "category": [
-      "Grace"
-    ],
-    "requires": "|@Good Light:3|"
+    "category": ["Grace", "!"],
+    "requires": "|Goatman| AND |@Good Light|",
+    "hint_entrance": "Flash the Goatman and reach the next saferoom"
   },
   {
-    "name": "hijo. (No-miss Orbs with Gleam)",
+    "name": "2 Timers Under 2min 30sec",
     "region": "Grace",
-    "category": [
-      "Grace"
-    ],
-    "requires": "|Gleam|"
+    "category": ["Grace"],
+    "requires": "",
+    "hint_entrance": "Get through two saferooms in under 2 minutes and 30 seconds"
   },
   {
-    "name": "WILD WILD GRACE (Quickshoot with Gleam)",
+    "name": "Saferoom 5",
     "region": "Grace",
-    "category": [
-      "Grace"
-    ],
-    "requires": "|Gleam|"
+    "category": ["Grace"],
+    "requires": "",
+    "hint_entrance": "Reach the 5th saferoom in one run of Grace"
   },
   {
-    "name": "Whhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhy the long face? (Saferoom with 6 Modifiers)",
+    "name": "Saferoom Under 1min",
     "region": "Grace",
-    "category": [
-      "Grace"
-    ],
-    "requires": "|@Entities:6|"
+    "category": ["Grace"],
+    "requires": "",
+    "hint_entrance": "Reach the next saferoom in under 1 minute"
   },
   {
-    "name": "IN THE LIGHT (Greedroom Complete)",
+    "name": "3 Light Sources",
     "region": "Grace",
-    "category": [
-      "Grace"
-    ],
-    "requires": ""
+    "category": ["Grace"],
+    "requires": "|@Good Light:3|",
+    "hint_entrance": "Equip 3 light sources before a Grace or MAYHEM run"
   },
   {
-    "name": "GRACE THE ROOF (5 Greedrooms in 1 Timer)",
+    "name": "Gleam Orbs No-Miss",
     "region": "Grace",
-    "category": [
-      "Grace"
-    ],
-    "requires": ""
+    "category": ["Grace"],
+    "requires": "|Gleam|",
+    "hint_entrance": "Shoot all the light orbs with Gleam and don't miss a single one"
   },
   {
-    "name": "NO REST FOR THE TEMPTED (Saferoom 5 with CHAOS Modifier)",
+    "name": "Gleam Quickdraw",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "! CHAOS"
-    ],
-    "requires": "|CHAOS|"
+    "category": ["Grace"],
+    "requires": "|Gleam| AND |@Flashable|",
+    "hint_entrance": "Quickly equip Gleam and shoot a flashable entity"
   },
   {
-    "name": "Peashooter (30 Gleam Shots during Carnation)",
+    "name": "Saferoom 6 Entities",
     "region": "Grace",
-    "category": [
-      "Grace"
-    ],
-    "requires": "|Gleam|"
+    "category": ["Grace"],
+    "requires": "|@Entities:6|",
+    "hint_entrance": "Reach the next saferoom with 6 entities in the pool"
   },
   {
-    "name": "OH LAWD ('Ride' Slugfish)",
+    "name": "Greedroom Clear",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Slugfish"
-    ],
-    "requires": ""
+    "category": ["Grace"],
+    "requires": "",
+    "hint_entrance": "Complete a Greedroom, appears after the 5th saferoom"
   },
   {
-    "name": "Tight Squeeze (Enter Door with Slugfish)",
+    "name": "5 Greedrooms 1 Timer Clear",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Slugfish"
-    ],
-    "requires": ""
+    "category": ["Grace"],
+    "requires": "",
+    "hint_entrance": "Complete 5 greedrooms during a single timer, appears after the 5th saferoom"
   },
   {
-    "name": "Gentleman (Open Door for Slugfish)",
+    "name": "Gleam 30 Shots Carnation",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Slugfish"
-    ],
-    "requires": ""
+    "category": ["Grace"],
+    "requires": "|Carnation| AND |Gleam|",
+    "hint_entrance": "Shoot a total of 30 shots during Carnation's encounter"
   },
   {
-    "name": "DAPPED UP (Touch Elkman)",
+    "name": "Slugfish 'Ride'",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Elkman"
-    ],
-    "requires": ""
+    "category": ["Grace", "Slugfish"],
+    "requires": "|Slugfish|",
+    "hint_entrance": "Attempt to ride Slugfish"
   },
   {
-    "name": "ELKING IT (5 Crouches Elkman)",
+    "name": "Slugfish Tight Squeeze",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Elkman"
-    ],
-    "requires": ""
+    "category": ["Grace", "Slugfish"],
+    "requires": "|Slugfish|",
+    "hint_entrance": "Slide under a door while Slugfish enters it"
   },
   {
-    "name": "Past Bed Time (5 Crouches Dozer)",
+    "name": "Slugfish Door First",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Dozer"
-    ],
-    "requires": ""
+    "category": ["Grace", "Slugfish"],
+    "requires": "|Slugfish|",
+    "hint_entrance": "Open a door for Slugfish"
   },
   {
-    "name": "Good Rest (Crouch Entire Dozer)",
+    "name": "Elkman Touch",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Dozer"
-    ],
-    "requires": ""
+    "category": ["Grace", "Elkman"],
+    "requires": "|Elkman|",
+    "hint_entrance": "Touch Elkman and survive its encounter"
   },
   {
-    "name": "M.A.D. (Barely Survive Dozer)",
+    "name": "Elkman 5 Crouches",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Dozer"
-    ],
-    "requires": ""
+    "category": ["Grace", "Elkman"],
+    "requires": "|Elkman|",
+    "hint_entrance": "Crouch 5 times during Elkman's melting sequence"
   },
   {
-    "name": "The Yellow King (2 Dozers On-screen)",
+    "name": "Dozer 5 Crouches",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Dozer"
-    ],
-    "requires": ""
+    "category": ["Grace", "Dozer"],
+    "requires": "|Dozer|",
+    "hint_entrance": "Crouch 5 times while Dozer is on-screen"
   },
   {
-    "name": "Near Crashout (Barely Survive Sorrow)",
+    "name": "Dozer Crouch Entire",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Sorrow"
-    ],
-    "requires": ""
+    "category": ["Grace", "Dozer"],
+    "requires": "|Dozer|",
+    "hint_entrance": "Crouch the moment Dozer appears on-screen"
   },
   {
-    "name": "Cope off (Flash Doppel 10 Times)",
+    "name": "Dozer Barely Survive",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Doppel"
-    ],
-    "requires": "|Doppel Modifiers| AND |@Good Light|"
+    "category": ["Grace", "Dozer"],
+    "requires": "|Dozer|",
+    "hint_entrance": "Crouch the moment Dozer open its eyes"
   },
   {
-    "name": "FACEOFF (Flash Doppel Closeup)",
+    "name": "2 Dozer On-screen",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Doppel"
-    ],
-    "requires": "|Doppel Modifiers| AND |@Good Light|"
+    "category": ["Grace", "Dozer"],
+    "requires": "|Dozer| AND |Carnation|",
+    "hint_entrance": "Have 2 Dozers on-screen, Carnation can help"
   },
   {
-    "name": "OUT OF MY HEAD (6+ Doppels)",
+    "name": "Sorrow Barely Survive",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Doppel"
-    ],
-    "requires": "|Doppel Modifiers|"
+    "category": ["Grace", "Sorrow"],
+    "requires": "|Sorrow|",
+    "hint_entrance": "Get under a surface during Sorrow's heavy rain"
   },
   {
-    "name": "' (Survive Instakill Doppel)",
+    "name": "Doppel 10 Flashes",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Doppel"
-    ],
-    "requires": "|Doppel Modifiers|"
+    "category": ["Grace", "Doppel"],
+    "requires": "|Doppel| AND |@Good Light|",
+    "hint_entrance": "Flash Doppel 10 times while it chases you"
   },
   {
-    "name": "IDDY YET (Dozer Kookoo Litany On-screen)",
+    "name": "Doppel Flash Close",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Litany",
-      "Kookoo"
-    ],
-    "requires": "|Litany Modifiers| AND (|Kookoo Modifiers| OR |Doombringer Modifiers|)"
+    "category": ["Grace", "Doppel"],
+    "requires": "|Doppel| AND |@Good Light|",
+    "hint_entrance": "Flash Doppel before it touches you"
   },
   {
-    "name": "Stretcher Joyride (Slide Entire Litany)",
+    "name": "4+ Doppels Survive",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Litany"
-    ],
-    "requires": "|Litany Modifiers|"
+    "category": ["Grace", "Doppel"],
+    "requires": "|Doppel|",
+    "hint_entrance": "Reach the next saferoom with 4 or more Doppels after you"
   },
   {
-    "name": "starving (5 Doodles Kookoo)",
+    "name": "Insta-kill Doppel Survive",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Kookoo",
-      "Stuff"
-    ],
-    "requires": "(|Kookoo Modifiers| OR |Doombringer Modifiers|) AND |Quill|"
+    "category": ["Grace", "Doppel"],
+    "requires": "|Doppel|",
+    "hint_entrance": "Survive a Doppel with the FATAL ERROR modifier"
   },
   {
-    "name": "ittookalot. (Flash Rue Closeup)",
+    "name": "Dozer Litany Kookoo On-screen",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Rue"
-    ],
-    "requires": "|Rue Modifiers| AND |@Good Light|"
+    "category": ["Grace", "Dozer", "Litany", "Kookoo"],
+    "requires": "|Dozer| AND |Litany| AND |Kookoo|",
+    "hint_entrance": "Have Dozer, Litany, and Kookoo on-screen together"
   },
   {
-    "name": "linger (Survive Rue Saferoom)",
+    "name": "Litany Slide Encounter",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Rue"
-    ],
-    "requires": "|Rue Modifiers|"
+    "category": ["Grace", "Litany"],
+    "requires": "|Litany|",
+    "hint_entrance": "Slide during Litany's entire encounter"
   },
   {
-    "name": "Pacificed (Shut Doombringer Quickly)",
+    "name": "Kookoo 5 Doodles",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Doombringer"
-    ],
-    "requires": "|Doombringer Modifiers|"
+    "category": ["Grace", "Kookoo", "Doodles"],
+    "requires": "|Kookoo| AND |Quill|",
+    "hint_entrance": "Draw 5 doodles with Kookoo on-screen"
   },
   {
-    "name": "ALL OF THE RULES (Equip Doombringer 5min)",
+    "name": "Rue Flash Close",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Doombringer"
-    ],
-    "requires": "|Doombringer Modifiers|"
+    "category": ["Grace", "Rue"],
+    "requires": "|Rue| AND |@Good Light|",
+    "hint_entrance": "Flash Rue before it touches you"
   },
   {
-    "name": "Caretaker (5 Doombringers Inventory)",
+    "name": "Doombringer Fast Shut",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Doombringer"
-    ],
-    "requires": "|Doombringer Modifiers|"
+    "category": ["Grace", "Doombringer"],
+    "requires": "|Doombringer|",
+    "hint_entrance": "Shut Doombringer before it lets out a peep"
   },
   {
-    "name": "STUPID GAMES (Doombringer Disposes Item)",
+    "name": "Doombringer Equip 5min",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Doombringer"
-    ],
-    "requires": "|Doombringer Modifiers|"
+    "category": ["Grace", "Doombringer", "Waiting"],
+    "requires": "|Doombringer|",
+    "hint_entrance": "Hold Doombringer in your hands for 5 minutes"
   },
   {
-    "name": "Midasdam (Golden Doombringer)",
+    "name": "5 Doombringers Inventory",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Doombringer",
-      "Golden Doombringer"
-    ],
-    "requires": "|Doombringer Modifiers|"
+    "category": ["Grace", "Doombringer"],
+    "requires": "|Doombringer|",
+    "hint_entrance": "Have 5 Doombringers in your inventory, Boulogne modifier"
   },
   {
-    "name": "Misshapen (Spam Flash Mime)",
+    "name": "Doombringer Inventory Removal",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Mime"
-    ],
-    "requires": "|Mime Modifiers| AND |@Good Light|"
+    "category": ["Grace", "Doombringer"],
+    "requires": "|Doombringer| AND |@Entities:10|",
+    "hint_entrance": "Have too many notes in your inventory for Doombringer to remove one"
   },
   {
-    "name": "while you still can (Flash Drain Closeup)",
+    "name": "Golden Doombringer",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Drain"
-    ],
-    "requires": "(|Drain Modifiers| OR |Mime Modifiers|) AND |@Good Light|"
+    "category": ["Grace", "Doombringer", "RNG"],
+    "requires": "|Doombringer|",
+    "hint_entrance": "Have a Golden Doombringer in your inventory, rare"
   },
   {
-    "name": "shame to His name (Die Drain Saferoom)",
+    "name": "Mime Flash Rapid",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Drain"
-    ],
-    "requires": "|Drain Modifiers| OR |Mime Modifiers|"
+    "category": ["Grace", "Mime"],
+    "requires": "|Mime| AND (|Flashlight| OR |Gleam|)",
+    "hint_entrance": "Rapidly flash Mime in quick succession"
   },
   {
-    "name": "WAKEUPCALL (Survive Ire Closeup)",
+    "name": "Drain Flash Close",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Ire"
-    ],
-    "requires": "|Ire Modifiers|"
+    "category": ["Grace", "Drain"],
+    "requires": "|Drain| AND |@Good Light|",
+    "hint_entrance": "Flash Drain before it touches you"
   },
   {
-    "name": "zipped tight (Flash Seesay Quickly)",
+    "name": "Drain Death Saferoom",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Seesay"
-    ],
-    "requires": "|Seesay Modifiers| AND |@Good Light|"
+    "category": ["Grace", "Drain"],
+    "requires": "|Drain|",
+    "hint_entrance": "Let Drain kill you in a saferoom"
   },
   {
-    "name": "tip of the tongue (Flash Seesay Closeup)",
+    "name": "Ire Barely Survive",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Seesay"
-    ],
-    "requires": "|Seesay Modifiers| AND |@Good Light|"
+    "category": ["Grace", "Ire"],
+    "requires": "|Ire|",
+    "hint_entrance": "Jump before Ire kills you"
   },
   {
-    "name": "you alright? (Flash Craven Last Second)",
+    "name": "Seesay Fast Flash",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Craven"
-    ],
-    "requires": "|Craven Modifiers| AND |@Good Light|"
+    "category": ["Grace", "Seesay"],
+    "requires": "|Seesay| AND |@Good Light|",
+    "hint_entrance": "Flash Seesay the moment its eyes opens"
   },
   {
-    "name": "not that. (Vanquish Craven)",
+    "name": "Seesay Flash Close",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Craven"
-    ],
-    "requires": "|Craven Modifiers| AND |@Good Light|"
+    "category": ["Grace", "Seesay"],
+    "requires": "|Seesay| AND |@Good Light|",
+    "hint_entrance": "Flash Seesay before it touches you"
   },
   {
-    "name": "COWARD (5 Rooms Fool Snaps)",
+    "name": "Craven Flash Snaps",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Fool"
-    ],
-    "requires": "|Fool Modifiers|"
+    "category": ["Grace", "Craven"],
+    "requires": "|Craven| AND |@Good Light|",
+    "hint_entrance": "Flash Craven just before its snaps"
   },
   {
-    "name": "this way. (Vanquish Fool)",
+    "name": "Craven Vanquish",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Fool"
-    ],
-    "requires": "|Fool Modifiers| AND |@Good Light|"
+    "category": ["Grace", "Craven"],
+    "requires": "|Craven| AND |@Good Light|",
+    "hint_entrance": "Flash Craven until its freed"
   },
   {
-    "name": "second thought (Barely Shut S.N.A.P.)",
+    "name": "Fool Snapped 5 Rooms",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "S.N.A.P."
-    ],
-    "requires": "|S.N.A.P. Modifiers|"
+    "category": ["Grace", "Fool"],
+    "requires": "|Fool|",
+    "hint_entrance": "Snap Fool and run through 5 rooms"
   },
   {
-    "name": "snappin' (Shut S.N.A.P. Midair)",
+    "name": "Fool Vanquish",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "S.N.A.P."
-    ],
-    "requires": "|S.N.A.P. Modifiers|"
+    "category": ["Grace", "Fool"],
+    "requires": "|Fool| AND |@Good Light|",
+    "hint_entrance": "Flash Fool until its freed"
   },
   {
-    "name": "SNAP OUT (10 Rooms Screaming S.N.A.P.)",
+    "name": "S.N.A.P. Cracked Shut",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "S.N.A.P."
-    ],
-    "requires": "|S.N.A.P. Modifiers|"
+    "category": ["Grace", "S.N.A.P."],
+    "requires": "|S.N.A.P.|",
+    "hint_entrance": "Shut S.N.A.P. before it completely cracks"
   },
   {
-    "name": "IN A SNAP (Shut S.N.A.P. Quickly)",
+    "name": "S.N.A.P. Shut Slide Midair",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "S.N.A.P."
-    ],
-    "requires": "|S.N.A.P. Modifiers|"
+    "category": ["Grace", "S.N.A.P."],
+    "requires": "|S.N.A.P.|",
+    "hint_entrance": "Shut S.N.A.P. while sliding midair"
   },
   {
-    "name": "LIKE A SNAP GOD (Un/Equip S.N.A.P. 10 Times 1 Scream)",
+    "name": "S.N.A.P. Screams 10 Rooms",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "S.N.A.P."
-    ],
-    "requires": "|S.N.A.P. Modifiers|"
+    "category": ["Grace", "S.N.A.P."],
+    "requires": "|S.N.A.P.|",
+    "hint_entrance": "Run through 10 rooms while S.N.A.P. screams"
   },
   {
-    "name": "CICHOTA TO ŚCIEMA (Barely Survive Stem)",
+    "name": "S.N.A.P. Fast Shut",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Stem"
-    ],
-    "requires": "|Stem Modifiers|"
+    "category": ["Grace", "S.N.A.P."],
+    "requires": "|S.N.A.P.|",
+    "hint_entrance": "Shut S.N.A.P. before it starts screaming"
   },
   {
-    "name": "YOUWANT (Survive 3 Covets)",
+    "name": "Stem Barely Survive",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Covet"
-    ],
-    "requires": "|Covet Modifiers|"
+    "category": ["Grace", "Stem"],
+    "requires": "|Stem|",
+    "hint_entrance": "Sprint the moment Stem's eyes open"
   },
   {
-    "name": "LOVESPILL (Nearly Fill LOVE Meter)",
+    "name": "3 Covets Survive",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "! Traits"
-    ],
-    "requires": "|@Traits:5|"
+    "category": ["Grace", "Covet"],
+    "requires": "|Covet|",
+    "hint_entrance": "Reach the next saferoom with 3 Covets chasing you"
   },
   {
-    "name": "my difference (1 Trait Equipped)",
+    "name": "Nearly Filled LOVE Meter",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "! Traits"
-    ],
-    "requires": "|@Traits|"
+    "category": ["Grace", "! Traits"],
+    "requires": "|@Trait Slots:4|",
+    "hint_entrance": "Gather traits and fill the LOVE Meter"
   },
   {
-    "name": "for you (3 Traits Equipped)",
+    "name": "Grace Trait",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "! Traits"
-    ],
-    "requires": "|@Traits:3|"
+    "category": ["Grace", "! Traits"],
+    "requires": "|@Trait Slots|",
+    "hint_entrance": "Equip a trait in Grace"
   },
   {
-    "name": "personalized (1 Bound Trait Equipped)",
+    "name": "Grace 3 Traits",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "! Traits"
-    ],
-    "requires": "|@Bound Traits|"
+    "category": ["Grace", "! Traits"],
+    "requires": "|@Trait Slots:3|",
+    "hint_entrance": "Equip 3 traits in Grace"
   },
   {
-    "name": "chains (3 Bound Traits Equipped)",
+    "name": "Grace Bound Trait",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "! Traits"
-    ],
-    "requires": "|@Bound Traits:3|"
+    "category": ["Grace", "! Traits"],
+    "requires": "|@Trait Slots|",
+    "hint_entrance": "Equip a bound trait in Grace"
   },
   {
-    "name": "OMNI (1 Trait in OMNI Slot)",
+    "name": "Grace 3 Bound Traits",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "! Traits"
-    ],
-    "requires": "|@Traits: 3| AND |@OMNI Traits|"
+    "category": ["Grace", "! Traits"],
+    "requires": "|@Trait Slots:3|",
+    "hint_entrance": "Equip 3 bound traits"
   },
   {
-    "name": "love of grace (Room 500 Grace)",
+    "name": "Grace OMNI Slot Trait",
     "region": "Grace",
-    "category": [
-      "Grace",
-      "Grace 500"
-    ],
-    "requires": ""
+    "category": ["Grace", "! Traits"],
+    "requires": "|@Trait Slots:4|",
+    "hint_entrance": "Equip an OMNI trait in the OMNI slot"
   },
   {
-    "name": "Beyond the surface. (Enter zen)",
+    "name": "Grace 500 Rooms",
+    "region": "Grace",
+    "category": ["Grace"],
+    "requires": "",
+    "hint_entrance": "Go through 500 rooms in one Grace run"
+  },
+  {
+    "name": "zen Entered",
     "region": "zen",
-    "category": [
-      "zen",
-      "! zen"
-    ],
-    "requires": ""
+    "category": ["zen", "! zen"],
+    "requires": "",
+    "hint_entrance": "Enter zen"
   },
   {
-    "name": "grace of love (Room 500 clean zen)",
+    "name": "zen 500 Rooms",
     "region": "zen",
-    "category": [
-      "zen",
-      "! zen"
-    ],
-    "requires": ""
+    "category": ["zen", "! zen"],
+    "requires": "",
+    "hint_entrance": "Go through 500 rooms in one zen run"
   },
   {
-    "name": "meditation (Rest 5min)",
+    "name": "zen Bench 5min",
     "region": "zen",
-    "category": [
-      "zen",
-      "! zen"
-    ],
-    "requires": ""
+    "category": ["zen", "Waiting", "! zen"],
+    "requires": "",
+    "hint_entrance": "Sit on a bench for 5 minutes"
   },
   {
-    "name": "uoy pleh ll'i (Spoil zen)",
+    "name": "zen Spoiled",
     "region": "zen",
-    "category": [
-      "zen",
-      "! zen"
-    ],
-    "requires": ""
+    "category": ["zen", "! zen"],
+    "requires": "|Fruit of Knowledge|",
+    "hint_entrance": "Touch the Fruit of Knowledge and spoil zen"
   },
   {
-    "name": "hollow victory (S Rank Spoiled zen)",
+    "name": "zen Spoiled C Rank",
     "region": "zen",
-    "category": [
-      "zen",
-      "! zen"
-    ],
-    "requires": ""
+    "category": ["zen", "zen Ranks", "! zen"],
+    "requires": "|Fruit of Knowledge|",
+    "hint_entrance": "During sin's chase sequence in spoiled zen"
   },
   {
-    "name": "hollow victory+ (++++++++++S Rank Spoiled zen)",
+    "name": "zen Spoiled B Rank",
     "region": "zen",
-    "category": [
-      "zen",
-      "zen Rank",
-      "! zen"
-    ],
-    "requires": ""
+    "category": ["zen", "zen Ranks", "! zen"],
+    "requires": "|Fruit of Knowledge|",
+    "hint_entrance": "During sin's chase sequence in spoiled zen"
   },
   {
-    "name": "ON THE OFFENSE. (Enter REPRIEVE)",
+    "name": "zen Spoiled A Rank",
+    "region": "zen",
+    "category": ["zen", "zen Ranks", "! zen"],
+    "requires": "|Fruit of Knowledge|",
+    "hint_entrance": "During sin's chase sequence in spoiled zen"
+  },
+  {
+    "name": "zen Spoiled S Rank",
+    "region": "zen",
+    "category": ["zen", "zen Ranks", "! zen"],
+    "requires": "|Fruit of Knowledge|",
+    "hint_entrance": "During sin's chase sequence in spoiled zen"
+  },
+  {
+    "name": "zen Spoiled S+ Rank",
+    "region": "zen",
+    "category": ["zen", "zen Ranks", "! zen"],
+    "requires": "|Fruit of Knowledge|",
+    "hint_entrance": "During sin's chase sequence in spoiled zen"
+  },
+  {
+    "name": "zen Spoiled S+++++ Rank",
+    "region": "zen",
+    "category": ["zen", "zen Ranks", "! zen"],
+    "requires": "|Fruit of Knowledge|",
+    "hint_entrance": "During sin's chase sequence in spoiled zen"
+  },
+  {
+    "name": "zen Spoiled S++++++++++ Rank",
+    "region": "zen",
+    "category": ["zen", "zen Ranks", "! zen"],
+    "requires": "|Fruit of Knowledge|",
+    "hint_entrance": "During sin's chase sequence in spoiled zen"
+  },
+  {
+    "name": "zen Death sin.",
+    "region": "zen",
+    "category": ["zen", "! zen"],
+    "requires": "|Fruit of Knowledge|",
+    "hint_entrance": "Get killed by sin."
+  },
+  {
+    "name": "rOT Entered",
+    "region": "rOT",
+    "category": ["rOT", "! rOT"],
+    "requires": "",
+    "hint_entrance": "Enter rOT"
+  },
+  {
+    "name": "rOT Stabbed",
+    "region": "rOT",
+    "category": ["rOT", "! rOT"],
+    "requires": "",
+    "hint_entrance": "Take damage"
+  },
+  {
+    "name": "rOT Survival 5min",
+    "region": "rOT",
+    "category": ["rOT", "! rOT"],
+    "requires": "",
+    "hint_entrance": "Survive for 5 minutes"
+  },
+  {
+    "name": "rOT 4 Entities",
+    "region": "rOT",
+    "category": ["rOT", "! rOT"],
+    "requires": "|@rOT Entities:4| AND |rOTTING HAND|",
+    "hint_entrance": "Have 4 entities in the pool on ROT difficulty"
+  },
+  {
+    "name": "rOT 20 Stabs",
+    "region": "rOT",
+    "category": ["rOT", "! rOT"],
+    "requires": "",
+    "hint_entrance": "Take damage 20 times"
+  },
+  {
+    "name": "rOT 5 Limbs DISGRACE",
+    "region": "rOT",
+    "category": ["rOT", "! rOT"],
+    "requires": "|rOTTING HAND|",
+    "hint_entrance": "Rip 5 limbs while DISGRACE is right behind you"
+  },
+  {
+    "name": "rOT C Rank",
+    "region": "rOT",
+    "category": ["rOT", "rOT RANKS", "! rOT"],
+    "requires": "|rOTTING HAND|",
+    "hint_entrance": "Rip enough limbs to rank up"
+  },
+  {
+    "name": "rOT B Rank",
+    "region": "rOT",
+    "category": ["rOT", "rOT RANKS", "! rOT"],
+    "requires": "|rOTTING HAND|",
+    "hint_entrance": "Rip enough limbs to rank up"
+  },
+  {
+    "name": "rOT A Rank",
+    "region": "rOT",
+    "category": ["rOT", "rOT RANKS", "! rOT"],
+    "requires": "|rOTTING HAND|",
+    "hint_entrance": "Rip enough limbs to rank up"
+  },
+  {
+    "name": "rOT S Rank",
+    "region": "rOT",
+    "category": ["rOT", "rOT RANKS", "! rOT"],
+    "requires": "|rOTTING HAND|",
+    "hint_entrance": "Rip enough limbs to rank up"
+  },
+  {
+    "name": "rOT S+ Rank",
+    "region": "rOT",
+    "category": ["rOT", "rOT RANKS", "! rOT"],
+    "requires": "|rOTTING HAND|",
+    "hint_entrance": "Rip enough limbs to rank up"
+  },
+  {
+    "name": "rOT S+++++ Rank",
+    "region": "rOT",
+    "category": ["rOT", "rOT RANKS", "! rOT"],
+    "requires": "|rOTTING HAND|",
+    "hint_entrance": "Rip enough limbs to rank up"
+  },
+  {
+    "name": "rOT S++++++++++ Rank",
+    "region": "rOT",
+    "category": ["rOT", "rOT RANKS", "! rOT"],
+    "requires": "|rOTTING HAND|",
+    "hint_entrance": "Rip enough limbs to rank up"
+  },
+  {
+    "name": "rOT S Rank ROT",
+    "region": "rOT",
+    "category": ["rOT", "! rOT"],
+    "requires": "|rOTTING HAND| AND |@rOT Entities:4|",
+    "hint_entrance": "Rip enough limbs to get an S rank on ROT difficulty"
+  },
+  {
+    "name": "rOT Ended",
+    "region": "rOT",
+    "category": ["rOT", "! rOT"],
+    "requires": "|mutter|",
+    "hint_entrance": "Find mutter and leave rOT"
+  },
+  {
+    "name": "rOT Slap Upgrade",
+    "region": "rOT",
+    "category": ["rOT", "rOT Upgrades", "! rOT"],
+    "requires": "",
+    "hint_entrance": "Purchase the Slap upgrade"
+  },
+  {
+    "name": "rOT Bomb Upgrade",
+    "region": "rOT",
+    "category": ["rOT", "rOT Upgrades", "! rOT"],
+    "requires": "|rOTTING HAND|",
+    "hint_entrance": "Purchase the Bomb upgrade"
+  },
+  {
+    "name": "rOT Turret Upgrade",
+    "region": "rOT",
+    "category": ["rOT", "rOT Upgrades", "! rOT"],
+    "requires": "|rOTTING HAND|",
+    "hint_entrance": "Purchase the Turret upgrade"
+  },
+  {
+    "name": "rOT Sniper Upgrade",
+    "region": "rOT",
+    "category": ["rOT", "rOT Upgrades", "! rOT"],
+    "requires": "|rOTTING HAND|",
+    "hint_entrance": "Purchase the Sniper upgrade"
+  },
+  {
+    "name": "rOT Style Upgrade",
+    "region": "rOT",
+    "category": ["rOT", "rOT Upgrades", "! rOT"],
+    "requires": "|rOTTING HAND|",
+    "hint_entrance": "Purchase the Style upgrade"
+  },
+  {
+    "name": "rOT Kick Upgrade",
+    "region": "rOT",
+    "category": ["rOT", "rOT Upgrades", "! rOT"],
+    "requires": "|rOTTING HAND|",
+    "hint_entrance": "Purchase the Kick upgrade"
+  },
+  {
+    "name": "REPRIEVE Entered",
     "region": "REPRIEVE",
-    "category": [
-      "REPRIEVE",
-      "! REPRIEVE"
-    ],
-    "requires": ""
+    "category": ["REPRIEVE", "! REPRIEVE"],
+    "requires": "",
+    "hint_entrance": "Enter REPRIEVE"
   },
   {
-    "name": "TRAGIC IRONY. (Die in REPRIEVE)",
+    "name": "REPRIEVE Failed",
     "region": "REPRIEVE",
-    "category": [
-      "REPRIEVE",
-      "! REPRIEVE"
-    ],
-    "requires": ""
+    "category": ["REPRIEVE", "! REPRIEVE"],
+    "requires": "",
+    "hint_entrance": "Die in REPRIEVE"
   },
   {
-    "name": "rachunek sumienia (Starting Area 2min)",
+    "name": "REPRIEVE Ponder 5min",
     "region": "REPRIEVE",
-    "category": [
-      "REPRIEVE",
-      "! REPRIEVE"
-    ],
-    "requires": ""
+    "category": ["REPRIEVE", "Waiting", "! REPRIEVE"],
+    "requires": "",
+    "hint_entrance": "Wait in the starting area for 5 minutes"
   },
   {
-    "name": "grace rebuilt (Accomplish REPRIEVE)",
+    "name": "REPRIEVE Accomplished",
     "region": "REPRIEVE",
-    "category": [
-      "REPRIEVE",
-      "! REPRIEVE"
-    ],
-    "requires": ""
+    "category": ["REPRIEVE", "! REPRIEVE"],
+    "requires": "",
+    "hint_entrance": "Clear a floor and finish REPRIEVE"
   },
   {
-    "name": "RAGING ANGEL (Parry 10 Times 1 Floor)",
+    "name": "REPRIEVE 10 Parries 1 Floor",
     "region": "REPRIEVE",
-    "category": [
-      "REPRIEVE",
-      "! REPRIEVE"
-    ],
-    "requires": ""
+    "category": ["REPRIEVE", "! REPRIEVE"],
+    "requires": "|REPRIEVE PARRY| AND |@REPRIEVE Entities|",
+    "hint_entrance": "Parry any entity 10 times in 1 floor"
   },
   {
-    "name": "COME AND GET IT (Parry SHAME Mach 1+)",
+    "name": "Parry SHAME Mach 1+",
     "region": "REPRIEVE",
-    "category": [
-      "REPRIEVE",
-      "! REPRIEVE"
-    ],
-    "requires": ""
+    "category": ["REPRIEVE", "! REPRIEVE"],
+    "requires": "|REPRIEVE PARRY|",
+    "hint_entrance": "Parry SHAME while going above MACH 1"
   },
   {
-    "name": "HUMILIATION. (Parry Dozer)",
+    "name": "Parry Dozer",
     "region": "REPRIEVE",
-    "category": [
-      "REPRIEVE",
-      "! REPRIEVE"
-    ],
-    "requires": ""
+    "category": ["REPRIEVE", "! REPRIEVE"],
+    "requires": "|REPRIEVE PARRY| AND |Dozer|"
   },
   {
-    "name": "I'LL DO MY OWN THING. (Parry Litany Completely)",
+    "name": "Parry Litany All Eyes",
     "region": "REPRIEVE",
-    "category": [
-      "REPRIEVE",
-      "! REPRIEVE"
-    ],
-    "requires": "|Litany Modifiers|"
+    "category": ["REPRIEVE", "! REPRIEVE"],
+    "requires": "|REPRIEVE PARRY| AND |Litany|"
   },
   {
-    "name": "TALK TO THE HAND. (Parry Doppel)",
+    "name": "Parry Doppel",
     "region": "REPRIEVE",
-    "category": [
-      "REPRIEVE",
-      "! REPRIEVE"
-    ],
-    "requires": "|Doppel Modifiers|"
+    "category": ["REPRIEVE", "! REPRIEVE"],
+    "requires": "|REPRIEVE PARRY| AND |Doppel|"
   },
   {
-    "name": "A VOW TO REUNION. (Parry Rue)",
+    "name": "Parry Rue",
     "region": "REPRIEVE",
-    "category": [
-      "REPRIEVE",
-      "! REPRIEVE"
-    ],
-    "requires": "|Rue Modifiers|"
+    "category": ["REPRIEVE", "! REPRIEVE"],
+    "requires": "|REPRIEVE PARRY| AND |Rue|"
   },
   {
-    "name": "MAKE IT RIGHT. (Parry Doombringer)",
+    "name": "Parry Doombringer",
     "region": "REPRIEVE",
-    "category": [
-      "REPRIEVE",
-      "! REPRIEVE"
-    ],
-    "requires": "|Doombringer Modifiers|"
+    "category": ["REPRIEVE", "! REPRIEVE"],
+    "requires": "|REPRIEVE PARRY| AND |Doombringer|"
   },
   {
-    "name": "GET A CLUE. (Parry Duk)",
+    "name": "Parry Duk",
     "region": "REPRIEVE",
-    "category": [
-      "REPRIEVE",
-      "! REPRIEVE"
-    ],
-    "requires": "|Duk Modifiers|"
+    "category": ["REPRIEVE", "! REPRIEVE"],
+    "requires": "|REPRIEVE PARRY| AND |Duk|"
   },
   {
-    "name": "off all kind (Survive All Entities)",
+    "name": "REPRIEVE Floor All Entities",
     "region": "REPRIEVE",
-    "category": [
-      "REPRIEVE",
-      "REPRIEVE Hard",
-      "! REPRIEVE"
-    ],
-    "requires": "|Litany Modifiers| AND |Doppel Modifiers| AND |Rue Modifiers| AND |Doombringer Modifiers| AND |Duk Modifiers|"
+    "category": ["REPRIEVE", "REPRIEVE Hard", "! REPRIEVE"],
+    "requires": "|@REPRIEVE Entities:6|",
+    "hint_entrance": "Clear a floor with all entities enabled"
   },
   {
-    "name": "NO SHAME NO GAIN (5sec Only)",
+    "name": "REPREIEVE Floor 5sec Timer",
     "region": "REPRIEVE",
-    "category": [
-      "REPRIEVE",
-      "REPRIEVE Hard",
-      "! REPRIEVE"
-    ],
-    "requires": ""
+    "category": ["REPRIEVE", "! REPRIEVE"],
+    "requires": "",
+    "hint_entrance": "Clear a floor with only 5 seconds on the clock"
   },
   {
-    "name": "THOROUGH (999,999 Score)",
+    "name": "REPRIEVE 999,999 Score",
     "region": "REPRIEVE",
-    "category": [
-      "REPRIEVE",
-      "REPRIEVE Hard",
-      "! REPRIEVE"
-    ],
-    "requires": ""
+    "category": ["REPRIEVE", "REPRIEVE Hard", "! REPRIEVE"],
+    "requires": "|REPRIEVE PARRY|",
+    "hint_entrance": "Get a total score of 999,999"
   },
   {
-    "name": "Big One (Survive with 10x Multiplier)",
+    "name": "REPRIEVE Floor 10x Multiplier",
     "region": "REPRIEVE",
-    "category": [
-      "REPRIEVE",
-      "REPRIEVE Hard",
-      "! REPRIEVE"
-    ],
-    "requires": ""
+    "category": ["REPRIEVE", "REPRIEVE Hard", "! REPRIEVE"],
+    "requires": "|REPRIEVE PARRY| AND |@REPRIEVE Entities:6|",
+    "hint_entrance": "Enable enough modifiers for a 10x multiplier bonus"
   },
   {
-    "name": "GOD'S EAGLE (Enter WOED)",
+    "name": "WOED Entered",
     "region": "WOED",
-    "category": [
-      "WOED",
-      "! WOED"
-    ],
-    "requires": ""
+    "category": ["WOED", "! WOED"],
+    "requires": "",
+    "hint_entrance": "Enter WOED"
   },
   {
-    "name": "WOE LIVES ON (Die in WOED)",
+    "name": "WOED Failed",
     "region": "WOED",
-    "category": [
-      "WOED",
-      "! WOED"
-    ],
-    "requires": "|@Domains|"
+    "category": ["WOED", "! WOED"],
+    "requires": "(|Domain of Nede| AND |Love Blossom|) OR (|Domain of Sinrow| AND |Gate Crystals|) OR (|Domain of Clot| AND |SANITY Crystals|)",
+    "hint_entrance": "Fail a domain in WOED"
   },
   {
-    "name": "Pick me! (Pick First Goober)",
+    "name": "WOED Goober Selection",
     "region": "WOED",
-    "category": [
-      "WOED",
-      "! WOED"
-    ],
-    "requires": ""
+    "category": ["WOED", "! WOED"],
+    "requires": "|@WOED Goobers|",
+    "hint_entrance": "Select your first goober!"
   },
   {
-    "name": "Roll! Roll! Roll! (Reroll 20 Times)",
+    "name": "WOED 20 Rerolls",
     "region": "WOED",
-    "category": [
-      "WOED",
-      "! WOED"
-    ],
-    "requires": ""
+    "category": ["WOED", "Reroller", "! WOED"],
+    "requires": "",
+    "hint_entrance": "Reroll a total of 20 times"
   },
   {
-    "name": "Goobermination (7 Goobers)",
+    "name": "WOED 7 Goobers",
     "region": "WOED",
-    "category": [
-      "WOED",
-      "WOED Hard",
-      "! WOED"
-    ],
-    "requires": "|@Domains|"
+    "category": ["WOED", "! WOED"],
+    "requires": "|@WOED Goobers:7|",
+    "hint_entrance": "Have 7 goobers in hand"
   },
   {
-    "name": "BLINDING LIGHT (Beat 3 Domains Consecutively)",
+    "name": "WOED 3 Domains Wins",
     "region": "WOED",
-    "category": [
-      "WOED",
-      "WOED Hard",
-      "! WOED"
-    ],
-    "requires": "|@Domains|"
+    "category": ["WOED", "! WOED"],
+    "requires": "(|Domain of Nede| AND |Love Blossom|) OR (|Domain of Sinrow| AND |Gate Crystals|) OR (|Domain of Clot| AND |SANITY Crystals|)",
+    "hint_entrance": "Beat 3 domains in a row"
   },
   {
-    "name": "This is MAYHEM (Die in MAYHEM)",
+    "name": "MAYHEM Failed",
     "region": "MAYHEM",
-    "category": [
-      "MAYHEM",
-      "! MAYHEM"
-    ],
-    "requires": ""
+    "category": ["MAYHEM", "! MAYHEM"],
+    "requires": "",
+    "hint_entrance": "Die in MAYHEM"
   },
   {
-    "name": "GOTTA GO FAST (Survive Timer 45sec)",
+    "name": "MAYHEM Timer 45sec",
     "region": "MAYHEM",
-    "category": [
-      "MAYHEM",
-      "! MAYHEM"
-    ],
-    "requires": ""
+    "category": ["MAYHEM", "! MAYHEM"],
+    "requires": "|@Trait Slots:4|",
+    "hint_entrance": "Reach the next saferoom in under 45 seconds"
   },
   {
-    "name": "Broke (>65 Budget)",
+    "name": "MAYHEM 10 Rerolls",
     "region": "MAYHEM",
-    "category": [
-      "MAYHEM",
-      "! MAYHEM"
-    ],
-    "requires": ""
+    "category": ["MAYHEM", "Reroller", "! MAYHEM"],
+    "requires": "",
+    "hint_entrance": "Reroll the shop 10 times"
   },
   {
-    "name": "Customer Service (Reroll 10 Times)",
+    "name": "MAYHEM VIOLATION",
     "region": "MAYHEM",
-    "category": [
-      "MAYHEM",
-      "! MAYHEM"
-    ],
-    "requires": ""
+    "category": ["MAYHEM", "! Traits", "! MAYHEM"],
+    "requires": "|@Trait Slots|",
+    "hint_entrance": "Die or witness a player's death by a bound/shift trait"
   },
   {
-    "name": "body over soul (Commit/Witness VIOLATION)",
+    "name": "MAYHEM VIOLATION Smoke Balls",
     "region": "MAYHEM",
-    "category": [
-      "MAYHEM",
-      "! MAYHEM"
-    ],
-    "requires": "|@Bound Traits| OR |@Shift Traits|"
+    "category": ["MAYHEM", "Multiplayer", "! MAYHEM"],
+    "requires": "|@Trait Slots| AND |Gleam|",
+    "hint_entrance": "After a violation, revive a player or get revive and shoot the smoke balls with Gleam"
   },
   {
-    "name": "White Light (Commit VIOLATION Flash Smoke Balls)",
+    "name": "MAYHEM Shop Purchase 1",
     "region": "MAYHEM",
-    "category": [
-      "MAYHEM",
-      "MAYHEM Hard",
-      "! MAYHEM"
-    ],
-    "requires": "(|@Bound Traits| OR |@Shift Traits|) AND |Gleam|"
+    "category": ["MAYHEM", "MAYHEM Shop", "! MAYHEM"],
+    "requires": "|@MAYHEM Shop:1|",
+    "hint_entrance": "Reach every 4th saferoom for the shop"
   },
   {
-    "name": "IN GOES LIGHT (Survive Every Entity)",
+    "name": "MAYHEM Shop Purchase 2",
     "region": "MAYHEM",
-    "category": [
-      "MAYHEM",
-      "MAYHEM Hard",
-      "! MAYHEM"
-    ],
-    "requires": "|@Entities:16|"
+    "category": ["MAYHEM", "MAYHEM Shop", "! MAYHEM"],
+    "requires": "|@MAYHEM Shop:1|",
+    "hint_entrance": "Reach every 4th saferoom for the shop"
   },
   {
-    "name": "AGAPE (Beat Domain)",
+    "name": "MAYHEM Shop Purchase 3",
+    "region": "MAYHEM",
+    "category": ["MAYHEM", "MAYHEM Shop", "! MAYHEM"],
+    "requires": "|@MAYHEM Shop:2|",
+    "hint_entrance": "Reach every 4th saferoom for the shop"
+  },
+  {
+    "name": "MAYHEM Shop Purchase 4",
+    "region": "MAYHEM",
+    "category": ["MAYHEM", "MAYHEM Shop", "! MAYHEM"],
+    "requires": "|@MAYHEM Shop:2|",
+    "hint_entrance": "Reach every 4th saferoom for the shop"
+  },
+  {
+    "name": "MAYHEM Shop Purchase 5",
+    "region": "MAYHEM",
+    "category": ["MAYHEM", "MAYHEM Shop", "! MAYHEM"],
+    "requires": "|@MAYHEM Shop:3|",
+    "hint_entrance": "Reach every 4th saferoom for the shop"
+  },
+  {
+    "name": "MAYHEM Shop Purchase 6",
+    "region": "MAYHEM",
+    "category": ["MAYHEM", "MAYHEM Shop", "! MAYHEM"],
+    "requires": "|@MAYHEM Shop:3|",
+    "hint_entrance": "Reach every 4th saferoom for the shop"
+  },
+  {
+    "name": "MAYHEM Shop Purchase 7",
+    "region": "MAYHEM",
+    "category": ["MAYHEM", "MAYHEM Shop", "! MAYHEM"],
+    "requires": "|@MAYHEM Shop:4|",
+    "hint_entrance": "Reach every 4th saferoom for the shop"
+  },
+  {
+    "name": "MAYHEM Shop Purchase 8",
+    "region": "MAYHEM",
+    "category": ["MAYHEM", "MAYHEM Shop", "! MAYHEM"],
+    "requires": "|@MAYHEM Shop:4|",
+    "hint_entrance": "Reach every 4th saferoom for the shop"
+  },
+  {
+    "name": "MAYHEM Shop Purchase 9",
+    "region": "MAYHEM",
+    "category": ["MAYHEM", "MAYHEM Shop", "! MAYHEM"],
+    "requires": "|@MAYHEM Shop:5|",
+    "hint_entrance": "Reach every 4th saferoom for the shop"
+  },
+  {
+    "name": "MAYHEM Shop Purchase 10",
+    "region": "MAYHEM",
+    "category": ["MAYHEM", "MAYHEM Shop", "! MAYHEM"],
+    "requires": "|@MAYHEM Shop:5| AND |Hearthrose Magnet Ability|",
+    "hint_entrance": "Reach every 4th saferoom for the shop, requires Hearthrose for the potion to appear"
+  },
+  {
+    "name": "Domain Beat",
     "region": "Domains",
-    "category": [
-      "Domains"
-    ],
-    "requires": "(|Domain of Nede| AND |Love Blossom|) OR (|Domain of Sinrow| AND |Rusted Shackle|) OR (|Domain of Clot| AND |SANITY Beacons|)"
+    "category": ["Domains"],
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem|) OR (|Domain of Sinrow| AND |Gate Crystals|) OR (|Domain of Clot| AND |SANITY Crystals|)",
+    "hint_entrance": "Beat a domain in Grace or WOED"
   },
   {
-    "name": "SOUL OVER BODY (Beat Domain MAX Severity)",
+    "name": "Domain MAX Severity",
     "region": "Domains",
-    "category": [
-      "Domains",
-      "MAX Severity"
-    ],
-    "requires": "(|Domain of Nede| AND |Love Blossom|) OR (|Domain of Sinrow| AND |Rusted Shackle|) OR (|Domain of Clot| AND |SANITY Beacons|)"
+    "category": ["Domains", "MAX Severity"],
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem| AND |S.N.A.P.|) OR (|Domain of Sinrow| AND |Gate Crystals| AND |Flashlight| AND |Fool|) OR (|Domain of Clot| AND |SANITY Crystals| AND |Flashlight| AND |Craven|) AND |Severity Circle|",
+    "hint_entrance": "Beat a domain on the hardest difficulty in Grace or WOED"
   },
   {
-    "name": "SIN FELLED (Beat Domain P Rank)",
+    "name": "Domain P Rank",
     "region": "Domains",
-    "category": [
-      "Domains",
-      "P Rank"
-    ],
-    "requires": "(|Domain of Nede| AND |Love Blossom|) OR (|Domain of Sinrow| AND |Rusted Shackle|) OR (|Domain of Clot| AND |SANITY Beacons|)"
+    "category": ["Domains", "P Rank"],
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem|) OR (|Domain of Sinrow| AND |Gate Crystals|) OR (|Domain of Clot| AND |SANITY Crystals|)",
+    "hint_entrance": "Beat a domain with a P Rank in Grace or WOED"
   },
   {
-    "name": "LIGHTWORK (Beat Domain Alone)",
+    "name": "Domain † Rank",
     "region": "Domains",
-    "category": [
-      "Domains"
-    ],
-    "requires": "(|Domain of Nede| AND |Love Blossom|) OR (|Domain of Sinrow| AND |Rusted Shackle|) OR (|Domain of Clot| AND |SANITY Beacons|)"
+    "category": ["Domains", "Cross Rank"],
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem|) OR (|Domain of Sinrow| AND |Gate Crystals|) OR (|Domain of Clot| AND |SANITY Crystals|)",
+    "hint_entrance": "Beat a domain with a Cross Rank in Grace or WOED"
   },
   {
-    "name": "TRIBULATION (Enter Domain MAX Severity)",
+    "name": "Domain Solo",
     "region": "Domains",
-    "category": [
-      "Domains",
-      "MAX Severity"
-    ],
-    "requires": "(|Domain of Nede| AND |Love Blossom|) OR (|Domain of Sinrow| AND |Rusted Shackle|) OR (|Domain of Clot| AND |SANITY Beacons|)"
+    "category": ["Domains", "Multiplayer"],
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem|) OR (|Domain of Sinrow| AND |Gate Crystals|) OR (|Domain of Clot| AND |SANITY Crystals|)",
+    "hint_entrance": "Beat a domain as the last person alive"
   },
   {
-    "name": "CONVICTION (Beat Nede A Rank)",
+    "name": "Domain MAX Severity Entered",
     "region": "Domains",
-    "category": [
-      "Domains"
-    ],
-    "requires": "|Domain of Nede| AND |Love Blossom|",
-    "place_item": [
-      "NEDE FELLED"
-    ]
+    "category": ["Domains", "MAX Severity"],
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem| AND |S.N.A.P.|) OR (|Domain of Sinrow| AND |Gate Crystals| AND |Flashlight| AND |Fool|) OR (|Domain of Clot| AND |SANITY Crystals| AND |Flashlight| AND |Craven|) AND |Severity Circle|",
+    "hint_entrance": "Enter a domain on the hardest difficulty"
   },
   {
-    "name": "HEAD OUT THE POT (Beat Nede P Rank)",
+    "name": "Nede Beat",
     "region": "Domains",
-    "category": [
-      "Domains",
-      "P Rank"
-    ],
-    "requires": "|Domain of Nede| AND |Love Blossom|"
+    "category": ["Domains"],
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem|)",
+    "place_item": ["NEDE FELLED"],
+    "hint_entrance": "Beat Nede's domain"
   },
   {
-    "name": "HEAD OUT THE POT+ (Beat Nede T Rank)",
+    "name": "Nede A Rank",
     "region": "Domains",
-    "category": [
-      "Domains",
-      "T Rank"
-    ],
-    "requires": "|Domain of Nede| AND |Love Blossom|"
+    "category": ["Domains"],
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem|)",
+    "hint_entrance": "Beat Nede's domain with an A Rank"
   },
   {
-    "name": "TURF WAR (Beat Nede MAX Severity)",
+    "name": "Nede P Rank",
     "region": "Domains",
-    "category": [
-      "Domains",
-      "MAX Severity"
-    ],
-    "requires": "|Domain of Nede| AND |Love Blossom|"
+    "category": ["Domains", "P Rank"],
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem|)",
+    "hint_entrance": "Beat Nede's domain with a P Rank"
   },
   {
-    "name": "LAWNMOWER (Beat Nede P Rank MAX Severity)",
+    "name": "Nede † Rank",
     "region": "Domains",
-    "category": [
-      "Domains",
-      "P Rank",
-      "MAX Severity"
-    ],
-    "requires": "|Domain of Nede| AND |Love Blossom|"
+    "category": ["Domains", "Cross Rank"],
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem|)",
+    "hint_entrance": "Beat Nede's domain with a Cross Rank"
   },
   {
-    "name": "LAWNMOWER+ (Beat Nede T Rank MAX Severity)",
+    "name": "Nede MAX Severity",
     "region": "Domains",
-    "category": [
-      "Domains",
-      "T Rank",
-      "MAX Severity"
-    ],
-    "requires": "|Domain of Nede| AND |Love Blossom|"
+    "category": ["Domains", "MAX Severity"],
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem| AND |S.N.A.P.|) AND |Severity Circle|",
+    "hint_entrance": "Beat Nede's domain on the hardest difficulty"
   },
   {
-    "name": "dziecko grzechu (Flash 2 Flowerheads 1 Squirt)",
+    "name": "Nede P Rank MAX Severity",
     "region": "Domains",
-    "category": [
-      "Domains"
-    ],
-    "requires": "|Domain of Nede| AND |Love Blossom|"
+    "category": ["Domains", "P Rank", "MAX Severity"],
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem| AND |S.N.A.P.|) AND |Severity Circle|",
+    "hint_entrance": "Beat Nede's domain with a P Rank on the hardest difficulty"
   },
   {
-    "name": "IF YOU'RE ABLE (Dodge 5 Flowerheads)",
+    "name": "Nede † Rank MAX Severity",
     "region": "Domains",
-    "category": [
-      "Domains"
-    ],
-    "requires": "|Domain of Nede| AND |Love Blossom|"
+    "category": ["Domains", "Cross Rank", "MAX Severity"],
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem| AND |S.N.A.P.|) AND |Severity Circle|",
+    "hint_entrance": "Beat Nede's domain with a Cross Rank on the hardest difficulty"
   },
   {
-    "name": "'Problematic' (Sinrow 30 Wallkicks)",
+    "name": "Nede 2 Flowerheads 1 Flash",
     "region": "Domains",
-    "category": [
-      "Domains"
-    ],
-    "requires": "|Domain of Sinrow| AND |Rusted Shackle|"
+    "category": ["Domains", "Nede"],
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem|)",
+    "hint_entrance": "Flash 2 flowerheads with 1 squirt"
   },
   {
-    "name": "MY HEAD (Beat Sinrow A Rank)",
+    "name": "Nede 5 Flowerheads Dodge",
     "region": "Domains",
-    "category": [
-      "Domains"
-    ],
-    "requires": "|Domain of Sinrow| AND |Rusted Shackle|",
-    "place_item": [
-      "SINROW FELLED"
-    ]
+    "category": ["Domains", "Nede"],
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem|)",
+    "hint_entrance": "Slide past 5 flowerheads before they hit you"
   },
   {
-    "name": "AND... CUT! (Beat Sinrow P Rank)",
+    "name": "Sinrow 30 Wallkicks",
     "region": "Domains",
-    "category": [
-      "Domains",
-      "P Rank"
-    ],
-    "requires": "|Domain of Sinrow| AND |Rusted Shackle|"
+    "category": ["Domains", "Sinrow"],
+    "requires": "(|Domain of Sinrow| AND |Gate Crystals| AND |Litany|)",
+    "hint_entrance": "Wallkick 30 times in Sinrow's domain"
   },
   {
-    "name": "AND... CUT!+ (Beat Sinrow T Rank)",
+    "name": "Sinrow Beat",
     "region": "Domains",
-    "category": [
-      "Domains",
-      "T Rank"
-    ],
-    "requires": "|Domain of Sinrow| AND |Rusted Shackle|"
+    "category": ["Domains"],
+    "requires": "(|Domain of Sinrow| AND |Gate Crystals| AND |Litany|)",
+    "place_item": ["SINROW FELLED"],
+    "hint_entrance": "Beat Sinrow's domain"
   },
   {
-    "name": "DROP IT (Face Guilles Closeup)",
+    "name": "Sinrow A Rank",
     "region": "Domains",
-    "category": [
-      "Domains"
-    ],
-    "requires": "|Domain of Sinrow| AND |Rusted Shackle|"
+    "category": ["Domains"],
+    "requires": "(|Domain of Sinrow| AND |Gate Crystals| AND |Litany|)",
+    "hint_entrance": "Beat Sinrow's domain with an A Rank"
   },
   {
-    "name": "MASSACRE MARCH (Beat Sinrow MAX Severity)",
+    "name": "Sinrow P Rank",
     "region": "Domains",
-    "category": [
-      "Domains",
-      "MAX Severity"
-    ],
-    "requires": "|Domain of Sinrow| AND |Rusted Shackle|"
+    "category": ["Domains", "P Rank"],
+    "requires": "(|Domain of Sinrow| AND |Gate Crystals| AND |Litany|)",
+    "hint_entrance": "Beat Sinrow's domain with a P Rank"
   },
   {
-    "name": "BRAZEN BULL (Beat Sinrow P Rank MAX Severity)",
+    "name": "Sinrow † Rank",
     "region": "Domains",
-    "category": [
-      "Domains",
-      "P Rank",
-      "MAX Severity"
-    ],
-    "requires": "|Domain of Sinrow| AND |Rusted Shackle|"
+    "category": ["Domains", "Cross Rank"],
+    "requires": "(|Domain of Sinrow| AND |Gate Crystals| AND |Litany|)",
+    "hint_entrance": "Beat Sinrow's domain with a Cross Rank"
   },
   {
-    "name": "BRAZEN BULL+ (Beat Sinrow T Rank MAX Severity)",
+    "name": "Sinrow Guilles Close",
     "region": "Domains",
-    "category": [
-      "Domains",
-      "T Rank",
-      "MAX Severity"
-    ],
-    "requires": "|Domain of Sinrow| AND |Rusted Shackle|"
+    "category": ["Domains", "Sinrow"],
+    "requires": "(|Domain of Sinrow| AND |Gate Crystals| AND |Litany|)",
+    "hint_entrance": "Get upclose to the Guilles and don't die"
   },
   {
-    "name": "I FEEL LIKE AN ATOMBOMBATOMBOMBATOMBOMBATOMBOMB (Regain SANITY Near Empty Clot)",
+    "name": "Sinrow MAX Severity",
     "region": "Domains",
-    "category": [
-      "Domains"
-    ],
-    "requires": "|Domain of Clot| AND |SANITY Beacons|"
+    "category": ["Domains", "MAX Severity"],
+    "requires": "(|Domain of Sinrow| AND |Gate Crystals| AND |Litany| AND |Flashlight| AND |Fool|) AND |Severity Circle|",
+    "hint_entrance": "Beat Sinrow's domain on the hardest difficulty"
   },
   {
-    "name": "RAIN MY HEART (Beat Clot A Rank)",
+    "name": "Sinrow P Rank MAX Severity",
     "region": "Domains",
-    "category": [
-      "Domains"
-    ],
-    "requires": "|Domain of Clot| AND |SANITY Beacons|",
-    "place_item": [
-      "CLOT FELLED"
-    ]
+    "category": ["Domains", "P Rank", "MAX Severity"],
+    "requires": "(|Domain of Sinrow| AND |Gate Crystals| AND |Litany| AND |Flashlight| AND |Fool|) AND |Severity Circle|",
+    "hint_entrance": "Beat Sinrow's domain with a P Rank on the hardest difficulty"
   },
   {
-    "name": "TRAGEDY NEVER DIES (Beat Clot P Rank)",
+    "name": "Sinrow † Rank MAX Severity",
     "region": "Domains",
-    "category": [
-      "Domains",
-      "P Rank"
-    ],
-    "requires": "|Domain of Clot| AND |SANITY Beacons|"
+    "category": ["Domains", "Cross Rank", "MAX Severity"],
+    "requires": "(|Domain of Sinrow| AND |Gate Crystals| AND |Litany| AND |Flashlight| AND |Fool|) AND |Severity Circle|",
+    "hint_entrance": "Beat Sinrow's domain with a Cross Rank on the hardest difficulty"
   },
   {
-    "name": "TRAGEDY NEVER DIES+ (Beat Clot T Rank)",
+    "name": "Clot SANITY Refill Near Empty",
     "region": "Domains",
-    "category": [
-      "Domains",
-      "T Rank"
-    ],
-    "requires": "|Domain of Clot| AND |SANITY Beacons|"
+    "category": ["Domains", "Clot"],
+    "requires": "(|Domain of Clot| AND |SANITY Crystals|)",
+    "hint_entrance": "Refill your SANITY before you completely run out"
   },
   {
-    "name": "DROWN IN IT (Beat Clot MAX Severity)",
+    "name": "Clot Beat",
     "region": "Domains",
-    "category": [
-      "Domains",
-      "MAX Severity"
-    ],
-    "requires": "|Domain of Clot| AND |SANITY Beacons|"
+    "category": ["Domains"],
+    "requires": "(|Domain of Clot| AND |SANITY Crystals|)",
+    "place_item": ["CLOT FELLED"],
+    "hint_entrance": "Beat Clot's domain"
   },
   {
-    "name": "NO REACTION (Beat Clot P Rank MAX Severity)",
+    "name": "Clot A Rank",
     "region": "Domains",
-    "category": [
-      "Domains",
-      "P Rank",
-      "MAX Severity"
-    ],
-    "requires": "|Domain of Clot| AND |SANITY Beacons|"
+    "category": ["Domains"],
+    "requires": "(|Domain of Clot| AND |SANITY Crystals|)",
+    "hint_entrance": "Beat Clot's domain with an A Rank"
   },
   {
-    "name": "NO REACTION+ (Beat Clot T Rank MAX Severity)",
+    "name": "Clot P Rank",
     "region": "Domains",
-    "category": [
-      "Domains",
-      "T Rank",
-      "MAX Severity"
-    ],
-    "requires": "|Domain of Clot| AND |SANITY Beacons|"
+    "category": ["Domains", "P Rank"],
+    "requires": "(|Domain of Clot| AND |SANITY Crystals|)",
+    "hint_entrance": "Beat Clot's domain with a P Rank"
   },
   {
-    "name": "Have a Goober! (Regoob)",
-    "region": "Goobers",
-    "category": [
-      "Goobers"
-    ],
-    "requires": ""
+    "name": "Clot † Rank",
+    "region": "Domains",
+    "category": ["Domains", "Cross Rank"],
+    "requires": "(|Domain of Clot| AND |SANITY Crystals|)",
+    "hint_entrance": "Beat Clot's domain with a Cross Rank"
   },
   {
-    "name": "Goober Brain (2nd Regoob)",
-    "region": "Goobers",
-    "category": [
-      "Goobers"
-    ],
-    "requires": ""
+    "name": "Clot MAX Severity",
+    "region": "Domains",
+    "category": ["Domains", "MAX Severity"],
+    "requires": "(|Domain of Clot| AND |SANITY Crystals| AND |Flashlight| AND |Craven|) AND |Severity Circle|",
+    "hint_entrance": "Beat Clot's domain on the hardest difficulty"
   },
   {
-    "name": "Long Goober (5th Regoob)",
-    "region": "Goobers",
-    "category": [
-      "Goobers"
-    ],
-    "requires": ""
+    "name": "Clot P Rank MAX Severity",
+    "region": "Domains",
+    "category": ["Domains", "P Rank", "MAX Severity"],
+    "requires": "(|Domain of Clot| AND |SANITY Crystals| AND |Flashlight| AND |Craven|) AND |Severity Circle|",
+    "hint_entrance": "Beat Clot's domain with a P Rank on the hardest difficulty"
   },
   {
-    "name": "Tall Goober (10th Regoob)",
-    "region": "Goobers",
-    "category": [
-      "Goobers"
-    ],
-    "requires": ""
+    "name": "Clot † Rank MAX Severity",
+    "region": "Domains",
+    "category": ["Domains", "Cross Rank", "MAX Severity"],
+    "requires": "(|Domain of Clot| AND |SANITY Crystals| AND |Flashlight| AND |Craven|) AND |Severity Circle|",
+    "hint_entrance": "Beat Clot's domain with a Cross Rank on the hardest difficulty"
   },
   {
-    "name": "! goober (20th Regoob)",
-    "region": "Goobers",
-    "category": [
-      "Goobers"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Goober Rich (1mil Goobers)",
-    "region": "Goobers",
-    "category": [
-      "Goobers"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Golden Goober (1bil Goobers)",
-    "region": "Goobers",
-    "category": [
-      "Goobers"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Diamond Goober (1tril Goobers)",
-    "region": "Goobers",
-    "category": [
-      "Goobers"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Goober Kinol (Click Goober 1k Times)",
-    "region": "Goobers",
-    "category": [
-      "Goobers"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Strong Goober (Click Goober 10k Times)",
-    "region": "Goobers",
-    "category": [
-      "Goobers"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Loving Goober (Regoob in a Run)",
-    "region": "Goobers",
-    "category": [
-      "Goobers"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Another Goober (Regoob in zen)",
-    "region": "Goobers",
-    "category": [
-      "Goobers"
-    ],
-    "requires": "|zen|"
-  },
-  {
-    "name": "A different Goober! (Regoob in REPRIEVE)",
-    "region": "Goobers",
-    "category": [
-      "Goobers"
-    ],
-    "requires": "|REPRIEVE|"
-  },
-  {
-    "name": "Bone Goober (Regoob in the Shop)",
-    "region": "Goobers",
-    "category": [
-      "Goobers"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "NOT a Goober. (Regoob Doombringer Equipped)",
-    "region": "Goobers",
-    "category": [
-      "Goobers"
-    ],
-    "requires": "|Doombringer Modifiers|"
-  },
-  {
-    "name": "Snappy Goober (Regoob S.N.A.P. Equipped)",
-    "region": "Goobers",
-    "category": [
-      "Goobers"
-    ],
-    "requires": "|S.N.A.P. Modifiers|"
-  },
-  {
-    "name": "Goober Doodle (Regoob Quill Equipped)",
-    "region": "Goobers",
-    "category": [
-      "Goobers",
-      "Stuff"
-    ],
-    "requires": "|Quill|"
-  },
-  {
-    "name": "Zip Zloober (Regoob Midair)",
-    "region": "Goobers",
-    "category": [
-      "Goobers"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Genesis (Join Grace)",
+    "name": "Join Game",
     "region": "Misc",
-    "category": [
-      "Misc"
-    ],
-    "requires": ""
+    "category": ["General"],
+    "requires": "",
+    "hint_entrance": "The start of archipelago basically"
   },
   {
-    "name": "i'll help you. (Die)",
+    "name": "1st Death",
     "region": "Misc",
-    "category": [
-      "Misc"
-    ],
-    "requires": ""
+    "category": ["General"],
+    "requires": "(|Grace| AND |@Starting Entities|) OR (|zen| AND |Fruit of Knowledge|) OR |rOT| OR |REPRIEVE| OR (|WOED| AND |@Domains|) OR |MAYHEM|",
+    "hint_entrance": "Die in any gamemode"
   },
   {
-    "name": "awwww (2sec Warning Screen)",
+    "name": "Flashlight Spin 1min",
     "region": "Misc",
-    "category": [
-      "Misc"
-    ],
-    "requires": ""
+    "category": ["General"],
+    "requires": "|Flashlight| AND (|Grace| OR |WOED| OR |MAYHEM|)",
+    "hint_entrance": "Spin the flashlight for 1 minute straight"
   },
   {
-    "name": "already having fun? (1min Warning Screen)",
+    "name": "Break Door",
     "region": "Misc",
-    "category": [
-      "Misc"
-    ],
-    "requires": ""
+    "category": ["General"],
+    "requires": "|@Traits:3| AND (|Grace| OR |MAYHEM|)",
+    "hint_entrance": "Go really fast and kick a door down"
   },
   {
-    "name": "BURNOUT (Barely Move Slide)",
+    "name": "Brick Door",
     "region": "Misc",
-    "category": [
-      "Misc"
-    ],
-    "requires": ""
+    "category": ["General"],
+    "requires": "|B.R.I.C.K.| AND (|Grace| OR |MAYHEM|)",
+    "hint_entrance": "Go really fast and throw a brick at a door"
   },
   {
-    "name": "AWOOOGA (-60 FOV)",
-    "region": "Misc",
-    "category": [
-      "Misc"
-    ],
-    "requires": ""
+    "name": "Key Redeemed 1",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:1|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 1",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
   },
   {
-    "name": "STIMULATED (Spin Flashlight)",
-    "region": "Misc",
-    "category": [
-      "Misc"
-    ],
-    "requires": "|Flashlight|"
+    "name": "Key Redeemed 2",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:1|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 1",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
   },
   {
-    "name": "B-B-BLAST!!! (Break Door)",
-    "region": "Misc",
-    "category": [
-      "Misc"
-    ],
-    "requires": ""
+    "name": "Key Redeemed 3",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:1|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 1",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
   },
   {
-    "name": "BULLSEYE (Brick Door Fast)",
-    "region": "Misc",
-    "category": [
-      "Misc"
-    ],
-    "requires": "|B.R.I.C.K.|"
+    "name": "Key Redeemed 4",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:1|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 1",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
   },
   {
-    "name": "Creative (First Doodle)",
-    "region": "Misc",
-    "category": [
-      "Misc",
-      "Stuff"
-    ],
-    "requires": "|Quill|"
+    "name": "Key Redeemed 5",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:1|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 1",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
   },
   {
-    "name": "PSYCHARTIST (2min 30sec Doodle Menu)",
-    "region": "Misc",
-    "category": [
-      "Misc",
-      "Stuff"
-    ],
-    "requires": "|Quill|"
+    "name": "Key Redeemed 6",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:2|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 2",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
   },
   {
-    "name": "Doodledicted (90 Doodles)",
-    "region": "Misc",
-    "category": [
-      "Misc",
-      "Stuff"
-    ],
-    "requires": "|Quill|"
+    "name": "Key Redeemed 7",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:2|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 2",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
   },
   {
-    "name": "THE WAY I SEE IT (Redeem Vision)",
-    "region": "Misc",
-    "category": [
-      "Misc"
-    ],
-    "requires": ""
+    "name": "Key Redeemed 8",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:2|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 2",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
   },
   {
-    "name": "IS LIKE NO OTHER. (1 Vision per Entity)",
-    "region": "Misc",
-    "category": [
-      "Misc"
-    ],
-    "requires": ""
+    "name": "Key Redeemed 9",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:2|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 2",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
   },
   {
-    "name": "DOMAIN FELLED",
+    "name": "Key Redeemed 10",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:2|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 2",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 11",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:3|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 3",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 12",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:3|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 3",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 13",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:3|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 3",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 14",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:3|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 3",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 15",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:3|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 3",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 16",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:4|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 4",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 17",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:4|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 4",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 18",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:4|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 4",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 19",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:4|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 4",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 20",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:4|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 4",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 21",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:5|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 5",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 22",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:5|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 5",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 23",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:5|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 5",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 24",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:5|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 5",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 25",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:5|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 5",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 26",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:6|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 6",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 27",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:6|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 6",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 28",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:6|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 6",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 29",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:6|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 6",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 30",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:6|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 6",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 31",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:7|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 7",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 32",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:7|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 7",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 33",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:7|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 7",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 34",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:7|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 7",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 35",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:7|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 7",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 36",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:8|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 8",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 37",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:8|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 8",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 38",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:8|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 8",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 39",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:8|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 8",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 40",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:8|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 8",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 41",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:9|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 9",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 42",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:9|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 9",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 43",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:9|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 9",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 44",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:9|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 9",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 45",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:9|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 9",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 46",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:10|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 10",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 47",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:10|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 10",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 48",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:10|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 10",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 49",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:10|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 10",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Key Redeemed 50",
+    "region": "Sanity",
+    "category": ["keysanity"],
+    "requires": "|@keysanity:10|",
+    "prehint": true,
+    "hint_entrance": "Key Bundles = 10",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Super Key Redeemed 1",
+    "region": "Sanity",
+    "category": ["superkeysanity"],
+    "requires": "|@superkeysanity:1|",
+    "prehint": true,
+    "hint_entrance": "Super Key = 1",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Super Key Redeemed 2",
+    "region": "Sanity",
+    "category": ["superkeysanity"],
+    "requires": "|@superkeysanity:2|",
+    "prehint": true,
+    "hint_entrance": "Super Key = 2",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Super Key Redeemed 3",
+    "region": "Sanity",
+    "category": ["superkeysanity"],
+    "requires": "|@superkeysanity:3|",
+    "prehint": true,
+    "hint_entrance": "Super Key = 3",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Super Key Redeemed 4",
+    "region": "Sanity",
+    "category": ["superkeysanity"],
+    "requires": "|@superkeysanity:4|",
+    "prehint": true,
+    "hint_entrance": "Super Key = 4",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Super Key Redeemed 5",
+    "region": "Sanity",
+    "category": ["superkeysanity"],
+    "requires": "|@superkeysanity:5|",
+    "prehint": true,
+    "hint_entrance": "Super Key = 5",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Super Key Redeemed 6",
+    "region": "Sanity",
+    "category": ["superkeysanity"],
+    "requires": "|@superkeysanity:6|",
+    "prehint": true,
+    "hint_entrance": "Super Key = 6",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Super Key Redeemed 7",
+    "region": "Sanity",
+    "category": ["superkeysanity"],
+    "requires": "|@superkeysanity:7|",
+    "prehint": true,
+    "hint_entrance": "Super Key = 7",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Super Key Redeemed 8",
+    "region": "Sanity",
+    "category": ["superkeysanity"],
+    "requires": "|@superkeysanity:8|",
+    "prehint": true,
+    "hint_entrance": "Super Key = 8",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Super Key Redeemed 9",
+    "region": "Sanity",
+    "category": ["superkeysanity"],
+    "requires": "|@superkeysanity:9|",
+    "prehint": true,
+    "hint_entrance": "Super Key = 9",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "Super Key Redeemed 10",
+    "region": "Sanity",
+    "category": ["superkeysanity"],
+    "requires": "|@superkeysanity:10|",
+    "prehint": true,
+    "hint_entrance": "Super Key = 10",
+    "dont_place_item_category": ["keysanity", "superkeysanity", "spraycansanity", "visionsanity", "traitcharmsanity"]
+  },
+  {
+    "name": "All Domains Felled",
     "region": "Domains",
-    "category": [
-      "! GOAL"
-    ],
-    "requires": "|NEDE FELLED| AND |SINROW FELLED| AND |CLOT FELLED|",
-    "victory": true
+    "category": ["! GOAL"],
+    "requires": "|@Domains Felled:3| AND |@Documents:53|",
+    "victory": true,
+    "hint_entrance": "Gather 53 documents and beat all domains"
   }
 ]

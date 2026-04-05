@@ -6,42 +6,67 @@
   "death_link": true,
   "starting_items": [
     {
-      "item_categories": [
-        "Starting Light"
-      ],
+      "item_categories": ["Gamemodes"],
       "random": 1
     },
     {
-      "item_categories": [
-        "! Grace"
-      ],
-      "yaml_option": [
-        "grace"
-      ]
+      "if_previous_item": ["Grace"],
+      "item_categories": ["Starting Lights"],
+      "random": 1
     },
     {
-      "item_categories": [
-        "Traits"
-      ],
-      "yaml_option": [
-        "!traits"
-      ]
+      "if_previous_item": ["Grace"],
+      "item_categories": ["Starting Entities"]
     },
     {
-      "item_categories": [
-        "Domain Extras"
-      ],
-      "yaml_option": [
-        "!domain_items"
-      ]
+      "if_previous_item": ["zen"],
+      "items": ["Fruit of Knowledge"]
     },
     {
-      "item_categories": [
-        "Documents"
-      ],
-      "yaml_option": [
-        "!documents"
-      ]
+      "if_previous_item": ["rOT"],
+      "items": ["rOTTING HAND", "mutter"]
+    },
+    {
+      "if_previous_item": ["REPRIEVE"],
+      "items": ["REPRIEVE PARRY"]
+    },
+    {
+      "if_previous_item": ["REPRIEVE"],
+      "item_categories": ["REPRIEVE Entities"],
+      "random": 3
+    },
+    {
+      "if_previous_item": ["WOED"],
+      "items": ["Grace"]
+    },
+    {
+      "if_previous_item": ["MAYHEM"],
+      "item_categories": ["Abilities"]
+    },
+    {
+      "if_previous_item": ["MAYHEM"],
+      "item_categories": ["MAYHEM Shop"],
+      "random": 2
+    },
+    {
+      "item_categories": ["Documents"],
+      "yaml_option": ["goal_no_documents"],
+      "random": 53
+    },
+    {
+      "item_categories": ["Documents"],
+      "yaml_option": ["goal_quarter_documents"],
+      "random": 40
+    },
+    {
+      "item_categories": ["Documents"],
+      "yaml_option": ["goal_half_documents"],
+      "random": 27
+    },
+    {
+      "item_categories": ["Documents"],
+      "yaml_option": ["goal_three_quarter_documents"],
+      "random": 14
     }
   ]
 }
