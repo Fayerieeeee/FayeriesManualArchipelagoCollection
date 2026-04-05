@@ -17,6 +17,31 @@
         }
     },
     "user": {
+        "goal_no_documents":{
+            "display_name": "0% Documents for Goal",
+            "type": "Toggle",
+            "default": true
+        },
+        "goal_quarter_documents":{
+            "display_name": "25% Documents for Goal",
+            "type": "Toggle",
+            "default": false
+        },
+        "goal_half_documents":{
+            "display_name": "50% Documents for Goal",
+            "type": "Toggle",
+            "default": false
+        },
+        "goal_three_quarter_documents":{
+            "display_name": "75% Documents for Goal",
+            "type": "Toggle",
+            "default": false
+        },
+        "goal_all_documents":{
+            "display_name": "100% Documents for Goal",
+            "type": "Toggle",
+            "default": false
+        },
         "grace":{
             "display_name": "Grace",
             "type": "Toggle",
@@ -173,7 +198,7 @@
             "default": true,
             "group": "Extra Entity Badges"
         },
-        "Ire":{
+        "ire":{
             "display_name": "Ire",
             "type": "Toggle",
             "default": true,
