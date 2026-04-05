@@ -121,6 +121,15 @@
         "goal_three_quarter_documents"
       ],
       "random": 14
+    },
+    {
+      "item_categories": [
+        "Traits"
+      ],
+      "yaml_option": [
+        "!shuffle_traits"
+      ],
+      "random": 21
     }
   ]
 }

@@ -3,11 +3,7 @@
     "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
     "core": {
         "goal":{
-            "_comment": [
-                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
-            ],
             "display_name": "The End Objective",
-            "description": "How to End your Randomized playthrough.",
             "aliases": {"easiest": 0},
             "hidden": false
         },
@@ -15,68 +11,311 @@
             "default": false
         },
         "filler_traps": {
-            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
             "values": {
-                "recommended": 20
+                "default": 20
             }
         }
     },
     "user": {
-        "_commented_out_option":{
+        "grace":{
+            "display_name": "Grace",
             "type": "Toggle",
-            "default": true
+            "default": true,
+            "group": "Gamemodes"
         },
-        "Example_Toggle":{
-            "description": [
-                "This is a Toggle",
-                "A simple boolean, aka True or False set the initial value with \"default\""
-            ],
+        "zen":{
+            "display_name": "zen",
+            "type": "Toggle",
+            "default": true,
+            "group": "Gamemodes"
+        },
+        "rot":{
+            "display_name": "rOT",
+            "type": "Toggle",
+            "default": true,
+            "group": "Gamemodes"
+        },
+        "reprieve":{
+            "display_name": "REPRIEVE",
             "type": "Toggle",
             "default": false,
-            "group": "Example Options"
+            "group": "Gamemodes"
         },
-        "Example_Choice":{
-            "type": "Choice",
-            "description": [
-                "This is a Choice",
-                "Let the user pick from a list of values",
-                "allow_custom_value let a player define their own text value",
-                "Currently the only use for Choice in Manual outside of hooks is the goal"
-            ],
-            "values": {
-                "start":0,
-                "test":1
-             },
-            "default": 0,
-            "allow_custom_value": false,
-            "group": "Example Options"
-        },
-        "Example_Range":{
-            "type": "Range",
-            "description": [
-                "This is a Range",
-                "Allow the player to specify a value between 'start' and 'end'",
-                "if you include a \"values\" you can define the label for certain values",
-                "Currently the only use for Range in Manual outside of hooks is 'filler_trap'"
-            ],
-            "range_start": 0,
-            "default": 1,
-            "range_end": 5,
-            "values": {"example": 2},
-            "group": "Example Options"
-        },
-
-        "DLC_enabled":{
-            "display_name": "DLC Enabled",
-            "description": "Is the Dlc enabled?",
+        "woed":{
+            "display_name": "WOED",
             "type": "Toggle",
-            "visibility": [
-                "simple_ui",
-                "complex_ui",
-                "template"
-            ],
-            "default": true
+            "default": false,
+            "group": "Gamemodes"
+        },
+        "mayhem":{
+            "display_name": "MAYHEM",
+            "type": "Toggle",
+            "default": false,
+            "group": "Gamemodes"
+        },
+        "shuffle_traits":{
+            "display_name": "Shuffle Traits",
+            "type": "Toggle",
+            "default": false,
+            "group": "Items"
+        },
+        "doodles":{
+            "display_name": "Doodles",
+            "type": "Toggle",
+            "default": false,
+            "group": "Items"
+        },
+        "nullscape_modifiers":{
+            "display_name": "Nullscape Modifiers",
+            "type": "Toggle",
+            "default": true,
+            "group": "Items"
+        },
+        "general_badges":{
+            "display_name": "General Badges",
+            "type": "Toggle",
+            "default": true,
+            "group": "Badges"
+        },
+        "trait_badges":{
+            "display_name": "Trait Badges",
+            "type": "Toggle",
+            "default": true,
+            "group": "Badges"
+        },
+        "patience_badges":{
+            "display_name": "Patience Badges",
+            "type": "Toggle",
+            "default": true,
+            "group": "Badges"
+        },
+        "rng_badges":{
+            "display_name": "RNG Badges",
+            "type": "Toggle",
+            "default": true,
+            "group": "Badges"
+        },
+        "reroll_badges":{
+            "display_name": "Reroll",
+            "type": "Toggle",
+            "default": true,
+            "group": "Badges"
+        },
+        "multiplayer_badges":{
+            "display_name": "Multiplayer Badges",
+            "type": "Toggle",
+            "default": true,
+            "group": "Badges"
+        },
+        "slugfish":{
+            "display_name": "Slugfish",
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Entity Badges"
+        },
+        "elkman":{
+            "display_name": "Elkman",
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Entity Badges"
+        },
+        "dozer":{
+            "display_name": "Dozer",
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Entity Badges"
+        },
+        "sorrow":{
+            "display_name": "Sorrow",
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Entity Badges"
+        },
+        "doppel":{
+            "display_name": "Doppel",
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Entity Badges"
+        },
+        "litany":{
+            "display_name": "Litany",
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Entity Badges"
+        },
+        "kookoo":{
+            "display_name": "Kookoo",
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Entity Badges"
+        },
+        "rue":{
+            "display_name": "Rue",
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Entity Badges"
+        },
+        "doombringer":{
+            "display_name": "Doombringer",
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Entity Badges"
+        },
+        "mime":{
+            "display_name": "Mime",
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Entity Badges"
+        },
+        "drain":{
+            "display_name": "Drain",
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Entity Badges"
+        },
+        "Ire":{
+            "display_name": "Ire",
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Entity Badges"
+        },
+        "seesay":{
+            "display_name": "Seesay",
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Entity Badges"
+        },
+        "craven":{
+            "display_name": "Craven",
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Entity Badges"
+        },
+        "fool":{
+            "display_name": "Fool",
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Entity Badges"
+        },
+        "snap":{
+            "display_name": "S.N.A.P.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Entity Badges"
+        },
+        "stem":{
+            "display_name": "Stem",
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Entity Badges"
+        },
+        "covet":{
+            "display_name": "Covet",
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Entity Badges"
+        },
+        "pishrow":{
+            "display_name": "PISHROW",
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Entity Badges"
+        },
+        "nede":{
+            "display_name": "Nede's Domain",
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Entity Badges"
+        },
+        "sinrow":{
+            "display_name": "Sinrow's Domain",
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Entity Badges"
+        },
+        "clot":{
+            "display_name": "Clot's Domain",
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Entity Badges"
+        },
+        "zen_ranks":{
+            "display_name": "zen Ranks",
+            "type": "Toggle",
+            "default": false,
+            "group": "Ranks"
+        },
+        "rot_ranks":{
+            "display_name": "rOT RANKS",
+            "type": "Toggle",
+            "default": true,
+            "group": "Ranks"
+        },
+        "p_rank":{
+            "display_name": "Domains P Rank",
+            "type": "Toggle",
+            "default": true,
+            "group": "Ranks"
+        },
+        "cross_rank":{
+            "display_name": "Domains Cross Rank",
+            "type": "Toggle",
+            "default": true,
+            "group": "Ranks"
+        },
+        "hard_reprieve":{
+            "display_name": "Hard REPRIEVE",
+            "type": "Toggle",
+            "default": true,
+            "group": "Hard Modes"
+        },
+        "max_severity":{
+            "display_name": "MAX Severity",
+            "type": "Toggle",
+            "default": true,
+            "group": "Hard Modes"
+        },
+        "rot_upgrades":{
+            "display_name": "rOT Upgrades",
+            "type": "Toggle",
+            "default": true,
+            "group": "Shops"
+        },
+        "mayhem_shop":{
+            "display_name": "Mayhem Shop",
+            "type": "Toggle",
+            "default": true,
+            "group": "Shops"
+        },
+        "keysanity":{
+            "display_name": "keysanity",
+            "type": "Toggle",
+            "default": false,
+            "group": "sanity"
+        },
+        "superkeysanity":{
+            "display_name": "superkeysanity",
+            "type": "Toggle",
+            "default": false,
+            "group": "sanity"
+        },
+        "spraycansanity":{
+            "display_name": "spraycansanity",
+            "type": "Toggle",
+            "default": false,
+            "group": "sanity"
+        },
+        "visionsanity":{
+            "display_name": "visionsanity",
+            "type": "Toggle",
+            "default": false,
+            "group": "sanity"
+        },
+        "traitcharmsanity":{
+            "display_name": "traitcharmsanity",
+            "type": "Toggle",
+            "default": false,
+            "group": "sanity"
         }
     }
-
 }

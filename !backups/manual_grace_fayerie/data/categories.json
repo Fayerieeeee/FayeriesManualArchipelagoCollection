@@ -65,16 +65,6 @@
       "trait_badges"
     ]
   },
-  "Traits": {
-    "yaml_option": [
-      "shuffle_traits"
-    ]
-  },
-  "Abilities": {
-    "yaml_option": [
-      "shuffle_abilities"
-    ]
-  },
   "MAYHEM Shop": {
     "hidden": true,
     "yaml_option": [

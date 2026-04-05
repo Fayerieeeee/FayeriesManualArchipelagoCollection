@@ -506,6 +506,15 @@
     "progression": true
   },
   {
+    "count": 1,
+    "name": "Severity Circle",
+    "category": [
+      "Items",
+      "MAX Severity"
+    ],
+    "progression": true
+  },
+  {
     "count": 4,
     "name": "Progressive Trait Slot",
     "category": [
