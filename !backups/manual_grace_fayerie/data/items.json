@@ -2,596 +2,871 @@
   {
     "count": 1,
     "name": "Grace",
-    "category": ["Gamemodes", "! Grace"],
+    "category": [
+      "Gamemodes",
+      "! Grace"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "zen",
-    "category": ["Gamemodes", "! zen"],
+    "category": [
+      "Gamemodes",
+      "! zen"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "rOT",
-    "category": ["Gamemodes", "! rOT"],
+    "category": [
+      "Gamemodes",
+      "! rOT"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "REPRIEVE",
-    "category": ["Gamemodes", "! REPRIEVE"],
+    "category": [
+      "Gamemodes",
+      "! REPRIEVE"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "WOED",
-    "category": ["Gamemodes", "! WOED"],
+    "category": [
+      "Gamemodes",
+      "! WOED"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "MAYHEM",
-    "category": ["Gamemodes", "! MAYHEM"],
+    "category": [
+      "Gamemodes",
+      "! MAYHEM"
+    ],
     "progression": true
   },
   {
     "count": 53,
     "name": "H. Skel's Document Page",
-    "category": ["Documents"],
+    "category": [
+      "Documents"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Domain of Nede",
-    "category": ["Domains"],
+    "category": [
+      "Domains"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Domain of Sinrow",
-    "category": ["Domains"],
+    "category": [
+      "Domains"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Domain of Clot",
-    "category": ["Domains"],
+    "category": [
+      "Domains"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Carnation",
-    "category": ["Entities", "Starting Entities", "rOT Entities"],
+    "category": [
+      "Entities",
+      "Starting Entities",
+      "rOT Entities"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Goatman",
-    "category": ["Entities", "Starting Entities", "Flashable"],
+    "category": [
+      "Entities",
+      "Starting Entities",
+      "Flashable"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Elkman",
-    "category": ["Entities", "Starting Entities"],
+    "category": [
+      "Entities",
+      "Starting Entities"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Slight",
-    "category": ["Entities"],
+    "category": [
+      "Entities"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Slugfish",
-    "category": ["Entities", "rOT Entities"],
+    "category": [
+      "Entities",
+      "rOT Entities"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Heed",
-    "category": ["Entities"],
+    "category": [
+      "Entities"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Dozer",
-    "category": ["Entities", "REPRIEVE Entities", "rOT Entities"],
+    "category": [
+      "Entities",
+      "REPRIEVE Entities",
+      "rOT Entities"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Sorrow",
-    "category": ["Entities"],
+    "category": [
+      "Entities"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Litany",
-    "category": ["Entities", "REPRIEVE Entities", "rOT Entities"],
+    "category": [
+      "Entities",
+      "REPRIEVE Entities",
+      "rOT Entities"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Doppel",
-    "category": ["Entities", "REPRIEVE Entities", "rOT Entities", "Flashable"],
+    "category": [
+      "Entities",
+      "REPRIEVE Entities",
+      "rOT Entities",
+      "Flashable"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Doombringer",
-    "category": ["Entities", "REPRIEVE Entities", "rOT Entities"],
+    "category": [
+      "Entities",
+      "REPRIEVE Entities",
+      "rOT Entities"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Kookoo",
-    "category": ["Entities", "rOT Entities"],
+    "category": [
+      "Entities",
+      "rOT Entities"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Tar",
-    "category": ["Entities", "rOT Entities"],
+    "category": [
+      "Entities",
+      "rOT Entities"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Rue",
-    "category": ["Entities", "REPRIEVE Entities", "rOT Entities", "Flashable"],
+    "category": [
+      "Entities",
+      "REPRIEVE Entities",
+      "rOT Entities",
+      "Flashable"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Drain",
-    "category": ["Entities", "rOT Entities", "Flashable"],
+    "category": [
+      "Entities",
+      "rOT Entities",
+      "Flashable"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Mime",
-    "category": ["Entities", "rOT Entities", "Flashable"],
+    "category": [
+      "Entities",
+      "rOT Entities",
+      "Flashable"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Ire",
-    "category": ["Entities", "rOT Entities"],
+    "category": [
+      "Entities",
+      "rOT Entities"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Zomber",
-    "category": ["Entities"],
+    "category": [
+      "Entities"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Duk",
-    "category": ["Entities", "REPRIEVE Entities", "rOT Entities", "Flashable"],
+    "category": [
+      "Entities",
+      "REPRIEVE Entities",
+      "rOT Entities",
+      "Flashable"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Craven",
-    "category": ["Entities", "rOT Entities", "Flashable"],
+    "category": [
+      "Entities",
+      "rOT Entities",
+      "Flashable"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Fool",
-    "category": ["Entities", "rOT Entities", "Flashable"],
+    "category": [
+      "Entities",
+      "rOT Entities",
+      "Flashable"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Stem",
-    "category": ["Entities", "rOT Entities"],
+    "category": [
+      "Entities",
+      "rOT Entities"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Covet",
-    "category": ["Entities", "rOT Entities"],
+    "category": [
+      "Entities",
+      "rOT Entities"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Seesay",
-    "category": ["Entities", "rOT Entities", "Flashable"],
+    "category": [
+      "Entities",
+      "rOT Entities",
+      "Flashable"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "S.N.A.P.",
-    "category": ["Entities", "rOT Entities"],
+    "category": [
+      "Entities",
+      "rOT Entities"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "PISHROW",
-    "category": ["Entities", "PISHROW"],
+    "category": [
+      "Entities",
+      "PISHROW"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Innego",
-    "category": ["Entities", "rOT Entities"],
+    "category": [
+      "Entities",
+      "rOT Entities"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Sundial",
-    "category": ["Entities", "rOT Entities", "Flashable"],
+    "category": [
+      "Entities",
+      "rOT Entities",
+      "Flashable"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Flashlight",
-    "category": ["Items", "Light Sources", "Good Light", "Starting Lights"],
+    "category": [
+      "Items",
+      "Light Sources",
+      "Good Light",
+      "Starting Lights"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Lantern",
-    "category": ["Items", "Light Sources", "Good Light", "Starting Lights"],
+    "category": [
+      "Items",
+      "Light Sources",
+      "Good Light",
+      "Starting Lights"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "S.H.A.K.E.",
-    "category": ["Items", "Light Sources"],
+    "category": [
+      "Items",
+      "Light Sources"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "B.R.I.C.K.",
-    "category": ["Items"],
-    "useful": true
+    "category": [
+      "Items"
+    ],
+    "progression_skip_balancing": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "Doombringer Trap",
-    "category": ["Traps"],
+    "category": [
+      "Traps"
+    ],
     "trap": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "S.N.A.P. Trap",
-    "category": ["Traps"],
+    "category": [
+      "Traps"
+    ],
     "trap": true
   },
   {
     "count": 1,
     "name": "Gleam",
-    "category": ["Items", "Light Sources", "Good Light"],
+    "category": [
+      "Items",
+      "Light Sources",
+      "Good Light"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Quill",
-    "category": ["Items", "Doodles"],
+    "category": [
+      "Items",
+      "Doodles"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Soulset",
-    "category": ["Items"],
+    "category": [
+      "Items"
+    ],
     "filler": true
   },
   {
     "count": 1,
     "name": "Fruit of Knowledge",
-    "category": ["Items", "! zen"],
+    "category": [
+      "Items",
+      "! zen"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "rOTTING HAND",
-    "category": ["Items", "! rOT"],
+    "category": [
+      "Items",
+      "! rOT"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "mutter",
-    "category": ["Items", "! rOT"],
+    "category": [
+      "Items",
+      "! rOT"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "REPRIEVE PARRY",
-    "category": ["Items", "! REPRIEVE"],
+    "category": [
+      "Items",
+      "! REPRIEVE"
+    ],
     "progression": true
   },
   {
     "name": "Progressive WOED Goobers",
-    "category": ["Items", "WOED Goobers"],
+    "category": [
+      "Items",
+      "WOED Goobers"
+    ],
     "classification_count": {
       "progression": 7,
       "useful": 3
-    }
+    },
+    "count": 1,
+    "useful": true
   },
   {
     "count": 1,
     "name": "Love Blossom",
-    "category": ["Items"],
+    "category": [
+      "Items"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Gate Crystals",
-    "category": ["Items"],
+    "category": [
+      "Items"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "SANITY Crystals",
-    "category": ["Items"],
+    "category": [
+      "Items"
+    ],
     "progression": true
   },
   {
     "count": 4,
     "name": "Progressive Trait Slot",
-    "category": ["Trait Slots", "! Traits"],
+    "category": [
+      "Trait Slots",
+      "! Traits"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "10-Point Crampons Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Cog Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "filler": true
   },
   {
     "count": 1,
     "name": "Dedelusion Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "filler": true
   },
   {
     "count": 1,
     "name": "Domehead Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "filler": true
   },
   {
     "count": 1,
     "name": "Firework Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Fist of Steel Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Flutterby Wings Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Forevision Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "filler": true
   },
   {
     "count": 1,
     "name": "Goober Cookie Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Honk Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "filler": true
   },
   {
     "count": 1,
     "name": "Indeep Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "L.O.V. Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "filler": true
   },
   {
     "count": 1,
     "name": "Misteltoe Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "filler": true
   },
   {
     "count": 1,
     "name": "Noisemaker Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Nulldive Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Online Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Propeller Cap Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "filler": true
   },
   {
     "count": 1,
     "name": "Petal Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "filler": true
   },
   {
     "count": 1,
     "name": "Steel-Toed Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Sinth Sense Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Teddy Teddy Trait",
-    "category": ["Traits"],
+    "category": [
+      "Traits"
+    ],
     "filler": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "Bound Trait Trap",
-    "category": ["Traps"],
+    "category": [
+      "Traps"
+    ],
     "trap": true
   },
   {
-    "count": 0,
+    "count": 1,
     "name": "Shift Trait Trap",
-    "category": ["Traps"],
+    "category": [
+      "Traps"
+    ],
     "trap": true
   },
   {
     "count": 1,
     "name": "Wings of Aria Ability",
-    "category": ["Abilities", "! MAYHEM"],
+    "category": [
+      "Abilities",
+      "! MAYHEM"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Spear of Radia Ability",
-    "category": ["Abilities", "! MAYHEM"],
+    "category": [
+      "Abilities",
+      "! MAYHEM"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Resona Blade Ability",
-    "category": ["Abilities", "! MAYHEM"],
+    "category": [
+      "Abilities",
+      "! MAYHEM"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Glory Be Ability",
-    "category": ["Abilities", "! MAYHEM"],
+    "category": [
+      "Abilities",
+      "! MAYHEM"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Hearthrose Magnet Ability",
-    "category": ["Abilities", "! MAYHEM"],
+    "category": [
+      "Abilities",
+      "! MAYHEM"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 5,
     "name": "Progressive MAYHEM Shop Stock",
-    "category": ["Items", "! MAYHEM", "MAYHEM Shop"],
+    "category": [
+      "Items",
+      "! MAYHEM",
+      "MAYHEM Shop"
+    ],
     "progression_skip_balancing": true
   },
   {
     "count": 1,
     "name": "Saferoom Skip",
-    "category": ["Modifiers"],
+    "category": [
+      "Modifiers"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Early Greedrooms",
-    "category": ["Modifiers"],
+    "category": [
+      "Modifiers"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Plug Modules Removal",
-    "category": ["Modifiers"],
+    "category": [
+      "Modifiers"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Night Vision",
-    "category": ["Modifiers"],
+    "category": [
+      "Modifiers"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Null Vision",
-    "category": ["Modifiers", "Nullscape"],
+    "category": [
+      "Modifiers",
+      "Nullscape"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Null Gifts",
-    "category": ["Modifiers", "Nullscape"],
+    "category": [
+      "Modifiers",
+      "Nullscape"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Archless Rooms",
-    "category": ["Modifiers"],
+    "category": [
+      "Modifiers"
+    ],
     "useful": true
   },
   {
     "count": 1,
     "name": "Jetpark Rooms",
-    "category": ["Modifiers"],
+    "category": [
+      "Modifiers"
+    ],
     "useful": true
   },
   {
     "count": 10,
     "name": "Key Bundle",
-    "category": ["Items", "keysanity"],
-    "progression_skip_balancing": true,
-    "local": true
+    "category": [
+      "Items",
+      "keysanity"
+    ],
+    "local": true,
+    "progression_skip_balancing": true
   },
   {
     "count": 10,
     "name": "Super Key",
-    "category": ["Items", "superkeysanity"],
-    "progression_skip_balancing": true,
-    "local": true
+    "category": [
+      "Items",
+      "superkeysanity"
+    ],
+    "local": true,
+    "progression_skip_balancing": true
   },
   {
     "count": 10,
     "name": "Spray Can Refill",
-    "category": ["Items", "spraycansanity"],
-    "progression_skip_balancing": true,
-    "local": true
+    "category": [
+      "Items",
+      "spraycansanity"
+    ],
+    "local": true,
+    "progression_skip_balancing": true
   },
   {
     "count": 10,
     "name": "sin's Visions",
-    "category": ["Items", "visionsanity"],
-    "progression_skip_balancing": true,
-    "local": true
+    "category": [
+      "Items",
+      "visionsanity"
+    ],
+    "local": true,
+    "progression_skip_balancing": true
   },
   {
     "count": 10,
     "name": "Trait Charms",
-    "category": ["Items", "traitcharmsanity"],
-    "progression_skip_balancing": true,
-    "local": true
+    "category": [
+      "Items",
+      "traitcharmsanity"
+    ],
+    "local": true,
+    "progression_skip_balancing": true
   }
 ]

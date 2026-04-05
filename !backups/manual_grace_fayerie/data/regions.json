@@ -27,10 +27,6 @@
     "connects_to": [],
     "requires": ""
   },
-  "Goobers": {
-    "connects_to": [],
-    "requires": "|Goober Clicker|"
-  },
   "Misc": {
     "connects_to": [],
     "requires": ""

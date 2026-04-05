@@ -1,225 +1,327 @@
 {
-  "! Grace":{
+  "! Grace": {
     "hidden": true,
-    "yaml_option": ["grace"]
+    "yaml_option": [
+      "grace"
+    ]
   },
-  "! zen":{
+  "! zen": {
     "hidden": true,
-    "yaml_option": ["zen"]
+    "yaml_option": [
+      "zen"
+    ]
   },
-  "! rOT":{
+  "! rOT": {
     "hidden": true,
-    "yaml_option": ["rot"]
+    "yaml_option": [
+      "rot"
+    ]
   },
-  "! REPRIEVE":{
+  "! REPRIEVE": {
     "hidden": true,
-    "yaml_option": ["reprieve"]
+    "yaml_option": [
+      "reprieve"
+    ]
   },
-  "! WOED":{
+  "! WOED": {
     "hidden": true,
-    "yaml_option": ["woed"]
+    "yaml_option": [
+      "woed"
+    ]
   },
-  "! MAYHEM":{
+  "! MAYHEM": {
     "hidden": true,
-    "yaml_option": ["mayhem"]
+    "yaml_option": [
+      "mayhem"
+    ]
   },
-  "Starting Entities":{
+  "Starting Entities": {
     "hidden": true
   },
-  "rOT Entities":{
+  "rOT Entities": {
     "hidden": true
   },
-  "REPRIEVE Entities":{
+  "REPRIEVE Entities": {
     "hidden": true
   },
-  "Light Sources":{
+  "Light Sources": {
     "hidden": true
   },
-  "Good Light":{
+  "Good Light": {
     "hidden": true
   },
-  "Starting Lights":{
+  "Starting Lights": {
     "hidden": true
   },
-  "Doodles":{
+  "Doodles": {
     "hidden": true,
-    "yaml_option": ["doodles"]
+    "yaml_option": [
+      "doodles"
+    ]
   },
-  "! Traits":{
+  "! Traits": {
     "hidden": true,
-    "yaml_option": ["trait_badges"]
+    "yaml_option": [
+      "trait_badges"
+    ]
   },
-  "Traits":{
-    "yaml_option": ["shuffle_traits"]
+  "Traits": {
+    "yaml_option": [
+      "shuffle_traits"
+    ]
   },
-  "Abilities":{
-    "yaml_option": ["shuffle_abilities"]
+  "Abilities": {
+    "yaml_option": [
+      "shuffle_abilities"
+    ]
   },
-  "MAYHEM Shop":{
+  "MAYHEM Shop": {
     "hidden": true,
-    "yaml_option": ["mayhem_shop"]
+    "yaml_option": [
+      "mayhem_shop"
+    ]
   },
-  "Nullscape":{
+  "Nullscape": {
     "hidden": true,
-    "yaml_option": ["nullscape_modifiers"]
+    "yaml_option": [
+      "nullscape_modifiers"
+    ]
   },
-  "keysanity":{
+  "keysanity": {
     "hidden": true,
-    "yaml_option": ["keysanity"]
+    "yaml_option": [
+      "keysanity"
+    ]
   },
-  "superkeysanity":{
+  "superkeysanity": {
     "hidden": true,
-    "yaml_option": ["superkeysanity"]
+    "yaml_option": [
+      "superkeysanity"
+    ]
   },
-  "spraycansanity":{
+  "spraycansanity": {
     "hidden": true,
-    "yaml_option": ["spraycansanity"]
+    "yaml_option": [
+      "spraycansanity"
+    ]
   },
-  "visionsanity":{
+  "visionsanity": {
     "hidden": true,
-    "yaml_option": ["visionsanity"]
+    "yaml_option": [
+      "visionsanity"
+    ]
   },
-  "traitcharmsanity":{
+  "traitcharmsanity": {
     "hidden": true,
-    "yaml_option": ["traitcharmsanity"]
+    "yaml_option": [
+      "traitcharmsanity"
+    ]
   },
-  "Flashable":{
+  "Flashable": {
     "hidden": true
   },
-  "Slugfish":{
+  "Slugfish": {
     "hidden": true,
-    "yaml_option": ["slugfish"]
+    "yaml_option": [
+      "slugfish"
+    ]
   },
-  "Elkman":{
+  "Elkman": {
     "hidden": true,
-    "yaml_option": ["elkman"]
+    "yaml_option": [
+      "elkman"
+    ]
   },
-  "Dozer":{
+  "Dozer": {
     "hidden": true,
-    "yaml_option": ["dozer"]
+    "yaml_option": [
+      "dozer"
+    ]
   },
-  "Sorrow":{
+  "Sorrow": {
     "hidden": true,
-    "yaml_option": ["sorrow"]
+    "yaml_option": [
+      "sorrow"
+    ]
   },
-  "Doppel":{
+  "Doppel": {
     "hidden": true,
-    "yaml_option": ["doppel"]
+    "yaml_option": [
+      "doppel"
+    ]
   },
-  "Litany":{
+  "Litany": {
     "hidden": true,
-    "yaml_option": ["litany"]
+    "yaml_option": [
+      "litany"
+    ]
   },
-  "Kookoo":{
+  "Kookoo": {
     "hidden": true,
-    "yaml_option": ["kookoo"]
+    "yaml_option": [
+      "kookoo"
+    ]
   },
-  "Rue":{
+  "Rue": {
     "hidden": true,
-    "yaml_option": ["rue"]
+    "yaml_option": [
+      "rue"
+    ]
   },
-  "Doombringer":{
+  "Doombringer": {
     "hidden": true,
-    "yaml_option": ["doombringer"]
+    "yaml_option": [
+      "doombringer"
+    ]
   },
-  "Waiting":{
+  "Waiting": {
     "hidden": true,
-    "yaml_option": ["patience_badges"]
+    "yaml_option": [
+      "patience_badges"
+    ]
   },
-  "RNG":{
+  "RNG": {
     "hidden": true,
-    "yaml_option": ["rng_badges"]
+    "yaml_option": [
+      "rng_badges"
+    ]
   },
-  "Mime":{
+  "Mime": {
     "hidden": true,
-    "yaml_option": ["mime"]
+    "yaml_option": [
+      "mime"
+    ]
   },
-  "Drain":{
+  "Drain": {
     "hidden": true,
-    "yaml_option": ["drain"]
+    "yaml_option": [
+      "drain"
+    ]
   },
-  "Ire":{
+  "Ire": {
     "hidden": true,
-    "yaml_option": ["ire"]
+    "yaml_option": [
+      "ire"
+    ]
   },
-  "Seesay":{
+  "Seesay": {
     "hidden": true,
-    "yaml_option": ["seesay"]
+    "yaml_option": [
+      "seesay"
+    ]
   },
-  "Craven":{
+  "Craven": {
     "hidden": true,
-    "yaml_option": ["craven"]
+    "yaml_option": [
+      "craven"
+    ]
   },
-  "Fool":{
+  "Fool": {
     "hidden": true,
-    "yaml_option": ["fool"]
+    "yaml_option": [
+      "fool"
+    ]
   },
-  "S.N.A.P.":{
+  "S.N.A.P.": {
     "hidden": true,
-    "yaml_option": ["snap"]
+    "yaml_option": [
+      "snap"
+    ]
   },
-  "Stem":{
+  "Stem": {
     "hidden": true,
-    "yaml_option": ["stem"]
+    "yaml_option": [
+      "stem"
+    ]
   },
-  "Covet":{
+  "Covet": {
     "hidden": true,
-    "yaml_option": ["covet"]
+    "yaml_option": [
+      "covet"
+    ]
   },
-  "PISHROW":{
+  "PISHROW": {
     "hidden": true,
-    "yaml_option": ["pishrow"]
+    "yaml_option": [
+      "pishrow"
+    ]
   },
-  "zen Ranks":{
+  "zen Ranks": {
     "hidden": true,
-    "yaml_option": ["zen_ranks"]
+    "yaml_option": [
+      "zen_ranks"
+    ]
   },
-  "rOT RANKS":{
+  "rOT RANKS": {
     "hidden": true,
-    "yaml_option": ["rot_ranks"]
+    "yaml_option": [
+      "rot_ranks"
+    ]
   },
-  "rOT Upgrades":{
+  "rOT Upgrades": {
     "hidden": true,
-    "yaml_option": ["rot_upgrades"]
+    "yaml_option": [
+      "rot_upgrades"
+    ]
   },
-  "REPRIEVE Hard":{
+  "REPRIEVE Hard": {
     "hidden": true,
-    "yaml_option": ["hard_reprieve"]
+    "yaml_option": [
+      "hard_reprieve"
+    ]
   },
-  "Reroller":{
+  "Reroller": {
     "hidden": true,
-    "yaml_option": ["reroll_badges"]
+    "yaml_option": [
+      "reroll_badges"
+    ]
   },
-  "Multiplayer":{
+  "Multiplayer": {
     "hidden": true,
-    "yaml_option": ["multiplayer_badges"]
+    "yaml_option": [
+      "multiplayer_badges"
+    ]
   },
-  "MAX Severity":{
+  "MAX Severity": {
     "hidden": true,
-    "yaml_option": ["max_severity"]
+    "yaml_option": [
+      "max_severity"
+    ]
   },
-  "P Rank":{
+  "P Rank": {
     "hidden": true,
-    "yaml_option": ["p_rank"]
+    "yaml_option": [
+      "p_rank"
+    ]
   },
-  "Cross Rank":{
+  "Cross Rank": {
     "hidden": true,
-    "yaml_option": ["cross_rank"]
+    "yaml_option": [
+      "cross_rank"
+    ]
   },
-  "Nede":{
+  "Nede": {
     "hidden": true,
-    "yaml_option": ["nede"]
+    "yaml_option": [
+      "nede"
+    ]
   },
-  "Sinrow":{
+  "Sinrow": {
     "hidden": true,
-    "yaml_option": ["sinrow"]
+    "yaml_option": [
+      "sinrow"
+    ]
   },
-  "Clot":{
+  "Clot": {
     "hidden": true,
-    "yaml_option": ["clot"]
+    "yaml_option": [
+      "clot"
+    ]
   },
-  "General":{
+  "General": {
     "hidden": true,
-    "yaml_option": ["general_badges"]
+    "yaml_option": [
+      "general_badges"
+    ]
   }
 }
