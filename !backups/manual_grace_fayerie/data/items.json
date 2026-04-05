@@ -87,6 +87,30 @@
   },
   {
     "count": 1,
+    "name": "NEDE FELLED",
+    "category": [
+      "Domains Felled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "SINROW FELLED",
+    "category": [
+      "Domains Felled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "CLOT FELLED",
+    "category": [
+      "Domains Felled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Carnation",
     "category": [
       "Entities",
