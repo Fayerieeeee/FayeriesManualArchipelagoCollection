@@ -3032,7 +3032,7 @@
     "category": [
       "! GOAL"
     ],
-    "requires": "|@Domains Felled:3| AND |@Documents:53|",
+    "requires": "|@Domains Felled:3| AND |@Documents:ALL|",
     "victory": true,
     "hint_entrance": "Gather 53 documents and beat all domains"
   }
