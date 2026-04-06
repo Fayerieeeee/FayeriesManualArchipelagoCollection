@@ -93,7 +93,7 @@
         "nullscape_modifiers":{
             "display_name": "Nullscape Modifiers",
             "type": "Toggle",
-            "default": true,
+            "default": false,
             "group": "Items"
         },
         "general_badges":{
@@ -105,31 +105,31 @@
         "trait_badges":{
             "display_name": "Trait Badges",
             "type": "Toggle",
-            "default": true,
+            "default": false,
             "group": "Badges"
         },
         "patience_badges":{
             "display_name": "Patience Badges",
             "type": "Toggle",
-            "default": true,
+            "default": false,
             "group": "Badges"
         },
         "rng_badges":{
             "display_name": "RNG Badges",
             "type": "Toggle",
-            "default": true,
+            "default": false,
             "group": "Badges"
         },
         "reroll_badges":{
             "display_name": "Reroll",
             "type": "Toggle",
-            "default": true,
+            "default": false,
             "group": "Badges"
         },
         "multiplayer_badges":{
             "display_name": "Multiplayer Badges",
             "type": "Toggle",
-            "default": true,
+            "default": false,
             "group": "Badges"
         },
         "slugfish":{
@@ -243,7 +243,7 @@
         "pishrow":{
             "display_name": "PISHROW",
             "type": "Toggle",
-            "default": true,
+            "default": false,
             "group": "Extra Entity Badges"
         },
         "nede":{
@@ -273,31 +273,31 @@
         "rot_ranks":{
             "display_name": "rOT RANKS",
             "type": "Toggle",
-            "default": true,
+            "default": false,
             "group": "Ranks"
         },
         "p_rank":{
             "display_name": "Domains P Rank",
             "type": "Toggle",
-            "default": true,
+            "default": false,
             "group": "Ranks"
         },
         "cross_rank":{
             "display_name": "Domains Cross Rank",
             "type": "Toggle",
-            "default": true,
+            "default": false,
             "group": "Ranks"
         },
         "hard_reprieve":{
             "display_name": "Hard REPRIEVE",
             "type": "Toggle",
-            "default": true,
+            "default": false,
             "group": "Hard Modes"
         },
         "max_severity":{
             "display_name": "MAX Severity",
             "type": "Toggle",
-            "default": true,
+            "default": false,
             "group": "Hard Modes"
         },
         "rot_upgrades":{
