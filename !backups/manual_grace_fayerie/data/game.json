@@ -71,6 +71,23 @@
     },
     {
       "if_previous_item": [
+        "WOED"
+      ],
+      "item_categories": [
+        "Starting Lights"
+      ],
+      "random": 1
+    },
+    {
+      "if_previous_item": [
+        "WOED"
+      ],
+      "item_categories": [
+        "Starting Entities"
+      ]
+    },
+    {
+      "if_previous_item": [
         "MAYHEM"
       ],
       "item_categories": [

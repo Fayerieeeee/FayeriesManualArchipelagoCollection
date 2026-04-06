@@ -1,7 +1,7 @@
 {
   "Grace": {
     "connects_to": [],
-    "requires": "|Grace|"
+    "requires": "|Grace| AND |@Starting Lights| AND |@Starting Entities:3|"
   },
   "zen": {
     "connects_to": [],
@@ -21,7 +21,7 @@
   },
   "MAYHEM": {
     "connects_to": [],
-    "requires": "|MAYHEM|"
+    "requires": "|MAYHEM| AND |@Starting Lights|"
   },
   "Domains": {
     "connects_to": [],

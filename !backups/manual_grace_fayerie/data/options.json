@@ -120,6 +120,12 @@
             "default": false,
             "group": "Badges"
         },
+        "death_badges":{
+            "display_name": "Death Badges",
+            "type": "Toggle",
+            "default": false,
+            "group": "Badges"
+        },
         "reroll_badges":{
             "display_name": "Reroll",
             "type": "Toggle",
@@ -131,6 +137,12 @@
             "type": "Toggle",
             "default": false,
             "group": "Badges"
+        },
+        "goatman":{
+            "display_name": "Goatman",
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Entity Badges"
         },
         "slugfish":{
             "display_name": "Slugfish",
@@ -276,6 +288,18 @@
             "default": false,
             "group": "Ranks"
         },
+        "extra_s_ranks":{
+            "display_name": "S+ Ranks",
+            "type": "Toggle",
+            "default": false,
+            "group": "Ranks"
+        },
+        "a_rank":{
+            "display_name": "Domains A Rank",
+            "type": "Toggle",
+            "default": true,
+            "group": "Ranks"
+        },
         "p_rank":{
             "display_name": "Domains P Rank",
             "type": "Toggle",
@@ -287,6 +311,12 @@
             "type": "Toggle",
             "default": false,
             "group": "Ranks"
+        },
+        "grace_500_rooms":{
+            "display_name": "Grace 500 Rooms",
+            "type": "Toggle",
+            "default": true,
+            "group": "Hard Modes"
         },
         "hard_reprieve":{
             "display_name": "Hard REPRIEVE",

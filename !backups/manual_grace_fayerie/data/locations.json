@@ -257,7 +257,7 @@
     "region": "Grace",
     "category": [
       "Grace",
-      "!"
+      "Goatman"
     ],
     "requires": "|Goatman| AND |@Good Light|",
     "hint_entrance": "Flash the Goatman and reach the next saferoom"
@@ -296,7 +296,7 @@
       "Grace"
     ],
     "requires": "|@Good Light:3|",
-    "hint_entrance": "Equip 3 light sources before a Grace or MAYHEM run"
+    "hint_entrance": "Equip 3 light sources before a run"
   },
   {
     "name": "Gleam Orbs No-Miss",
@@ -338,7 +338,8 @@
     "name": "5 Greedrooms 1 Timer Clear",
     "region": "Grace",
     "category": [
-      "Grace"
+      "Grace",
+      "Death"
     ],
     "requires": "",
     "hint_entrance": "Complete 5 greedrooms during a single timer, appears after the 5th saferoom"
@@ -437,7 +438,8 @@
     "region": "Grace",
     "category": [
       "Grace",
-      "Dozer"
+      "Dozer",
+      "RNG"
     ],
     "requires": "|Dozer| AND |Carnation|",
     "hint_entrance": "Have 2 Dozers on-screen, Carnation can help"
@@ -499,7 +501,8 @@
       "Grace",
       "Dozer",
       "Litany",
-      "Kookoo"
+      "Kookoo",
+      "RNG"
     ],
     "requires": "|Dozer| AND |Litany| AND |Kookoo|",
     "hint_entrance": "Have Dozer, Litany, and Kookoo on-screen together"
@@ -512,7 +515,7 @@
       "Litany"
     ],
     "requires": "|Litany|",
-    "hint_entrance": "Slide during Litany's entire encounter"
+    "hint_entrance": "Slide through Litany's entire encounter"
   },
   {
     "name": "Kookoo 5 Doodles",
@@ -612,7 +615,8 @@
     "region": "Grace",
     "category": [
       "Grace",
-      "Drain"
+      "Drain",
+      "Death"
     ],
     "requires": "|Drain|",
     "hint_entrance": "Let Drain kill you in a saferoom"
@@ -672,7 +676,8 @@
     "region": "Grace",
     "category": [
       "Grace",
-      "Fool"
+      "Fool",
+      "Death"
     ],
     "requires": "|Fool|",
     "hint_entrance": "Snap Fool and run through 5 rooms"
@@ -811,7 +816,8 @@
     "name": "Grace 500 Rooms",
     "region": "Grace",
     "category": [
-      "Grace"
+      "Grace",
+      "Grace 500"
     ],
     "requires": "",
     "hint_entrance": "Go through 500 rooms in one Grace run"
@@ -907,6 +913,7 @@
     "category": [
       "zen",
       "zen Ranks",
+      "S+ Ranks",
       "! zen"
     ],
     "requires": "|Fruit of Knowledge|",
@@ -918,6 +925,7 @@
     "category": [
       "zen",
       "zen Ranks",
+      "S+ Ranks",
       "! zen"
     ],
     "requires": "|Fruit of Knowledge|",
@@ -929,6 +937,7 @@
     "category": [
       "zen",
       "zen Ranks",
+      "S+ Ranks",
       "! zen"
     ],
     "requires": "|Fruit of Knowledge|",
@@ -959,6 +968,7 @@
     "region": "rOT",
     "category": [
       "rOT",
+      "Death",
       "! rOT"
     ],
     "requires": "",
@@ -989,6 +999,7 @@
     "region": "rOT",
     "category": [
       "rOT",
+      "Death",
       "! rOT"
     ],
     "requires": "",
@@ -1054,6 +1065,7 @@
     "category": [
       "rOT",
       "rOT RANKS",
+      "S+ Ranks",
       "! rOT"
     ],
     "requires": "|rOTTING HAND|",
@@ -1065,6 +1077,7 @@
     "category": [
       "rOT",
       "rOT RANKS",
+      "S+ Ranks",
       "! rOT"
     ],
     "requires": "|rOTTING HAND|",
@@ -1076,6 +1089,7 @@
     "category": [
       "rOT",
       "rOT RANKS",
+      "S+ Ranks",
       "! rOT"
     ],
     "requires": "|rOTTING HAND|",
@@ -1294,10 +1308,11 @@
     "hint_entrance": "Clear a floor with all entities enabled"
   },
   {
-    "name": "REPREIEVE Floor 5sec Timer",
+    "name": "REPRIEVE Floor 5sec Timer",
     "region": "REPRIEVE",
     "category": [
       "REPRIEVE",
+      "REPRIEVE Hard",
       "! REPRIEVE"
     ],
     "requires": "",
@@ -1340,9 +1355,10 @@
     "region": "WOED",
     "category": [
       "WOED",
+      "Death",
       "! WOED"
     ],
-    "requires": "(|Domain of Nede| AND |Love Blossom|) OR (|Domain of Sinrow| AND |Gate Crystals|) OR (|Domain of Clot| AND |SANITY Crystals|)",
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem|) OR (|Domain of Sinrow| AND |Gate Crystals| AND |Litany|) OR (|Domain of Clot| AND |SANITY Crystals|)",
     "hint_entrance": "Fail a domain in WOED"
   },
   {
@@ -1373,7 +1389,7 @@
       "WOED",
       "! WOED"
     ],
-    "requires": "|@WOED Goobers:7|",
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem|) OR (|Domain of Sinrow| AND |Gate Crystals| AND |Litany|) OR (|Domain of Clot| AND |SANITY Crystals|) AND |@WOED Goobers:7|",
     "hint_entrance": "Have 7 goobers in hand"
   },
   {
@@ -1383,7 +1399,7 @@
       "WOED",
       "! WOED"
     ],
-    "requires": "(|Domain of Nede| AND |Love Blossom|) OR (|Domain of Sinrow| AND |Gate Crystals|) OR (|Domain of Clot| AND |SANITY Crystals|)",
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem|) OR (|Domain of Sinrow| AND |Gate Crystals| AND |Litany|) OR (|Domain of Clot| AND |SANITY Crystals|)",
     "hint_entrance": "Beat 3 domains in a row"
   },
   {
@@ -1391,6 +1407,7 @@
     "region": "MAYHEM",
     "category": [
       "MAYHEM",
+      "Death",
       "! MAYHEM"
     ],
     "requires": "",
@@ -1422,6 +1439,7 @@
     "region": "MAYHEM",
     "category": [
       "MAYHEM",
+      "Death",
       "! Traits",
       "! MAYHEM"
     ],
@@ -1433,6 +1451,7 @@
     "region": "MAYHEM",
     "category": [
       "MAYHEM",
+      "Death",
       "Multiplayer",
       "! MAYHEM"
     ],
@@ -1555,7 +1574,7 @@
     "category": [
       "Domains"
     ],
-    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem|) OR (|Domain of Sinrow| AND |Gate Crystals|) OR (|Domain of Clot| AND |SANITY Crystals|)",
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem|) OR (|Domain of Sinrow| AND |Gate Crystals| AND |Litany|) OR (|Domain of Clot| AND |SANITY Crystals|)",
     "hint_entrance": "Beat a domain in Grace or WOED"
   },
   {
@@ -1565,7 +1584,7 @@
       "Domains",
       "MAX Severity"
     ],
-    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem| AND |S.N.A.P.|) OR (|Domain of Sinrow| AND |Gate Crystals| AND |Flashlight| AND |Fool|) OR (|Domain of Clot| AND |SANITY Crystals| AND |Flashlight| AND |Craven|) AND |Severity Circle|",
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem| AND |S.N.A.P.|) OR (|Domain of Sinrow| AND |Gate Crystals| AND |Litany| AND |Flashlight| AND |Fool|) OR (|Domain of Clot| AND |SANITY Crystals| AND |Flashlight| AND |Craven|) AND |Severity Circle|",
     "hint_entrance": "Beat a domain on the hardest difficulty in Grace or WOED"
   },
   {
@@ -1575,7 +1594,7 @@
       "Domains",
       "P Rank"
     ],
-    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem|) OR (|Domain of Sinrow| AND |Gate Crystals|) OR (|Domain of Clot| AND |SANITY Crystals|)",
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem|) OR (|Domain of Sinrow| AND |Gate Crystals| AND |Litany|) OR (|Domain of Clot| AND |SANITY Crystals|)",
     "hint_entrance": "Beat a domain with a P Rank in Grace or WOED"
   },
   {
@@ -1585,7 +1604,7 @@
       "Domains",
       "Cross Rank"
     ],
-    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem|) OR (|Domain of Sinrow| AND |Gate Crystals|) OR (|Domain of Clot| AND |SANITY Crystals|)",
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem|) OR (|Domain of Sinrow| AND |Gate Crystals| AND |Litany|) OR (|Domain of Clot| AND |SANITY Crystals|)",
     "hint_entrance": "Beat a domain with a Cross Rank in Grace or WOED"
   },
   {
@@ -1595,7 +1614,7 @@
       "Domains",
       "Multiplayer"
     ],
-    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem|) OR (|Domain of Sinrow| AND |Gate Crystals|) OR (|Domain of Clot| AND |SANITY Crystals|)",
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem|) OR (|Domain of Sinrow| AND |Gate Crystals| AND |Litany|) OR (|Domain of Clot| AND |SANITY Crystals|)",
     "hint_entrance": "Beat a domain as the last person alive"
   },
   {
@@ -1605,7 +1624,7 @@
       "Domains",
       "MAX Severity"
     ],
-    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem| AND |S.N.A.P.|) OR (|Domain of Sinrow| AND |Gate Crystals| AND |Flashlight| AND |Fool|) OR (|Domain of Clot| AND |SANITY Crystals| AND |Flashlight| AND |Craven|) AND |Severity Circle|",
+    "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem| AND |S.N.A.P.|) OR (|Domain of Sinrow| AND |Gate Crystals| AND |Litany| AND |Flashlight| AND |Fool|) OR (|Domain of Clot| AND |SANITY Crystals| AND |Flashlight| AND |Craven|) AND |Severity Circle|",
     "hint_entrance": "Enter a domain on the hardest difficulty"
   },
   {
@@ -1624,7 +1643,8 @@
     "name": "Nede A Rank",
     "region": "Domains",
     "category": [
-      "Domains"
+      "Domains",
+      "A Rank"
     ],
     "requires": "(|Domain of Nede| AND |Love Blossom| AND |Stem|)",
     "hint_entrance": "Beat Nede's domain with an A Rank"
@@ -1727,7 +1747,8 @@
     "name": "Sinrow A Rank",
     "region": "Domains",
     "category": [
-      "Domains"
+      "Domains",
+      "A Rank"
     ],
     "requires": "(|Domain of Sinrow| AND |Gate Crystals| AND |Litany|)",
     "hint_entrance": "Beat Sinrow's domain with an A Rank"
@@ -1820,7 +1841,8 @@
     "name": "Clot A Rank",
     "region": "Domains",
     "category": [
-      "Domains"
+      "Domains",
+      "A Rank"
     ],
     "requires": "(|Domain of Clot| AND |SANITY Crystals|)",
     "hint_entrance": "Beat Clot's domain with an A Rank"
@@ -1890,16 +1912,18 @@
     "name": "1st Death",
     "region": "Misc",
     "category": [
-      "General"
+      "General",
+      "Death"
     ],
-    "requires": "(|Grace| AND |@Starting Entities|) OR (|zen| AND |Fruit of Knowledge|) OR |rOT| OR |REPRIEVE| OR (|WOED| AND |@Domains|) OR |MAYHEM|",
+    "requires": "(|Grace| AND |@Starting Lights| AND |@Starting Entities|) OR (|zen| AND |Fruit of Knowledge|) OR |rOT| OR |REPRIEVE| OR (|WOED| AND |@Domains|) OR |MAYHEM|",
     "hint_entrance": "Die in any gamemode"
   },
   {
     "name": "Flashlight Spin 1min",
     "region": "Misc",
     "category": [
-      "General"
+      "General",
+      "Waiting"
     ],
     "requires": "|Flashlight| AND (|Grace| OR |WOED| OR |MAYHEM|)",
     "hint_entrance": "Spin the flashlight for 1 minute straight"
@@ -1926,7 +1950,8 @@
     "name": "Key Redeemed 1",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:1|",
     "prehint": true,
@@ -1943,7 +1968,8 @@
     "name": "Key Redeemed 2",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:1|",
     "prehint": true,
@@ -1960,7 +1986,8 @@
     "name": "Key Redeemed 3",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:1|",
     "prehint": true,
@@ -1977,7 +2004,8 @@
     "name": "Key Redeemed 4",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:1|",
     "prehint": true,
@@ -1994,7 +2022,8 @@
     "name": "Key Redeemed 5",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:1|",
     "prehint": true,
@@ -2011,7 +2040,8 @@
     "name": "Key Redeemed 6",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:2|",
     "prehint": true,
@@ -2028,7 +2058,8 @@
     "name": "Key Redeemed 7",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:2|",
     "prehint": true,
@@ -2045,7 +2076,8 @@
     "name": "Key Redeemed 8",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:2|",
     "prehint": true,
@@ -2062,7 +2094,8 @@
     "name": "Key Redeemed 9",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:2|",
     "prehint": true,
@@ -2079,7 +2112,8 @@
     "name": "Key Redeemed 10",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:2|",
     "prehint": true,
@@ -2096,7 +2130,8 @@
     "name": "Key Redeemed 11",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:3|",
     "prehint": true,
@@ -2113,7 +2148,8 @@
     "name": "Key Redeemed 12",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:3|",
     "prehint": true,
@@ -2130,7 +2166,8 @@
     "name": "Key Redeemed 13",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:3|",
     "prehint": true,
@@ -2147,7 +2184,8 @@
     "name": "Key Redeemed 14",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:3|",
     "prehint": true,
@@ -2164,7 +2202,8 @@
     "name": "Key Redeemed 15",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:3|",
     "prehint": true,
@@ -2181,7 +2220,8 @@
     "name": "Key Redeemed 16",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:4|",
     "prehint": true,
@@ -2198,7 +2238,8 @@
     "name": "Key Redeemed 17",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:4|",
     "prehint": true,
@@ -2215,7 +2256,8 @@
     "name": "Key Redeemed 18",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:4|",
     "prehint": true,
@@ -2232,7 +2274,8 @@
     "name": "Key Redeemed 19",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:4|",
     "prehint": true,
@@ -2249,7 +2292,8 @@
     "name": "Key Redeemed 20",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:4|",
     "prehint": true,
@@ -2266,7 +2310,8 @@
     "name": "Key Redeemed 21",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:5|",
     "prehint": true,
@@ -2283,7 +2328,8 @@
     "name": "Key Redeemed 22",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:5|",
     "prehint": true,
@@ -2300,7 +2346,8 @@
     "name": "Key Redeemed 23",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:5|",
     "prehint": true,
@@ -2317,7 +2364,8 @@
     "name": "Key Redeemed 24",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:5|",
     "prehint": true,
@@ -2334,7 +2382,8 @@
     "name": "Key Redeemed 25",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:5|",
     "prehint": true,
@@ -2351,7 +2400,8 @@
     "name": "Key Redeemed 26",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:6|",
     "prehint": true,
@@ -2368,7 +2418,8 @@
     "name": "Key Redeemed 27",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:6|",
     "prehint": true,
@@ -2385,7 +2436,8 @@
     "name": "Key Redeemed 28",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:6|",
     "prehint": true,
@@ -2402,7 +2454,8 @@
     "name": "Key Redeemed 29",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:6|",
     "prehint": true,
@@ -2419,7 +2472,8 @@
     "name": "Key Redeemed 30",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:6|",
     "prehint": true,
@@ -2436,7 +2490,8 @@
     "name": "Key Redeemed 31",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:7|",
     "prehint": true,
@@ -2453,7 +2508,8 @@
     "name": "Key Redeemed 32",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:7|",
     "prehint": true,
@@ -2470,7 +2526,8 @@
     "name": "Key Redeemed 33",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:7|",
     "prehint": true,
@@ -2487,7 +2544,8 @@
     "name": "Key Redeemed 34",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:7|",
     "prehint": true,
@@ -2504,7 +2562,8 @@
     "name": "Key Redeemed 35",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:7|",
     "prehint": true,
@@ -2521,7 +2580,8 @@
     "name": "Key Redeemed 36",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:8|",
     "prehint": true,
@@ -2538,7 +2598,8 @@
     "name": "Key Redeemed 37",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:8|",
     "prehint": true,
@@ -2555,7 +2616,8 @@
     "name": "Key Redeemed 38",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:8|",
     "prehint": true,
@@ -2572,7 +2634,8 @@
     "name": "Key Redeemed 39",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:8|",
     "prehint": true,
@@ -2589,7 +2652,8 @@
     "name": "Key Redeemed 40",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:8|",
     "prehint": true,
@@ -2606,7 +2670,8 @@
     "name": "Key Redeemed 41",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:9|",
     "prehint": true,
@@ -2623,7 +2688,8 @@
     "name": "Key Redeemed 42",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:9|",
     "prehint": true,
@@ -2640,7 +2706,8 @@
     "name": "Key Redeemed 43",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:9|",
     "prehint": true,
@@ -2657,7 +2724,8 @@
     "name": "Key Redeemed 44",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:9|",
     "prehint": true,
@@ -2674,7 +2742,8 @@
     "name": "Key Redeemed 45",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:9|",
     "prehint": true,
@@ -2691,7 +2760,8 @@
     "name": "Key Redeemed 46",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:10|",
     "prehint": true,
@@ -2708,7 +2778,8 @@
     "name": "Key Redeemed 47",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:10|",
     "prehint": true,
@@ -2725,7 +2796,8 @@
     "name": "Key Redeemed 48",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:10|",
     "prehint": true,
@@ -2742,7 +2814,8 @@
     "name": "Key Redeemed 49",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:10|",
     "prehint": true,
@@ -2759,7 +2832,8 @@
     "name": "Key Redeemed 50",
     "region": "Sanity",
     "category": [
-      "keysanity"
+      "keysanity",
+      "! keysanity"
     ],
     "requires": "|@keysanity:10|",
     "prehint": true,
@@ -2776,7 +2850,8 @@
     "name": "Super Key Redeemed 1",
     "region": "Sanity",
     "category": [
-      "superkeysanity"
+      "superkeysanity",
+      "! superkeysanity"
     ],
     "requires": "|@superkeysanity:1|",
     "prehint": true,
@@ -2793,7 +2868,8 @@
     "name": "Super Key Redeemed 2",
     "region": "Sanity",
     "category": [
-      "superkeysanity"
+      "superkeysanity",
+      "! superkeysanity"
     ],
     "requires": "|@superkeysanity:2|",
     "prehint": true,
@@ -2810,7 +2886,8 @@
     "name": "Super Key Redeemed 3",
     "region": "Sanity",
     "category": [
-      "superkeysanity"
+      "superkeysanity",
+      "! superkeysanity"
     ],
     "requires": "|@superkeysanity:3|",
     "prehint": true,
@@ -2827,7 +2904,8 @@
     "name": "Super Key Redeemed 4",
     "region": "Sanity",
     "category": [
-      "superkeysanity"
+      "superkeysanity",
+      "! superkeysanity"
     ],
     "requires": "|@superkeysanity:4|",
     "prehint": true,
@@ -2844,7 +2922,8 @@
     "name": "Super Key Redeemed 5",
     "region": "Sanity",
     "category": [
-      "superkeysanity"
+      "superkeysanity",
+      "! superkeysanity"
     ],
     "requires": "|@superkeysanity:5|",
     "prehint": true,
@@ -2861,7 +2940,8 @@
     "name": "Super Key Redeemed 6",
     "region": "Sanity",
     "category": [
-      "superkeysanity"
+      "superkeysanity",
+      "! superkeysanity"
     ],
     "requires": "|@superkeysanity:6|",
     "prehint": true,
@@ -2878,7 +2958,8 @@
     "name": "Super Key Redeemed 7",
     "region": "Sanity",
     "category": [
-      "superkeysanity"
+      "superkeysanity",
+      "! superkeysanity"
     ],
     "requires": "|@superkeysanity:7|",
     "prehint": true,
@@ -2895,7 +2976,8 @@
     "name": "Super Key Redeemed 8",
     "region": "Sanity",
     "category": [
-      "superkeysanity"
+      "superkeysanity",
+      "! superkeysanity"
     ],
     "requires": "|@superkeysanity:8|",
     "prehint": true,
@@ -2912,7 +2994,8 @@
     "name": "Super Key Redeemed 9",
     "region": "Sanity",
     "category": [
-      "superkeysanity"
+      "superkeysanity",
+      "! superkeysanity"
     ],
     "requires": "|@superkeysanity:9|",
     "prehint": true,
@@ -2929,7 +3012,8 @@
     "name": "Super Key Redeemed 10",
     "region": "Sanity",
     "category": [
-      "superkeysanity"
+      "superkeysanity",
+      "! superkeysanity"
     ],
     "requires": "|@superkeysanity:10|",
     "prehint": true,

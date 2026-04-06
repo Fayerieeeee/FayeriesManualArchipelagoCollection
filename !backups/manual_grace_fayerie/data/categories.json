@@ -77,31 +77,31 @@
       "nullscape_modifiers"
     ]
   },
-  "keysanity": {
+  "! keysanity": {
     "hidden": true,
     "yaml_option": [
       "keysanity"
     ]
   },
-  "superkeysanity": {
+  "! superkeysanity": {
     "hidden": true,
     "yaml_option": [
       "superkeysanity"
     ]
   },
-  "spraycansanity": {
+  "! spraycansanity": {
     "hidden": true,
     "yaml_option": [
       "spraycansanity"
     ]
   },
-  "visionsanity": {
+  "! visionsanity": {
     "hidden": true,
     "yaml_option": [
       "visionsanity"
     ]
   },
-  "traitcharmsanity": {
+  "! traitcharmsanity": {
     "hidden": true,
     "yaml_option": [
       "traitcharmsanity"
@@ -109,6 +109,12 @@
   },
   "Flashable": {
     "hidden": true
+  },
+  "Goatman": {
+    "hidden": true,
+    "yaml_option": [
+      "goatman"
+    ]
   },
   "Slugfish": {
     "hidden": true,
@@ -236,10 +242,28 @@
       "pishrow"
     ]
   },
+  "Death": {
+    "hidden": true,
+    "yaml_option": [
+      "death_badges"
+    ]
+  },
+  "Grace 500": {
+    "hidden": true,
+    "yaml_option": [
+      "grace_500_rooms"
+    ]
+  },
   "zen Ranks": {
     "hidden": true,
     "yaml_option": [
       "zen_ranks"
+    ]
+  },
+  "S+ Ranks": {
+    "hidden": true,
+    "yaml_option": [
+      "extra_s_ranks"
     ]
   },
   "rOT RANKS": {
@@ -278,6 +302,12 @@
       "max_severity"
     ]
   },
+  "A Rank": {
+    "hidden": true,
+    "yaml_option": [
+      "a_rank"
+    ]
+  },
   "P Rank": {
     "hidden": true,
     "yaml_option": [
@@ -309,7 +339,6 @@
     ]
   },
   "General": {
-    "hidden": true,
     "yaml_option": [
       "general_badges"
     ]
