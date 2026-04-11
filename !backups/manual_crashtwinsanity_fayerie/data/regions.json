@@ -1,7 +1,36 @@
 {
-  "test": {
+  "N. Sanity Island": {
     "starting": true,
-    "connects_to": [],
+    "connects_to": ["Jungle Bungle"],
+    "requires": "|N. Sanity Island Access|"
+  },
+  "Jungle Bungle": {
+    "connects_to": ["Cavern Catastrophe"],
+    "requires": "|Jungle Bungle Access|"
+  },
+  "Cavern Catastrophe": {
+    "connects_to": ["N. Sanity Island 2"],
+    "requires": "|Cavern Catastrophe Access|"
+  },
+  "N. Sanity Island 2": {
+    "connects_to": ["N. Sanity Island", "Totem Hokum"],
     "requires": ""
+  },
+  "Totem Hokum": {
+    "connects_to": ["N. Sanity Island 3"],
+    "requires": "|Totem Hokum Access|"
+  },
+  "N. Sanity Island 3": {
+    "connects_to": ["N. Sanity Island 2", "Iceberg Lab"],
+    "requires": ""
+  },
+  "Iceberg Lab": {
+    "starting": true,
+    "connects_to": ["Ice Climb"],
+    "requires": "|Iceberg Lab Access|"
+  },
+  "Ice Climb": {
+    "connects_to": ["N. Sanity Island 2"],
+    "requires": "|Ice Climb Access|"
   }
 }

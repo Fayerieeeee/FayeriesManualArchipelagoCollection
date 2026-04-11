@@ -1,7 +1,434 @@
 [
   {
-    "name": "test",
-    "category": [],
+    "name": "N. Sanity Island Red Gem",
+    "region": "N. Sanity Island",
+    "category": ["! Gems", "N. Sanity Island"],
+    "requires": ""
+  },
+  {
+    "name": "N. Sanity Island Clear Gem",
+    "region": "N. Sanity Island",
+    "category": ["! Gems", "N. Sanity Island"],
+    "requires": ""
+  },
+  {
+    "name": "N. Sanity Island Blue Gem",
+    "region": "N. Sanity Island",
+    "category": ["! Gems", "N. Sanity Island"],
+    "requires": ""
+  },
+  {
+    "name": "N. Sanity Island Checkpoint Starting Beach",
+    "region": "N. Sanity Island",
+    "category": ["! Checkpoints", "N. Sanity Island"],
+    "requires": ""
+  },
+  {
+    "name": "Jungle Bungle Yellow Gem",
+    "region": "Jungle Bungle",
+    "category": ["! Gems", "Jungle Bungle"],
+    "requires": ""
+  },
+  {
+    "name": "Jungle Bungle Purple Gem",
+    "region": "Jungle Bungle",
+    "category": ["! Gems", "Jungle Bungle"],
+    "requires": ""
+  },
+  {
+    "name": "Jungle Bungle Clear Gem",
+    "region": "Jungle Bungle",
+    "category": ["! Gems", "Jungle Bungle"],
+    "requires": ""
+  },
+  {
+    "name": "Jungle Bungle Green Gem",
+    "region": "Jungle Bungle",
+    "category": ["! Gems", "Jungle Bungle"],
+    "requires": ""
+  },
+  {
+    "name": "Jungle Bungle Red Gem",
+    "region": "Jungle Bungle",
+    "category": ["! Gems", "Jungle Bungle"],
+    "requires": ""
+  },
+  {
+    "name": "Jungle Bungle Blue Gem",
+    "region": "Jungle Bungle",
+    "category": ["! Gems", "Jungle Bungle"],
+    "requires": ""
+  },
+  {
+    "name": "Jungle Bungle World Crate Beginning",
+    "region": "Jungle Bungle",
+    "category": ["! World Crates", "Jungle Bungle"],
+    "requires": ""
+  },
+  {
+    "name": "Jungle Bungle World Crate Cortex Fight",
+    "region": "Jungle Bungle",
+    "category": ["! World Crates", "Jungle Bungle"],
+    "requires": ""
+  },
+  {
+    "name": "Jungle Bungle Checkpoint Cave",
+    "region": "Jungle Bungle",
+    "category": ["! Checkpoints", "Jungle Bungle"],
+    "requires": ""
+  },
+  {
+    "name": "Jungle Bungle Checkpoint Nitro Log",
+    "region": "Jungle Bungle",
+    "category": ["! Checkpoints", "Jungle Bungle"],
+    "requires": ""
+  },
+  {
+    "name": "Cortex and Mecha-Bandicoot Defeat",
+    "region": "Jungle Bungle",
+    "category": ["! Bosses", "Jungle Bungle"],
+    "requires": ""
+  },
+  {
+    "name": "Cavern Catastrophe Power Crystal",
+    "region": "Cavern Catastrophe",
+    "category": ["! Power Crystals", "Cavern Catastrophe"],
+    "requires": ""
+  },
+  {
+    "name": "Cavern Catastrophe Yellow Gem",
+    "region": "Cavern Catastrophe",
+    "category": ["! Gems", "Cavern Catastrophe"],
+    "requires": ""
+  },
+  {
+    "name": "Cavern Catastrophe Green Gem",
+    "region": "Cavern Catastrophe",
+    "category": ["! Gems", "Cavern Catastrophe"],
+    "requires": ""
+  },
+  {
+    "name": "Cavern Catastrophe Clear Gem",
+    "region": "Cavern Catastrophe",
+    "category": ["! Gems", "Cavern Catastrophe"],
+    "requires": ""
+  },
+  {
+    "name": "Cavern Catastrophe Purple Gem",
+    "region": "Cavern Catastrophe",
+    "category": ["! Gems", "Cavern Catastrophe"],
+    "requires": ""
+  },
+  {
+    "name": "Cavern Catastrophe Blue Gem",
+    "region": "Cavern Catastrophe",
+    "category": ["! Gems", "Cavern Catastrophe"],
+    "requires": ""
+  },
+  {
+    "name": "Cavern Catastrophe Red Gem",
+    "region": "Cavern Catastrophe",
+    "category": ["! Gems", "Cavern Catastrophe"],
+    "requires": ""
+  },
+  {
+    "name": "Cavern Catastrophe World Crate",
+    "region": "Cavern Catastrophe",
+    "category": ["! World Crates", "Cavern Catastrophe"],
+    "requires": ""
+  },
+  {
+    "name": "Cavern Catastrophe Checkpoint 1st Open Area",
+    "region": "Cavern Catastrophe",
+    "category": ["! Checkpoints", "Cavern Catastrophe"],
+    "requires": ""
+  },
+  {
+    "name": "Cavern Catastrophe Checkpoint 2nd Tunnel",
+    "region": "Cavern Catastrophe",
+    "category": ["! Checkpoints", "Cavern Catastrophe"],
+    "requires": ""
+  },
+  {
+    "name": "Cavern Catastrophe Checkpoint Wooden Slide",
+    "region": "Cavern Catastrophe",
+    "category": ["! Checkpoints", "Cavern Catastrophe"],
+    "requires": ""
+  },
+  {
+    "name": "Cavern Catastrophe Checkpoint Platform Lift",
+    "region": "Cavern Catastrophe",
+    "category": ["! Checkpoints", "Cavern Catastrophe"],
+    "requires": ""
+  },
+  {
+    "name": "Cavern Catastrophe Checkpoint Power Crystal",
+    "region": "Cavern Catastrophe",
+    "category": ["! Checkpoints", "Cavern Catastrophe"],
+    "requires": ""
+  },
+  {
+    "name": "Cavern Catastrophe Checkpoint Cortex Switch",
+    "region": "Cavern Catastrophe",
+    "category": ["! Checkpoints", "Cavern Catastrophe"],
+    "requires": ""
+  },
+  {
+    "name": "Cavern Catastrophe Checkpoint Toxic Pipes",
+    "region": "Cavern Catastrophe",
+    "category": ["! Checkpoints", "Cavern Catastrophe"],
+    "requires": ""
+  },
+  {
+    "name": "Cavern Catastrophe Checkpoint 3rd Tunnel",
+    "region": "Cavern Catastrophe",
+    "category": ["! Checkpoints", "Cavern Catastrophe"],
+    "requires": ""
+  },
+  {
+    "name": "Cavern Catastrophe Checkpoint Metal Crates",
+    "region": "Cavern Catastrophe",
+    "category": ["! Checkpoints", "Cavern Catastrophe"],
+    "requires": ""
+  },
+  {
+    "name": "Cavern Catastrophe Checkpoint Drill Chase",
+    "region": "Cavern Catastrophe",
+    "category": ["! Checkpoints", "Cavern Catastrophe"],
+    "requires": ""
+  },
+  {
+    "name": "Cavern Catastrophe Clear",
+    "region": "Cavern Catastrophe",
+    "category": ["! Checkpoints", "Cavern Catastrophe"],
+    "requires": ""
+  },
+  {
+    "name": "N. Sanity Island Green Gem",
+    "region": "N. Sanity Island 2",
+    "category": ["! Gems", "N. Sanity Island"],
+    "requires": ""
+  },
+  {
+    "name": "N. Sanity Island Purple Gem",
+    "region": "N. Sanity Island 2",
+    "category": ["! Gems", "N. Sanity Island"],
+    "requires": ""
+  },
+  {
+    "name": "N. Sanity Island World Crate",
+    "region": "N. Sanity Island 2",
+    "category": ["! World Crates", "N. Sanity Island"],
+    "requires": ""
+  },
+  {
+    "name": "N. Sanity Island Checkpoint Beach",
+    "region": "N. Sanity Island 2",
+    "category": ["! Checkpoints", "N. Sanity Island"],
+    "requires": ""
+  },
+  {
+    "name": "N. Sanity Island Checkpoint Boat Dock",
+    "region": "N. Sanity Island 2",
+    "category": ["! Checkpoints", "N. Sanity Island"],
+    "requires": ""
+  },
+  {
+    "name": "N. Sanity Island Checkpoint Cave",
+    "region": "N. Sanity Island 2",
+    "category": ["! Checkpoints", "N. Sanity Island"],
+    "requires": ""
+  },
+  {
+    "name": "Totem Hokum Power Crystal",
+    "region": "Totem Hokum",
+    "category": ["! Power Crystals", "Totem Hokum"],
+    "requires": ""
+  },
+  {
+    "name": "Totem Hokum Green Gem",
+    "region": "Totem Hokum",
+    "category": ["! Gems", "Totem Hokum"],
+    "requires": ""
+  },
+  {
+    "name": "Totem Hokum Purple Gem",
+    "region": "Totem Hokum",
+    "category": ["! Gems", "Totem Hokum"],
+    "requires": ""
+  },
+  {
+    "name": "Totem Hokum Red Gem",
+    "region": "Totem Hokum",
+    "category": ["! Gems", "Totem Hokum"],
+    "requires": ""
+  },
+  {
+    "name": "Totem Hokum Yellow Gem",
+    "region": "Totem Hokum",
+    "category": ["! Gems", "Totem Hokum"],
+    "requires": ""
+  },
+  {
+    "name": "Totem Hokum Blue Gem",
+    "region": "Totem Hokum",
+    "category": ["! Gems", "Totem Hokum"],
+    "requires": ""
+  },
+  {
+    "name": "Totem Hokum Clear Gem",
+    "region": "Totem Hokum",
+    "category": ["! Gems", "Totem Hokum"],
+    "requires": ""
+  },
+  {
+    "name": "Totem Hokum World Crate Entrance",
+    "region": "Totem Hokum",
+    "category": ["! World Crates", "Totem Hokum"],
+    "requires": ""
+  },
+  {
+    "name": "Totem Hokum World Crate Stealth",
+    "region": "Totem Hokum",
+    "category": ["! World Crates", "Totem Hokum"],
+    "requires": ""
+  },
+  {
+    "name": "Totem Hokum World Tribe",
+    "region": "Totem Hokum",
+    "category": ["! World Crates", "Totem Hokum"],
+    "requires": ""
+  },
+  {
+    "name": "Totem Hokum Checkpoint Beehive",
+    "region": "Totem Hokum",
+    "category": ["! Checkpoints", "Totem Hokum"],
+    "requires": ""
+  },
+  {
+    "name": "Totem Hokum Checkpoint Honey Bear",
+    "region": "Totem Hokum",
+    "category": ["! Checkpoints", "Totem Hokum"],
+    "requires": ""
+  },
+  {
+    "name": "Totem Hokum Checkpoint Papu Papu",
+    "region": "Totem Hokum",
+    "category": ["! Checkpoints", "Totem Hokum"],
+    "requires": ""
+  },
+  {
+    "name": "Totem Hokum Checkpoint Watch Tower 1",
+    "region": "Totem Hokum",
+    "category": ["! Checkpoints", "Totem Hokum"],
+    "requires": ""
+  },
+  {
+    "name": "Totem Hokum Checkpoint Watch Tower 2",
+    "region": "Totem Hokum",
+    "category": ["! Checkpoints", "Totem Hokum"],
+    "requires": ""
+  },
+  {
+    "name": "Totem Hokum Checkpoint Boar",
+    "region": "Totem Hokum",
+    "category": ["! Checkpoints", "Totem Hokum"],
+    "requires": ""
+  },
+  {
+    "name": "Totem Hokum Checkpoint Tribe Beach",
+    "region": "Totem Hokum",
+    "category": ["! Checkpoints", "Totem Hokum"],
+    "requires": ""
+  },
+  {
+    "name": "Totem Hokum Checkpoint Tribe Chase",
+    "region": "Totem Hokum",
+    "category": ["! Checkpoints", "Totem Hokum"],
+    "requires": ""
+  },
+  {
+    "name": "Totem Hokum Checkpoint Tribe Chase 2",
+    "region": "Totem Hokum",
+    "category": ["! Checkpoints", "Totem Hokum"],
+    "requires": ""
+  },
+  {
+    "name": "Totem Hokum Checkpoint Tribe Chase End",
+    "region": "Totem Hokum",
+    "category": ["! Checkpoints", "Totem Hokum"],
+    "requires": ""
+  },
+  {
+    "name": "N. Sanity Island Power Crystal",
+    "region": "N. Sanity Island 3",
+    "category": ["! Power Crystals", "N. Sanity Island"],
+    "requires": ""
+  },
+  {
+    "name": "N. Sanity Island Yellow Gem",
+    "region": "N. Sanity Island 3",
+    "category": ["! Gems", "N. Sanity Island"],
+    "requires": ""
+  },
+  {
+    "name": "N. Sanity Island World Crate Barn",
+    "region": "N. Sanity Island 3",
+    "category": ["! World Crates", "N. Sanity Island"],
+    "requires": ""
+  },
+  {
+    "name": "N. Sanity Island Checkpoint Totem God",
+    "region": "N. Sanity Island 3",
+    "category": ["! Checkpoints", "N. Sanity Island"],
+    "requires": ""
+  },
+  {
+    "name": "N. Sanity Island Checkpoint Post Totem God",
+    "region": "N. Sanity Island 3",
+    "category": ["! Checkpoints", "N. Sanity Island"],
+    "requires": ""
+  },
+  {
+    "name": "Totem God Defeat",
+    "region": "N. Sanity Island 3",
+    "category": ["! Bosses", "N. Sanity Island"],
+    "requires": ""
+  },
+  {
+    "name": "Iceberg Lab Blue Gem",
+    "region": "Iceberg Lab",
+    "category": ["! Gems", "Iceberg Lab"],
+    "requires": ""
+  },
+  {
+    "name": "Iceberg Lab Green Gem",
+    "region": "Iceberg Lab",
+    "category": ["! Gems", "Iceberg Lab"],
+    "requires": ""
+  },
+  {
+    "name": "Iceberg Lab Purple Gem",
+    "region": "Iceberg Lab",
+    "category": ["! Gems", "Iceberg Lab"],
+    "requires": ""
+  },
+  {
+    "name": "Iceberg Lab Red Gem",
+    "region": "Iceberg Lab",
+    "category": ["! Gems", "Iceberg Lab"],
+    "requires": ""
+  },
+  {
+    "name": "Iceberg Lab Yellow Gem",
+    "region": "Iceberg Lab",
+    "category": ["! Gems", "Iceberg Lab"],
+    "requires": ""
+  },
+  {
+    "name": "Iceberg Lab World Crate",
+    "region": "Iceberg Lab",
+    "category": ["! World Crates", "Iceberg Lab"],
     "requires": ""
   }
 ]
