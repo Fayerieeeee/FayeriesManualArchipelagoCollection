@@ -67,6 +67,18 @@
             "type": "Toggle",
             "default": false
         },
+        "dlc_single_items":{
+            "display_name": "DLC Single Items",
+            "description": ["Add in the DLC items as a single item? May require backtracking"],
+            "type": "Toggle",
+            "default": false
+        },
+        "dlc_progressive_items":{
+            "display_name": "DLC Progressive Items",
+            "description": ["Turn the DLC items into Progressive items? Makes the DLCs more linear"],
+            "type": "Toggle",
+            "default": true
+        },
         "crowd_control":{
             "display_name": "Crowd Control",
             "description": ["Add in the beneficial Crowd Control options as filler?", "This option does NOT disable the trap related Crowd Control options, please disable via the trap option"],

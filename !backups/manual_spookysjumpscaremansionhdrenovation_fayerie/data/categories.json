@@ -44,6 +44,30 @@
       "original_spookys_mansion"
     ]
   },
+  "KH Single Items": {
+    "hidden": true,
+    "yaml_option": [
+      "dlc_single_items"
+    ]
+  },
+  "KH Progressive Items": {
+    "hidden": true,
+    "yaml_option": [
+      "dlc_progressive_items"
+    ]
+  },
+  "DH Single Items": {
+    "hidden": true,
+    "yaml_option": [
+      "dlc_single_items"
+    ]
+  },
+  "DH Progressive Items": {
+    "hidden": true,
+    "yaml_option": [
+      "dlc_progressive_items"
+    ]
+  },
   "Crowd Control": {
     "yaml_option": [
       "crowd_control"
