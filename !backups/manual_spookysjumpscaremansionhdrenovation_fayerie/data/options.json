@@ -19,6 +19,12 @@
         }
     },
     "user": {
+        "starting_axe":{
+            "display_name": "Starting Axe",
+            "description": ["Start with the Axe? Useful for tackling Endless Mode early"],
+            "type": "Toggle",
+            "default": false
+        },
         "endless_mode":{
             "display_name": "Endless Mode",
             "description": ["Enable Endless Mode? (25 Locations)", "Please note that this gamemode WILL take a good while, please enable only during an async session.", " ", "Reccomended to have reached room 2500 beforehand to use the checkpoint system"],
@@ -57,7 +63,7 @@
         },
         "original_spookys_mansion":{
             "display_name": "Original Game Checks",
-            "description": ["Enable checks only found in the Original game? (1 Location)", " ", "Specimen 4 (Endless) Hellgate)"],
+            "description": ["Enable checks only found in the Original game? (1 Location)", " ", "Specimen 4 (Endless) Hellgate"],
             "type": "Toggle",
             "default": false
         },
