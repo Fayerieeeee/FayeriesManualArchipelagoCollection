@@ -76,7 +76,8 @@
         "mansionsanity":{
             "description": ["Adds a check per room progression in the mansion (1000 Locations)"],
             "type": "Toggle",
-            "default": false
+            "default": false,
+            "group": "sanity Options"
         }
     }
 }
