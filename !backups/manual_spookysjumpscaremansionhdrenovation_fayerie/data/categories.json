@@ -48,5 +48,10 @@
     "yaml_option": [
       "crowd_control"
     ]
+  },
+  "mansionsanity": {
+    "yaml_option": [
+      "mansionsanity"
+    ]
   }
 }

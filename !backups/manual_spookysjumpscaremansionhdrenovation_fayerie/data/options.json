@@ -72,6 +72,11 @@
             "description": ["Add in the beneficial Crowd Control options as filler?", "This option does NOT disable the trap related Crowd Control options, please disable via the trap option"],
             "type": "Toggle",
             "default": false
+        },
+        "mansionsanity":{
+            "description": ["Adds a check per room progression in the mansion (1000 Locations)"],
+            "type": "Toggle",
+            "default": false
         }
     }
 }
