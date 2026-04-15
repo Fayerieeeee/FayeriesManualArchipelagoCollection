@@ -1,0 +1,1147 @@
+[
+  {
+    "name": "Room 50 Save Point",
+    "region": "Mansion 50",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion 1st Elevator"
+  },
+  {
+    "name": "Room 100 Save Point",
+    "region": "Mansion 100",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion 2nd Elevator"
+  },
+  {
+    "name": "Room 150 Save Point",
+    "region": "Mansion 150",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion 3rd Elevator"
+  },
+  {
+    "name": "Room 200 Save Point",
+    "region": "Mansion 200",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion 4th Elevator"
+  },
+  {
+    "name": "Room 250 Save Point",
+    "region": "Mansion 250",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Quarter Checkpoint"
+  },
+  {
+    "name": "Room 300 Save Point",
+    "region": "Mansion 300",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion 5th Elevator"
+  },
+  {
+    "name": "Room 400 Save Point",
+    "region": "Mansion 400",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion 6th Elevator"
+  },
+  {
+    "name": "Room 500 Save Point",
+    "region": "Mansion 500",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Halfway Checkpoint"
+  },
+  {
+    "name": "Room 600 Save Point",
+    "region": "Mansion 600",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion 7th Elevator"
+  },
+  {
+    "name": "Room 700 Save Point",
+    "region": "Mansion 700",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion 8th Elevator"
+  },
+  {
+    "name": "Room 750 Save Point",
+    "region": "Mansion 750",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Three-Quarter Checkpoint"
+  },
+  {
+    "name": "Room 800 Save Point",
+    "region": "Mansion 800",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion 9th Elevator"
+  },
+  {
+    "name": "Room 900 Save Point",
+    "region": "Mansion 900",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion 10th Elevator"
+  },
+  {
+    "name": "Room 995 Save Point",
+    "region": "Mansion 995",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Final Elevator"
+  },
+  {
+    "name": "Hospital Save Point",
+    "region": "Hospital",
+    "category": [
+      "!! Save Points",
+      "Karamari Hospital"
+    ],
+    "requires": "",
+    "hint_entrance": "Karamari Hospital Entrance"
+  },
+  {
+    "name": "Dollhouse Save Point",
+    "region": "Dollhouse",
+    "category": [
+      "!! Save Points",
+      "Dollhouse"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Dollhouse Entrance"
+  },
+  {
+    "name": "Endless Room 100 Save Point",
+    "region": "Endless 100",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 200 Save Point",
+    "region": "Endless 200",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 300 Save Point",
+    "region": "Endless 300",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 400 Save Point",
+    "region": "Endless 400",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 500 Save Point",
+    "region": "Endless 500",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 600 Save Point",
+    "region": "Endless 600",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 700 Save Point",
+    "region": "Endless 700",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 800 Save Point",
+    "region": "Endless 800",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 900 Save Point",
+    "region": "Endless 900",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 1000 Save Point",
+    "region": "Endless 1000",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 1100 Save Point",
+    "region": "Endless 1100",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 1200 Save Point",
+    "region": "Endless 1200",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 1300 Save Point",
+    "region": "Endless 1300",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 1400 Save Point",
+    "region": "Endless 1400",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 1500 Save Point",
+    "region": "Endless 1500",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 1600 Save Point",
+    "region": "Endless 1600",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 1700 Save Point",
+    "region": "Endless 1700",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 1800 Save Point",
+    "region": "Endless 1800",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 1900 Save Point",
+    "region": "Endless 1900",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 2000 Save Point",
+    "region": "Endless 2000",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 2100 Save Point",
+    "region": "Endless 2100",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 2200 Save Point",
+    "region": "Endless 2200",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 2300 Save Point",
+    "region": "Endless 2300",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 2400 Save Point",
+    "region": "Endless 2400",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 2500 Save Point",
+    "region": "Endless 2500",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Specimen 2 Locale",
+    "region": "Mansion 100",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 60"
+  },
+  {
+    "name": "Specimen 3 Locale",
+    "region": "Mansion 150",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 120"
+  },
+  {
+    "name": "Specimen 4 Locale",
+    "region": "Mansion 200",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 160"
+  },
+  {
+    "name": "Specimen 5 Locale",
+    "region": "Mansion 250",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 210"
+  },
+  {
+    "name": "Specimen 6 Locale",
+    "region": "Mansion 400",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 310"
+  },
+  {
+    "name": "Specimen 7 Locale",
+    "region": "Mansion 500",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 410"
+  },
+  {
+    "name": "Specimen 8 Locale",
+    "region": "Mansion 600",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 550"
+  },
+  {
+    "name": "Specimen 10 Locale",
+    "region": "Mansion 700",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 610"
+  },
+  {
+    "name": "Specimen 11 Locale",
+    "region": "Mansion 800",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 710"
+  },
+  {
+    "name": "Specimen 12 Locale",
+    "region": "Mansion 900",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 810"
+  },
+  {
+    "name": "Specimen 13 Locale",
+    "region": "Mansion 995",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 910"
+  },
+  {
+    "name": "Mrs. Spook",
+    "region": "Mansion 995",
+    "category": [
+      "!! Minigames",
+      "Spooky's Mansion"
+    ],
+    "requires": "|Mrs. Spook Arcade Machine|",
+    "hint_entrance": "Spooky's Mansion Arcade Room (RNG)"
+  },
+  {
+    "name": "Mall of the Spook",
+    "region": "Mansion 995",
+    "category": [
+      "!! Minigames",
+      "Spooky's Mansion"
+    ],
+    "requires": "|Mall of the Spook Arcade Machine|",
+    "hint_entrance": "Spooky's Mansion Arcade Room (RNG)"
+  },
+  {
+    "name": "Spooky Kart",
+    "region": "Mansion 995",
+    "category": [
+      "!! Minigames",
+      "Spooky's Mansion"
+    ],
+    "requires": "|Spooky Kart Arcade Machine|",
+    "hint_entrance": "Spooky's Mansion Arcade Room (RNG)"
+  },
+  {
+    "name": "Secret Arcade Machine",
+    "region": "Mansion 995",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "|Secret Code (1235)|",
+    "hint_entrance": "Spooky's Mansion Arcade Room (RNG)"
+  },
+  {
+    "name": "Specimen 9 Defeated",
+    "region": "Mansion 1000",
+    "category": [
+      "!! Endings",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 1000"
+  },
+  {
+    "name": "Specimen 3 Card Key",
+    "region": "Mansion 150",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 120"
+  },
+  {
+    "name": "Spooky's 'Gift'",
+    "region": "Mansion 250",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Quarter Checkpoint"
+  },
+  {
+    "name": "Specimen 6 Key 1",
+    "region": "Mansion 400",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 310"
+  },
+  {
+    "name": "Specimen 6 Key 2",
+    "region": "Mansion 400",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 310"
+  },
+  {
+    "name": "Axe",
+    "region": "Mansion 600",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Specimen 8 Locale"
+  },
+  {
+    "name": "Specimen 8 Key",
+    "region": "Mansion 600",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "|Axe|",
+    "hint_entrance": "Spooky's Mansion Room 557"
+  },
+  {
+    "name": "Specimen 11 Key Toilet",
+    "region": "Mansion 750",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 710"
+  },
+  {
+    "name": "Specimen 11 Key Playhouse",
+    "region": "Mansion 750",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 710"
+  },
+  {
+    "name": "Specimen 11 Key Meat Locker",
+    "region": "Mansion 750",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 710"
+  },
+  {
+    "name": "Spooky's Spell",
+    "region": "Mansion 900",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room Three-Quarter Checkpoint"
+  },
+  {
+    "name": "Specimen 12 Key Bedroom",
+    "region": "Mansion 900",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 810"
+  },
+  {
+    "name": "Specimen 12 Dropped Key",
+    "region": "Mansion 900",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 810"
+  },
+  {
+    "name": "Specimen 12 Key Books",
+    "region": "Mansion 900",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 810"
+  },
+  {
+    "name": "Specimen 12 Fake Book",
+    "region": "Mansion 900",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 810"
+  },
+  {
+    "name": "Specimen 12 Key Basement",
+    "region": "Mansion 900",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 810"
+  },
+  {
+    "name": "Specimen 13 Lantern",
+    "region": "Mansion 995",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 910"
+  },
+  {
+    "name": "Specimen 13 Key Num-Locked Room",
+    "region": "Mansion 995",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 910"
+  },
+  {
+    "name": "Specimen 13 Key Flooded Room",
+    "region": "Mansion 995",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 910"
+  },
+  {
+    "name": "Office Key",
+    "region": "Hospital",
+    "category": [
+      "!! Item Pickups",
+      "Karamari Hospital"
+    ],
+    "requires": "",
+    "hint_entrance": "Karamari Hospital Break Room"
+  },
+  {
+    "name": "Sword Painting",
+    "region": "Hospital",
+    "category": [
+      "!! Item Pickups",
+      "Karamari Hospital"
+    ],
+    "requires": "|Office Key| OR |Progressive Hospital:1|",
+    "hint_entrance": "Karamari Hospital 2nd Left Office"
+  },
+  {
+    "name": "Maintenance Key",
+    "region": "Hospital",
+    "category": [
+      "!! Item Pickups",
+      "Karamari Hospital"
+    ],
+    "requires": "|Office Key| OR |Progressive Hospital:1|",
+    "hint_entrance": "Karamari Hospital 3rd Left Office"
+  },
+  {
+    "name": "Acid",
+    "region": "Hospital",
+    "category": [
+      "!! Item Pickups",
+      "Karamari Hospital"
+    ],
+    "requires": "(|Office Key| AND |Maintenance Key|) OR |Progressive Hospital:2|",
+    "hint_entrance": "Karamari Hospital Rightside Morgue"
+  },
+  {
+    "name": "Medallion",
+    "region": "Hospital",
+    "category": [
+      "!! Item Pickups",
+      "Karamari Hospital"
+    ],
+    "requires": "(|Office Key| AND |Maintenance Key|) OR |Progressive Hospital:2|",
+    "hint_entrance": "Karamari Hospital Leftside Morgue"
+  },
+  {
+    "name": "Sunshine Academy Ending",
+    "region": "Hospital",
+    "category": [
+      "!! Minigames",
+      "Karamari Hospital",
+      "Sunshine Academy"
+    ],
+    "requires": "(|Office Key| AND |Maintenance Key| AND |Medallion|) OR (|Progressive Hospital:3|) AND |Sunshine Academy|",
+    "hint_entrance": "Karamari Hospital Basement"
+  },
+  {
+    "name": "Isolation Ward Key",
+    "region": "Hospital",
+    "category": [
+      "!! Item Pickups",
+      "Karamari Hospital"
+    ],
+    "requires": "(|Office Key| AND |Maintenance Key| AND |Medallion|) OR |Progressive Hospital:3|",
+    "hint_entrance": "Karamari Hospital Basement"
+  },
+  {
+    "name": "Hospital Exit Key",
+    "region": "Hospital",
+    "category": [
+      "!! Item Pickups",
+      "Karamari Hospital"
+    ],
+    "requires": "(|Office Key| AND |Maintenance Key| AND |Medallion| AND |Isolation Ward Key|) OR |Progressive Hospital:4|",
+    "hint_entrance": "Karamari Hospital Maze Exit"
+  },
+  {
+    "name": "Karamari Hospital Clear",
+    "region": "Hospital",
+    "category": [
+      "!! Endings",
+      "Karamari Hospital"
+    ],
+    "requires": "(|Office Key| AND |Maintenance Key| AND |Medallion| AND |Isolation Ward Key| AND |Hospital Exit Key|) OR |Progressive Hospital:5|",
+    "hint_entrance": "Karamari Hospital Exit"
+  },
+  {
+    "name": "Monster 1 Defeated",
+    "region": "Hospital",
+    "category": [
+      "!! Monster Defeats",
+      "Karamari Hospital"
+    ],
+    "requires": "(|Sword| AND |Office Key| AND |Maintenance Key|) OR (|Sword| AND |Progressive Hospital:2|)",
+    "hint_entrance": "Karamari Hospital Blackout Main Hallway"
+  },
+  {
+    "name": "Monster 2 Defeated",
+    "region": "Hospital",
+    "category": [
+      "!! Monster Defeats",
+      "Karamari Hospital"
+    ],
+    "requires": "(|Sword| AND |Office Key| AND |Maintenance Key| AND |Medallion|) OR (|Sword| AND |Progressive Hospital:3|)",
+    "hint_entrance": "Karamari Hospital Morgue Wrongwarp"
+  },
+  {
+    "name": "Monster 3 Defeated",
+    "region": "Hospital",
+    "category": [
+      "!! Monster Defeats",
+      "Karamari Hospital"
+    ],
+    "requires": "(|Sword| AND |Office Key| AND |Maintenance Key| AND |Medallion|) OR (|Sword| AND |Progressive Hospital:3|)",
+    "hint_entrance": "Karamari Hospital Basement"
+  },
+  {
+    "name": "Monster 4 Defeated",
+    "region": "Hospital",
+    "category": [
+      "!! Monster Defeats",
+      "Karamari Hospital"
+    ],
+    "requires": "(|Sword| AND |Office Key| AND |Maintenance Key| AND |Medallion|) OR (|Sword| AND |Progressive Hospital:3|)",
+    "hint_entrance": "Karamari Hospital Basement"
+  },
+  {
+    "name": "Monster 5 Defeated",
+    "region": "Hospital",
+    "category": [
+      "!! Monster Defeats",
+      "Karamari Hospital"
+    ],
+    "requires": "(|Sword| AND |Office Key| AND |Maintenance Key| AND |Medallion| AND |Isolation Ward Key|) OR (|Sword| AND |Progressive Hospital:4|)",
+    "hint_entrance": "Karamari Hospital Isolation Ward Maze"
+  },
+  {
+    "name": "Dollhouse Map",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Dollhouse Dining Room"
+  },
+  {
+    "name": "Doll",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Dollhouse Dining Room"
+  },
+  {
+    "name": "West Wing Key",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Dollhouse Piano Room"
+  },
+  {
+    "name": "Winding Clock Key",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "|West Wing Key| OR |Progressive Dollhouse:1|",
+    "hint_entrance": "Spooky's Dollhouse Storage Room"
+  },
+  {
+    "name": "Woormy Charles Defeated",
+    "region": "Dollhouse",
+    "category": [
+      "!! Monster Defeats",
+      "Dollhouse"
+    ],
+    "requires": "(|Axe| AND |West Wing Key|) OR (|Axe| AND |Progressive Dollhouse:1|)",
+    "hint_entrance": "Spooky's Dollhouse Storage Room"
+  },
+  {
+    "name": "Bolt Cutters",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "(|West Wing Key| AND |Winding Clock Key|) OR |Progressive Dollhouse:2|",
+    "hint_entrance": "Spooky's Dollhouse Clock Room"
+  },
+  {
+    "name": "Melted Doll Hands",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "(|West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters|) OR |Progressive Dollhouse:3|",
+    "hint_entrance": "Spooky's Dollhouse Rightside Electric Barrier"
+  },
+  {
+    "name": "Doug",
+    "region": "Dollhouse",
+    "category": [
+      "!! Minigames",
+      "Dollhouse"
+    ],
+    "requires": "(|Doug Arcade Machine| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands|) OR (|Doug Arcade Machine| AND |Progressive Dollhouse:4|)",
+    "hint_entrance": "Spooky's Dollhouse New GL LABS Entrance"
+  },
+  {
+    "name": "Metal Pinwheel Piece Trapdoor",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "(|West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands|) OR |Progressive Dollhouse:4|",
+    "hint_entrance": "Spooky's Dollhouse Root Cellar"
+  },
+  {
+    "name": "Metal Pinwheel Piece Hooked Doll",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "(|West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands|) OR |Progressive Dollhouse:4|",
+    "hint_entrance": "Spooky's Dollhouse Root Cellar"
+  },
+  {
+    "name": "Metal Pinwheel Piece Scratched Wall",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands|) OR (|Axe| AND |Progressive Dollhouse:4|)",
+    "hint_entrance": "Spooky's Dollhouse Root Cellar"
+  },
+  {
+    "name": "GL LABS Key Card",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands|) OR (|Axe| AND |Progressive Dollhouse:4|)",
+    "hint_entrance": "Spooky's Dollhouse Root Cellar"
+  },
+  {
+    "name": "Black Candle Entrance Trap",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands| AND |GL LABS Key Card|) OR (|Axe| AND |Progressive Dollhouse:5|)",
+    "hint_entrance": "Spooky's Dollhouse Root Cellar"
+  },
+  {
+    "name": "Black Candle Hooked Doll Maze",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands| AND |GL LABS Key Card|) OR (|Axe| AND |Progressive Dollhouse:5|)",
+    "hint_entrance": "Spooky's Dollhouse Root Cellar"
+  },
+  {
+    "name": "Black Candle Locked Pinwheel Room",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands| AND |GL LABS Key Card|) OR (|Axe| AND |Progressive Dollhouse:5|)",
+    "hint_entrance": "Spooky's Dollhouse Dining Room"
+  },
+  {
+    "name": "Rifle Nightmare",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands| AND |GL LABS Key Card|) OR (|Axe| AND |Progressive Dollhouse:5|)",
+    "hint_entrance": "Spooky's Dollhouse Nightmare Sequence"
+  },
+  {
+    "name": "Hellgate Sealed",
+    "region": "Dollhouse",
+    "category": [
+      "!! Hellgate",
+      "Dollhouse"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands| AND |GL LABS Key Card| AND |Black Candle:3|) OR (|Axe| AND |Progressive Dollhouse:5| AND |Black Candle:3|)",
+    "hint_entrance": "Spooky's Dollhouse Ritual Room"
+  },
+  {
+    "name": "Specimen 6 Hellgate Sealed",
+    "region": "Dollhouse",
+    "category": [
+      "!! Hellgate",
+      "Dollhouse",
+      "hellgatesanity"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands| AND |GL LABS Key Card| AND |Black Candle:3|) OR (|Axe| AND |Progressive Dollhouse:5| AND |Black Candle:3|)",
+    "hint_entrance": "Spooky's Dollhouse Ritual Room"
+  },
+  {
+    "name": "Specimen 8 Hellgate Sealed",
+    "region": "Dollhouse",
+    "category": [
+      "!! Hellgate",
+      "Dollhouse",
+      "hellgatesanity"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands| AND |GL LABS Key Card| AND |Black Candle:3|) OR (|Axe| AND |Progressive Dollhouse:5| AND |Black Candle:3|)",
+    "hint_entrance": "Spooky's Dollhouse Ritual Room"
+  },
+  {
+    "name": "Specimen 11 Hellgate Sealed",
+    "region": "Dollhouse",
+    "category": [
+      "!! Hellgate",
+      "Dollhouse",
+      "hellgatesanity"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands| AND |GL LABS Key Card| AND |Black Candle:3|) OR (|Axe| AND |Progressive Dollhouse:5| AND |Black Candle:3|)",
+    "hint_entrance": "Spooky's Dollhouse Ritual Room"
+  },
+  {
+    "name": "Specimen 4 (EF) Hellgate Sealed",
+    "region": "Dollhouse",
+    "category": [
+      "!! Hellgate",
+      "Dollhouse",
+      "hellgatesanity",
+      "OG"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands| AND |GL LABS Key Card| AND |Black Candle:3|) OR (|Axe| AND |Progressive Dollhouse:5| AND |Black Candle:3|)",
+    "hint_entrance": "Spooky's Dollhouse Ritual Room"
+  },
+  {
+    "name": "Dollhouse Clear (Any Ending)",
+    "region": "Dollhouse",
+    "category": [
+      "! GOAL",
+      "!! Endings",
+      "Dollhouse"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands| AND |GL LABS Key Card| AND |Gun|) OR (|Axe| AND |Progressive Dollhouse:5| AND |Gun|)",
+    "hint_entrance": "Spooky's Dollhouse Tram Escape",
+    "victory": true
+  },
+  {
+    "name": "Dollhouse Clear (Good Ending)",
+    "region": "Dollhouse",
+    "category": [
+      "! GOAL",
+      "!! Endings",
+      "Dollhouse"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands| AND |GL LABS Key Card| AND |Black Candle:3| AND |Gun|) OR (|Axe| AND |Progressive Dollhouse:5| AND |Black Candle:3| AND |Gun|)",
+    "hint_entrance": "Spooky's Dollhouse Tram Escape",
+    "victory": true
+  }
+]

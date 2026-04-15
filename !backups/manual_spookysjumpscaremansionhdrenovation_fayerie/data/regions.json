@@ -1,0 +1,257 @@
+{
+  "Game Start": {
+    "starting": true,
+    "connects_to": [
+      "Mansion 50",
+      "Endless 100"
+    ],
+    "requires": ""
+  },
+  "Mansion 50": {
+    "connects_to": [
+      "Mansion 100",
+      "Hospital"
+    ],
+    "requires": ""
+  },
+  "Mansion 100": {
+    "connects_to": [
+      "Mansion 150"
+    ],
+    "requires": "|Progressive Elevator:1|"
+  },
+  "Mansion 150": {
+    "connects_to": [
+      "Mansion 200"
+    ],
+    "requires": "|Progressive Elevator:2|"
+  },
+  "Mansion 200": {
+    "connects_to": [
+      "Mansion 250"
+    ],
+    "requires": "|Progressive Elevator:3|"
+  },
+  "Mansion 250": {
+    "connects_to": [
+      "Mansion 300"
+    ],
+    "requires": "|Progressive Elevator:3|"
+  },
+  "Mansion 300": {
+    "connects_to": [
+      "Mansion 400"
+    ],
+    "requires": "|Progressive Elevator:4|"
+  },
+  "Mansion 400": {
+    "connects_to": [
+      "Mansion 500"
+    ],
+    "requires": "|Progressive Elevator:5|"
+  },
+  "Mansion 500": {
+    "connects_to": [
+      "Mansion 600"
+    ],
+    "requires": "|Progressive Elevator:5|"
+  },
+  "Mansion 600": {
+    "connects_to": [
+      "Mansion 700"
+    ],
+    "requires": "|Progressive Elevator:6|"
+  },
+  "Mansion 700": {
+    "connects_to": [
+      "Mansion 750"
+    ],
+    "requires": "|Progressive Elevator:7| AND |Axe|"
+  },
+  "Mansion 750": {
+    "connects_to": [
+      "Mansion 800"
+    ],
+    "requires": "|Progressive Elevator:7|"
+  },
+  "Mansion 800": {
+    "connects_to": [
+      "Mansion 900"
+    ],
+    "requires": "|Progressive Elevator:8|"
+  },
+  "Mansion 900": {
+    "connects_to": [
+      "Mansion 995"
+    ],
+    "requires": "|Progressive Elevator:9|"
+  },
+  "Mansion 995": {
+    "connects_to": [
+      "Mansion 1000"
+    ],
+    "requires": "|Progressive Elevator:10|"
+  },
+  "Mansion 1000": {
+    "connects_to": [],
+    "requires": "|Progressive Elevator:11|"
+  },
+  "Hospital": {
+    "connects_to": [
+      "Dollhouse"
+    ],
+    "requires": "|Elevator Malfunction|"
+  },
+  "Dollhouse": {
+    "connects_to": [],
+    "requires": "|Doll|"
+  },
+  "Endless 100": {
+    "connects_to": [
+      "Endless 200"
+    ],
+    "requires": "|Axe| OR |Sword|"
+  },
+  "Endless 200": {
+    "connects_to": [
+      "Endless 300"
+    ],
+    "requires": "|Progressive Endless Elevator:1|"
+  },
+  "Endless 300": {
+    "connects_to": [
+      "Endless 400"
+    ],
+    "requires": "|Progressive Endless Elevator:2|"
+  },
+  "Endless 400": {
+    "connects_to": [
+      "Endless 500"
+    ],
+    "requires": "|Progressive Endless Elevator:3|"
+  },
+  "Endless 500": {
+    "connects_to": [
+      "Endless 600"
+    ],
+    "requires": "|Progressive Endless Elevator:4|"
+  },
+  "Endless 600": {
+    "connects_to": [
+      "Endless 700"
+    ],
+    "requires": "|Progressive Endless Elevator:5|"
+  },
+  "Endless 700": {
+    "connects_to": [
+      "Endless 800"
+    ],
+    "requires": "|Progressive Endless Elevator:6|"
+  },
+  "Endless 800": {
+    "connects_to": [
+      "Endless 900"
+    ],
+    "requires": "|Progressive Endless Elevator:7|"
+  },
+  "Endless 900": {
+    "connects_to": [
+      "Endless 1000"
+    ],
+    "requires": "|Progressive Endless Elevator:8|"
+  },
+  "Endless 1000": {
+    "connects_to": [
+      "Endless 1100"
+    ],
+    "requires": "|Progressive Endless Elevator:9|"
+  },
+  "Endless 1100": {
+    "connects_to": [
+      "Endless 1200"
+    ],
+    "requires": "|Progressive Endless Elevator:10|"
+  },
+  "Endless 1200": {
+    "connects_to": [
+      "Endless 1300"
+    ],
+    "requires": "|Progressive Endless Elevator:11|"
+  },
+  "Endless 1300": {
+    "connects_to": [
+      "Endless 1400"
+    ],
+    "requires": "|Progressive Endless Elevator:12|"
+  },
+  "Endless 1400": {
+    "connects_to": [
+      "Endless 1500"
+    ],
+    "requires": "|Progressive Endless Elevator:13|"
+  },
+  "Endless 1500": {
+    "connects_to": [
+      "Endless 1600"
+    ],
+    "requires": "|Progressive Endless Elevator:14|"
+  },
+  "Endless 1600": {
+    "connects_to": [
+      "Endless 1700"
+    ],
+    "requires": "|Progressive Endless Elevator:15|"
+  },
+  "Endless 1700": {
+    "connects_to": [
+      "Endless 1800"
+    ],
+    "requires": "|Progressive Endless Elevator:16|"
+  },
+  "Endless 1800": {
+    "connects_to": [
+      "Endless 1900"
+    ],
+    "requires": "|Progressive Endless Elevator:17|"
+  },
+  "Endless 1900": {
+    "connects_to": [
+      "Endless 2000"
+    ],
+    "requires": "|Progressive Endless Elevator:18|"
+  },
+  "Endless 2000": {
+    "connects_to": [
+      "Endless 2100"
+    ],
+    "requires": "|Progressive Endless Elevator:19|"
+  },
+  "Endless 2100": {
+    "connects_to": [
+      "Endless 2200"
+    ],
+    "requires": "|Progressive Endless Elevator:20|"
+  },
+  "Endless 2200": {
+    "connects_to": [
+      "Endless 2300"
+    ],
+    "requires": "|Progressive Endless Elevator:21|"
+  },
+  "Endless 2300": {
+    "connects_to": [
+      "Endless 2400"
+    ],
+    "requires": "|Progressive Endless Elevator:22|"
+  },
+  "Endless 2400": {
+    "connects_to": [
+      "Endless 2500"
+    ],
+    "requires": "|Progressive Endless Elevator:23|"
+  },
+  "Endless 2500": {
+    "connects_to": [],
+    "requires": "|Progressive Endless Elevator:24|"
+  }
+}
