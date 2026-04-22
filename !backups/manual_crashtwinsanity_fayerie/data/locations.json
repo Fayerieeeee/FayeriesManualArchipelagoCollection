@@ -1,44 +1,44 @@
 [
   {
-    "name": "N. Sanity Island Clear Gem",
-    "region": "N. Sanity Island 1",
+    "name": "N. Sanity Island Red Gem",
+    "region": "N. Sanity Island",
     "category": ["!! Gems", "N. Sanity Island"],
     "requires": "",
-    "hint_entrance": "Distant Island"
+    "hint_entrance": "Starting Beach"
   },
   {
-    "name": "N. Sanity Island Red Gem",
-    "region": "N. Sanity Island 1",
+    "name": "N. Sanity Island Clear Gem",
+    "region": "N. Sanity Island",
     "category": ["!! Gems", "N. Sanity Island"],
     "requires": "",
-    "hint_entrance": "Chicken Farm"
+    "hint_entrance": "Starting Beach"
   },
   {
     "name": "N. Sanity Island Blue Gem",
-    "region": "N. Sanity Island 1",
+    "region": "N. Sanity Island",
     "category": ["!! Gems", "N. Sanity Island"],
-    "requires": "",
-    "hint_entrance": "Tiki Cannons"
+    "requires": "|Double Jump| AND |Belly-Flop|",
+    "hint_entrance": "Starting Beach"
   },
   {
     "name": "Jungle Bungle Yellow Gem",
     "region": "Jungle Bungle",
     "category": ["!! Gems", "Jungle Bungle"],
     "requires": "",
-    "hint_entrance": "Crash's House"
-  },
-  {
-    "name": "Jungle Bungle Clear Gem",
-    "region": "Jungle Bungle",
-    "category": ["!! Gems", "Jungle Bungle"],
-    "requires": "",
-    "hint_entrance": "Slide Tutorial Side Path"
+    "hint_entrance": "Tiki Totem"
   },
   {
     "name": "Jungle Bungle Purple Gem",
     "region": "Jungle Bungle",
     "category": ["!! Gems", "Jungle Bungle"],
     "requires": "",
+    "hint_entrance": "Slide Tutorial Side Path"
+  },
+  {
+    "name": "Jungle Bungle Clear Gem",
+    "region": "Jungle Bungle",
+    "category": ["!! Gems", "Jungle Bungle"],
+    "requires": "|Slide| AND |Double Jump|",
     "hint_entrance": "Slide Tutorial Side Path"
   },
   {
@@ -59,36 +59,29 @@
     "name": "Jungle Bungle Blue Gem",
     "region": "Jungle Bungle",
     "category": ["!! Gems", "Jungle Bungle"],
-    "requires": "",
+    "requires": "|Belly-Flop|",
     "hint_entrance": "Belly-Flop Tutorial"
   },
   {
-    "name": "Jungle Bungle World Crate Tutorial",
+    "name": "Jungle Bungle Deathless Relic",
     "region": "Jungle Bungle",
-    "category": ["!! World Crates", "Jungle Bungle"],
-    "requires": "",
-    "hint_entrance": "Spin Tutorial"
+    "category": ["!! Relics", "Jungle Bungle"],
+    "requires": "|Belly-Flop|",
+    "hint_entrance": "Spin Tutorial -> Boss Entrance"
   },
   {
-    "name": "Jungle Bungle World Crate Cortex",
-    "region": "Jungle Bungle",
-    "category": ["!! World Crates", "Jungle Bungle"],
-    "requires": "",
-    "hint_entrance": "Cortex/Mecha-Bandicoot Boss"
-  },
-  {
-    "name": "Cortex & Mecha-Bandicoot Defeat",
+    "name": "Cortex & Mecha Bandicoot Defeated",
     "region": "Jungle Bungle",
     "category": ["!! Bosses", "Jungle Bungle"],
-    "requires": "",
-    "hint_entrance": "Jungle Bungle"
+    "requires": "|Belly-Flop|",
+    "hint_entrance": "Jungle Bungle End"
   },
   {
-    "name": "Cavern Catastrophe Power Crystal",
-    "region": "Cavern Catastrophe",
-    "category": ["!! Power Crystals", "Cavern Catastrophe"],
-    "requires": "",
-    "hint_entrance": "Ant Drones"
+    "name": "Cortex & Mecha Bandicoot Damageless Relic",
+    "region": "Jungle Bungle",
+    "category": ["!! Bosses", "!! Relics", "Jungle Bungle"],
+    "requires": "|Belly-Flop|",
+    "hint_entrance": "Jungle Bungle End"
   },
   {
     "name": "Cavern Catastrophe Yellow Gem",
@@ -109,209 +102,405 @@
     "region": "Cavern Catastrophe",
     "category": ["!! Gems", "Cavern Catastrophe"],
     "requires": "",
-    "hint_entrance": "Metal Spring Crates"
+    "hint_entrance": "Spring Crates Side Path"
   },
   {
     "name": "Cavern Catastrophe Purple Gem",
     "region": "Cavern Catastrophe",
     "category": ["!! Gems", "Cavern Catastrophe"],
     "requires": "",
-    "hint_entrance": "Waterwheels"
+    "hint_entrance": "Water Wheels Left Side"
+  },
+  {
+    "name": "Cavern Catastrophe Power Crystal",
+    "region": "Cavern Catastrophe",
+    "category": ["!! Power Crystals", "Cavern Catastrophe"],
+    "requires": "",
+    "hint_entrance": "Ant Drone's Drill"
   },
   {
     "name": "Cavern Catastrophe Blue Gem",
     "region": "Cavern Catastrophe",
     "category": ["!! Gems", "Cavern Catastrophe"],
-    "requires": "",
+    "requires": "|Throw|",
     "hint_entrance": "Rat Platform"
   },
   {
     "name": "Cavern Catastrophe Red Gem",
     "region": "Cavern Catastrophe",
     "category": ["!! Gems", "Cavern Catastrophe"],
-    "requires": "",
+    "requires": "|Throw|",
     "hint_entrance": "Drill Chase"
   },
   {
-    "name": "Cavern Catastrophe World Crate",
+    "name": "Cavern Catastrophe Deathless Relic",
     "region": "Cavern Catastrophe",
-    "category": ["!! World Crates", "Cavern Catastrophe"],
-    "requires": "",
-    "hint_entrance": "Start of Level"
+    "category": ["!! Relics", "Cavern Catastrophe"],
+    "requires": "|Throw|",
+    "hint_entrance": "1st Tunnel -> Drill Chase End"
   },
   {
     "name": "N. Sanity Island Green Gem",
     "region": "N. Sanity Island 2",
     "category": ["!! Gems", "N. Sanity Island"],
     "requires": "",
-    "hint_entrance": "Haybale Nitro Crates"
+    "hint_entrance": "Hay Bale TNT"
   },
   {
     "name": "N. Sanity Island Purple Gem",
     "region": "N. Sanity Island 2",
     "category": ["!! Gems", "N. Sanity Island"],
-    "requires": "",
-    "hint_entrance": "Haybale Nitro Crates"
-  },
-  {
-    "name": "N. Sanity Island World Crate Beach",
-    "region": "N. Sanity Island 2",
-    "category": ["!! World Crates", "N. Sanity Island"],
-    "requires": "",
-    "hint_entrance": "Cavern Catastrophe Exit"
-  },
-  {
-    "name": "Totem Hokum Power Crystal",
-    "region": "Totem Hokum",
-    "category": ["!! Power Crystals", "Totem Hokum"],
-    "requires": "",
-    "hint_entrance": "Worm Chase"
+    "requires": "|Double Jump|",
+    "hint_entrance": "Chicken TNT"
   },
   {
     "name": "Totem Hokum Green Gem",
     "region": "Totem Hokum",
     "category": ["!! Gems", "Totem Hokum"],
     "requires": "",
-    "hint_entrance": "Cortex Escort Mission"
+    "hint_entrance": "Bee Chase"
   },
   {
     "name": "Totem Hokum Purple Gem",
     "region": "Totem Hokum",
     "category": ["!! Gems", "Totem Hokum"],
     "requires": "",
+    "hint_entrance": "Beehive Chase"
+  },
+  {
+    "name": "Totem Hokum Doc Amok Deathless Relic",
+    "region": "Totem Hokum",
+    "category": ["!! Relics", "Totem Hokum"],
+    "requires": "",
     "hint_entrance": "Cortex Escort Mission"
+  },
+  {
+    "name": "Totem Hokum River Boat Deathless Relic",
+    "region": "Totem Hokum",
+    "category": ["!! Relics", "Totem Hokum"],
+    "requires": "|Crouch|",
+    "hint_entrance": "Sneak 100"
   },
   {
     "name": "Totem Hokum Red Gem",
     "region": "Totem Hokum",
     "category": ["!! Gems", "Totem Hokum"],
-    "requires": "",
+    "requires": "|Crouch|",
     "hint_entrance": "Rock Skipping"
-  },
-  {
-    "name": "Totem Hokum Blue Gem",
-    "region": "Totem Hokum",
-    "category": ["!! Gems", "Totem Hokum"],
-    "requires": "",
-    "hint_entrance": "Tribe Upper Fence"
   },
   {
     "name": "Totem Hokum Yellow Gem",
     "region": "Totem Hokum",
     "category": ["!! Gems", "Totem Hokum"],
-    "requires": "",
-    "hint_entrance": "Above Tribe Huts"
+    "requires": "|Crouch|",
+    "hint_entrance": "Native Village Top of Buildings"
+  },
+  {
+    "name": "Totem Hokum Blue Gem",
+    "region": "Totem Hokum",
+    "category": ["!! Gems", "Totem Hokum"],
+    "requires": "|Crouch|",
+    "hint_entrance": "Native Village Near Fence"
+  },
+  {
+    "name": "Totem Hokum Power Crystal",
+    "region": "Totem Hokum",
+    "category": ["!! Power Crystals", "Totem Hokum"],
+    "requires": "|Crouch|",
+    "hint_entrance": "Native Village Save Cortex"
   },
   {
     "name": "Totem Hokum Clear Gem",
     "region": "Totem Hokum",
     "category": ["!! Gems", "Totem Hokum"],
-    "requires": "",
+    "requires": "|Crouch|",
     "hint_entrance": "Tribe Chase"
   },
   {
-    "name": "Totem Hokum World Crate Bee",
+    "name": "Totem Hokum Worm Chase Deathless Relic",
     "region": "Totem Hokum",
-    "category": ["!! World Crates", "Totem Hokum"],
+    "category": ["!! Relics", "Totem Hokum"],
     "requires": "",
-    "hint_entrance": "Level Entrance"
-  },
-  {
-    "name": "Totem Hokum World Crate Stealth",
-    "region": "Totem Hokum",
-    "category": ["!! World Crates", "Totem Hokum"],
-    "requires": "",
-    "hint_entrance": "Tribe Stealth"
-  },
-  {
-    "name": "Totem Hokum World Crate Tribe",
-    "region": "Totem Hokum",
-    "category": ["!! Gems", "Totem Hokum"],
-    "requires": "",
-    "hint_entrance": "Tribe Base"
+    "hint_entrance": "Native Village -> Tribe Chase End"
   },
   {
     "name": "N. Sanity Island Power Crystal",
     "region": "N. Sanity Island 3",
     "category": ["!! Power Crystals", "N. Sanity Island"],
     "requires": "",
-    "hint_entrance": "Farmer's Quest Reward"
+    "hint_entrance": "Farmer Ernist's 'Reward'"
+  },
+  {
+    "name": "Tikimon Defeated",
+    "region": "N. Sanity Island 3",
+    "category": ["!! Bosses", "N. Sanity Island"],
+    "requires": "|Cortex Slam|",
+    "hint_entrance": "Top of N. Sanity Island"
+  },
+  {
+    "name": "Tikimon Damageless Relic",
+    "region": "N. Sanity Island 3",
+    "category": ["!! Bosses", "!! Relics", "N. Sanity Island"],
+    "requires": "",
+    "hint_entrance": "Top of N. Sanity Island"
   },
   {
     "name": "N. Sanity Island Yellow Gem",
     "region": "N. Sanity Island 3",
     "category": ["!! Gems", "N. Sanity Island"],
     "requires": "",
-    "hint_entrance": "Post Totem God Boss"
-  },
-  {
-    "name": "N. Sanity Island World Crate Barn",
-    "region": "N. Sanity Island 3",
-    "category": ["!! World Crates", "N. Sanity Island"],
-    "requires": "",
-    "hint_entrance": "Totem Hokum Exit"
-  },
-  {
-    "name": "Totem God Defeat",
-    "region": "N. Sanity Island 3",
-    "category": ["!! Bosses", "N. Sanity Island"],
-    "requires": "",
-    "hint_entrance": "N. Sanity Island"
+    "hint_entrance": "Post Tikimon Fight"
   },
   {
     "name": "Iceberg Lab Blue Gem",
-    "region": "Iceberg Lab 1",
+    "region": "Iceberg Lab",
     "category": ["!! Gems", "Iceberg Lab"],
     "requires": "",
-    "hint_entrance": "Nitro Crate Barrier"
+    "hint_entrance": "Nitro Wall Spring Crate"
   },
   {
     "name": "Iceberg Lab Red Gem",
-    "region": "Iceberg Lab 1",
+    "region": "Iceberg Lab",
     "category": ["!! Gems", "Iceberg Lab"],
     "requires": "",
-    "hint_entrance": "Nitro Crate Barrier Side Path"
-  },
-  {
-    "name": "Iceberg Lab Green Gem",
-    "region": "Iceberg Lab 1",
-    "category": ["!! Gems", "Iceberg Lab"],
-    "requires": "",
-    "hint_entrance": "Iron Crate Platforming Near Water"
-  },
-  {
-    "name": "Iceberg Lab Clear Gem",
-    "region": "Iceberg Lab 1",
-    "category": ["!! Gems", "Iceberg Lab"],
-    "requires": "",
-    "hint_entrance": "Hidden Iron Crate Switch"
+    "hint_entrance": "Spring Crates Over Water"
   },
   {
     "name": "Iceberg Lab Purple Gem",
-    "region": "Iceberg Lab 1",
+    "region": "Iceberg Lab",
     "category": ["!! Gems", "Iceberg Lab"],
     "requires": "",
-    "hint_entrance": "Near Backtrack Path to N. Gin's Battleship"
+    "hint_entrance": "Crate Bouncing Over Water"
+  },
+  {
+    "name": "Iceberg Lab Green Gem",
+    "region": "Iceberg Lab",
+    "category": ["!! Gems", "Iceberg Lab"],
+    "requires": "",
+    "hint_entrance": "Metal Crates Near Water"
+  },
+  {
+    "name": "Iceberg Lab Clear Gem",
+    "region": "Iceberg Lab",
+    "category": ["!! Gems", "Iceberg Lab"],
+    "requires": "",
+    "hint_entrance": "Transparent Crates Near Water"
   },
   {
     "name": "Iceberg Lab Yellow Gem",
-    "region": "Iceberg Lab 1",
+    "region": "Iceberg Lab",
     "category": ["!! Gems", "Iceberg Lab"],
     "requires": "",
-    "hint_entrance": "Cortex's Lab Bottom Side Path"
+    "hint_entrance": "Crate Bouncing Tight Jumps"
   },
   {
-    "name": "Iceberg Lab World Crate",
-    "region": "Iceberg Lab 1",
-    "category": ["!! World Crates", "Iceberg Lab"],
-    "requires": "",
-    "hint_entrance": "HUB Entrance"
-  },
-  {
-    "name": "Ice Climb World Crate",
+    "name": "Ice Climb Blue Gem",
     "region": "Ice Climb",
-    "category": ["!! World Crates", "Ice Climb"],
+    "category": ["!! Gems", "Ice Climb"],
     "requires": "",
-    "hint_entrance": "Level Entrance"
+    "hint_entrance": "Lone Ice Platform"
   },
+  {
+    "name": "Ice Climb Green Gem",
+    "region": "Ice Climb",
+    "category": ["!! Gems", "Ice Climb"],
+    "requires": "|Double Jump|",
+    "hint_entrance": "Aku Aku Spring Crate"
+  },
+  {
+    "name": "Ice Climb Purple Gem",
+    "region": "Ice Climb",
+    "category": ["!! Gems", "Ice Climb"],
+    "requires": "",
+    "hint_entrance": "Floating Platforms Midway"
+  },
+  {
+    "name": "Ice Climb Power Crystal",
+    "region": "Ice Climb",
+    "category": ["!! Power Crystals", "Ice Climb"],
+    "requires": "",
+    "hint_entrance": "Penguin Meetup"
+  },
+  {
+    "name": "Ice Climb Red Gem",
+    "region": "Ice Climb",
+    "category": ["!! Gems", "Ice Climb"],
+    "requires": "|Cortex| AND |Throw| AND |Crouch| AND (|Crawl| OR |Slide|)",
+    "hint_entrance": "Gears Cortex Throw"
+  },
+  {
+    "name": "Ice Climb Yellow Gem",
+    "region": "Ice Climb",
+    "category": ["!! Gems", "Ice Climb"],
+    "requires": "|Cortex| AND |Throw| AND |Crouch| AND (|Crawl| OR |Slide|)",
+    "hint_entrance": "Lone Floating Platform"
+  },
+  {
+    "name": "Ice Climb Clear Gem",
+    "region": "Ice Climb",
+    "category": ["!! Gems", "Ice Climb"],
+    "requires": "|Cortex| AND |Throw| AND |Crouch| AND (|Crawl| OR |Slide|)",
+    "hint_entrance": "Transparent Crates Lone Platform"
+  },
+  {
+    "name": "Ice Climb Deathless Relic",
+    "region": "Ice Climb",
+    "category": ["!! Relics", "Ice Climb"],
+    "requires": "|Cortex| AND |Throw| AND |Crouch| AND (|Crawl| OR |Slide|)",
+    "hint_entrance": "Bottom of Ice Climb -> Uka Uka Checkpoint Crate"
+  },
+  {
+    "name": "Uka Uka Defeated",
+    "region": "Ice Climb",
+    "category": ["!! Bosses", "Ice Climb"],
+    "requires": "|Cortex| AND |Throw| AND |Crouch| AND (|Crawl| OR |Slide|)",
+    "hint_entrance": "Ice Climb End"
+  },
+  {
+    "name": "Uka Uka Damageless Relic",
+    "region": "Ice Climb",
+    "category": ["!! Bosses", "!! Relics", "Ice Climb"],
+    "requires": "|Cortex| AND |Throw| AND |Crouch| AND (|Crawl| OR |Slide|)",
+    "hint_entrance": "Ice Climb End"
+  },
+  {
+    "name": "Slip Slide Icecapades Purple Gem",
+    "region": "Slip Slide Icecapades",
+    "category": ["!! Gems", "Slip Slide Icecapades"],
+    "requires": "",
+    "hint_entrance": "Left Slope Jump Hoop"
+  },
+  {
+    "name": "Slip Slide Icecapades Power Crystal",
+    "region": "Slip Slide Icecapades",
+    "category": ["!! Power Crystals", "Slip Slide Icecapades"],
+    "requires": "",
+    "hint_entrance": "Penguin Chase Rail Grind"
+  },
+  {
+    "name": "Slip Slide Icecapades Blue Gem",
+    "region": "Slip Slide Icecapades",
+    "category": ["!! Gems", "Slip Slide Icecapades"],
+    "requires": "",
+    "hint_entrance": "Tunnel Path"
+  },
+  {
+    "name": "Slip Slide Icecapades Green Gem",
+    "region": "Slip Slide Icecapades",
+    "category": ["!! Gems", "Slip Slide Icecapades"],
+    "requires": "",
+    "hint_entrance": "Left Slope Jump Hoop Post Cutscene"
+  },
+  {
+    "name": "Slip Slide Icecapades Clear Gem",
+    "region": "Slip Slide Icecapades",
+    "category": ["!! Gems", "Slip Slide Icecapades"],
+    "requires": "",
+    "hint_entrance": "Gear Slope Jump"
+  },
+  {
+    "name": "Slip Slide Icecapades Yellow Gem",
+    "region": "Slip Slide Icecapades",
+    "category": ["!! Gems", "Slip Slide Icecapades"],
+    "requires": "",
+    "hint_entrance": "Right Slope Rail Grind"
+  },
+  {
+    "name": "Slip Slide Icecapades Red Gem",
+    "region": "Slip Slide Icecapades",
+    "category": ["!! Gems", "Slip Slide Icecapades"],
+    "requires": "",
+    "hint_entrance": "Snowball Ramp Jump"
+  },
+  {
+    "name": "Slip Slide Icecapades Speedrun Relic",
+    "region": "Slip Slide Icecapades",
+    "category": ["!! Relics", "Slip Slide Icecapades"],
+    "requires": "",
+    "hint_entrance": "Finish in 3 minutes 10 seconds"
+  },
+  {
+    "name": "High Seas Hi-Jinks Blue Gem",
+    "region": "High Seas Hi-Jinks",
+    "category": ["!! Gems", "High Seas Hi-Jinks"],
+    "requires": "",
+    "hint_entrance": "Swinging Rhinos Room"
+  },
+  {
+    "name": "High Seas Hi-Jinks Green Gem",
+    "region": "High Seas Hi-Jinks",
+    "category": ["!! Gems", "High Seas Hi-Jinks"],
+    "requires": "",
+    "hint_entrance": "1st Large Missile Room"
+  },
+  {
+    "name": "High Seas Hi-Jinks Clear Gem",
+    "region": "High Seas Hi-Jinks",
+    "category": ["!! Gems", "High Seas Hi-Jinks"],
+    "requires": "",
+    "hint_entrance": "Revolving Spin Platforms"
+  },
+  {
+    "name": "High Seas Hi-Jinks Yellow Gem",
+    "region": "High Seas Hi-Jinks",
+    "category": ["!! Gems", "High Seas Hi-Jinks"],
+    "requires": "|Double Jump|",
+    "hint_entrance": "Water Room Detonation Crates"
+  },
+  {
+    "name": "High Seas Hi-Jinks Red Gem",
+    "region": "High Seas Hi-Jinks",
+    "category": ["!! Gems", "High Seas Hi-Jinks"],
+    "requires": "|Double Jump|",
+    "hint_entrance": "2nd Large Missile Room"
+  },
+  {
+    "name": "High Seas Hi-Jinks Power Crystal",
+    "region": "High Seas Hi-Jinks",
+    "category": ["!! Power Crystals", "High Seas Hi-Jinks"],
+    "requires": "",
+    "hint_entrance": "Pre N. Gin Fight"
+  },
+  {
+    "name": "High Seas Hi-Jinks Deathless Relic",
+    "region": "High Seas Hi-Jinks",
+    "category": ["!! Relics", "High Seas Hi-Jinks"],
+    "requires": "",
+    "hint_entrance": "Slip Slide Icecapades End -> Pre N. Gin Fight"
+  },
+  {
+    "name": "N. Gin Defeated",
+    "region": "High Seas Hi-Jinks",
+    "category": ["!! Bosses", "High Seas Hi-Jinks"],
+    "requires": "",
+    "hint_entrance": "Post Power Crystal Collect"
+  },
+  {
+    "name": "High Seas Hi-Jinks Purple Gem",
+    "region": "High Seas Hi-Jinks",
+    "category": ["!! Gems", "High Seas Hi-Jinks"],
+    "requires": "",
+    "hint_entrance": "Rusty Walrus Chase"
+  },
+  {
+    "name": "High Seas Hi-Jinks Rusty Walrus Deathless Relic",
+    "region": "High Seas Hi-Jinks",
+    "category": ["!! Relics", "High Seas Hi-Jinks"],
+    "requires": "",
+    "hint_entrance": "Rusty Walrus Chase"
+  },
+  {
+    "name": "N. Brio & N. Trophy Defeated",
+    "region": "High Seas Hi-Jinks",
+    "category": ["!! Bosses", "High Seas Hi-Jinks"],
+    "requires": "|Double Jump|",
+    "hint_entrance": "Rusty Walrus Chase End"
+  },
+  {
+    "name": "N. Brio & N. Trophy Damageless Relic",
+    "region": "High Seas Hi-Jinks",
+    "category": ["!! Bosses", "!! Relics", "High Seas Hi-Jinks"],
+    "requires": "|Double Jump|",
+    "hint_entrance": "Rusty Walrus Chase End"
+  }
 ]

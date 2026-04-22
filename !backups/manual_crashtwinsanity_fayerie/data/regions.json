@@ -1,3 +1,52 @@
 {
-  
+  "N. Sanity Island":{
+    "starting": true,
+    "connects_to": ["Jungle Bungle"],
+    "requires": "|Progressive N. Sanity Island:1| OR |N. Sanity Island|"
+  },
+  "Jungle Bungle":{
+    "connects_to": ["Cavern Catastrophe"],
+    "requires": "|Progressive N. Sanity Island:2| OR |N. Sanity Island|"
+  },
+  "Cavern Catastrophe":{
+    "connects_to": ["N. Sanity Island 2"],
+    "requires": "(|Progressive N. Sanity Island:3| OR |N. Sanity Island|) AND |Cortex|"
+  },
+  "N. Sanity Island 2":{
+    "connects_to": ["Totem Hokum"],
+    "requires": "|Throw|"
+  },
+  "Totem Hokum":{
+    "connects_to": ["N. Sanity Island 3"],
+    "requires": "(|Progressive N. Sanity Island:4| OR |N. Sanity Island|) AND |Double Jump|"
+  },
+  "N. Sanity Island 3":{
+    "connects_to": [],
+    "requires": "|Crouch|"
+  },
+  "Iceberg Lab":{
+    "starting": true,
+    "connects_to": ["Ice Climb"],
+    "requires": "|Progressive Iceberg Lab:1| OR |Iceberg Lab|"
+  },
+  "Ice Climb":{
+    "connects_to": ["Iceberg Lab 2"],
+    "requires": "|Progressive Iceberg Lab:2| OR |Iceberg Lab|"
+  },
+  "Iceberg Lab 2":{
+    "connects_to": ["Slip Slide Icecapades"],
+    "requires": "|Cortex| AND |Throw| AND |Crouch| AND (|Crawl| OR |Slide|)"
+  },
+  "Slip Slide Icecapades":{
+    "connects_to": ["High Seas Hi-Jinks"],
+    "requires": "|Progressive Iceberg Lab:3| OR |Iceberg Lab|"
+  },
+  "High Seas Hi-Jinks":{
+    "connects_to": ["Iceberg Lab 3"],
+    "requires": "|Progressive Iceberg Lab:4| OR |Iceberg Lab|"
+  },
+  "Iceberg Lab 3":{
+    "connects_to": [],
+    "requires": "|Double Jump|"
+  }
 }
