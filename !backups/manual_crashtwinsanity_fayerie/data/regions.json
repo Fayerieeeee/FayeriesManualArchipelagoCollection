@@ -63,7 +63,31 @@
     "requires": "(|Progressive Academy of Evil:3| OR |Academy of Evil|) AND |Belly-Flop| AND (|Crouch| OR |Crawl| OR |Slide|)"
   },
   "Classroom Chaos (Cortex)":{
-    "connects_to": ["Classroom Chaos (Cortex)"],
+    "connects_to": ["Rooftop Rampage"],
     "requires": "|Double Jump|"
+  },
+  "Rooftop Rampage":{
+    "connects_to": ["Academy of Evil"],
+    "requires": "(|Progressive Academy of Evil:4| OR |Academy of Evil|) AND |Nina| AND |Punch| AND |Grapple|"
+  },
+  "Academy of Evil 2":{
+    "connects_to": [""],
+    "requires": ""
+  },
+  "Twinsanity Island":{
+    "connects_to": ["Rock-Slide Rumble"],
+    "requires": "(|Progressive Iceberg Lab:4| OR |Iceberg Lab|) AND |Power Crystal:6| AND |Cortex| AND |Nina|"
+  },
+  "Rock-Slide Rumble":{
+    "connects_to": ["Twinsanity Island 2"],
+    "requires": ""
+  },
+  "Twinsanity Island 2":{
+    "connects_to": ["Bandicoot Pursuit"],
+    "requires": ""
+  },
+  "Bandicoot Pursuit":{
+    "connects_to": ["Bandicoot Pursuit"],
+    "requires": ""
   }
 }

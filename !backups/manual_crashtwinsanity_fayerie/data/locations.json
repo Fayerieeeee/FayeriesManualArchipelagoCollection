@@ -610,37 +610,247 @@
   },
   {
     "name": "Classroom Chaos Blue Gem",
-    "region": "Classroom Chaos",
+    "region": "Classroom Chaos (Crash)",
     "category": ["!! Gems", "Classroom Chaos"],
     "requires": "",
     "hint_entrance": "Falling Platforms Classroom"
   },
   {
     "name": "Classroom Chaos Clear Gem",
-    "region": "Classroom Chaos",
+    "region": "Classroom Chaos (Crash)",
     "category": ["!! Gems", "Classroom Chaos"],
     "requires": "",
     "hint_entrance": "1st Yard Area Transparent Crates"
   },
   {
     "name": "Classroom Chaos Green Gem",
-    "region": "Classroom Chaos",
+    "region": "Classroom Chaos (Crash)",
     "category": ["!! Gems", "Classroom Chaos"],
     "requires": "|Double Jump|",
     "hint_entrance": "Rising Acid Classroom"
   },
   {
-    "name": "Classroom Chaos Power Crystal",
-    "region": "Classroom Chaos",
+    "name": "Classroom Chaos Power Crystal (Crash)",
+    "region": "Classroom Chaos (Crash)",
     "category": ["!! Power Crystals", "Classroom Chaos"],
     "requires": "|Double Jump|",
     "hint_entrance": "Nitro Crate Falling Platforms Classroom"
   },
   {
     "name": "Classroom Chaos Deathless Relic (Crash)",
-    "region": "Classroom Chaos",
+    "region": "Classroom Chaos (Crash)",
     "category": ["!! Relics", "Classroom Chaos"],
     "requires": "|Double Jump|",
     "hint_entrance": "Classroom Chaos End (Crash)"
+  },
+  {
+    "name": "Classroom Chaos Purple Gem",
+    "region": "Classroom Chaos (Cortex)",
+    "category": ["!! Gems", "Classroom Chaos"],
+    "requires": "",
+    "hint_entrance": "Locker Door Acid"
+  },
+  {
+    "name": "Classroom Chaos Red Gem",
+    "region": "Classroom Chaos (Cortex)",
+    "category": ["!! Gems", "Classroom Chaos"],
+    "requires": "",
+    "hint_entrance": "Explosive Crate Wall"
+  },
+  {
+    "name": "Classroom Chaos Yellow Gem",
+    "region": "Classroom Chaos (Cortex)",
+    "category": ["!! Gems", "Classroom Chaos"],
+    "requires": "",
+    "hint_entrance": "Near Classroom Chaos (Cortex) End"
+  },
+  {
+    "name": "Classroom Chaos Power Crystal (Cortex)",
+    "region": "Classroom Chaos (Cortex)",
+    "category": ["!! Power Crystals", "Classroom Chaos"],
+    "requires": "",
+    "hint_entrance": "Near Classroom Chaos (Cortex) End"
+  },
+  {
+    "name": "Classroom Chaos Deathless Relic (Cortex)",
+    "region": "Classroom Chaos (Cortex)",
+    "category": ["!! Relics", "Classroom Chaos"],
+    "requires": "",
+    "hint_entrance": "Classroom Chaos (Cortex) End"
+  },
+  {
+    "name": "Rooftop Rampage Blue Gem",
+    "region": "Rooftop Rampage",
+    "category": ["!! Gems", "Rooftop Rampage"],
+    "requires": "",
+    "hint_entrance": "Near Chimney Platforms"
+  },
+  {
+    "name": "Rooftop Rampage Clear Gem",
+    "region": "Rooftop Rampage",
+    "category": ["!! Gems", "Rooftop Rampage"],
+    "requires": "",
+    "hint_entrance": "Walljump Grapple Hooks"
+  },
+  {
+    "name": "Rooftop Rampage Green Gem",
+    "region": "Rooftop Rampage",
+    "category": ["!! Gems", "Rooftop Rampage"],
+    "requires": "",
+    "hint_entrance": "Gargoyles Spring Crate"
+  },
+  {
+    "name": "Rooftop Rampage Purple Gem",
+    "region": "Rooftop Rampage",
+    "category": ["!! Gems", "Rooftop Rampage"],
+    "requires": "",
+    "hint_entrance": "Chimney Platforms"
+  },
+  {
+    "name": "Rooftop Rampage Red Gem",
+    "region": "Rooftop Rampage",
+    "category": ["!! Gems", "Rooftop Rampage"],
+    "requires": "",
+    "hint_entrance": "Bus Chase End"
+  },
+  {
+    "name": "Rooftop Rampage Yellow Gem",
+    "region": "Rooftop Rampage",
+    "category": ["!! Gems", "Rooftop Rampage"],
+    "requires": "",
+    "hint_entrance": "Near Rooftop Rampage End"
+  },
+  {
+    "name": "Rooftop Rampage Power Crystal",
+    "region": "Rooftop Rampage",
+    "category": ["!! Power Crystals", "Rooftop Rampage"],
+    "requires": "",
+    "hint_entrance": "Rooftop Rampage End"
+  },
+  {
+    "name": "Rooftop Rampage Deathless Relic",
+    "region": "Rooftop Rampage",
+    "category": ["!! Relics", "Rooftop Rampage"],
+    "requires": "",
+    "hint_entrance": "Rooftop Rampage End"
+  },
+  {
+    "name": "M. Amberley Defeated",
+    "region": "Academy of Evil 2",
+    "category": ["!! Bosses", "Academy of Evil"],
+    "requires": "",
+    "hint_entrance": "Rooftop Rampage End"
+  },
+  {
+    "name": "M. Amberley Damageless Relic",
+    "region": "Academy of Evil 2",
+    "category": ["!! Bosses", "!! Relics", "Academy of Evil"],
+    "requires": "",
+    "hint_entrance": "Rooftop Rampage End"
+  },
+  {
+    "name": "Academy of Evil Yellow Gem",
+    "region": "Academy of Evil 2",
+    "category": ["!! Gems", "Academy of Evil"],
+    "requires": "|Slide|",
+    "hint_entrance": "Rooftop Rampage End"
+  },
+  {
+    "name": "Rock-Slide Rumble Green Gem",
+    "region": "Rock-Slide Rumble",
+    "category": ["!! Gems", "Rock-Slide Rumble"],
+    "requires": "",
+    "hint_entrance": "Inside Ant Drone Drill"
+  },
+  {
+    "name": "Rock-Slide Rumble Blue Gem",
+    "region": "Rock-Slide Rumble",
+    "category": ["!! Gems", "Rock-Slide Rumble"],
+    "requires": "",
+    "hint_entrance": "Tight Slope Near Pit"
+  },
+  {
+    "name": "Rock-Slide Rumble Yellow Gem",
+    "region": "Rock-Slide Rumble",
+    "category": ["!! Gems", "Rock-Slide Rumble"],
+    "requires": "",
+    "hint_entrance": "Nitro Crate Hurdle Tunnel"
+  },
+  {
+    "name": "Rock-Slide Rumble Red Gem",
+    "region": "Rock-Slide Rumble",
+    "category": ["!! Gems", "Rock-Slide Rumble"],
+    "requires": "",
+    "hint_entrance": "1st TNT Crate Tunnel"
+  },
+  {
+    "name": "Rock-Slide Rumble Purple Gem",
+    "region": "Rock-Slide Rumble",
+    "category": ["!! Gems", "Rock-Slide Rumble"],
+    "requires": "",
+    "hint_entrance": "Near Pit 'Rail' Grind"
+  },
+  {
+    "name": "Rock-Slide Rumble Clear Gem",
+    "region": "Rock-Slide Rumble",
+    "category": ["!! Gems", "Rock-Slide Rumble"],
+    "requires": "",
+    "hint_entrance": "2nd TNT Crate Tunnel"
+  },
+  {
+    "name": "Rock-Slide Rumble Power Crystal",
+    "region": "Rock-Slide Rumble",
+    "category": ["!! Crystals", "Rock-Slide Rumble"],
+    "requires": "",
+    "hint_entrance": "Rock-Slide Rumble End"
+  },
+  {
+    "name": "Rock-Slide Rumble Speedrun Relic",
+    "region": "Rock-Slide Rumble",
+    "category": ["!! Relics", "Rock-Slide Rumble"],
+    "requires": "",
+    "hint_entrance": "Finish in 1 minute 45 seconds"
+  },
+  {
+    "name": "Twinsanity Island Clear Gem",
+    "region": "Twinsanity Island",
+    "category": ["!! Gems", "Twinsanity Island"],
+    "requires": "",
+    "hint_entrance": "Ball Rolling Course"
+  },
+  {
+    "name": "Twinsanity Island Red Gem",
+    "region": "Twinsanity Island",
+    "category": ["!! Gems", "Twinsanity Island"],
+    "requires": "",
+    "hint_entrance": "Slide Ball Puzzle"
+  },
+  {
+    "name": "Twinsanity Island Green Gem",
+    "region": "Twinsanity Island",
+    "category": ["!! Gems", "Twinsanity Island"],
+    "requires": "",
+    "hint_entrance": "Spin Ball Puzzle"
+  },
+  {
+    "name": "Twinsanity Island Yellow Gem",
+    "region": "Twinsanity Island",
+    "category": ["!! Gems", "Twinsanity Island"],
+    "requires": "",
+    "hint_entrance": "Cannon Ball Exclamation Crates"
+  },
+  {
+    "name": "Twinsanity Island Purple Gem",
+    "region": "Twinsanity Island",
+    "category": ["!! Gems", "Twinsanity Island"],
+    "requires": "",
+    "hint_entrance": "Near Backtrack Path Top"
+  },
+  {
+    "name": "Twinsanity Island Blue Gem",
+    "region": "Twinsanity Island",
+    "category": ["!! Gems", "Twinsanity Island"],
+    "requires": "",
+    "hint_entrance": "Ball Rolling Course Top"
   }
 ]
