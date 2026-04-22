@@ -502,5 +502,145 @@
     "category": ["!! Bosses", "!! Relics", "High Seas Hi-Jinks"],
     "requires": "|Double Jump|",
     "hint_entrance": "Rusty Walrus Chase End"
+  },
+  {
+    "name": "Academy of Evil Clear Gem",
+    "region": "Academy of Evil",
+    "category": ["!! Gems", "Academy of Evil"],
+    "requires": "",
+    "hint_entrance": "Pile o' Explosive Upstairs"
+  },
+  {
+    "name": "Academy of Evil Green Gem",
+    "region": "Academy of Evil",
+    "category": ["!! Gems", "Academy of Evil"],
+    "requires": "",
+    "hint_entrance": "Explosive Crates Wall"
+  },
+  {
+    "name": "Academy of Evil Purple Gem",
+    "region": "Academy of Evil",
+    "category": ["!! Gems", "Academy of Evil"],
+    "requires": "|Slide|",
+    "hint_entrance": "Transparent Spring Crates"
+  },
+  {
+    "name": "Academy of Evil Blue Gem",
+    "region": "Academy of Evil",
+    "category": ["!! Gems", "Academy of Evil"],
+    "requires": "|Double Jump|",
+    "hint_entrance": "Spring Crate Above Car"
+  },
+  {
+    "name": "Academy of Evil Red Gem",
+    "region": "Academy of Evil",
+    "category": ["!! Gems", "Academy of Evil"],
+    "requires": "|Slide| AND |Double Jump|",
+    "hint_entrance": "Classroom Chaos Entrance"
+  },
+  {
+    "name": "Boiler Room Doom Clear Gem",
+    "region": "Boiler Room Doom",
+    "category": ["!! Gems", "Boiler Room Doom"],
+    "requires": "",
+    "hint_entrance": "1st Cortex Pipe Room"
+  },
+  {
+    "name": "Boiler Room Doom Green Gem",
+    "region": "Boiler Room Doom",
+    "category": ["!! Gems", "Boiler Room Doom"],
+    "requires": "",
+    "hint_entrance": "Blue Valves Introduction"
+  },
+  {
+    "name": "Boiler Room Doom Blue Gem",
+    "region": "Boiler Room Doom",
+    "category": ["!! Gems", "Boiler Room Doom"],
+    "requires": "",
+    "hint_entrance": "1st Spinning Platforms Room"
+  },
+  {
+    "name": "Boiler Room Doom Red Gem",
+    "region": "Boiler Room Doom",
+    "category": ["!! Gems", "Boiler Room Doom"],
+    "requires": "",
+    "hint_entrance": "Lone Platform Above Acid"
+  },
+  {
+    "name": "Boiler Room Doom Purple Gem",
+    "region": "Boiler Room Doom",
+    "category": ["!! Gems", "Boiler Room Doom"],
+    "requires": "",
+    "hint_entrance": "1st Blue Valves Puzzle Room"
+  },
+  {
+    "name": "Boiler Room Doom Yellow Gem",
+    "region": "Boiler Room Doom",
+    "category": ["!! Gems", "Boiler Room Doom"],
+    "requires": "",
+    "hint_entrance": "2nd Blue Valves Puzzle Room"
+  },
+  {
+    "name": "Boiler Room Doom Power Crystal",
+    "region": "Boiler Room Doom",
+    "category": ["!! Power Crystals", "Boiler Room Doom"],
+    "requires": "",
+    "hint_entrance": "Pre Dingodile Fight"
+  },
+  {
+    "name": "Boiler Room Doom Deathless Relic",
+    "region": "Boiler Room Doom",
+    "category": ["!! Relics", "Boiler Room Doom"],
+    "requires": "",
+    "hint_entrance": "Pipe Rolling Introduction -> Dingodile Fight"
+  },
+  {
+    "name": "Dingodile Defeated",
+    "region": "Boiler Room Doom",
+    "category": ["!! Bosses", "Boiler Room Doom"],
+    "requires": "|Belly-Flop| AND (|Crouch| OR |Crawl| OR |Slide|)",
+    "hint_entrance": "Boilder Room Doom End"
+  },
+  {
+    "name": "Dingodile Damageless Relic",
+    "region": "Boiler Room Doom",
+    "category": ["!! Bosses", "!! Relics", "Boiler Room Doom"],
+    "requires": "|Belly-Flop| AND (|Crouch| OR |Crawl| OR |Slide|)",
+    "hint_entrance": "Boilder Room Doom End"
+  },
+  {
+    "name": "Classroom Chaos Blue Gem",
+    "region": "Classroom Chaos",
+    "category": ["!! Gems", "Classroom Chaos"],
+    "requires": "",
+    "hint_entrance": "Falling Platforms Classroom"
+  },
+  {
+    "name": "Classroom Chaos Clear Gem",
+    "region": "Classroom Chaos",
+    "category": ["!! Gems", "Classroom Chaos"],
+    "requires": "",
+    "hint_entrance": "1st Yard Area Transparent Crates"
+  },
+  {
+    "name": "Classroom Chaos Green Gem",
+    "region": "Classroom Chaos",
+    "category": ["!! Gems", "Classroom Chaos"],
+    "requires": "|Double Jump|",
+    "hint_entrance": "Rising Acid Classroom"
+  },
+  {
+    "name": "Classroom Chaos Power Crystal",
+    "region": "Classroom Chaos",
+    "category": ["!! Power Crystals", "Classroom Chaos"],
+    "requires": "|Double Jump|",
+    "hint_entrance": "Nitro Crate Falling Platforms Classroom"
+  },
+  {
+    "name": "Classroom Chaos Deathless Relic (Crash)",
+    "region": "Classroom Chaos",
+    "category": ["!! Relics", "Classroom Chaos"],
+    "requires": "|Double Jump|",
+    "hint_entrance": "Classroom Chaos End (Crash)"
   }
 ]

@@ -48,5 +48,22 @@
   "Iceberg Lab 3":{
     "connects_to": [],
     "requires": "|Double Jump|"
+  },
+  "Academy of Evil":{
+    "starting": true,
+    "connects_to": ["Boiler Room Doom"],
+    "requires": "|Progressive Academy of Evil:1| OR |Academy of Evil|"
+  },
+  "Boiler Room Doom":{
+    "connects_to": ["Classroom Chaos (Crash)"],
+    "requires": "(|Progressive Academy of Evil:2| OR |Academy of Evil|) AND |Cortex| AND |Throw|"
+  },
+  "Classroom Chaos (Crash)":{
+    "connects_to": ["Classroom Chaos (Cortex)"],
+    "requires": "(|Progressive Academy of Evil:3| OR |Academy of Evil|) AND |Belly-Flop| AND (|Crouch| OR |Crawl| OR |Slide|)"
+  },
+  "Classroom Chaos (Cortex)":{
+    "connects_to": ["Classroom Chaos (Cortex)"],
+    "requires": "|Double Jump|"
   }
 }
