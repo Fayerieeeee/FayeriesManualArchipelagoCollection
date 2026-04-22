@@ -599,14 +599,14 @@
     "region": "Boiler Room Doom",
     "category": ["!! Bosses", "Boiler Room Doom"],
     "requires": "|Belly-Flop| AND (|Crouch| OR |Crawl| OR |Slide|)",
-    "hint_entrance": "Boilder Room Doom End"
+    "hint_entrance": "Boiler Room Doom End"
   },
   {
     "name": "Dingodile Damageless Relic",
     "region": "Boiler Room Doom",
     "category": ["!! Bosses", "!! Relics", "Boiler Room Doom"],
     "requires": "|Belly-Flop| AND (|Crouch| OR |Crawl| OR |Slide|)",
-    "hint_entrance": "Boilder Room Doom End"
+    "hint_entrance": "Boiler Room Doom End"
   },
   {
     "name": "Classroom Chaos Blue Gem",

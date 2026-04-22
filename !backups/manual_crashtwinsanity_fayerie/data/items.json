@@ -1,8 +1,312 @@
 [
   {
+    "count": 4,
+    "name": "Progressive N. Sanity Island",
+    "category": ["Level Access", "Progressive Level"],
+    "progression": true
+  },
+  {
+    "count": 4,
+    "name": "Progressive Iceberg",
+    "category": ["Level Access", "Progressive Level"],
+    "progression": true
+  },
+  {
+    "count": 4,
+    "name": "Progressive Academy of Evil",
+    "category": ["Level Access", "Progressive Level"],
+    "progression": true
+  },
+  {
     "count": 1,
-    "name": "test",
-    "category": [],
+    "name": "N. Sanity Island",
+    "category": ["Level Access", "Single Level"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Iceberg Lab",
+    "category": ["Level Access", "Single Level"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Academy of Evil",
+    "category": ["Level Access", "Single Level"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jungle Bungle",
+    "category": ["Level Access", "Classic Level"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cavern Catastrophe",
+    "category": ["Level Access", "Classic Level"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Totem Hokum",
+    "category": ["Level Access", "Classic Level"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ice Climb",
+    "category": ["Level Access", "Classic Level"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Slip Slide Icecapades",
+    "category": ["Level Access", "Classic Level"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hi Seas Hi-Jinks",
+    "category": ["Level Access", "Classic Level"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Boiler Room Doom",
+    "category": ["Level Access", "Classic Level"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Classroom Chaos",
+    "category": ["Level Access", "Classic Level"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rooftop Rampage",
+    "category": ["Level Access", "Classic Level"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rock-Slide Rumble",
+    "category": ["Level Access", "Classic Level"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bandicoot Pursuit",
+    "category": ["Level Access", "Classic Level"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ant Agony",
+    "category": ["Level Access", "Classic Level"],
+    "progression": true
+  },
+  {
+    "count": 11,
+    "name": "Power Crystal",
+    "category": ["Power Crystals"],
+    "classification_count": {
+      "progression": 6,
+      "filler": 5
+    }
+  },
+  {
+    "count": 16,
+    "name": "Clear Gem",
+    "category": ["Gems"],
+    "filler": true
+  },
+  {
+    "count": 16,
+    "name": "Red Gem",
+    "category": ["Gems"],
+    "filler": true
+  },
+  {
+    "count": 16,
+    "name": "Yellow Gem",
+    "category": ["Gems"],
+    "filler": true
+  },
+  {
+    "count": 16,
+    "name": "Green Gem",
+    "category": ["Gems"],
+    "filler": true
+  },
+  {
+    "count": 16,
+    "name": "Blue Gem",
+    "category": ["Gems"],
+    "filler": true
+  },
+  {
+    "count": 16,
+    "name": "Purple Gem",
+    "category": ["Gems"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Crash",
+    "category": ["Characters"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cortex",
+    "category": ["Characters"],
+    "progression": true,
+    "early": true
+  },
+  {
+    "count": 1,
+    "name": "Nina",
+    "category": ["Characters"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mecha Bandicoot",
+    "category": ["Characters"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jump",
+    "category": ["Moves"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Spin",
+    "category": ["Moves"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crouch",
+    "category": ["Moves"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crawl",
+    "category": ["Moves"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Slide",
+    "category": ["Moves"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Double Jump",
+    "category": ["Moves"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Long Jump",
+    "category": ["Moves"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Belly-Flop",
+    "category": ["Moves"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Throw",
+    "category": ["Moves"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shoot",
+    "category": ["Moves"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Charge Shot",
+    "category": ["Moves"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Radial Blast",
+    "category": ["Moves"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Punch",
+    "category": ["Moves"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Grapple",
+    "category": ["Moves"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Super Belly-Flop",
+    "category": ["Moves", "Fake Moves"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Death Tornado Spin",
+    "category": ["Moves", "Fake Moves"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fruit Bazooka",
+    "category": ["Moves", "Fake Moves"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sprint",
+    "category": ["Moves", "Fake Moves"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Super Slide",
+    "category": ["Moves", "Fake Moves"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Super Jump",
+    "category": ["Moves", "Fake Moves"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Tip Toe",
+    "category": ["Moves", "Fake Moves"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Triple Spin",
+    "category": ["Moves", "Fake Moves"],
     "filler": true
   }
 ]
