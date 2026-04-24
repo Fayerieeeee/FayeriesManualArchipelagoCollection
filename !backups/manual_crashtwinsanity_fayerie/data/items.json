@@ -108,12 +108,12 @@
     "progression": true
   },
   {
-    "count": 11,
+    "count": 12,
     "name": "Power Crystal",
     "category": ["Power Crystals"],
     "classification_count": {
       "progression": 6,
-      "filler": 5
+      "useful": 6
     }
   },
   {

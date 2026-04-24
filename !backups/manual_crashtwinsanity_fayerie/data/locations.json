@@ -813,44 +813,171 @@
   },
   {
     "name": "Twinsanity Island Clear Gem",
-    "region": "Twinsanity Island",
+    "region": "Twinsanity Island 2",
     "category": ["!! Gems", "Twinsanity Island"],
     "requires": "",
     "hint_entrance": "Ball Rolling Course"
   },
   {
     "name": "Twinsanity Island Red Gem",
-    "region": "Twinsanity Island",
+    "region": "Twinsanity Island 2",
     "category": ["!! Gems", "Twinsanity Island"],
     "requires": "",
     "hint_entrance": "Slide Ball Puzzle"
   },
   {
     "name": "Twinsanity Island Green Gem",
-    "region": "Twinsanity Island",
+    "region": "Twinsanity Island 2",
     "category": ["!! Gems", "Twinsanity Island"],
     "requires": "",
     "hint_entrance": "Spin Ball Puzzle"
   },
   {
     "name": "Twinsanity Island Yellow Gem",
-    "region": "Twinsanity Island",
+    "region": "Twinsanity Island 2",
     "category": ["!! Gems", "Twinsanity Island"],
     "requires": "",
     "hint_entrance": "Cannon Ball Exclamation Crates"
   },
   {
     "name": "Twinsanity Island Purple Gem",
-    "region": "Twinsanity Island",
+    "region": "Twinsanity Island 2",
     "category": ["!! Gems", "Twinsanity Island"],
     "requires": "",
     "hint_entrance": "Near Backtrack Path Top"
   },
   {
     "name": "Twinsanity Island Blue Gem",
-    "region": "Twinsanity Island",
+    "region": "Twinsanity Island 2",
     "category": ["!! Gems", "Twinsanity Island"],
     "requires": "",
     "hint_entrance": "Ball Rolling Course Top"
+  },
+  {
+    "name": "Bandicoot Pursuit Green Gem",
+    "region": "Bandicoot Pursuit",
+    "category": ["!! Gems", "Bandicoot Pursuit"],
+    "requires": "",
+    "hint_entrance": "1st Section End"
+  },
+  {
+    "name": "Bandicoot Pursuit Blue Gem",
+    "region": "Bandicoot Pursuit",
+    "category": ["!! Gems", "Bandicoot Pursuit"],
+    "requires": "",
+    "hint_entrance": "2nd Section Alt Path"
+  },
+  {
+    "name": "Bandicoot Pursuit Power Crystal",
+    "region": "Bandicoot Pursuit",
+    "category": ["!! Power Crystals", "Bandicoot Pursuit"],
+    "requires": "",
+    "hint_entrance": "Cortex Escort Mission End"
+  },
+  {
+    "name": "Bandicoot Pursuit Deathless Relic",
+    "region": "Bandicoot Pursuit",
+    "category": ["!! Relics", "Bandicoot Pursuit"],
+    "requires": "",
+    "hint_entrance": "Cortex Escort Mission End"
+  },
+  {
+    "name": "Bandicoot Pursuit Purple Gem",
+    "region": "Bandicoot Pursuit",
+    "category": ["!! Gems", "Bandicoot Pursuit"],
+    "requires": "",
+    "hint_entrance": "Cortex Escort Mission End"
+  },
+  {
+    "name": "Bandicoot Pursuit Clear Gem",
+    "region": "Bandicoot Pursuit",
+    "category": ["!! Gems", "Bandicoot Pursuit"],
+    "requires": "",
+    "hint_entrance": "Ball Revolving Platform Puzzle"
+  },
+  {
+    "name": "Bandicoot Pursuit Red Gem",
+    "region": "Bandicoot Pursuit",
+    "category": ["!! Gems", "Bandicoot Pursuit"],
+    "requires": "",
+    "hint_entrance": "Nitro & Metal Crate Towers"
+  },
+  {
+    "name": "Bandicoot Pursuit Yellow Gem",
+    "region": "Bandicoot Pursuit",
+    "category": ["!! Gems", "Bandicoot Pursuit"],
+    "requires": "",
+    "hint_entrance": "Exclamation Crate Hunt"
+  },
+  {
+    "name": "Ant Agony Green Gem",
+    "region": "Ant Agony",
+    "category": ["!! Gems", "Ant Agony"],
+    "requires": "",
+    "hint_entrance": "1st Purple Platforms Side Path"
+  },
+  {
+    "name": "Ant Agony Red Gem",
+    "region": "Ant Agony",
+    "category": ["!! Gems", "Ant Agony"],
+    "requires": "",
+    "hint_entrance": "2nd Purple Platforms Side Path"
+  },
+  {
+    "name": "Ant Agony Blue Gem",
+    "region": "Ant Agony",
+    "category": ["!! Gems", "Ant Agony"],
+    "requires": "",
+    "hint_entrance": "RGBY Platforms"
+  },
+  {
+    "name": "Ant Agony Yellow Gem",
+    "region": "Ant Agony",
+    "category": ["!! Gems", "Ant Agony"],
+    "requires": "",
+    "hint_entrance": "RGBY Platforms"
+  },
+  {
+    "name": "Ant Agony Clear Gem",
+    "region": "Ant Agony",
+    "category": ["!! Gems", "Ant Agony"],
+    "requires": "",
+    "hint_entrance": "Blue Switch Purple Platforms"
+  },
+  {
+    "name": "Ant Agony Purple Gem",
+    "region": "Ant Agony",
+    "category": ["!! Gems", "Ant Agony"],
+    "requires": "",
+    "hint_entrance": "Blue Switch RGBY Platforms"
+  },
+  {
+    "name": "Ant Agony Power Crystal",
+    "region": "Ant Agony",
+    "category": ["!! Power Crystals", "Ant Agony"],
+    "requires": "",
+    "hint_entrance": "RGBY Platforms Over Pit"
+  },
+  {
+    "name": "Ant Agony Deathless Relic",
+    "region": "Ant Agony",
+    "category": ["!! Relics", "Ant Agony"],
+    "requires": "|Slide|",
+    "hint_entrance": "Ant Agony End"
+  },
+  {
+    "name": "Evil Twins Defeated",
+    "region": "Ant Agony",
+    "category": ["! GOAL", "!! Bosses", "Ant Agony"],
+    "requires": "|Slide| AND |Mecha Bandicoot| AND |Grapple|",
+    "hint_entrance": "Ant Agony End",
+    "victory": true
+  },
+  {
+    "name": "Evil Twins Damageless Relic",
+    "region": "Ant Agony",
+    "category": ["!! Relics", "Ant Agony"],
+    "requires": "|Slide| AND |Mecha Bandicoot| AND |Grapple|",
+    "hint_entrance": "Ant Agony End"
   }
 ]

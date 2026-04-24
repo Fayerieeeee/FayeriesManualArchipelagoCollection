@@ -87,7 +87,11 @@
     "requires": ""
   },
   "Bandicoot Pursuit":{
-    "connects_to": ["Bandicoot Pursuit"],
+    "connects_to": ["Ant Agony"],
+    "requires": ""
+  },
+  "Ant Agony":{
+    "connects_to": [],
     "requires": ""
   }
 }
