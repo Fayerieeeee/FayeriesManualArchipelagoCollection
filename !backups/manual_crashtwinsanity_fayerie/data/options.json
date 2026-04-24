@@ -1,11 +1,7 @@
 {
     "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
-    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
     "core": {
         "goal":{
-            "_comment": [
-                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
-            ],
             "display_name": "The End Objective",
             "description": "How to End your Randomized playthrough.",
             "aliases": {"easiest": 0},
@@ -22,61 +18,37 @@
         }
     },
     "user": {
-        "_commented_out_option":{
+        "progressive_levels":{
+            "display_name": "Progressive Level",
+            "description": [
+                "Shuffle the hubs & levels in a progressive manner.",
+                "For example: Progressive N. Sanity Island gives access to the hub, next Progressive N. Sanity Island gives access to the 1st level, etc."
+            ],
             "type": "Toggle",
             "default": true
         },
-        "Example_Toggle":{
+        "single_levels":{
             "description": [
-                "This is a Toggle",
-                "A simple boolean, aka True or False set the initial value with \"default\""
+                "Shuffle the hubs entirely.",
+                "For example: N. Sanity Island gives access to the entire hub and levels."
             ],
             "type": "Toggle",
-            "default": false,
-            "group": "Example Options"
+            "default": false
         },
-        "Example_Choice":{
-            "type": "Choice",
+        "classic_mode":{
             "description": [
-                "This is a Choice",
-                "Let the user pick from a list of values",
-                "allow_custom_value let a player define their own text value",
-                "Currently the only use for Choice in Manual outside of hooks is the goal"
+                "Shuffle the levels and only the levels. Effectively turning the game into a classic Crash game.",
+                "Note: move rando is disabled"
             ],
-            "values": {
-                "start":0,
-                "test":1
-             },
-            "default": 0,
-            "allow_custom_value": false,
-            "group": "Example Options"
-        },
-        "Example_Range":{
-            "type": "Range",
-            "description": [
-                "This is a Range",
-                "Allow the player to specify a value between 'start' and 'end'",
-                "if you include a \"values\" you can define the label for certain values",
-                "Currently the only use for Range in Manual outside of hooks is 'filler_trap'"
-            ],
-            "range_start": 0,
-            "default": 1,
-            "range_end": 5,
-            "values": {"example": 2},
-            "group": "Example Options"
-        },
-
-        "DLC_enabled":{
-            "display_name": "DLC Enabled",
-            "description": "Is the Dlc enabled?",
             "type": "Toggle",
-            "visibility": [
-                "simple_ui",
-                "complex_ui",
-                "template"
+            "default": false
+        },
+        "fake_moves":{
+            "description": [
+                "Add in moves from other Crash games into the pool as filler?"
             ],
-            "default": true
+            "type": "Toggle",
+            "default": false
         }
     }
-
 }

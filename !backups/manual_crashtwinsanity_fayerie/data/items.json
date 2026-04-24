@@ -352,6 +352,14 @@
   },
   {
     "count": 1,
+    "name": "Cortex Slam",
+    "category": [
+      "Moves"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Punch",
     "category": [
       "Moves"
