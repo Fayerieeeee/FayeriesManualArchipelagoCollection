@@ -16,7 +16,7 @@
     "connects_to": [
       "N. Sanity Island 2"
     ],
-    "requires": "(|Progressive N. Sanity Island:3| OR |N. Sanity Island|) AND |Cortex|"
+    "requires": "(|Progressive N. Sanity Island:3| OR |N. Sanity Island|) AND |Cortex| AND |Belly-Flop|"
   },
   "N. Sanity Island 2": {
     "connects_to": [
