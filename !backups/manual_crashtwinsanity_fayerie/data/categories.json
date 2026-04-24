@@ -1,18 +1,26 @@
 {
-    "Progressive Level":{
-        "hidden": true,
-        "yaml_option": ["progressive_levels"]
-    },
-    "Single Level":{
-        "hidden": true,
-        "yaml_option": ["single_levels"]
-    },
-    "Classic Level":{
-        "hidden": true,
-        "yaml_option": ["classic_mode"]
-    },
-    "Fake Moves":{
-        "hidden": true,
-        "yaml_option": ["fake_moves"]
-    }
+  "Progressive Level": {
+    "hidden": true,
+    "yaml_option": [
+      "progressive_levels"
+    ]
+  },
+  "Single Level": {
+    "hidden": true,
+    "yaml_option": [
+      "single_levels"
+    ]
+  },
+  "Classic Level": {
+    "hidden": true,
+    "yaml_option": [
+      "classic_mode"
+    ]
+  },
+  "Fake Moves": {
+    "hidden": true,
+    "yaml_option": [
+      "fake_moves"
+    ]
+  }
 }

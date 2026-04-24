@@ -5,38 +5,71 @@
   "filler_item_name": "Wumpa Fruit",
   "starting_items": [
     {
-      "items": ["Crash", "Jump", "Spin", "Shoot"]
+      "items": [
+        "Crash",
+        "Jump",
+        "Spin",
+        "Shoot"
+      ]
     },
     {
-      "item_categories": ["Progressive Level"],
-      "yaml_option": ["progressive_levels"],
+      "item_categories": [
+        "Progressive Level"
+      ],
+      "yaml_option": [
+        "progressive_levels"
+      ],
       "random": 1
     },
     {
-      "item_categories": ["Single Level"],
-      "yaml_option": ["single_levels"],
+      "item_categories": [
+        "Single Level"
+      ],
+      "yaml_option": [
+        "single_levels"
+      ],
       "random": 1
     },
     {
-      "item_categories": ["Classic Level"],
-      "yaml_option": ["classic_mode"],
+      "item_categories": [
+        "Classic Level"
+      ],
+      "yaml_option": [
+        "classic_mode"
+      ],
       "random": 1
     },
     {
-      "if_previous_item": ["Progressive Academy of Evil"],
-      "items": ["Cortex"]
+      "if_previous_item": [
+        "Progressive Academy of Evil"
+      ],
+      "items": [
+        "Cortex"
+      ]
     },
     {
-      "if_previous_item": ["Academy of Evil"],
-      "items": ["Cortex"]
+      "if_previous_item": [
+        "Academy of Evil"
+      ],
+      "items": [
+        "Cortex"
+      ]
     },
     {
-      "if_previous_item": ["Progressive Iceberg Lab"],
-      "items": ["Cortex"]
+      "if_previous_item": [
+        "Progressive Iceberg Lab"
+      ],
+      "items": [
+        "Cortex"
+      ]
     },
     {
-      "if_previous_item": ["Iceberg Lab"],
-      "items": ["Cortex"]
+      "if_previous_item": [
+        "Iceberg Lab"
+      ],
+      "items": [
+        "Cortex"
+      ]
     }
   ]
 }

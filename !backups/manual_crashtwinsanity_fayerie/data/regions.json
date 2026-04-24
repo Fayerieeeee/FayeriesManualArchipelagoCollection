@@ -1,96 +1,134 @@
 {
-  "N. Sanity Island":{
+  "N. Sanity Island": {
     "starting": true,
-    "connects_to": ["Jungle Bungle"],
+    "connects_to": [
+      "Jungle Bungle"
+    ],
     "requires": "|Progressive N. Sanity Island:1| OR |N. Sanity Island|"
   },
-  "Jungle Bungle":{
-    "connects_to": ["Cavern Catastrophe"],
+  "Jungle Bungle": {
+    "connects_to": [
+      "Cavern Catastrophe"
+    ],
     "requires": "|Progressive N. Sanity Island:2| OR |N. Sanity Island|"
   },
-  "Cavern Catastrophe":{
-    "connects_to": ["N. Sanity Island 2"],
+  "Cavern Catastrophe": {
+    "connects_to": [
+      "N. Sanity Island 2"
+    ],
     "requires": "(|Progressive N. Sanity Island:3| OR |N. Sanity Island|) AND |Cortex|"
   },
-  "N. Sanity Island 2":{
-    "connects_to": ["Totem Hokum"],
+  "N. Sanity Island 2": {
+    "connects_to": [
+      "Totem Hokum"
+    ],
     "requires": "|Throw|"
   },
-  "Totem Hokum":{
-    "connects_to": ["N. Sanity Island 3"],
+  "Totem Hokum": {
+    "connects_to": [
+      "N. Sanity Island 3"
+    ],
     "requires": "(|Progressive N. Sanity Island:4| OR |N. Sanity Island|) AND |Double Jump|"
   },
-  "N. Sanity Island 3":{
+  "N. Sanity Island 3": {
     "connects_to": [],
     "requires": "|Crouch|"
   },
-  "Iceberg Lab":{
+  "Iceberg Lab": {
     "starting": true,
-    "connects_to": ["Ice Climb"],
+    "connects_to": [
+      "Ice Climb"
+    ],
     "requires": "|Progressive Iceberg Lab:1| OR |Iceberg Lab|"
   },
-  "Ice Climb":{
-    "connects_to": ["Iceberg Lab 2"],
+  "Ice Climb": {
+    "connects_to": [
+      "Iceberg Lab 2"
+    ],
     "requires": "|Progressive Iceberg Lab:2| OR |Iceberg Lab|"
   },
-  "Iceberg Lab 2":{
-    "connects_to": ["Slip Slide Icecapades"],
+  "Iceberg Lab 2": {
+    "connects_to": [
+      "Slip Slide Icecapades"
+    ],
     "requires": "|Cortex| AND |Throw| AND |Crouch| AND (|Crawl| OR |Slide|)"
   },
-  "Slip Slide Icecapades":{
-    "connects_to": ["High Seas Hi-Jinks"],
+  "Slip Slide Icecapades": {
+    "connects_to": [
+      "High Seas Hi-Jinks"
+    ],
     "requires": "|Progressive Iceberg Lab:3| OR |Iceberg Lab|"
   },
-  "High Seas Hi-Jinks":{
-    "connects_to": ["Iceberg Lab 3"],
+  "High Seas Hi-Jinks": {
+    "connects_to": [
+      "Iceberg Lab 3"
+    ],
     "requires": "|Progressive Iceberg Lab:4| OR |Iceberg Lab|"
   },
-  "Iceberg Lab 3":{
+  "Iceberg Lab 3": {
     "connects_to": [],
     "requires": "|Double Jump|"
   },
-  "Academy of Evil":{
+  "Academy of Evil": {
     "starting": true,
-    "connects_to": ["Boiler Room Doom"],
+    "connects_to": [
+      "Boiler Room Doom"
+    ],
     "requires": "|Progressive Academy of Evil:1| OR |Academy of Evil|"
   },
-  "Boiler Room Doom":{
-    "connects_to": ["Classroom Chaos (Crash)"],
+  "Boiler Room Doom": {
+    "connects_to": [
+      "Classroom Chaos (Crash)"
+    ],
     "requires": "(|Progressive Academy of Evil:2| OR |Academy of Evil|) AND |Cortex| AND |Throw|"
   },
-  "Classroom Chaos (Crash)":{
-    "connects_to": ["Classroom Chaos (Cortex)"],
+  "Classroom Chaos (Crash)": {
+    "connects_to": [
+      "Classroom Chaos (Cortex)"
+    ],
     "requires": "(|Progressive Academy of Evil:3| OR |Academy of Evil|) AND |Belly-Flop| AND (|Crouch| OR |Crawl| OR |Slide|)"
   },
-  "Classroom Chaos (Cortex)":{
-    "connects_to": ["Rooftop Rampage"],
+  "Classroom Chaos (Cortex)": {
+    "connects_to": [
+      "Rooftop Rampage"
+    ],
     "requires": "|Double Jump|"
   },
-  "Rooftop Rampage":{
-    "connects_to": ["Academy of Evil"],
+  "Rooftop Rampage": {
+    "connects_to": [
+      "Academy of Evil"
+    ],
     "requires": "(|Progressive Academy of Evil:4| OR |Academy of Evil|) AND |Nina| AND |Punch| AND |Grapple|"
   },
-  "Academy of Evil 2":{
-    "connects_to": [""],
+  "Academy of Evil 2": {
+    "connects_to": [],
     "requires": ""
   },
-  "Twinsanity Island":{
-    "connects_to": ["Rock-Slide Rumble"],
+  "Twinsanity Island": {
+    "connects_to": [
+      "Rock-Slide Rumble"
+    ],
     "requires": "(|Progressive Iceberg Lab:4| OR |Iceberg Lab|) AND |Power Crystal:6| AND |Cortex| AND |Nina|"
   },
-  "Rock-Slide Rumble":{
-    "connects_to": ["Twinsanity Island 2"],
+  "Rock-Slide Rumble": {
+    "connects_to": [
+      "Twinsanity Island 2"
+    ],
     "requires": ""
   },
-  "Twinsanity Island 2":{
-    "connects_to": ["Bandicoot Pursuit"],
+  "Twinsanity Island 2": {
+    "connects_to": [
+      "Bandicoot Pursuit"
+    ],
     "requires": ""
   },
-  "Bandicoot Pursuit":{
-    "connects_to": ["Ant Agony"],
+  "Bandicoot Pursuit": {
+    "connects_to": [
+      "Ant Agony"
+    ],
     "requires": ""
   },
-  "Ant Agony":{
+  "Ant Agony": {
     "connects_to": [],
     "requires": ""
   }
