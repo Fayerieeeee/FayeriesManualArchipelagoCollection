@@ -17,6 +17,11 @@
       "classic_mode"
     ]
   },
+  "!! Relics": {
+    "yaml_option": [
+      "relics"
+    ]
+  },
   "Fake Moves": {
     "hidden": true,
     "yaml_option": [

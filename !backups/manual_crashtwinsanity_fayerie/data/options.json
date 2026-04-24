@@ -28,6 +28,7 @@
             "default": true
         },
         "single_levels":{
+            "display_name": "Single Levels",
             "description": [
                 "Shuffle the hubs entirely.",
                 "For example: N. Sanity Island gives access to the entire hub and levels."
@@ -36,9 +37,18 @@
             "default": false
         },
         "classic_mode":{
+            "display_name": "Classic Mode",
             "description": [
                 "Shuffle the levels and only the levels. Effectively turning the game into a classic Crash game.",
                 "Note: move rando is disabled"
+            ],
+            "type": "Toggle",
+            "default": false
+        },
+        "relics":{
+            "display_name": "Relics",
+            "description": [
+                "Enable hard retroachievements as locations? (23 Locations)"
             ],
             "type": "Toggle",
             "default": false
