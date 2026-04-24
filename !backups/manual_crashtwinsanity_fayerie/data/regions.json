@@ -66,7 +66,7 @@
     "requires": "|Progressive Iceberg Lab:4| OR |Iceberg Lab|"
   },
   "Iceberg Lab 3": {
-    "connects_to": [],
+    "connects_to": ["Twinsanity Island"],
     "requires": "|Double Jump|"
   },
   "Academy of Evil": {
