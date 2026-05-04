@@ -90,6 +90,24 @@
             "type": "Toggle",
             "default": false,
             "group": "sanity Options"
+        },
+        "hospitalsanity":{
+            "description": ["Adds a check per unique room entered in the hospital (NOT WORKING)"],
+            "type": "Toggle",
+            "default": false,
+            "group": "sanity Options"
+        },
+        "dollhousesanity":{
+            "description": ["Adds a check per unique room entered in the dollhouse (NOT WORKING)"],
+            "type": "Toggle",
+            "default": false,
+            "group": "sanity Options"
+        },
+        "endlessanity":{
+            "description": ["Adds a check per room progression in the endless mansion (NOT WORKING)"],
+            "type": "Toggle",
+            "default": false,
+            "group": "sanity Options"
         }
     }
 }

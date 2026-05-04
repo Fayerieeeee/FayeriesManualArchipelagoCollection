@@ -69,6 +69,14 @@
   },
   {
     "count": 1,
+    "name": "CAT-DOS",
+    "category": [
+      "Mansion Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
     "name": "Secure Central Access Resource for Employees (SCARE)",
     "category": [
       "Mansion Items",
