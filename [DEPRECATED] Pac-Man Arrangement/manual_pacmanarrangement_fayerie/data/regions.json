@@ -1,0 +1,78 @@
+{
+  "Toy Boxes World": {
+    "starting": true,
+    "connects_to": [
+      "Retro World"
+    ],
+    "requires": []
+  },
+  "Toy Boxes World (Fruit Bonus)": {
+    "starting": true,
+    "connects_to": [
+      "Retro World (Fruit Bonus)"
+    ],
+    "requires": "|Progressive Fruit Bonus:1|"
+  },
+  "Retro World": {
+    "connects_to": [
+      "Water World"
+    ],
+    "requires": "|Progressive World:1|"
+  },
+  "Retro World (Fruit Bonus)": {
+    "connects_to": [
+      "Water World (Fruit Bonus)"
+    ],
+    "requires": "|Progressive World:1| AND |Progressive Fruit Bonus:2|"
+  },
+  "Water World": {
+    "connects_to": [
+      "Green World"
+    ],
+    "requires": "|Progressive World:2|"
+  },
+  "Water World (Fruit Bonus)": {
+    "connects_to": [
+      "Green World (Fruit Bonus)"
+    ],
+    "requires": "|Progressive World:2| AND |Progressive Fruit Bonus:3|"
+  },
+  "Green World": {
+    "connects_to": [
+      "Ancient Ruins"
+    ],
+    "requires": "|Progressive World:3|"
+  },
+  "Green World (Fruit Bonus)": {
+    "connects_to": [
+      "Ancient Ruins (Fruit Bonus)"
+    ],
+    "requires": "|Progressive World:3| AND |Progressive Fruit Bonus:4|"
+  },
+  "Ancient Ruins": {
+    "connects_to": [
+      "Monster Secret Base"
+    ],
+    "requires": "|Progressive World:4|"
+  },
+  "Ancient Ruins (Fruit Bonus)": {
+    "connects_to": [
+      "Monster Secret Base (Fruit Bonus)"
+    ],
+    "requires": "|Progressive World:4| AND |Progressive Fruit Bonus:5|"
+  },
+  "Monster Secret Base": {
+    "connects_to": [
+      "Final Boss"
+    ],
+    "requires": "|Progressive World:5|"
+  },
+  "Monster Secret Base (Fruit Bonus)": {
+    "connects_to": [],
+    "requires": "|Progressive World:5| AND |Progressive Fruit Bonus:6|"
+  },
+  "Final Boss": {
+    "connects_to": [],
+    "requires": "|Progressive World:6| AND |Progressive Super Power-Pellet:5|"
+  }
+}

@@ -1,0 +1,491 @@
+[
+  {
+    "region": "Toy Boxes World",
+    "name": "World 0-1 Cleared",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 0-1 Fruit Bonus",
+    "region": "Toy Boxes World (Fruit Bonus)",
+    "category": [
+      "Fruit Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 0-2 Cleared",
+    "region": "Toy Boxes World",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 0-2 Fruit Bonus",
+    "region": "Toy Boxes World (Fruit Bonus)",
+    "category": [
+      "Fruit Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 1-1 Cleared",
+    "region": "Retro World",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 1-1 Fruit Bonus",
+    "region": "Retro World (Fruit Bonus)",
+    "category": [
+      "Fruit Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 1-2 Cleared",
+    "region": "Retro World",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 1-2 Fruit Bonus",
+    "region": "Retro World (Fruit Bonus)",
+    "category": [
+      "Fruit Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 1-3 Cleared",
+    "region": "Retro World",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 1-3 Fruit Bonus",
+    "region": "Retro World (Fruit Bonus)",
+    "category": [
+      "Fruit Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 1-4 Cleared",
+    "region": "Retro World",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 1-4 Fruit Bonus",
+    "region": "Retro World (Fruit Bonus)",
+    "category": [
+      "Fruit Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 2-1 Cleared",
+    "region": "Water World",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 2-1 Fruit Bonus",
+    "region": "Water World (Fruit Bonus)",
+    "category": [
+      "Fruit Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 2-2 Cleared",
+    "region": "Water World",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 2-2 Fruit Bonus",
+    "region": "Water World (Fruit Bonus)",
+    "category": [
+      "Fruit Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 2-3 Cleared",
+    "region": "Water World",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 2-3 Fruit Bonus",
+    "region": "Water World (Fruit Bonus)",
+    "category": [
+      "Fruit Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 2-4 Cleared",
+    "region": "Water World",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 2-4 Fruit Bonus",
+    "region": "Water World (Fruit Bonus)",
+    "category": [
+      "Fruit Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 3-1 Cleared",
+    "region": "Green World",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 3-1 Fruit Bonus",
+    "region": "Green World (Fruit Bonus)",
+    "category": [
+      "Fruit Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 3-2 Cleared",
+    "region": "Green World",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 3-2 Fruit Bonus",
+    "region": "Green World (Fruit Bonus)",
+    "category": [
+      "Fruit Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 3-3 Cleared",
+    "region": "Green World",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 3-3 Fruit Bonus",
+    "region": "Green World (Fruit Bonus)",
+    "category": [
+      "Fruit Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 3-4 Cleared",
+    "region": "Green World",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 3-4 Fruit Bonus",
+    "region": "Green World (Fruit Bonus)",
+    "category": [
+      "Fruit Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 4-1 Cleared",
+    "region": "Ancient Ruins",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 4-1 Fruit Bonus",
+    "region": "Ancient Ruins (Fruit Bonus)",
+    "category": [
+      "Fruit Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 4-2 Cleared",
+    "region": "Ancient Ruins",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 4-2 Fruit Bonus",
+    "region": "Ancient Ruins (Fruit Bonus)",
+    "category": [
+      "Fruit Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 4-3 Cleared",
+    "region": "Ancient Ruins",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 4-3 Fruit Bonus",
+    "region": "Ancient Ruins (Fruit Bonus)",
+    "category": [
+      "Fruit Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 4-4 Cleared",
+    "region": "Ancient Ruins",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 4-4 Fruit Bonus",
+    "region": "Ancient Ruins (Fruit Bonus)",
+    "category": [
+      "Fruit Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 5-1 Cleared",
+    "region": "Monster Secret Base",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 5-1 Fruit Bonus",
+    "region": "Monster Secret Base (Fruit Bonus)",
+    "category": [
+      "Fruit Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 5-2 Cleared",
+    "region": "Monster Secret Base",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 5-2 Fruit Bonus",
+    "region": "Monster Secret Base (Fruit Bonus)",
+    "category": [
+      "Fruit Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 5-3 Cleared",
+    "region": "Monster Secret Base",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 5-3 Fruit Bonus",
+    "region": "Monster Secret Base (Fruit Bonus)",
+    "category": [
+      "Fruit Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "World 5-4 Cleared",
+    "region": "Monster Secret Base",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Jump Pads|"
+  },
+  {
+    "name": "World 5-4 Fruit Bonus",
+    "region": "Monster Secret Base (Fruit Bonus)",
+    "category": [
+      "Fruit Bonus"
+    ],
+    "requires": "|Jump Pads|"
+  },
+  {
+    "region": "Final Boss",
+    "name": "Final Boss Defeated",
+    "victory": true,
+    "category": [
+      "Level Completion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Get a score of 5000",
+    "region": "Toy Boxes World",
+    "category": [
+      "Missions"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Get a score of 10000",
+    "region": "Toy Boxes World",
+    "category": [
+      "Missions"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Get a score of 20000",
+    "region": "Retro World",
+    "category": [
+      "Missions"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Get a score of 30000",
+    "region": "Water World",
+    "category": [
+      "Missions"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Get a score of 50000",
+    "region": "Monster Secret Base",
+    "category": [
+      "Missions"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Clear 1 round(s) in a game",
+    "region": "Toy Boxes World",
+    "category": [
+      "Missions"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Clear 3 round(s) in a game",
+    "region": "Retro World",
+    "category": [
+      "Missions"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Clear 5 round(s) in a game",
+    "region": "Retro World",
+    "category": [
+      "Missions"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Clear 10 round(s) in a game",
+    "region": "Water World",
+    "category": [
+      "Missions"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eat 5 ghosts in a game",
+    "region": "Toy Boxes World",
+    "category": [
+      "Missions"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eat 10 ghosts in a game",
+    "region": "Toy Boxes World",
+    "category": [
+      "Missions"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eat 15 ghosts in a game",
+    "region": "Retro World",
+    "category": [
+      "Missions"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eat 10 ghosts total",
+    "region": "Toy Boxes World",
+    "category": [
+      "Missions"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eat 20 ghosts total",
+    "region": "Retro World",
+    "category": [
+      "Missions"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eat 30 ghosts total",
+    "region": "Water World",
+    "category": [
+      "Missions"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eat 50 ghosts total",
+    "region": "Monster Secret Base",
+    "category": [
+      "Missions"
+    ],
+    "requires": []
+  }
+]

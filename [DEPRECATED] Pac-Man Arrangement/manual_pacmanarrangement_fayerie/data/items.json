@@ -1,0 +1,58 @@
+[
+  {
+    "count": "6",
+    "name": "Progressive World",
+    "category": [
+      "World Progressions"
+    ],
+    "progression": true
+  },
+  {
+    "count": "6",
+    "name": "Progressive Fruit Bonus",
+    "category": [
+      "Fruit Bonuses"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive S-Dot",
+    "category": [
+      "S-Dots"
+    ],
+    "progression": true
+  },
+  {
+    "count": "10",
+    "name": "Credits",
+    "category": [
+      "Credits Per Run"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Maze Wrapping",
+    "category": [
+      "Maze Gimmicks"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dash Panels",
+    "category": [
+      "Maze Gimmicks"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Jump Pads",
+    "category": [
+      "Maze Gimmicks"
+    ],
+    "progression": true
+  }
+]

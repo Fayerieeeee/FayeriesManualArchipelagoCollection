@@ -1,0 +1,7 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "SJSMProjectRecode",
+  "creator": "Fayerie",
+  "filler_item_name": "Nothing Pack (x0)",
+  "starting_items": []
+}
