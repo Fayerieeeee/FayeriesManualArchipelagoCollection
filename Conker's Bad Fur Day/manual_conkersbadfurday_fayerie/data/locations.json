@@ -1,915 +1,261 @@
 [
   {
-    "name": "Windy - Chocolate Hungover Entrance #1",
+    "name": "Birdy B Platform Tutorial",
+    "region": "Hungover",
+    "category": ["!! Context Sensitive", "Hungover"],
+    "requires": "",
+    "hint_entrance": "Hungover - Scaredy Birdy"
+  },
+  {
+    "name": "Birdy B Platform Tutorial (2)",
+    "region": "Hungover",
+    "category": ["!! Context Sensitive", "Hungover"],
+    "requires": "|Alchohol|",
+    "hint_entrance": "Hungover - Scaredy Birdy"
+  },
+  {
+    "name": "Birdy B Platform Tutorial (3)",
+    "region": "Hungover",
+    "category": ["!! Context Sensitive", "Hungover"],
+    "requires": "|Alchohol| AND |Helium Canister|",
+    "hint_entrance": "Hungover - Scaredy Birdy"
+  },
+  {
+    "name": "Near Birdy's Farmland B Platform",
+    "region": "Hungover",
+    "category": ["!! Context Sensitive", "Hungover"],
+    "requires": "|Alchohol|",
+    "hint_entrance": "Hungover - Scaredy Birdy"
+  },
+  {
+    "name": "Locked Room Frying Pan",
+    "region": "Hungover",
+    "category": ["!! Context Sensitive", "Hungover"],
+    "requires": "|Alchohol| AND |Antacid Tablet|",
+    "hint_entrance": "Hungover - Panhandled"
+  },
+  {
+    "name": "Wooden Ledge B Platform",
+    "region": "Hungover",
+    "category": ["!! Context Sensitive", "Hungover"],
+    "requires": "|Alchohol| AND |Antacid Tablet| AND |Frying Pan|",
+    "hint_entrance": "Hungover - Gargoyle"
+  },
+  {
+    "name": "Mrs. Bee Cash Prize",
     "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": []
+    "category": ["!! Quests", "Windy"],
+    "requires": "",
+    "hint_entrance": "Windy - Mrs. Bee"
   },
   {
-    "name": "Windy - Chocolate Hungover Entrance #2",
+    "name": "Birdy's Instruction Book Payment",
     "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": []
+    "category": ["!! Payments", "Windy"],
+    "requires": "|Wad of Cash:1|",
+    "hint_entrance": "Windy - Mrs. Bee"
   },
   {
-    "name": "Windy - Chocolate Hungover Entrance #3",
+    "name": "Dung Beetles B Platform",
     "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": []
+    "category": ["!! Context Sensitive", "Windy"],
+    "requires": "|Wad of Cash:1|",
+    "hint_entrance": "Windy - Mrs. Bee"
   },
   {
-    "name": "Windy - Chocolate Near River",
+    "name": "Hidden Breakable Wall (B)",
+    "region": "Barn Boys",
+    "category": ["!! Context Sensitive", "Barn Boys"],
+    "requires": "|Anvil|",
+    "hint_entrance": "Barn Boys"
+  },
+  {
+    "name": "Jack's Rodent Problem",
+    "region": "Barn Boys",
+    "category": ["!! Quests", "Barn Boys"],
+    "requires": "|Frying Pan|",
+    "hint_entrance": "Barn Boys - Marvin"
+  },
+  {
+    "name": "Wad of Cash Top of Barn",
+    "region": "Barn Boys",
+    "category": ["!! Cash", "Barn Boys"],
+    "requires": "|Frying Pan|",
+    "hint_entrance": "Barn Boys - Marvin"
+  },
+  {
+    "name": "Franky Defeated",
+    "region": "Barn Boys",
+    "category": ["!! Bosses", "Barn Boys"],
+    "requires": "|Frying Pan|",
+    "hint_entrance": "Barn Boys - Mad Pitchfork"
+  },
+  {
+    "name": "Wad of Cash Near Sunflower",
+    "region": "Barn Boys",
+    "category": ["!! Cash", "Barn Boys"],
+    "requires": "|Frying Pan|",
+    "hint_entrance": "Barn Boys - Sunny Days"
+  },
+  {
+    "name": "Metal Girders Inside Barn",
+    "region": "Barn Boys",
+    "category": ["!! Context Sensitive", "Barn Boys"],
+    "requires": "|Frying Pan|",
+    "hint_entrance": "Barn Boys - Barry + Co."
+  },
+  {
+    "name": "Metal Girders Inside Barn (2)",
+    "region": "Barn Boys",
+    "category": ["!! Context Sensitive", "Barn Boys"],
+    "requires": "|Frying Pan| AND |Blowtorch|",
+    "hint_entrance": "Barn Boys - Barry + Co."
+  },
+  {
+    "name": "Metal Girders Inside Barn (3)",
+    "region": "Barn Boys",
+    "category": ["!! Context Sensitive", "Barn Boys"],
+    "requires": "|Frying Pan| AND |Blowtorch|",
+    "hint_entrance": "Barn Boys - Barry + Co."
+  },
+  {
+    "name": "Franky B Platform",
+    "region": "Barn Boys",
+    "category": ["!! Context Sensitive", "Barn Boys"],
+    "requires": "|Frying Pan|",
+    "hint_entrance": "Barn Boys - Barry + Co."
+  },
+  {
+    "name": "Rescue Franky",
+    "region": "Barn Boys",
+    "category": ["!! Quests", "Barn Boys"],
+    "requires": "|Frying Pan| AND |Throwing Knives|",
+    "hint_entrance": "Barn Boys - Barry + Co."
+  },
+  {
+    "name": "Haybot Defeated",
+    "region": "Barn Boys",
+    "category": ["!! Bosses", "Barn Boys"],
+    "requires": "|Frying Pan| AND |Throwing Knives| AND |Franky Recruit|",
+    "hint_entrance": "Barn Boys - Haybot Wars"
+  },
+  {
+    "name": "Tall Pillar Pipe B Platform",
+    "region": "Barn Boys",
+    "category": ["!! Context Sensitive", "Barn Boys"],
+    "requires": "|Frying Pan| AND |Throwing Knives| AND |Franky Recruit|",
+    "hint_entrance": "Barn Boys - Frying Tonight"
+  },
+  {
+    "name": "Tall Pillar Pipe B Platform (2)",
+    "region": "Barn Boys",
+    "category": ["!! Context Sensitive", "Barn Boys"],
+    "requires": "|Frying Pan| AND |Throwing Knives| AND |Franky Recruit|",
+    "hint_entrance": "Barn Boys - Frying Tonight"
+  },
+  {
+    "name": "Wad of Cash Post Haybot Boss",
+    "region": "Barn Boys",
+    "category": ["!! Cash", "Barn Boys"],
+    "requires": "|Frying Pan| AND |Throwing Knives| AND |Franky Recruit|",
+    "hint_entrance": "Barn Boys - Frying Tonight"
+  },
+  {
+    "name": "Water Tank B Platform",
+    "region": "Barn Boys",
+    "category": ["!! Context Sensitive", "Barn Boys"],
+    "requires": "|Frying Pan| AND |Throwing Knives| AND |Franky Recruit| AND |Anvil|",
+    "hint_entrance": "Barn Boys - Slam Dunk"
+  },
+  {
+    "name": "Wad of Cash Near Water Stream Gate",
+    "region": "Barn Boys",
+    "category": ["!! Context Sensitive", "Barn Boys"],
+    "requires": "|Frying Pan| AND |Throwing Knives| AND |Franky Recruit| AND |Anvil|",
+    "hint_entrance": "Barn Boys - Slam Dunk"
+  },
+  {
+    "name": "Trap Door (B)",
     "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": []
+    "category": ["!! Context Sensitive", "Windy"],
+    "requires": "|Slingshot| AND |Gas Mask|",
+    "hint_entrance": "Windy - Poo Cabin"
   },
   {
-    "name": "Windy - Squirrel Tail Signpost",
+    "name": "The Bull (B)",
     "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": []
+    "category": ["!! Context Sensitive", "Windy"],
+    "requires": "|Slingshot| AND |Gas Mask|",
+    "hint_entrance": "Windy - Yeehaa!"
   },
   {
-    "name": "Windy - Wad of Cash Honeycomb",
+    "name": "The Bull Defeated",
     "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": []
+    "category": ["!! Bosses", "Windy"],
+    "requires": "|Slingshot| AND |Gas Mask| AND |Charge (The Bull)|",
+    "hint_entrance": "Windy - Yeehaa!"
   },
   {
-    "name": "Windy - Mrs. Bee Cash Prize",
+    "name": "Poo-filled Sewage System B Platform",
     "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "(|Mrs. Bee's Beehive| OR |Progressive Beehive:1|)"
+    "category": ["!! Context Sensitive", "Windy"],
+    "requires": "|Slingshot| AND |Gas Mask| AND |Charge (The Bull)|",
+    "hint_entrance": "Windy - Sewage Sucks"
   },
   {
-    "name": "Windy - Scarecrow Birdy Cash Payment",
+    "name": "Drain Pond Switch (B)",
     "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": [
-      "@Cash"
-    ]
+    "category": ["!! Context Sensitive", "Windy"],
+    "requires": "|Slingshot| AND |Gas Mask| AND |Charge (The Bull)| AND |Confidence Pills| AND |Anvil|",
+    "hint_entrance": "Windy - Great Balls of Poo"
   },
   {
-    "name": "Windy - B Platform Dung Beetles",
+    "name": "Wad of Cash Top of Poo Mountain",
     "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": [
-      "@Cash"
-    ]
+    "category": ["!! Context Sensitive", "Windy"],
+    "requires": "|Slingshot| AND |Gas Mask| AND |Charge (The Bull)| AND |Confidence Pills| AND |Stick of Dynamite|",
+    "hint_entrance": "Windy - Great Balls of Poo"
   },
   {
-    "name": "Windy - Dung Beetle Bullies",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": [
-      "@Cash",
-      "Slingshot"
-    ]
-  },
-  {
-    "name": "Barn Boys - Chocolate Between Sunflower & Wooden Crate",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Barn Boys - Chocolate Leftside of Cheese Farm",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Barn Boys - Chocolate Rightside of Cheese Farm",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Barn Boys - Chocolate Before Barn Button",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
-  },
-  {
-    "name": "Barn Boys - Chocolate Next to Barn Exit",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
-  },
-  {
-    "name": "Barn Boys - Chocolate Corner Inside Barn",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
-  },
-  {
-    "name": "Barn Boys - Chocolate Top Of Barn",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
-  },
-  {
-    "name": "Barn Boys - Chocolate Very Top Of Barn",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
-  },
-  {
-    "name": "Barn Boys - Chocolate During Tightroping #1",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
-  },
-  {
-    "name": "Barn Boys - Chocolate During Tightroping #2",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
-  },
-  {
-    "name": "Barn Boys - Chocolate During Tightroping #3",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
-  },
-  {
-    "name": "Barn Boys - Chocolate Behind Waterpipe #1",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
-  },
-  {
-    "name": "Barn Boys - Chocolate Behind Waterpipe #2",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
-  },
-  {
-    "name": "Barn Boys - Chocolate Behind Waterpipe #3",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
-  },
-  {
-    "name": "Barn Boys - Chocolate Behind Waterpipe #4",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
-  },
-  {
-    "name": "Barn Boys - Chocolate Behind Waterpipe #5",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
-  },
-  {
-    "name": "Barn Boys - Chocolate Behind Waterpipe #6",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
-  },
-  {
-    "name": "Barn Boys - Chocolate Behind Boarded Room in Barn #1",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
-  },
-  {
-    "name": "Barn Boys - Chocolate Behind Boarded Room in Barn #2",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
-  },
-  {
-    "name": "Barn Boys - Chocolate Behind Boarded Room in Barn #3",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
-  },
-  {
-    "name": "Barn Boys - Chocolate Behind Boarded Room in Barn #4",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
-  },
-  {
-    "name": "Barn Boys - Chocolate on Side of Barn Near Ladders",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
-  },
-  {
-    "name": "Barn Boys - Chocolate Barnside Ladder Climb #1",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
-  },
-  {
-    "name": "Barn Boys - Chocolate Barnside Ladder Climb #2",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
-  },
-  {
-    "name": "Barn Boys - Chocolate Anvil Diving Board #1",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
-  },
-  {
-    "name": "Barn Boys - Chocolate Anvil Diving Board #2",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
-  },
-  {
-    "name": "Barn Boys - Squirrel Tail Behind Cheese Farm Walls",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": [
-      "Anvil"
-    ]
-  },
-  {
-    "name": "Barn Boys - Squirrel Tail Behind Gated Door",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky| AND |Anvil|"
-  },
-  {
-    "name": "Barn Boys - Wad of Cash top of Barn",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
-  },
-  {
-    "name": "Barn Boys - Wad of Cash Inside hole",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND (|Swarm of Tickly Bees| OR |Progressive Tickly Bees:5|)"
-  },
-  {
-    "name": "Barn Boys - Wad of Cash Behind Boarded Room in Barn",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
-  },
-  {
-    "name": "Barn Boys - Wad of Cash Behind Gated Door",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky| AND |Anvil|"
-  },
-  {
-    "name": "Barn Boys - Burt Cheese Gate",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Barn Boys - Overfeed Marvin",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
-  },
-  {
-    "name": "Barn Boys - B Platform Very Top of Barn",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
-  },
-  {
-    "name": "Barn Boys - Franky the Pitchfork Defeated",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
-  },
-  {
-    "name": "Barn Boys - Sunflower Tickled",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND (|Swarm of Tickly Bees| OR |Progressive Tickly Bees:5|)"
-  },
-  {
-    "name": "Barn Boys - B Platform Hanging Franky",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|)"
-  },
-  {
-    "name": "Barn Boys - Free Franky",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives|"
-  },
-  {
-    "name": "Barn Boys - Haybot Defeated",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
-  },
-  {
-    "name": "Barn Boys - B Platform Top of Waterpipe #1",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
-  },
-  {
-    "name": "Barn Boys - B Platform Top of Waterpipe #2",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky|"
-  },
-  {
-    "name": "Barn Boys - Anvil Diving into Button",
-    "region": "Barn Boys",
-    "category": [
-      "Barn Boys"
-    ],
-    "requires": "|Frying Pan| AND (|Cheese Wedges| OR |Progressive Cheese Wedge:3|) AND |Throwing Knives| AND |Franky| AND |Anvil|"
-  },
-  {
-    "name": "Windy - Chocolate Rope Climbing in Poo Cabin #1",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
-  },
-  {
-    "name": "Windy - Chocolate Rope Climbing in Poo Cabin #2",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
-  },
-  {
-    "name": "Windy - Chocolate Rope Climbing in Poo Cabin #3",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
-  },
-  {
-    "name": "Windy - Chocolate Rope Climbing in Poo Cabin #4",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
-  },
-  {
-    "name": "Windy - Chocolate Rope Climbing in Poo Cabin #5",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
-  },
-  {
-    "name": "Windy - Chocolate Bull Arena Exterior #1",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
-  },
-  {
-    "name": "Windy - Chocolate Bull Arena Exterior #2",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
-  },
-  {
-    "name": "Windy - Chocolate Bull Arena Exterior #3",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
-  },
-  {
-    "name": "Windy - Chocolate Bull Arena Exterior #4",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
-  },
-  {
-    "name": "Windy - Chocolate Bull Arena Exterior #5",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
-  },
-  {
-    "name": "Windy - Chocolate Bull Arena Exterior #6",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
-  },
-  {
-    "name": "Windy - Chocolate Top of Prune Juice Container #1",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
-  },
-  {
-    "name": "Windy - Chocolate Top of Prune Juice Container #2",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
-  },
-  {
-    "name": "Windy - Chocolate Near B Platform Under Poo Cabin #1",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil| AND (|Herd of Cows| OR |Progressive Cow:3|)"
-  },
-  {
-    "name": "Windy - Chocolate Near B Platform Under Poo Cabin #2",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil| AND (|Herd of Cows| OR |Progressive Cow:3|)"
-  },
-  {
-    "name": "Windy - Chocolate Near B Platform Under Poo Cabin #3",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil| AND (|Herd of Cows| OR |Progressive Cow:3|)"
-  },
-  {
-    "name": "Windy - Chocolate Near B Platform Under Poo Cabin #4",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil| AND (|Herd of Cows| OR |Progressive Cow:3|)"
-  },
-  {
-    "name": "Windy - Squirrel Tail Top of Rope Climbing in Poo Cabin",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil|"
-  },
-  {
-    "name": "Windy - Wad of Cash Inside Poo Cabin",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil| AND (|Herd of Cows| OR |Progressive Cow:3|) AND |Confidence Pills|"
-  },
-  {
-    "name": "Windy - Wad of Cash Top of Poo Mountain",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil| AND (|Herd of Cows| OR |Progressive Cow:3|) AND | Confidence Pills| AND |Poo Balls|"
-  },
-  {
-    "name": "Windy - Bull Defeated",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil| AND (|Herd of Cows| OR |Progressive Cow:3|)"
-  },
-  {
-    "name": "Windy - B Platform Post Bull Fight",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil| AND (|Herd of Cows| OR |Progressive Cow:3|)"
-  },
-  {
-    "name": "Windy - B Platform Lake Drain",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil| AND (|Herd of Cows| OR |Progressive Cow:3|) AND | Confidence Pills| AND |Poo Balls|"
-  },
-  {
-    "name": "Bat's Tower - Chocolate Near Level Entrance #1",
+    "name": "Wood Platform Balancing",
     "region": "Bat's Tower",
-    "category": [
-      "Bat's Tower"
-    ],
-    "requires": []
+    "category": ["!! Context Sensitive", "Bat's Tower"],
+    "requires": "|Confidence Pills|",
+    "hint_entrance": "Bat's Tower - Barry's Mates"
   },
   {
-    "name": "Bat's Tower - Chocolate Near Level Entrance #2",
+    "name": "Wood Platform Balancing (2)",
     "region": "Bat's Tower",
-    "category": [
-      "Bat's Tower"
-    ],
-    "requires": []
+    "category": ["!! Context Sensitive", "Bat's Tower"],
+    "requires": "|Confidence Pills| AND |Blowtorch|",
+    "hint_entrance": "Bat's Tower - Barry's Mates"
   },
   {
-    "name": "Bat's Tower - Chocolate Behind Waterfall #1",
+    "name": "Wood Platform Balancing (3)",
     "region": "Bat's Tower",
-    "category": [
-      "Bat's Tower"
-    ],
-    "requires": []
+    "category": ["!! Context Sensitive", "Bat's Tower"],
+    "requires": "|Confidence Pills| AND |Blowtorch|",
+    "hint_entrance": "Bat's Tower - Barry's Mates"
   },
   {
-    "name": "Bat's Tower - Chocolate Behind Waterfall #2",
+    "name": "Wad of Cash Top of Bat's Tower",
     "region": "Bat's Tower",
-    "category": [
-      "Bat's Tower"
-    ],
-    "requires": []
+    "category": ["!! Cash", "Bat's Tower"],
+    "requires": "|Confidence Pills| AND |Blowtorch|",
+    "hint_entrance": "Bat's Tower - Barry's Mates"
   },
   {
-    "name": "Bat's Tower - Chocolate Infront of Safe",
+    "name": "Tighten Brute's Leash",
     "region": "Bat's Tower",
-    "category": [
-      "Bat's Tower"
-    ],
-    "requires": []
+    "category": ["!! Cash", "Bat's Tower"],
+    "requires": "|Confidence Pills| AND |Blowtorch| AND |Frying Pan|",
+    "hint_entrance": "Bat's Tower - Cog's Revenge"
   },
   {
-    "name": "Bat's Tower - Chocolate on Ball Pressure Plate",
+    "name": "Catfishes's Safe Unlock",
     "region": "Bat's Tower",
-    "category": [
-      "Bat's Tower"
-    ],
-    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet|"
+    "category": ["!! Cash", "Bat's Tower"],
+    "requires": "|Confidence Pills| AND |Blowtorch| AND |Frying Pan|",
+    "hint_entrance": "Bat's Tower - Cog's Revenge"
   },
-  {
-    "name": "Bat's Tower - Chocolate Near Medstation #1",
-    "region": "Bat's Tower",
-    "category": [
-      "Bat's Tower"
-    ],
-    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet|"
-  },
-  {
-    "name": "Bat's Tower - Chocolate Near Medstation #2",
-    "region": "Bat's Tower",
-    "category": [
-      "Bat's Tower"
-    ],
-    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet|"
-  },
-  {
-    "name": "Bat's Tower - Squirrel Tail Behind Waterfall",
-    "region": "Bat's Tower",
-    "category": [
-      "Bat's Tower"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Bat's Tower - Wad of Cash Top of Bat's Tower",
-    "region": "Bat's Tower",
-    "category": [
-      "Bat's Tower"
-    ],
-    "requires": "|Confidence Pills|"
-  },
-  {
-    "name": "Bat's Tower - Wad of Cash Post Big Big Guy Boss",
-    "region": "Bat's Tower",
-    "category": [
-      "Bat's Tower"
-    ],
-    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet| AND |Beer Keg| AND |Red Bricks|"
-  },
-  {
-    "name": "Bat's Tower - Wads of Cash Post Bullfish Chase #1",
-    "region": "Bat's Tower",
-    "category": [
-      "Bat's Tower"
-    ],
-    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet| AND |Beer Keg| AND |Red Bricks|"
-  },
-  {
-    "name": "Bat's Tower - Wads of Cash Post Bullfish Chase #2",
-    "region": "Bat's Tower",
-    "category": [
-      "Bat's Tower"
-    ],
-    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet| AND |Beer Keg| AND |Red Bricks|"
-  },
-  {
-    "name": "Bat's Tower - Wads of Cash Post Bullfish Chase #3",
-    "region": "Bat's Tower",
-    "category": [
-      "Bat's Tower"
-    ],
-    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet| AND |Beer Keg| AND |Red Bricks|"
-  },
-  {
-    "name": "Bat's Tower - Bullfish's Chain Retracted",
-    "region": "Bat's Tower",
-    "category": [
-      "Bat's Tower"
-    ],
-    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|)"
-  },
-  {
-    "name": "Bat's Tower - B Platform Inside Safe",
-    "region": "Bat's Tower",
-    "category": [
-      "Bat's Tower"
-    ],
-    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|)"
-  },
-  {
-    "name": "Bat's Tower - Safe Interior Opened",
-    "region": "Bat's Tower",
-    "category": [
-      "Bat's Tower"
-    ],
-    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot|"
-  },
-  {
-    "name": "Bat's Tower - B Platform Post OPEN Combination",
-    "region": "Bat's Tower",
-    "category": [
-      "Bat's Tower"
-    ],
-    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot|"
-  },
-  {
-    "name": "Bat's Tower - B Platform Underwater Maze Air Pocket",
-    "region": "Bat's Tower",
-    "category": [
-      "Bat's Tower"
-    ],
-    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet|"
-  },
-  {
-    "name": "Bat's Tower - B Platform Beer Ceg",
-    "region": "Bat's Tower",
-    "category": [
-      "Bat's Tower"
-    ],
-    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet|"
-  },
-  {
-    "name": "Bat's Tower - B Platform Medstation",
-    "region": "Bat's Tower",
-    "category": [
-      "Bat's Tower"
-    ],
-    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet| AND |Beer Keg|"
-  },
-  {
-    "name": "Bat's Tower - Extinguish the Fire Imps",
-    "region": "Bat's Tower",
-    "category": [
-      "Bat's Tower"
-    ],
-    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet| AND |Beer Keg|"
-  },
-  {
-    "name": "Bat's Tower - The Big Big Guy Defeated",
-    "region": "Bat's Tower",
-    "category": [
-      "Bat's Tower"
-    ],
-    "requires": "|Confidence Pills| AND |Frying Pan| AND (|Cog Ladies| OR |Progressive Lady Cog:3|) AND |Slingshot| AND |Flashlight Helmet| AND |Beer Keg| AND |Red Bricks|"
-  },
-  {
-    "name": "Windy - Explode Big Dung Beetle",
-    "region": "Windy",
-    "category": [
-      "Windy"
-    ],
-    "requires": "|@Cash| AND |Slingshot| AND |Anvil| AND (|Herd of Cows| OR |Progressive Cow:3|) AND | Confidence Pills| AND |Poo Balls| AND |TNT|"
-  },
-  {
-    "name": "Sloprano - Chocolate Near Broken Bridge #1",
-    "region": "Sloprano",
-    "category": [
-      "Sloprano"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Sloprano - Chocolate Near Broken Bridge #2",
-    "region": "Sloprano",
-    "category": [
-      "Sloprano"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Sloprano - Chocolate Bridge Crossway #1",
-    "region": "Sloprano",
-    "category": [
-      "Sloprano"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Sloprano - Chocolate Bridge Crossway #2",
-    "region": "Sloprano",
-    "category": [
-      "Sloprano"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Sloprano - Chocolate Bridge Crossway #3",
-    "region": "Sloprano",
-    "category": [
-      "Sloprano"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Sloprano - Chocolate Bridge Crossway #4",
-    "region": "Sloprano",
-    "category": [
-      "Sloprano"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Sloprano - Chocolate Bridge Crossway #5",
-    "region": "Sloprano",
-    "category": [
-      "Sloprano"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Sloprano - Chocolate Bridge Crossway #6",
-    "region": "Sloprano",
-    "category": [
-      "Sloprano"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Sloprano - Chocolate Bridge Crossway #7",
-    "region": "Sloprano",
-    "category": [
-      "Sloprano"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Sloprano - Wad of Cash Behind Glass",
-    "region": "Sloprano",
-    "category": [
-      "Sloprano"
-    ],
-    "requires": "(|Bag of Sweet Corn| OR |Progressive Sweet Corn:6|) AND |Toilet Paper Rolls|"
-  },
-  {
-    "name": "Sloprano - B Platform Mighty Poo #1",
-    "region": "Sloprano",
-    "category": [
-      "Sloprano"
-    ],
-    "requires": "(|Bag of Sweet Corn| OR |Progressive Sweet Corn:6|)"
-  },
-  {
-    "name": "Sloprano - B Platform Mighty Poo #2",
-    "region": "Sloprano",
-    "category": [
-      "Sloprano"
-    ],
-    "requires": "(|Bag of Sweet Corn| OR |Progressive Sweet Corn:6|) AND |Toilet Paper Rolls|"
-  },
-  {
-    "name": "Sloprano - B Platform Mighty Poo #3",
-    "region": "Sloprano",
-    "category": [
-      "Sloprano"
-    ],
-    "requires": "(|Bag of Sweet Corn| OR |Progressive Sweet Corn:6|) AND |Toilet Paper Rolls|"
-  }
 ]

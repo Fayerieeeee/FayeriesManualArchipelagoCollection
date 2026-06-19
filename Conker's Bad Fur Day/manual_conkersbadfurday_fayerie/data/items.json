@@ -1,288 +1,138 @@
 [
   {
     "count": 1,
+    "name": "Hungover Chapter",
+    "category": ["Chapters"],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Windy Chapter",
-    "category": [
-      "Chapters",
-      "HUB Chapter"
-    ],
+    "category": ["Chapters"],
     "progression": true
   },
   {
     "count": 1,
     "name": "Bat's Tower Chapter",
-    "category": [
-      "Chapters",
-      "Progression Chapters"
-    ],
+    "category": ["Chapters"],
     "progression": true
   },
   {
     "count": 1,
     "name": "Barn Boys Chapter",
-    "category": [
-      "Chapters",
-      "Progression Chapters"
-    ],
+    "category": ["Chapters"],
     "progression": true
   },
   {
     "count": 1,
     "name": "Sloprano Chapter",
-    "category": [
-      "Chapters",
-      "Progression Chapters"
-    ],
+    "category": ["Chapters"],
     "progression": true
   },
   {
     "count": 1,
     "name": "Uga Buga Chapter",
-    "category": [
-      "Chapters",
-      "Progression Chapters"
-    ],
+    "category": ["Chapters"],
     "progression": true
   },
   {
     "count": 1,
     "name": "Spooky Chapter",
-    "category": [
-      "Chapters",
-      "Progression Chapters"
-    ],
+    "category": ["Chapters"],
     "progression": true
   },
   {
     "count": 1,
     "name": "It's War Chapter",
-    "category": [
-      "Chapters",
-      "Progression Chapters"
-    ],
+    "category": ["Chapters"],
     "progression": true
   },
   {
     "count": 1,
     "name": "Heist Chapter",
-    "category": [
-      "Chapters",
-      "Progression Chapters"
-    ],
-    "progression": true
-  },
-  {
-    "count": 13,
-    "name": "Wad of Cash",
-    "category": [
-      "Cash"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": 1,
-    "name": "Franky",
-    "category": [
-      "Characters"
-    ],
+    "category": ["Chapters"],
     "progression": true
   },
   {
     "count": 1,
     "name": "Frying Pan",
-    "category": [
-      "Weapons"
-    ],
+    "category": ["Weapons"],
+    "progression": true,
+    "early": true
+  },
+  {
+    "count": 1,
+    "name": "Slingshot",
+    "category": ["Weapons"],
     "progression": true
   },
   {
     "count": 1,
     "name": "Blowtorch",
-    "category": [
-      "Weapons",
-      "Context Sensitive"
-    ],
+    "category": ["Weapons"],
     "progression": true
   },
   {
     "count": 1,
     "name": "Throwing Knives",
-    "category": [
-      "Weapons",
-      "Context Sensitive"
-    ],
+    "category": ["Weapons"],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Slingshot",
-    "category": [
-      "Context Sensitive"
-    ],
+    "name": "Alchohol",
+    "category": ["Context Sensitive"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Helium Canister",
+    "category": ["Context Sensitive"],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Antacid Tablet",
+    "category": ["Context Sensitive"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dynamite with Pump",
+    "category": ["Context Sensitive"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Anvil",
+    "category": ["Context Sensitive"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gas Mask",
+    "category": ["Context Sensitive"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Charge (The Bull)",
+    "category": ["Context Sensitive"],
     "progression": true
   },
   {
     "count": 1,
     "name": "Confidence Pills",
-    "category": [
-      "Context Sensitive"
-    ],
+    "category": ["Context Sensitive"],
     "progression": true
   },
+  {
+    
+  }
   {
     "count": 1,
-    "name": "Flashlight Helmet",
-    "category": [
-      "Context Sensitive"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Beer Keg",
-    "category": [
-      "Context Sensitive"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Red Bricks",
-    "category": [
-      "Context Sensitive"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "TNT",
-    "category": [
-      "Context Sensitive"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Toilet Paper Rolls",
-    "category": [
-      "Context Sensitive"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Mrs. Bee's Beehive",
-    "category": [
-      "Quest Items",
-      "Single Quest Items"
-    ],
-    "progression": true
-  },
-  {
-    "count": 2,
-    "name": "Progressive Beehive",
-    "category": [
-      "Quest Items",
-      "Progressive Quest Items"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Cheese Wedges",
-    "category": [
-      "Quest Items",
-      "Single Quest Items"
-    ],
-    "progression": true
-  },
-  {
-    "count": 3,
-    "name": "Progressive Cheese Wedge",
-    "category": [
-      "Quest Items",
-      "Progressive Quest Items"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Swarm of Tickly Bees",
-    "category": [
-      "Quest Items",
-      "Single Quest Items"
-    ],
-    "progression": true
-  },
-  {
-    "count": 5,
-    "name": "Progressive Tickly Bees",
-    "category": [
-      "Quest Items",
-      "Progressive Quest Items"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Herd of Cows",
-    "category": [
-      "Quest Items",
-      "Single Quest Items"
-    ],
-    "progression": true
-  },
-  {
-    "count": 3,
-    "name": "Progressive Cow",
-    "category": [
-      "Quest Items",
-      "Progressive Quest Items"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Poo Balls",
-    "category": [
-      "Quest Items"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Cog Ladies",
-    "category": [
-      "Quest Items",
-      "Single Quest Items"
-    ],
-    "progression": true
-  },
-  {
-    "count": 3,
-    "name": "Progressive Lady Cog",
-    "category": [
-      "Quest Items",
-      "Progressive Quest Items"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Bag of Sweet Corn",
-    "category": [
-      "Quest Items",
-      "Single Quest Items"
-    ],
-    "progression": true
-  },
-  {
-    "count": 6,
-    "name": "Progressive Sweet Corn",
-    "category": [
-      "Quest Items",
-      "Progressive Quest Items"
-    ],
+    "name": "Franky Recruit",
+    "category": ["Buddies"],
     "progression": true
   }
 ]
