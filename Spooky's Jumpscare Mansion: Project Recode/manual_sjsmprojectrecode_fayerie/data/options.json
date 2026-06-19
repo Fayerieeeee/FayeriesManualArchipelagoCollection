@@ -9,44 +9,513 @@
         }
     },
     "user": {
-        "Example_Toggle":{
-            "description": [
-                "This is a Toggle",
-                "A simple boolean, aka True or False set the initial value with \"default\""
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Example Options"
-        },
-        "Example_Choice":{
+        "difficulty":{
             "type": "Choice",
+            "display_name": "Difficulty",
             "description": [
-                "This is a Choice",
-                "Let the user pick from a list of values",
-                "allow_custom_value let a player define their own text value",
-                "Currently the only use for Choice in Manual outside of hooks is the goal"
+                "Easiest: No monsters. Rooms never lock. (This is a joke option, don't pick it.)",
+                "Easy: Only one specimen at a time with 20+ rooms in between. Rooms only lock when the player is alone.",
+                "Normal: Rare multichases with variable rooms in between.",
+                "Hard: Common multichases with very few rooms in between. Stamina is persistent.",
+                "Hardest: Permanent multichases!"
             ],
             "values": {
-                "start":0,
-                "test":1
+                "easiest":0,
+                "easy":1,
+                "normal":2,
+                "hard":3,
+                "hardest":4
+             },
+            "default": 2,
+            "allow_custom_value": false
+        },
+        "behavior":{
+            "type": "Choice",
+            "display_name": "Behavior",
+            "description": [
+                "Recode: The default behavior for Recode. Monsters tend to be more balanced for combos, and attempt to represent both their Original and Renovation counterparts.",
+                "Original: The Original game. Monsters tend to be more basic and less balanced. Despite attempting to be as accurate as possible, there are a few slight differences between this and the Original, most notable of which being bug fixes. You are not guaranteed to be able to survive all chases given you get bad RNG.",
+                "Renovation: The HD Renovation. Monsters tend to be more complex and less balanced. Despite attempting to be as accurate as possible, there are a few slight differences between this and HD Renovation, most notable of which being visuals. You are not guaranteed to be able to survive all chases given you get bad RNG."
+            ],
+            "values": {
+                "recode":0,
+                "original":1,
+                "renovation":2
+             },
+            "default": 0,
+            "allow_custom_value": false
+        },
+        "jump":{
+            "type": "Choice",
+            "display_name": "Jump",
+            "description": [
+                "The player can jump on command."
+            ],
+            "values": {
+                "default":0,
+                "off":1,
+                "on":2
              },
             "default": 0,
             "allow_custom_value": false,
-            "group": "Example Options"
+            "group": "Customizable Options"
         },
-        "Example_Range":{
-            "type": "Range",
+        "crouch":{
+            "type": "Choice",
+            "display_name": "Crouch",
             "description": [
-                "This is a Range",
-                "Allow the player to specify a value between 'start' and 'end'",
-                "if you include a \"values\" you can define the label for certain values",
-                "Currently the only use for Range in Manual outside of hooks is 'filler_trap'"
+                "The player can crouch on command."
             ],
-            "range_start": 0,
-            "default": 1,
-            "range_end": 5,
-            "values": {"example": 2},
-            "group": "Example Options"
+            "values": {
+                "default":0,
+                "off":1,
+                "on":2
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Customizable Options"
+        },
+        "stamina_persist":{
+            "type": "Choice",
+            "display_name": "Stamina Persist",
+            "description": [
+                "The player's stamina persists between rooms."
+            ],
+            "values": {
+                "default":0,
+                "off":1,
+                "on":2
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Customizable Options"
+        },
+        "fall":{
+            "type": "Choice",
+            "display_name": "Fall",
+            "description": [
+                "The player can fall off ledges."
+            ],
+            "values": {
+                "default":0,
+                "off":1,
+                "on":2
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Customizable Options"
+        },
+        "lock":{
+            "type": "Choice",
+            "display_name": "Lock",
+            "description": [
+                "How locked rooms are handled."
+            ],
+            "values": {
+                "default":0,
+                "off":1,
+                "alone":2,
+                "on":3,
+                ":)":4
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Customizable Options"
+        },
+        "damage_shake":{
+            "type": "Choice",
+            "display_name": "Damage Shake",
+            "description": [
+                "The player's camera gets shifted when they take damage."
+            ],
+            "values": {
+                "default":0,
+                "off":1,
+                "on":2
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Customizable Options"
+        },
+        "permadeath":{
+            "type": "Choice",
+            "display_name": "Permadeath",
+            "description": [
+                "Save will be lost on death."
+            ],
+            "values": {
+                "default":0,
+                "off":1,
+                "on":2
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Customizable Options"
+        },
+        "locale":{
+            "type": "Choice",
+            "display_name": "Locale",
+            "description": [
+                "Locales will appear. (COMING EVENTUALLY)"
+            ],
+            "values": {
+                "default":0,
+                "off":1,
+                "on":2
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Customizable Options"
+        },
+        "dupe":{
+            "type": "Choice",
+            "display_name": "Dupe",
+            "description": [
+                "Monsters can multichase with copies of themselves. Only some monsters can if canon is chosen when it fits with their lore."
+            ],
+            "values": {
+                "default":0,
+                "always":1,
+                "canon":2,
+                "never":3
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Customizable Options"
+        },
+        "rare_chance":{
+            "type": "Choice",
+            "display_name": "Rare Chance",
+            "description": [
+                "How common rare rooms are when the player isn't being chased."
+            ],
+            "values": {
+                "disabled":-1
+             },
+            "default": 0,
+            "allow_custom_value": true,
+            "group": "Customizable Options"
+        },
+        "specimens":{
+            "type": "Choice",
+            "display_name": "Specimens",
+            "description": [
+                "Which specimens from Story Mode can appear in the chase pool. Story lacks unused specimens. Original endless lacks flesh, mermaid, and unused specimens. Beta replaces used specimens with their unused counterparts. No Ringu is for use with Endless Ringu."
+            ],
+            "values": {
+                "default":0,
+                "none":1,
+                "all":2,
+                "story":3,
+                "beta":4,
+                "no ringu":5,
+                "original":6
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Customizable Options"
+        },
+        "monsters":{
+            "type": "Choice",
+            "display_name": "Crouch",
+            "description": [
+                "Which monsters from Karamari Hospital can appear in the chase pool. There is no difference if Karamari Hospital is not present. HD Renovation lacks Security Guard. Original lacks both Security Guard and Body Bag."
+            ],
+            "values": {
+                "default":0,
+                "none":1,
+                "all":2,
+                "original":3,
+                "renovation":4
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Customizable Options"
+        },
+        "dolls":{
+            "type": "Choice",
+            "display_name": "Dolls",
+            "description": [
+                "Which dolls from Dollhouse can appear in the chase pool. HD Renovation lacks Frenzy."
+            ],
+            "values": {
+                "default":0,
+                "none":1,
+                "all":2,
+                "renovation":3
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Customizable Options"
+        },
+        "em_specimens":{
+            "type": "Choice",
+            "display_name": "EM Specimens",
+            "description": [
+                "Which Endless Specimens can appear in the chase pool."
+            ],
+            "values": {
+                "default":0,
+                "none":1,
+                "all":2
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Customizable Options"
+        },
+        "unknowns":{
+            "type": "Choice",
+            "display_name": "Unknowns",
+            "description": [
+                "Which Unknown Specimens can appear in the chase pool."
+            ],
+            "values": {
+                "default":0,
+                "none":1,
+                "all":2
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Customizable Options"
+        },
+        "one_shot":{
+            "type": "Choice",
+            "display_name": "One Shot",
+            "description": [
+                "Players will die in one shot for an extra spicy challenge."
+            ],
+            "values": {
+                "default":0,
+                "off":1,
+                "on":2
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Customizable Options"
+        },
+        "player":{
+            "type": "Choice",
+            "display_name": "Player",
+            "description": [
+                "You, the player.",
+                "Recode: Accelerates and moves the same speed in all directions.",
+                "Original: Accelerates and moves slower when not moving forward.",
+                "Renovation: Doesn't accelerate and moves the same speed in all directions, although at a significantly slower pace."
+            ],
+            "values": {
+                "default":0,
+                "recode":1,
+                "original":2,
+                "renovation":3
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Behavior Options"
+        },
+        "axe":{
+            "type": "Choice",
+            "display_name": "Axe",
+            "description": [
+                "The axe.",
+                "Recode: Can be swung instantly.",
+                "Original: Can be swung instantly.",
+                "Renovation: 10 stamina is required to raise and has a short delay before being swung."
+            ],
+            "values": {
+                "default":0,
+                "recode":1,
+                "original":2,
+                "renovation":3
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Behavior Options"
+        },
+        "cardboard":{
+            "type": "Choice",
+            "display_name": "Cardboard",
+            "description": [
+                "The cardboard jumpscare",
+                "Recode: Has quick animation and stops the player in place when not being chased.",
+                "Original: No animation and stops the player no matter what.",
+                "Renovation: Has animation and stops the player no matter what.",
+                "Alternate: Has animation and forces the player to look at it."
+            ],
+            "values": {
+                "default":0,
+                "recode":1,
+                "original":2,
+                "renovation":3,
+                "Alternate":4
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Behavior Options"
+        },
+        "howard":{
+            "type": "Choice",
+            "display_name": "Howard",
+            "description": [
+                "The strange jumpscare.",
+                "Recode: The door is progressed by going around the loop, and shows its progress.",
+                "Original: The door is progressed by interacting with it.",
+                "Renovation: The door is progressed by going around the loop and interacting with the note."
+            ],
+            "values": {
+                "default":0,
+                "recode":1,
+                "original":2,
+                "renovation":3
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Behavior Options"
+        },
+        "gel":{
+            "type": "Choice",
+            "display_name": "Gel",
+            "description": [
+                "The semisolid spectre that creats puddles.",
+                "Recode: Floats over pits and spawns from puddles.",
+                "Original: Floats through walls.",
+                "Renovation: Floats over pits, spawns from puddles, moves much faster, and has an attack delay."
+            ],
+            "values": {
+                "default":0,
+                "recode":1,
+                "original":2,
+                "renovation":3
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Behavior Options"
+        },
+        "brain":{
+            "type": "Choice",
+            "display_name": "Brain",
+            "description": [
+                "The bitter former specimen.",
+                "Recode: Taunts the player and predicts their movements in endless mode.",
+                "Original: Almost guaranteed to kill the player once released.",
+                "Renovation: Almost guaranteed to kill the player once released."
+            ],
+            "values": {
+                "default":0,
+                "recode":1,
+                "original":2,
+                "renovation":3
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Behavior Options"
+        },
+        "centipede":{
+            "type": "Choice",
+            "display_name": "Centipede",
+            "description": [
+                "The spider centipede hybrid that burrows.",
+                "Recode: Guaranteed to spawn from holes and accelerates quickly.",
+                "Original: Has a chance to spawn from holes and moves slowly.",
+                "Renovation: Guaranteed to spawn from holes and accelerates quickly.",
+                "Gone Rogue: From the mod Gone Rogue. Gains speed linearly, making them much more hazardous."
+            ],
+            "values": {
+                "default":0,
+                "recode":1,
+                "original":2,
+                "renovation":3,
+                "gone rogue":4
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Behavior Options"
+        },
+        "pride":{
+            "type": "Choice",
+            "display_name": "Pride",
+            "description": [
+                "Rooms have a rare chance to take on the appearance of various pride flags. Trans makes it only trans and trans adjacent flags."
+            ],
+            "values": {
+                "off":0,
+                "on":1,
+                "trans":2
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Fun Options"
+        },
+        "halloween":{
+            "type": "Toggle",
+            "display_name": "Halloween",
+            "description": [
+                "Rooms have a rare chance to be orange, green, or purple. Pumpkin and candy corn jumpscares are more common."
+            ],
+            "default": false,
+            "group": "Fun Options"
+        },
+        "easter":{
+            "type": "Toggle",
+            "display_name": "Easter",
+            "description": [
+                "Chance to have easter themed jumpscares."
+            ],
+            "default": false,
+            "group": "Fun Options"
+        },
+        "reset_speed":{
+            "type": "Choice",
+            "display_name": "Reset Speed",
+            "description": [
+                "Reset speed multiplier when certain events occur. Locale includes monster spawns and locales."
+            ],
+            "values": {
+                "off":0,
+                "monster":1,
+                "locale":2
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Settings"
+        },
+        "random_theme":{
+            "type": "Toggle",
+            "display_name": "Random Theme",
+            "description": [
+                "Randomize theme when monsters spawn, including sometimes not playing."
+            ],
+            "default": false
+        },
+        "themes":{
+            "type": "Choice",
+            "display_name": "Themes",
+            "description": [
+                "Classic makes monsters use their original themes rather than unused or custom themes, which affects the Eel, Bodybag, and Woormy Charles. Rom M will use the remixes made by Rom M where applicable."
+            ],
+            "values": {
+                "recode":0,
+                "classic":1,
+                "rom m":2
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Settings"
+        },
+        "killer_voice":{
+            "type": "Choice",
+            "display_name": "Killer Voice",
+            "description": [
+                "Killer voice to use. Voiced by Vernon Shaw, DirectorFlik, Spook Lass, and Ryan J respectively. Vernon Shaw might've been cancelled for something, we don't know."
+            ],
+            "values": {
+                "original":0,
+                "renovation":1,
+                "recode":2,
+                "ryan":3
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Settings"
         }
     }
 }
