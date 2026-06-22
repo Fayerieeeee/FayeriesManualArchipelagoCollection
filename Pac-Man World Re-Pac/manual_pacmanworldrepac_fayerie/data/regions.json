@@ -1,7 +1,7 @@
 {
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
-  "t": {
+  "Buccaneer Beach": {
     "connects_to": [],
-    "requires": ""
+    "requires": "|Pirate Ship Area Key| OR |1-1 Buccaneer Beach Episode|"
   }
 }

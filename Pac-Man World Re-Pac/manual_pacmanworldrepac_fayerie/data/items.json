@@ -3,9 +3,273 @@
   "data": [
     {
       "count": 1,
-      "name": "t",
-      "category": [],
+      "name": "Pirate Ship Area Key",
+      "category": ["Areas"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ruins Area Key",
+      "category": ["Areas"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Space Area Key",
+      "category": ["Areas"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Funhouse Area Key",
+      "category": ["Areas"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Factory Area Key",
+      "category": ["Areas"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Boss Mansion Area Key",
+      "category": ["Areas"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "1-1 Buccaneer Beach Episode",
+      "category": ["Episodes"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "1-2 Corsair's Cove Episode",
+      "category": ["Episodes"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "1-3 Crazy Cannonade Episode",
+      "category": ["Episodes"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "1-4 HMS Windbag Episode",
+      "category": ["Episodes"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "2-1 Crisis Cavern Episode",
+      "category": ["Episodes"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "2-2 Manic Mines Episode",
+      "category": ["Episodes"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "2-3 Anubis Rex Episode",
+      "category": ["Episodes"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "3-1 Space Race Episode",
+      "category": ["Episodes"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "3-2 Far Out Episode",
+      "category": ["Episodes"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "3-3 Gimme Space Episode",
+      "category": ["Episodes"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "3-4 King Galaxian Episode",
+      "category": ["Episodes"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "4-1 Clowning Around Episode",
+      "category": ["Episodes"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "4-2 Barrel Blast Episode",
+      "category": ["Episodes"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "4-3 Spin Dizzy Episode",
+      "category": ["Episodes"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "4-4 Clown Prix Episode",
+      "category": ["Episodes"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "5-1 Perilous Pipes Episode",
+      "category": ["Episodes"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "5-2 Under Pressure Episode",
+      "category": ["Episodes"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "5-3 Down the Tubes Episode",
+      "category": ["Episodes"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "5-4 Krome Keeper Episode",
+      "category": ["Episodes"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "6-1 Ghostly Garden Episode",
+      "category": ["Episodes"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "6-2 Creepy Catacombs Episode",
+      "category": ["Episodes"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "6-3 Grave Danger Episode",
+      "category": ["Episodes"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Pooka",
+      "category": ["Family Members"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Pac-Buddy",
+      "category": ["Family Members"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Professor Pac",
+      "category": ["Family Members"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Pac-Sis",
+      "category": ["Family Members", "Legally Distinct"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Pac-Baby",
+      "category": ["Family Members", "Original Names"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Pac-Boy",
+      "category": ["Family Members", "Legally Distinct"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Pac-Man Jr.",
+      "category": ["Family Members", "Original Names"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Pac-Mom",
+      "category": ["Family Members", "Legally Distinct"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ms. Pac-Man",
+      "category": ["Family Members", "Original Names"],
+      "progression": true
+    },
+    {
+      "count": 6,
+      "name": "Progressive Pirate Ship Maze",
+      "category": ["Mazes"],
+      "progression": true
+    },
+    {
+      "count": 6,
+      "name": "Progressive Ruins Maze",
+      "category": ["Mazes"],
+      "progression": true
+    },
+    {
+      "count": 6,
+      "name": "Progressive Space Maze",
+      "category": ["Mazes"],
+      "progression": true
+    },
+    {
+      "count": 6,
+      "name": "Progressive Funhouse Maze",
+      "category": ["Mazes"],
+      "progression": true
+    },
+    {
+      "count": 6,
+      "name": "Progressive Factory Maze",
+      "category": ["Mazes"],
+      "progression": true
+    },
+    {
+      "count": 6,
+      "name": "Progressive Boss Mansion Maze",
+      "category": ["Mazes"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Metal-Dot",
+      "category": ["Power-Ups"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Pac-Man Arcade Machine",
+      "category": ["Misc"],
       "filler": true
-    }
+    },
   ]
 }

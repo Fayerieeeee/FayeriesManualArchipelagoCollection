@@ -2,9 +2,160 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
   "data": [
     {
-      "name": "t",
-      "category": [],
+      "name": "Buccaneer Beach - Cherry First Minimaze",
+      "region": "Buccaneer Beach",
+      "category": ["!! Fruits", "Buccaneer Beach"],
       "requires": ""
-    }
+    },
+    {
+      "name": "Buccaneer Beach - Strawberry First Minimaze",
+      "region": "Buccaneer Beach",
+      "category": ["!! Fruits", "Buccaneer Beach"],
+      "requires": ""
+    },
+    {
+      "name": "Buccaneer Beach - Minimaze #1 Clear",
+      "region": "Buccaneer Beach",
+      "category": ["!! Minimazes", "Buccaneer Beach"],
+      "requires": ""
+    },
+    {
+      "name": "Buccaneer Beach - Bananas Above 4 Boxes #1",
+      "region": "Buccaneer Beach",
+      "category": ["!! Fruits", "Buccaneer Beach"],
+      "requires": ""
+    },
+    {
+      "name": "Buccaneer Beach - Bananas Above 4 Boxes #2",
+      "region": "Buccaneer Beach",
+      "category": ["!! Fruits", "Buccaneer Beach"],
+      "requires": ""
+    },
+    {
+      "name": "Buccaneer Beach - Slot Medal Near Tutorial Sign",
+      "region": "Buccaneer Beach",
+      "category": ["!! Medals", "Buccaneer Beach"],
+      "requires": ""
+    },
+    {
+      "name": "Buccaneer Beach - Cherry Above Water #1",
+      "region": "Buccaneer Beach",
+      "category": ["!! Fruits", "Buccaneer Beach"],
+      "requires": ""
+    },
+    {
+      "name": "Buccaneer Beach - Cherry Above Water #2",
+      "region": "Buccaneer Beach",
+      "category": ["!! Fruits", "Buccaneer Beach"],
+      "requires": ""
+    },
+    {
+      "name": "Buccaneer Beach - Cherry Above Water #3",
+      "region": "Buccaneer Beach",
+      "category": ["!! Fruits", "Buccaneer Beach"],
+      "requires": ""
+    },
+    {
+      "name": "Buccaneer Beach - Cherry Above Water #4",
+      "region": "Buccaneer Beach",
+      "category": ["!! Fruits", "Buccaneer Beach"],
+      "requires": ""
+    },
+    {
+      "name": "Buccaneer Beach - Cherry Above Water #5",
+      "region": "Buccaneer Beach",
+      "category": ["!! Fruits", "Buccaneer Beach"],
+      "requires": ""
+    },
+    {
+      "name": "Buccaneer Beach - Slot Medal Under Cherry Water",
+      "region": "Buccaneer Beach",
+      "category": ["!! Medals", "Buccaneer Beach"],
+      "requires": ""
+    },
+    {
+      "name": "Buccaneer Beach - 1up Underwater Chest",
+      "region": "Buccaneer Beach",
+      "category": ["!! 1ups", "Buccaneer Beach"],
+      "requires": "|Metal-Dot|"
+    },
+    {
+      "name": "Buccaneer Beach - Orange Above Water #1",
+      "region": "Buccaneer Beach",
+      "category": ["!! Fruits", "Buccaneer Beach"],
+      "requires": ""
+    },
+    {
+      "name": "Buccaneer Beach - Orange Above Water #2",
+      "region": "Buccaneer Beach",
+      "category": ["!! Fruits", "Buccaneer Beach"],
+      "requires": ""
+    },
+    {
+      "name": "Buccaneer Beach - Orange Above Water #3",
+      "region": "Buccaneer Beach",
+      "category": ["!! Fruits", "Buccaneer Beach"],
+      "requires": ""
+    },
+    {
+      "name": "Buccaneer Beach - Checkpoint #1",
+      "region": "Buccaneer Beach",
+      "category": ["!! Checkpoints", "Buccaneer Beach"],
+      "requires": ""
+    },
+    {
+      "name": "Buccaneer Beach - Checkpoint #2",
+      "region": "Buccaneer Beach",
+      "category": ["!! Checkpoints", "Buccaneer Beach"],
+      "requires": ""
+    },
+    {
+      "name": "Buccaneer Beach - Checkpoint #3",
+      "region": "Buccaneer Beach",
+      "category": ["!! Checkpoints", "Buccaneer Beach"],
+      "requires": ""
+    },
+    {
+      "name": "Buccaneer Beach - Checkpoint #4",
+      "region": "Buccaneer Beach",
+      "category": ["!! Checkpoints", "Buccaneer Beach"],
+      "requires": ""
+    },
+    {
+      "name": "Buccaneer Beach - 1up Chest Button 1",
+      "region": "Buccaneer Beach",
+      "category": ["!! 1ups", "Buccaneer Beach"],
+      "requires": ""
+    },
+    {
+      "name": "Buccaneer Beach - Slot Medal Pac-Dot Trail",
+      "region": "Buccaneer Beach",
+      "category": ["!! Medals", "Buccaneer Beach"],
+      "requires": ""
+    },
+    {
+      "name": "Buccaneer Beach - Apple Chest Near Apple Door",
+      "region": "Buccaneer Beach",
+      "category": ["!! Fruits", "Buccaneer Beach"],
+      "requires": ""
+    },
+    {
+      "name": "Buccaneer Beach - Minimaze #2 Clear",
+      "region": "Buccaneer Beach",
+      "category": ["!! Minimazes", "Buccaneer Beach"],
+      "requires": "|Apple Keys|"
+    },
+    {
+      "name": "Buccaneer Beach - Melon Above Toc-Man Statue",
+      "region": "Buccaneer Beach",
+      "category": ["!! Fruits", "Buccaneer Beach"],
+      "requires": ""
+    },
+    {
+      "name": "Buccaneer Beach Cleared",
+      "region": "Buccaneer Beach",
+      "category": ["!! Clears", "Buccaneer Beach"],
+      "requires": ""
+    },
   ]
 }
