@@ -1,0 +1,649 @@
+[
+  {
+    "count": 11,
+    "name": "Progressive Elevator",
+    "category": [
+      "Elevators"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Elevator Malfunction",
+    "category": [
+      "Elevators"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Doll",
+    "category": [
+      "Dollhouse Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 24,
+    "name": "Progressive Endless Elevator",
+    "category": [
+      "Elevators",
+      "Endless Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mrs. Spook Arcade Machine",
+    "category": [
+      "Mansion Items",
+      "Minigames"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mall of the Spook Arcade Machine",
+    "category": [
+      "Mansion Items",
+      "Minigames"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Spooky Kart Arcade Machine",
+    "category": [
+      "Mansion Items",
+      "Minigames"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Secret Code (1235)",
+    "category": [
+      "Mansion Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "CAT-DOS",
+    "category": [
+      "Mansion Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Secure Central Access Resource for Employees (SCARE)",
+    "category": [
+      "Mansion Items",
+      "Endless Mode"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Axe",
+    "category": [
+      "Mansion Items",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sword",
+    "category": [
+      "Karamari Hospital Items",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gun",
+    "category": [
+      "Dollhouse Items",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Office Key",
+    "category": [
+      "Karamari Hospital Items",
+      "KH Single Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Maintenance Key",
+    "category": [
+      "Karamari Hospital Items",
+      "KH Single Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Medallion",
+    "category": [
+      "Karamari Hospital Items",
+      "KH Single Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Isolation Ward Key",
+    "category": [
+      "Karamari Hospital Items",
+      "KH Single Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hospital Exit Key",
+    "category": [
+      "Karamari Hospital Items",
+      "KH Single Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Acid",
+    "category": [
+      "Karamari Hospital Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Deformity Wing Key",
+    "category": [
+      "Karamari Hospital Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sunshine Academy",
+    "category": [
+      "Karamari Hospital Items",
+      "Minigames",
+      "Sunshine Academy"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 5,
+    "name": "Progressive Hospital",
+    "category": [
+      "Karamari Hospital Items",
+      "KH Progressive Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "West Wing Key",
+    "category": [
+      "Dollhouse Items",
+      "DH Single Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Winding Clock Key",
+    "category": [
+      "Dollhouse Items",
+      "DH Single Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bolt Cutters",
+    "category": [
+      "Dollhouse Items",
+      "DH Single Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Melted Doll Hands",
+    "category": [
+      "Dollhouse Items",
+      "DH Single Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Doug Arcade Machine",
+    "category": [
+      "Dollhouse Items",
+      "Minigames"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "GL LABS Key Card",
+    "category": [
+      "Dollhouse Items",
+      "DH Single Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 3,
+    "name": "Black Candle",
+    "category": [
+      "Dollhouse Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 5,
+    "name": "Progressive Dollhouse",
+    "category": [
+      "Dollhouse Items",
+      "DH Progressive Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dollhouse Map",
+    "category": [
+      "Dollhouse Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Tea Room",
+    "category": [
+      "Dollhouse Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Activate Next Specimen 1 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Big Room 1 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Big Room 2 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Big Room 3 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Big Room 4 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Big Room 5 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Big Room 6 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Big Room 7 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Big Room 8 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 25,
+    "name": "Bonus Health",
+    "category": [
+      "Crowd Control"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Clown Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Clown Time Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Flip Screen Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 25,
+    "name": "Temporary Gun",
+    "category": [
+      "Crowd Control"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Hooked Doll Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Husk Swarm Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Invert Controls Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Monster 5 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Monster 6 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Monster 3 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Monster 2 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Pause Room Count Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Spawn Specimen 1 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Specimen 10 Overlay Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Specimen 4 Overlay (Endless) Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Specimen 8 Overlay Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Specimen 8 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Specimen 11 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Specimen 5 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Specimen 4 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Specimen 4 (Endless) Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Specimen 6 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Specimen 10 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Specimen 13 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Specimen 3 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Specimen 12 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Specimen 2 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Tirsiak Overlay Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Unknown Specimen 5 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Unknown Specimen 4 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Unknown Specimen 1 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Unknown Specimen 3 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Unknown Specimen 2 Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Unlimited Stamina Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  },
+  {
+    "count": 25,
+    "name": "Unlimited Stamina",
+    "category": [
+      "Crowd Control"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Woormy Charles Trap",
+    "category": [
+      "Crowd Control"
+    ],
+    "trap": true
+  }
+]

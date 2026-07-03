@@ -1,0 +1,66 @@
+{
+  "Story Mode": {
+    "starting": true,
+    "connects_to": [
+      "Speedy Challenge",
+      "Stealthy Challenge",
+      "Grapple Challenge",
+      "Custom Mode",
+      "Goal!"
+    ],
+    "requires": "|Story Pass|"
+  },
+  "Speedy Challenge": {
+    "connects_to": [],
+    "requires": "|Challenge Pass:1|"
+  },
+  "Stealthy Challenge": {
+    "connects_to": [],
+    "requires": "|Challenge Pass:2| AND (|Secret Formula| AND |Dirty Chalk Eraser|)"
+  },
+  "Grapple Challenge": {
+    "connects_to": [],
+    "requires": "|Challenge Pass:3| AND |Grappling Hook|"
+  },
+  "Custom Mode": {
+    "connects_to": [],
+    "requires": "|Custom Pass|"
+  },
+  "Camping": {
+    "starting": true,
+    "connects_to": [
+      "Farm Maze"
+    ],
+    "requires": "|Bus Pass:1|"
+  },
+  "Farm Maze": {
+    "connects_to": [
+      "Barn"
+    ],
+    "requires": "|Bus Pass:2|"
+  },
+  "Barn": {
+    "connects_to": [
+      "Goal!"
+    ],
+    "requires": "|Bus Pass:3|"
+  },
+  "Birthday Bash": {
+    "starting": true,
+    "connects_to": [
+      "Goal!"
+    ],
+    "requires": "|Birthday Pass|"
+  },
+  "Hide & Seek": {
+    "starting": true,
+    "connects_to": [
+      "Goal!"
+    ],
+    "requires": "|H&S Pass|"
+  },
+  "Goal!": {
+    "connects_to": [],
+    "requires": []
+  }
+}

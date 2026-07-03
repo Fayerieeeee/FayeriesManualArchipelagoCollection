@@ -1,0 +1,9147 @@
+[
+  {
+    "name": "Room 50 Save Point",
+    "region": "Mansion 50",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion 1st Elevator"
+  },
+  {
+    "name": "Room 100 Save Point",
+    "region": "Mansion 100",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion 2nd Elevator"
+  },
+  {
+    "name": "Room 150 Save Point",
+    "region": "Mansion 150",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion 3rd Elevator"
+  },
+  {
+    "name": "Room 200 Save Point",
+    "region": "Mansion 200",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion 4th Elevator"
+  },
+  {
+    "name": "Room 250 Save Point",
+    "region": "Mansion 250",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Quarter Checkpoint"
+  },
+  {
+    "name": "Room 300 Save Point",
+    "region": "Mansion 300",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion 5th Elevator"
+  },
+  {
+    "name": "Room 400 Save Point",
+    "region": "Mansion 400",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion 6th Elevator"
+  },
+  {
+    "name": "Room 500 Save Point",
+    "region": "Mansion 500",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Halfway Checkpoint"
+  },
+  {
+    "name": "Room 600 Save Point",
+    "region": "Mansion 600",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion 7th Elevator"
+  },
+  {
+    "name": "Room 700 Save Point",
+    "region": "Mansion 700",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion 8th Elevator"
+  },
+  {
+    "name": "Room 750 Save Point",
+    "region": "Mansion 750",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Three-Quarter Checkpoint"
+  },
+  {
+    "name": "Room 800 Save Point",
+    "region": "Mansion 800",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion 9th Elevator"
+  },
+  {
+    "name": "Room 900 Save Point",
+    "region": "Mansion 900",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion 10th Elevator"
+  },
+  {
+    "name": "Room 995 Save Point",
+    "region": "Mansion 995",
+    "category": [
+      "!! Save Points",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Final Elevator"
+  },
+  {
+    "name": "Hospital Save Point",
+    "region": "Hospital",
+    "category": [
+      "!! Save Points",
+      "Karamari Hospital"
+    ],
+    "requires": "",
+    "hint_entrance": "Karamari Hospital Entrance"
+  },
+  {
+    "name": "Dollhouse Save Point",
+    "region": "Dollhouse",
+    "category": [
+      "!! Save Points",
+      "Dollhouse"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Dollhouse Entrance"
+  },
+  {
+    "name": "Endless Room 100 Save Point",
+    "region": "Endless 100",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 200 Save Point",
+    "region": "Endless 200",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 300 Save Point",
+    "region": "Endless 300",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 400 Save Point",
+    "region": "Endless 400",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 500 Save Point",
+    "region": "Endless 500",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 600 Save Point",
+    "region": "Endless 600",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 700 Save Point",
+    "region": "Endless 700",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 800 Save Point",
+    "region": "Endless 800",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 900 Save Point",
+    "region": "Endless 900",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 1000 Save Point",
+    "region": "Endless 1000",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 1100 Save Point",
+    "region": "Endless 1100",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 1200 Save Point",
+    "region": "Endless 1200",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 1300 Save Point",
+    "region": "Endless 1300",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 1400 Save Point",
+    "region": "Endless 1400",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 1500 Save Point",
+    "region": "Endless 1500",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 1600 Save Point",
+    "region": "Endless 1600",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 1700 Save Point",
+    "region": "Endless 1700",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 1800 Save Point",
+    "region": "Endless 1800",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 1900 Save Point",
+    "region": "Endless 1900",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 2000 Save Point",
+    "region": "Endless 2000",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 2100 Save Point",
+    "region": "Endless 2100",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 2200 Save Point",
+    "region": "Endless 2200",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 2300 Save Point",
+    "region": "Endless 2300",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 2400 Save Point",
+    "region": "Endless 2400",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Endless Room 2500 Save Point",
+    "region": "Endless 2500",
+    "category": [
+      "!! Save Points",
+      "Endless Mansion",
+      "Endless Mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Specimen 2 Locale",
+    "region": "Mansion 100",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 60"
+  },
+  {
+    "name": "Specimen 3 Locale",
+    "region": "Mansion 150",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 120"
+  },
+  {
+    "name": "Specimen 4 Locale",
+    "region": "Mansion 200",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 160"
+  },
+  {
+    "name": "Specimen 5 Locale",
+    "region": "Mansion 250",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 210"
+  },
+  {
+    "name": "Specimen 6 Locale",
+    "region": "Mansion 400",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 310"
+  },
+  {
+    "name": "Specimen 7 Locale",
+    "region": "Mansion 500",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 410"
+  },
+  {
+    "name": "Specimen 8 Locale",
+    "region": "Mansion 600",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 550"
+  },
+  {
+    "name": "Specimen 10 Locale",
+    "region": "Mansion 700",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 610"
+  },
+  {
+    "name": "Specimen 11 Locale",
+    "region": "Mansion 800",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 710"
+  },
+  {
+    "name": "Specimen 12 Locale",
+    "region": "Mansion 900",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 810"
+  },
+  {
+    "name": "Specimen 13 Locale",
+    "region": "Mansion 995",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 910"
+  },
+  {
+    "name": "Mrs. Spook",
+    "region": "Mansion 995",
+    "category": [
+      "!! Minigames",
+      "Spooky's Mansion"
+    ],
+    "requires": "|Mrs. Spook Arcade Machine|",
+    "hint_entrance": "Spooky's Mansion Arcade Room (RNG)"
+  },
+  {
+    "name": "Mall of the Spook",
+    "region": "Mansion 995",
+    "category": [
+      "!! Minigames",
+      "Spooky's Mansion"
+    ],
+    "requires": "|Mall of the Spook Arcade Machine|",
+    "hint_entrance": "Spooky's Mansion Arcade Room (RNG)"
+  },
+  {
+    "name": "Spooky Kart",
+    "region": "Mansion 995",
+    "category": [
+      "!! Minigames",
+      "Spooky's Mansion"
+    ],
+    "requires": "|Spooky Kart Arcade Machine|",
+    "hint_entrance": "Spooky's Mansion Arcade Room (RNG)"
+  },
+  {
+    "name": "Secret Arcade Machine",
+    "region": "Mansion 995",
+    "category": [
+      "!! Locales",
+      "Spooky's Mansion"
+    ],
+    "requires": "|Secret Code (1235)|",
+    "hint_entrance": "Spooky's Mansion Arcade Room (RNG)"
+  },
+  {
+    "name": "Specimen 9 Defeated",
+    "region": "Mansion 1000",
+    "category": [
+      "!! Endings",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 1000"
+  },
+  {
+    "name": "Specimen 3 Card Key",
+    "region": "Mansion 150",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 120"
+  },
+  {
+    "name": "Spooky's 'Gift'",
+    "region": "Mansion 250",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Quarter Checkpoint"
+  },
+  {
+    "name": "Specimen 6 Key 1",
+    "region": "Mansion 400",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 310"
+  },
+  {
+    "name": "Specimen 6 Key 2",
+    "region": "Mansion 400",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 310"
+  },
+  {
+    "name": "Axe",
+    "region": "Mansion 600",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Specimen 8 Locale"
+  },
+  {
+    "name": "Specimen 8 Key",
+    "region": "Mansion 600",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "|Axe|",
+    "hint_entrance": "Spooky's Mansion Room 557"
+  },
+  {
+    "name": "Specimen 11 Key Toilet",
+    "region": "Mansion 750",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 710"
+  },
+  {
+    "name": "Specimen 11 Key Playhouse",
+    "region": "Mansion 750",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 710"
+  },
+  {
+    "name": "Specimen 11 Key Meat Locker",
+    "region": "Mansion 750",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 710"
+  },
+  {
+    "name": "Spooky's Spell",
+    "region": "Mansion 900",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room Three-Quarter Checkpoint"
+  },
+  {
+    "name": "Specimen 12 Key Bedroom",
+    "region": "Mansion 900",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 810"
+  },
+  {
+    "name": "Specimen 12 Dropped Key",
+    "region": "Mansion 900",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 810"
+  },
+  {
+    "name": "Specimen 12 Key Books",
+    "region": "Mansion 900",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 810"
+  },
+  {
+    "name": "Specimen 12 Fake Book",
+    "region": "Mansion 900",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 810"
+  },
+  {
+    "name": "Specimen 12 Key Basement",
+    "region": "Mansion 900",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 810"
+  },
+  {
+    "name": "Specimen 13 Lantern",
+    "region": "Mansion 995",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 910"
+  },
+  {
+    "name": "Specimen 13 Key Num-Locked Room",
+    "region": "Mansion 995",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 910"
+  },
+  {
+    "name": "Specimen 13 Key Flooded Room",
+    "region": "Mansion 995",
+    "category": [
+      "!! Item Pickups",
+      "Spooky's Mansion",
+      "itemsanity"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Mansion Room 910"
+  },
+  {
+    "name": "Office Key",
+    "region": "Hospital",
+    "category": [
+      "!! Item Pickups",
+      "Karamari Hospital"
+    ],
+    "requires": "",
+    "hint_entrance": "Karamari Hospital Break Room"
+  },
+  {
+    "name": "Sword Painting",
+    "region": "Hospital",
+    "category": [
+      "!! Item Pickups",
+      "Karamari Hospital"
+    ],
+    "requires": "|Office Key| OR |Progressive Hospital:1|",
+    "hint_entrance": "Karamari Hospital 2nd Left Office"
+  },
+  {
+    "name": "Maintenance Key",
+    "region": "Hospital",
+    "category": [
+      "!! Item Pickups",
+      "Karamari Hospital"
+    ],
+    "requires": "|Office Key| OR |Progressive Hospital:1|",
+    "hint_entrance": "Karamari Hospital 3rd Left Office"
+  },
+  {
+    "name": "Acid",
+    "region": "Hospital",
+    "category": [
+      "!! Item Pickups",
+      "Karamari Hospital"
+    ],
+    "requires": "(|Office Key| AND |Maintenance Key|) OR |Progressive Hospital:2|",
+    "hint_entrance": "Karamari Hospital Rightside Morgue"
+  },
+  {
+    "name": "Medallion",
+    "region": "Hospital",
+    "category": [
+      "!! Item Pickups",
+      "Karamari Hospital"
+    ],
+    "requires": "(|Office Key| AND |Maintenance Key|) OR |Progressive Hospital:2|",
+    "hint_entrance": "Karamari Hospital Leftside Morgue"
+  },
+  {
+    "name": "Sunshine Academy Ending",
+    "region": "Hospital",
+    "category": [
+      "!! Minigames",
+      "Karamari Hospital",
+      "Sunshine Academy"
+    ],
+    "requires": "(|Office Key| AND |Maintenance Key| AND |Medallion|) OR (|Progressive Hospital:3|) AND |Sunshine Academy|",
+    "hint_entrance": "Karamari Hospital Basement"
+  },
+  {
+    "name": "Isolation Ward Key",
+    "region": "Hospital",
+    "category": [
+      "!! Item Pickups",
+      "Karamari Hospital"
+    ],
+    "requires": "(|Office Key| AND |Maintenance Key| AND |Medallion|) OR |Progressive Hospital:3|",
+    "hint_entrance": "Karamari Hospital Basement"
+  },
+  {
+    "name": "Hospital Exit Key",
+    "region": "Hospital",
+    "category": [
+      "!! Item Pickups",
+      "Karamari Hospital"
+    ],
+    "requires": "(|Office Key| AND |Maintenance Key| AND |Medallion| AND |Isolation Ward Key|) OR |Progressive Hospital:4|",
+    "hint_entrance": "Karamari Hospital Maze Exit"
+  },
+  {
+    "name": "Karamari Hospital Clear",
+    "region": "Hospital",
+    "category": [
+      "!! Endings",
+      "Karamari Hospital"
+    ],
+    "requires": "(|Office Key| AND |Maintenance Key| AND |Medallion| AND |Isolation Ward Key| AND |Hospital Exit Key|) OR |Progressive Hospital:5|",
+    "hint_entrance": "Karamari Hospital Exit"
+  },
+  {
+    "name": "Monster 1 Defeated",
+    "region": "Hospital",
+    "category": [
+      "!! Monster Defeats",
+      "Karamari Hospital"
+    ],
+    "requires": "(|Sword| AND |Office Key| AND |Maintenance Key|) OR (|Sword| AND |Progressive Hospital:2|)",
+    "hint_entrance": "Karamari Hospital Blackout Main Hallway"
+  },
+  {
+    "name": "Monster 2 Defeated",
+    "region": "Hospital",
+    "category": [
+      "!! Monster Defeats",
+      "Karamari Hospital"
+    ],
+    "requires": "(|Sword| AND |Office Key| AND |Maintenance Key| AND |Medallion|) OR (|Sword| AND |Progressive Hospital:3|)",
+    "hint_entrance": "Karamari Hospital Morgue Wrongwarp"
+  },
+  {
+    "name": "Monster 3 Defeated",
+    "region": "Hospital",
+    "category": [
+      "!! Monster Defeats",
+      "Karamari Hospital"
+    ],
+    "requires": "(|Sword| AND |Office Key| AND |Maintenance Key| AND |Medallion|) OR (|Sword| AND |Progressive Hospital:3|)",
+    "hint_entrance": "Karamari Hospital Basement"
+  },
+  {
+    "name": "Monster 4 Defeated",
+    "region": "Hospital",
+    "category": [
+      "!! Monster Defeats",
+      "Karamari Hospital"
+    ],
+    "requires": "(|Sword| AND |Office Key| AND |Maintenance Key| AND |Medallion|) OR (|Sword| AND |Progressive Hospital:3|)",
+    "hint_entrance": "Karamari Hospital Basement"
+  },
+  {
+    "name": "Monster 5 Defeated",
+    "region": "Hospital",
+    "category": [
+      "!! Monster Defeats",
+      "Karamari Hospital"
+    ],
+    "requires": "(|Sword| AND |Office Key| AND |Maintenance Key| AND |Medallion| AND |Isolation Ward Key|) OR (|Sword| AND |Progressive Hospital:4|)",
+    "hint_entrance": "Karamari Hospital Isolation Ward Maze"
+  },
+  {
+    "name": "Dollhouse Map",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Dollhouse Dining Room"
+  },
+  {
+    "name": "Doll",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Dollhouse Dining Room"
+  },
+  {
+    "name": "West Wing Key",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "",
+    "hint_entrance": "Spooky's Dollhouse Piano Room"
+  },
+  {
+    "name": "Winding Clock Key",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "|West Wing Key| OR |Progressive Dollhouse:1|",
+    "hint_entrance": "Spooky's Dollhouse Storage Room"
+  },
+  {
+    "name": "Woormy Charles Defeated",
+    "region": "Dollhouse",
+    "category": [
+      "!! Monster Defeats",
+      "Dollhouse"
+    ],
+    "requires": "(|Axe| AND |West Wing Key|) OR (|Axe| AND |Progressive Dollhouse:1|)",
+    "hint_entrance": "Spooky's Dollhouse Storage Room"
+  },
+  {
+    "name": "Bolt Cutters",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "(|West Wing Key| AND |Winding Clock Key|) OR |Progressive Dollhouse:2|",
+    "hint_entrance": "Spooky's Dollhouse Clock Room"
+  },
+  {
+    "name": "Melted Doll Hands",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "(|West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters|) OR |Progressive Dollhouse:3|",
+    "hint_entrance": "Spooky's Dollhouse Rightside Electric Barrier"
+  },
+  {
+    "name": "Doug",
+    "region": "Dollhouse",
+    "category": [
+      "!! Minigames",
+      "Dollhouse"
+    ],
+    "requires": "(|Doug Arcade Machine| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands|) OR (|Doug Arcade Machine| AND |Progressive Dollhouse:4|)",
+    "hint_entrance": "Spooky's Dollhouse New GL LABS Entrance"
+  },
+  {
+    "name": "Metal Pinwheel Piece Trapdoor",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "(|West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands|) OR |Progressive Dollhouse:4|",
+    "hint_entrance": "Spooky's Dollhouse Root Cellar"
+  },
+  {
+    "name": "Metal Pinwheel Piece Hooked Doll",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "(|West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands|) OR |Progressive Dollhouse:4|",
+    "hint_entrance": "Spooky's Dollhouse Root Cellar"
+  },
+  {
+    "name": "Metal Pinwheel Piece Scratched Wall",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands|) OR (|Axe| AND |Progressive Dollhouse:4|)",
+    "hint_entrance": "Spooky's Dollhouse Root Cellar"
+  },
+  {
+    "name": "GL LABS Key Card",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands|) OR (|Axe| AND |Progressive Dollhouse:4|)",
+    "hint_entrance": "Spooky's Dollhouse Root Cellar"
+  },
+  {
+    "name": "Black Candle Entrance Trap",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands| AND |GL LABS Key Card|) OR (|Axe| AND |Progressive Dollhouse:5|)",
+    "hint_entrance": "Spooky's Dollhouse Root Cellar"
+  },
+  {
+    "name": "Black Candle Hooked Doll Maze",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands| AND |GL LABS Key Card|) OR (|Axe| AND |Progressive Dollhouse:5|)",
+    "hint_entrance": "Spooky's Dollhouse Root Cellar"
+  },
+  {
+    "name": "Black Candle Locked Pinwheel Room",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands| AND |GL LABS Key Card|) OR (|Axe| AND |Progressive Dollhouse:5|)",
+    "hint_entrance": "Spooky's Dollhouse Dining Room"
+  },
+  {
+    "name": "Rifle Nightmare",
+    "region": "Dollhouse",
+    "category": [
+      "!! Item Pickups",
+      "Dollhouse"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands| AND |GL LABS Key Card|) OR (|Axe| AND |Progressive Dollhouse:5|)",
+    "hint_entrance": "Spooky's Dollhouse Nightmare Sequence"
+  },
+  {
+    "name": "Hellgate Sealed",
+    "region": "Dollhouse",
+    "category": [
+      "!! Hellgate",
+      "Dollhouse"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands| AND |GL LABS Key Card| AND |Black Candle:3|) OR (|Axe| AND |Progressive Dollhouse:5| AND |Black Candle:3|)",
+    "hint_entrance": "Spooky's Dollhouse Ritual Room"
+  },
+  {
+    "name": "Specimen 6 Hellgate Sealed",
+    "region": "Dollhouse",
+    "category": [
+      "!! Hellgate",
+      "Dollhouse",
+      "hellgatesanity"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands| AND |GL LABS Key Card| AND |Black Candle:3|) OR (|Axe| AND |Progressive Dollhouse:5| AND |Black Candle:3|)",
+    "hint_entrance": "Spooky's Dollhouse Ritual Room"
+  },
+  {
+    "name": "Specimen 8 Hellgate Sealed",
+    "region": "Dollhouse",
+    "category": [
+      "!! Hellgate",
+      "Dollhouse",
+      "hellgatesanity"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands| AND |GL LABS Key Card| AND |Black Candle:3|) OR (|Axe| AND |Progressive Dollhouse:5| AND |Black Candle:3|)",
+    "hint_entrance": "Spooky's Dollhouse Ritual Room"
+  },
+  {
+    "name": "Specimen 11 Hellgate Sealed",
+    "region": "Dollhouse",
+    "category": [
+      "!! Hellgate",
+      "Dollhouse",
+      "hellgatesanity"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands| AND |GL LABS Key Card| AND |Black Candle:3|) OR (|Axe| AND |Progressive Dollhouse:5| AND |Black Candle:3|)",
+    "hint_entrance": "Spooky's Dollhouse Ritual Room"
+  },
+  {
+    "name": "Specimen 4 (EF) Hellgate Sealed",
+    "region": "Dollhouse",
+    "category": [
+      "!! Hellgate",
+      "Dollhouse",
+      "hellgatesanity",
+      "OG"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands| AND |GL LABS Key Card| AND |Black Candle:3|) OR (|Axe| AND |Progressive Dollhouse:5| AND |Black Candle:3|)",
+    "hint_entrance": "Spooky's Dollhouse Ritual Room"
+  },
+  {
+    "name": "Dollhouse Clear (Any Ending)",
+    "region": "Dollhouse",
+    "category": [
+      "! GOAL",
+      "!! Endings",
+      "Dollhouse"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands| AND |GL LABS Key Card| AND |Gun|) OR (|Axe| AND |Progressive Dollhouse:5| AND |Gun|)",
+    "hint_entrance": "Spooky's Dollhouse Tram Escape",
+    "victory": true
+  },
+  {
+    "name": "Dollhouse Clear (Good Ending)",
+    "region": "Dollhouse",
+    "category": [
+      "! GOAL",
+      "!! Endings",
+      "Dollhouse"
+    ],
+    "requires": "(|Axe| AND |West Wing Key| AND |Winding Clock Key| AND |Bolt Cutters| AND |Melted Doll Hands| AND |GL LABS Key Card| AND |Black Candle:3| AND |Gun|) OR (|Axe| AND |Progressive Dollhouse:5| AND |Black Candle:3| AND |Gun|)",
+    "hint_entrance": "Spooky's Dollhouse Tram Escape",
+    "victory": true
+  },
+  {
+    "name": "Mansion Room 1",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 2",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 3",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 4",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 5",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 6",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 7",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 8",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 9",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 10",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 11",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 12",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 13",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 14",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 15",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 16",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 17",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 18",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 19",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 20",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 21",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 22",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 23",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 24",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 25",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 26",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 27",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 28",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 29",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 30",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 31",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 32",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 33",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 34",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 35",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 36",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 37",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 38",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 39",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 40",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 41",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 42",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 43",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 44",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 45",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 46",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 47",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 48",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 49",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 50",
+    "region": "Mansion 50",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 51",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 52",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 53",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 54",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 55",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 56",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 57",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 58",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 59",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 60",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 61",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 62",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 63",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 64",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 65",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 66",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 67",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 68",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 69",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 70",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 71",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 72",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 73",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 74",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 75",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 76",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 77",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 78",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 79",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 80",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 81",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 82",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 83",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 84",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 85",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 86",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 87",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 88",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 89",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 90",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 91",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 92",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 93",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 94",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 95",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 96",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 97",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 98",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 99",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 100",
+    "region": "Mansion 100",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 101",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 102",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 103",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 104",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 105",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 106",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 107",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 108",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 109",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 110",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 111",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 112",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 113",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 114",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 115",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 116",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 117",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 118",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 119",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 120",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 121",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 122",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 123",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 124",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 125",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 126",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 127",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 128",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 129",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 130",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 131",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 132",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 133",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 134",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 135",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 136",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 137",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 138",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 139",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 140",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 141",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 142",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 143",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 144",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 145",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 146",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 147",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 148",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 149",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 150",
+    "region": "Mansion 150",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 151",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 152",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 153",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 154",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 155",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 156",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 157",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 158",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 159",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 160",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 161",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 162",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 163",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 164",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 165",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 166",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 167",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 168",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 169",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 170",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 171",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 172",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 173",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 174",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 175",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 176",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 177",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 178",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 179",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 180",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 181",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 182",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 183",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 184",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 185",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 186",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 187",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 188",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 189",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 190",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 191",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 192",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 193",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 194",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 195",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 196",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 197",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 198",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 199",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 200",
+    "region": "Mansion 200",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 201",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 202",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 203",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 204",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 205",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 206",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 207",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 208",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 209",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 210",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 211",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 212",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 213",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 214",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 215",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 216",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 217",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 218",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 219",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 220",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 221",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 222",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 223",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 224",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 225",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 226",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 227",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 228",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 229",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 230",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 231",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 232",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 233",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 234",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 235",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 236",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 237",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 238",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 239",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 240",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 241",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 242",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 243",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 244",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 245",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 246",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 247",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 248",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 249",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 250",
+    "region": "Mansion 250",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 251",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 252",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 253",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 254",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 255",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 256",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 257",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 258",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 259",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 260",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 261",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 262",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 263",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 264",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 265",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 266",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 267",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 268",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 269",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 270",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 271",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 272",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 273",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 274",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 275",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 276",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 277",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 278",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 279",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 280",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 281",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 282",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 283",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 284",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 285",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 286",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 287",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 288",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 289",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 290",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 291",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 292",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 293",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 294",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 295",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 296",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 297",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 298",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 299",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 300",
+    "region": "Mansion 300",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 301",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 302",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 303",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 304",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 305",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 306",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 307",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 308",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 309",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 310",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 311",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 312",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 313",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 314",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 315",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 316",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 317",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 318",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 319",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 320",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 321",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 322",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 323",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 324",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 325",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 326",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 327",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 328",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 329",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 330",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 331",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 332",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 333",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 334",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 335",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 336",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 337",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 338",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 339",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 340",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 341",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 342",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 343",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 344",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 345",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 346",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 347",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 348",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 349",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 350",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 351",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 352",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 353",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 354",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 355",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 356",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 357",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 358",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 359",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 360",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 361",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 362",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 363",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 364",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 365",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 366",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 367",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 368",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 369",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 370",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 371",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 372",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 373",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 374",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 375",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 376",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 377",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 378",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 379",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 380",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 381",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 382",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 383",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 384",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 385",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 386",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 387",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 388",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 389",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 390",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 391",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 392",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 393",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 394",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 395",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 396",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 397",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 398",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 399",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 400",
+    "region": "Mansion 400",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 401",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 402",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 403",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 404",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 405",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 406",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 407",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 408",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 409",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 410",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 411",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 412",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 413",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 414",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 415",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 416",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 417",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 418",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 419",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 420",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 421",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 422",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 423",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 424",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 425",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 426",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 427",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 428",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 429",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 430",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 431",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 432",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 433",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 434",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 435",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 436",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 437",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 438",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 439",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 440",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 441",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 442",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 443",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 444",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 445",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 446",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 447",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 448",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 449",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 450",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 451",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 452",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 453",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 454",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 455",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 456",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 457",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 458",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 459",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 460",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 461",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 462",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 463",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 464",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 465",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 466",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 467",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 468",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 469",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 470",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 471",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 472",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 473",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 474",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 475",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 476",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 477",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 478",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 479",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 480",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 481",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 482",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 483",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 484",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 485",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 486",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 487",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 488",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 489",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 490",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 491",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 492",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 493",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 494",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 495",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 496",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 497",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 498",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 499",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 500",
+    "region": "Mansion 500",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 501",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 502",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 503",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 504",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 505",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 506",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 507",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 508",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 509",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 510",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 511",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 512",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 513",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 514",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 515",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 516",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 517",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 518",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 519",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 520",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 521",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 522",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 523",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 524",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 525",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 526",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 527",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 528",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 529",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 530",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 531",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 532",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 533",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 534",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 535",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 536",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 537",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 538",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 539",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 540",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 541",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 542",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 543",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 544",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 545",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 546",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 547",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 548",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 549",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 550",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 551",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 552",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 553",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 554",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 555",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 556",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 557",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 558",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 559",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 560",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 561",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 562",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 563",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 564",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 565",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 566",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 567",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 568",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 569",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 570",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 571",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 572",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 573",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 574",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 575",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 576",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 577",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 578",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 579",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 580",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 581",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 582",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 583",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 584",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 585",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 586",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 587",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 588",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 589",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 590",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 591",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 592",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 593",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 594",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 595",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 596",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 597",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 598",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 599",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 600",
+    "region": "Mansion 600",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": "|Axe|"
+  },
+  {
+    "name": "Mansion Room 601",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 602",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 603",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 604",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 605",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 606",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 607",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 608",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 609",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 610",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 611",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 612",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 613",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 614",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 615",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 616",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 617",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 618",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 619",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 620",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 621",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 622",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 623",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 624",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 625",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 626",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 627",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 628",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 629",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 630",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 631",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 632",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 633",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 634",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 635",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 636",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 637",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 638",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 639",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 640",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 641",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 642",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 643",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 644",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 645",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 646",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 647",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 648",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 649",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 650",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 651",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 652",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 653",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 654",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 655",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 656",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 657",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 658",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 659",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 660",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 661",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 662",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 663",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 664",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 665",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 666",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 667",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 668",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 669",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 670",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 671",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 672",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 673",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 674",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 675",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 676",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 677",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 678",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 679",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 680",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 681",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 682",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 683",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 684",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 685",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 686",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 687",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 688",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 689",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 690",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 691",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 692",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 693",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 694",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 695",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 696",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 697",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 698",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 699",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 700",
+    "region": "Mansion 700",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 701",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 702",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 703",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 704",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 705",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 706",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 707",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 708",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 709",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 710",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 711",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 712",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 713",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 714",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 715",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 716",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 717",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 718",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 719",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 720",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 721",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 722",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 723",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 724",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 725",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 726",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 727",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 728",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 729",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 730",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 731",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 732",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 733",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 734",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 735",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 736",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 737",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 738",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 739",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 740",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 741",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 742",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 743",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 744",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 745",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 746",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 747",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 748",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 749",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 750",
+    "region": "Mansion 750",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 751",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 752",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 753",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 754",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 755",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 756",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 757",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 758",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 759",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 760",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 761",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 762",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 763",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 764",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 765",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 766",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 767",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 768",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 769",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 770",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 771",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 772",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 773",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 774",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 775",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 776",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 777",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 778",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 779",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 780",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 781",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 782",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 783",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 784",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 785",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 786",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 787",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 788",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 789",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 790",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 791",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 792",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 793",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 794",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 795",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 796",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 797",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 798",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 799",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 800",
+    "region": "Mansion 800",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 801",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 802",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 803",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 804",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 805",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 806",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 807",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 808",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 809",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 810",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 811",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 812",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 813",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 814",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 815",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 816",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 817",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 818",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 819",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 820",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 821",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 822",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 823",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 824",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 825",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 826",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 827",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 828",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 829",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 830",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 831",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 832",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 833",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 834",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 835",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 836",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 837",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 838",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 839",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 840",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 841",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 842",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 843",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 844",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 845",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 846",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 847",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 848",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 849",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 850",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 851",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 852",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 853",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 854",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 855",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 856",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 857",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 858",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 859",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 860",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 861",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 862",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 863",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 864",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 865",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 866",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 867",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 868",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 869",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 870",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 871",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 872",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 873",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 874",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 875",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 876",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 877",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 878",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 879",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 880",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 881",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 882",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 883",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 884",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 885",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 886",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 887",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 888",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 889",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 890",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 891",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 892",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 893",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 894",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 895",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 896",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 897",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 898",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 899",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 900",
+    "region": "Mansion 900",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 901",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 902",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 903",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 904",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 905",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 906",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 907",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 908",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 909",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 910",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 911",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 912",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 913",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 914",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 915",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 916",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 917",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 918",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 919",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 920",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 921",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 922",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 923",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 924",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 925",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 926",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 927",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 928",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 929",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 930",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 931",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 932",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 933",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 934",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 935",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 936",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 937",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 938",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 939",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 940",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 941",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 942",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 943",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 944",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 945",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 946",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 947",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 948",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 949",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 950",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 951",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 952",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 953",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 954",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 955",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 956",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 957",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 958",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 959",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 960",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 961",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 962",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 963",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 964",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 965",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 966",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 967",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 968",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 969",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 970",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 971",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 972",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 973",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 974",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 975",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 976",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 977",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 978",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 979",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 980",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 981",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 982",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 983",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 984",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 985",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 986",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 987",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 988",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 989",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 990",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 991",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 992",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 993",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 994",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 995",
+    "region": "Mansion 995",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 996",
+    "region": "Mansion 1000",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 997",
+    "region": "Mansion 1000",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 998",
+    "region": "Mansion 1000",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 999",
+    "region": "Mansion 1000",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mansion Room 1000",
+    "region": "Mansion 1000",
+    "category": [
+      "mansionsanity"
+    ],
+    "requires": ""
+  }
+]

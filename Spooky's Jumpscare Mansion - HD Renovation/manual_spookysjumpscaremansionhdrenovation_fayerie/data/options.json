@@ -1,0 +1,113 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "display_name": "Ending Goal",
+            "description": "Which Dollhouse ending would you like to clear?",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "values": {
+                "crowd_control_traps_disable": 0,
+                "default": 20
+            }
+        }
+    },
+    "user": {
+        "starting_axe":{
+            "display_name": "Starting Axe",
+            "description": ["Start with the Axe? Useful for tackling Endless Mode early"],
+            "type": "Toggle",
+            "default": false
+        },
+        "endless_mode":{
+            "display_name": "Endless Mode",
+            "description": ["Enable Endless Mode? (25 Locations)", "Please note that this gamemode WILL take a good while, please enable only during an async session.", " ", "Reccomended to have reached room 2500 beforehand to use the checkpoint system"],
+            "type": "Toggle",
+            "default": false
+        },
+        "minigames":{
+            "display_name": "Minigames",
+            "description": ["Enable the various minigames found in the game? (5 Locations)"],
+            "type": "Toggle",
+            "default": true
+        },
+        "itemsanity":{
+            "description": ["Adds the specimen's locale items as checks (15 Locations)"],
+            "type": "Toggle",
+            "default": false,
+            "group": "sanity Options"
+        },
+        "sunshine_academy":{
+            "display_name": "Sunshine Academy",
+            "description": ["Enable the Sunshine Academy minigames as part of the minigames checks?"],
+            "type": "Toggle",
+            "default": false
+        },
+        "monster_defeats":{
+            "display_name": "Monster Defeats",
+            "description": ["Have defeated Monsters and Dolls as checks? (6 Locations)"],
+            "type": "Toggle",
+            "default": false
+        },
+        "hellgatesanity":{
+            "description": ["Adds the different specimens as sealed hellgate checks (3 Locations)"],
+            "type": "Toggle",
+            "default": false,
+            "group": "sanity Options"
+        },
+        "original_spookys_mansion":{
+            "display_name": "Original Game Checks",
+            "description": ["Enable checks only found in the Original game? (1 Location)", " ", "Specimen 4 (Endless) Hellgate"],
+            "type": "Toggle",
+            "default": false
+        },
+        "dlc_single_items":{
+            "display_name": "DLC Single Items",
+            "description": ["Add in the DLC items as a single item? May require backtracking"],
+            "type": "Toggle",
+            "default": false
+        },
+        "dlc_progressive_items":{
+            "display_name": "DLC Progressive Items",
+            "description": ["Turn the DLC items into Progressive items? Makes the DLCs more linear"],
+            "type": "Toggle",
+            "default": true
+        },
+        "crowd_control":{
+            "display_name": "Crowd Control",
+            "description": ["Add in the beneficial Crowd Control options as filler?", "This option does NOT disable the trap related Crowd Control options, please disable via the trap option"],
+            "type": "Toggle",
+            "default": false
+        },
+        "mansionsanity":{
+            "description": ["Adds a check per room progression in the mansion (1000 Locations)"],
+            "type": "Toggle",
+            "default": false,
+            "group": "sanity Options"
+        },
+        "hospitalsanity":{
+            "description": ["Adds a check per unique room entered in the hospital (NOT WORKING)"],
+            "type": "Toggle",
+            "default": false,
+            "group": "sanity Options"
+        },
+        "dollhousesanity":{
+            "description": ["Adds a check per unique room entered in the dollhouse (NOT WORKING)"],
+            "type": "Toggle",
+            "default": false,
+            "group": "sanity Options"
+        },
+        "endlessanity":{
+            "description": ["Adds a check per room progression in the endless mansion (NOT WORKING)"],
+            "type": "Toggle",
+            "default": false,
+            "group": "sanity Options"
+        }
+    }
+}

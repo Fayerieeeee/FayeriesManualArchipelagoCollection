@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Nice Catch!",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Getting Used",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Silly Angler",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Novice Fisher",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Master Captain",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Aqualiss",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sunny Side Up",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": "|Daytime Fishing|"
+  },
+  {
+    "name": "True Beach Boy",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": "|Daytime Fishing|"
+  },
+  {
+    "name": "Sunset Haze",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": "|Afternoon Fishing|"
+  },
+  {
+    "name": "True Romantic",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": "|Afternoon Fishing|"
+  },
+  {
+    "name": "Rises The Moon",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": "|Midnight Fishing|"
+  },
+  {
+    "name": "True Moonlight",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": "|Midnight Fishing|"
+  },
+  {
+    "name": "Reflex Grinder",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Prey's Frenemy",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Hawkeye",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hobbyist",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Collector",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Completionist",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": "|Daytime Fishing| AND |Afternoon Fishing| AND |Midnight Fishing|"
+  },
+  {
+    "name": "Big Guy",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mass Attack",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Millionth Puff",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Matter",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Enjoyer",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fan",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Obsessive",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Geiger Counter",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Master's Crown",
+    "region": "Stars",
+    "category": [
+      "Stars"
+    ],
+    "requires": "|Daytime Fishing| AND |Afternoon Fishing| AND |Midnight Fishing|"
+  }
+]

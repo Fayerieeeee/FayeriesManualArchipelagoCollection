@@ -1,0 +1,32 @@
+{
+  "Standard Fish": {
+    "starting": true,
+    "connects_to": [
+      "Daytime Fish",
+      "Afternoon Fish",
+      "Midnight Fish"
+    ],
+    "requires": []
+  },
+  "Daytime Fish": {
+    "connects_to": [],
+    "requires": "|Daytime Fishing|"
+  },
+  "Afternoon Fish": {
+    "connects_to": [],
+    "requires": "|Afternoon Fishing|"
+  },
+  "Midnight Fish": {
+    "connects_to": [],
+    "requires": "|Midnight Fishing|"
+  },
+  "Stars": {
+    "starting": true,
+    "connects_to": [],
+    "requires": []
+  },
+  "Fishbook Completion": {
+    "connects_to": [],
+    "requires": []
+  }
+}

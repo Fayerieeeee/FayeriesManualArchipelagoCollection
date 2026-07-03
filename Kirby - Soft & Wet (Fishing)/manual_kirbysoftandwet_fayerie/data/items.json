@@ -1,0 +1,50 @@
+[
+  {
+    "count": 1,
+    "name": "Daytime Fishing",
+    "category": [
+      "Time of Day"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Afternoon Fishing",
+    "category": [
+      "Time of Day"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Midnight Fishing",
+    "category": [
+      "Time of Day"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": "23",
+    "name": "Progressive Fishbook",
+    "category": [
+      "Fishes"
+    ],
+    "progression": true
+  },
+  {
+    "count": "10",
+    "name": "Permanent Catch Combo Increase +10",
+    "category": [
+      "Catch Comboes"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Combo Breaker Trap",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  }
+]
