@@ -23,74 +23,74 @@
         "section_1_cups":{
             "display_name": "Section 1 Cups",
             "description":[
-                "Enable the section 1 cups? Ring Cup-Extra Cup (105 Locations)"
+                "Enable the section 1 cups? Ring Cup-Extra Cup"
             ],
             "type": "Toggle",
             "default": true,
-            "group": "Cups"
+            "group": "Vanilla Game Options"
         },
         "section_2_cups":{
             "display_name": "Section 2 Cups",
             "description":[
-                "Enable the section 2 cups? S.P.B. Cup-Egg Cup (102 Locations)"
+                "Enable the section 2 cups? S.P.B. Cup-Egg Cup"
             ],
             "type": "Toggle",
             "default": true,
-            "group": "Cups"
+            "group": "Vanilla Game Options"
         },
         "section_3_cups":{
             "display_name": "Section 3 Cups",
             "description":[
-                "Enable the section 3 cups? Goggles Cup-Phantom Cup (105 Locations)"
+                "Enable the section 3 cups? Goggles Cup-Phantom Cup"
             ],
             "type": "Toggle",
             "default": false,
-            "group": "Cups"
+            "group": "Vanilla Game Options"
         },
         "section_4_cups":{
             "display_name": "Section 4 Cups",
             "description":[
-                "Enable the section 4 cups? Flash Cup-Skate Cup (105 Locations)"
+                "Enable the section 4 cups? Flash Cup-Skate Cup"
             ],
             "type": "Toggle",
             "default": false,
-            "group": "Cups"
+            "group": "Vanilla Game Options"
         },
         "extra_cups":{
             "display_name": "Section 5 Cups",
             "description":[
-                "Enable the section 5 cups? Recycle Cups, Lost & Found (41 Locations)"
+                "Enable the section 5 cups? Recycle Cups, Lost & Found"
             ],
             "type": "Toggle",
             "default": false,
-            "group": "Cups"
+            "group": "Vanilla Game Options"
         },
         "prisons":{
             "display_name": "Prisons",
             "description":[
-                "Enable the prisons based battle modes? (33 Locations)"
+                "Enable the prisons based battle modes?"
             ],
             "type": "Toggle",
             "default": true,
-            "group": "Cups"
+            "group": "Vanilla Game Options"
         },
         "boss_races":{
             "display_name": "Boss Races",
             "description":[
-                "Enable boss races? (31 Locations)"
+                "Enable boss races? (Duel Races)"
             ],
             "type": "Toggle",
-            "default": true,
-            "group": "Cups"
+            "default": false,
+            "group": "Vanilla Game Options"
         },
         "special_stages":{
             "display_name": "Special Stages",
             "description":[
-                "Enable the special stages and its keys? (14 Locations)"
+                "Enable the special stages and its keys?"
             ],
             "type": "Toggle",
             "default": true,
-            "group": "Cups"
+            "group": "Vanilla Game Options"
         },
         "blend_eye_difficulty":{
             "display_name": "Blend Eye Difficulty",
