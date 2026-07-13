@@ -47,13 +47,11 @@
       "boss_races"
     ]
   },
-  "! Prisons": {
+  "Prisons": {
+    "hidden": true,
     "yaml_option": [
       "prisons"
     ]
-  },
-  "Prisons": {
-    "hidden": true
   },
   "Melee": {
     "hidden": true

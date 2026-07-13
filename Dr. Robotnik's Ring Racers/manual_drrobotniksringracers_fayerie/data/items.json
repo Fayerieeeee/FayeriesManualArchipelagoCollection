@@ -1650,6 +1650,616 @@
     },
     {
       "count": 1,
+      "name": "Municipal Meadow Track (Ring Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S1 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "CD Special Stage 1 Track (Ring Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S1 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tinkerer's Arena Track (Sneaker Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S1 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tricircle Marina Track (Sneaker Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S1 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mystery Gate Track (Spring Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S1 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Rusty Rig Track (Spring Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S1 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Marble Foyer Track (Barrier Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S1 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Rock World Track (Barrier Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S1 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "World 1 Map Track (Invincible Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S1 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "CD Special Stage 8 Track (Invincible Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S1 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sega Saturn Track (Emerald Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S1 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Electra Clacker Track (Emerald Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S1 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Thunder Top Track (Extra Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S1 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tree Ring Track (Extra Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S1 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Frigid Cove Track (S.P.B. Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S2 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Gizmo Bastion Track (S.P.B. Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S2 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Carbon Crucible Track (Rocket Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S2 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Security Hall Track (Rocket Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S2 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Gems Museum Track (Aqua Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S2 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Media Studio Track (Aqua Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S2 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Honeycomb Hollow Track (Lightning Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S2 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wood Track (Lightning Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S2 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Brawl Fort Track (Flame Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S2 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Crystal Island Track (Flame Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S2 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cyber Arena Track (Super Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S2 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Neon Resort Track (Super Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S2 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Meteor Herd Track (Egg Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S2 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Death Egg's Eye Track (Egg Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S2 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tails' Lab Track (Goggles Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S3 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Power Plant Track (Goggles Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S3 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "City Skyline Track (Timer Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S3 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Vantablack Atrium Track (Timer Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S3 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dead Simple Track (Grow Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S3 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Martian Matrix Track (Grow Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S3 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dark Chao Garden Track (Chao Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S3 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hero Chao Garden Track (Chao Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S3 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Whirl Waters Track (Wing Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S3 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Deluged Metroplex Track (Wing Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S3 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mega Emerald Beach Track (Mega Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S3 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mega Labyrinth Track (Mega Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S3 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Fungal Dimension Track (Phantom Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S3 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Astral Dimension Track (Phantom Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S3 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chaos Seraph Track (Flash Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S4 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Toy Kingdom Track (Flash Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S4 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Aquatic Cathedral 1 Track (Swap Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S4 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Aquatic Cathedral 2 Track (Swap Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S4 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Frosty Courtyard Track (Shrink Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S4 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Abyss Gate Track (Shrink Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S4 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sonic's Schoolhouse Track (Bomb Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S4 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Record Attack Track (Bomb Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S4 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Peanut Palace Track (Power Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S4 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hydro Plant Track (Power Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S4 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mega Metropolis Track (Genesis Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S4 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mega Marble Track (Genesis Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S4 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Thunder Lab Track (Skate Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S4 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Malign Eggshrine Track (Skate Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S4 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "SRB2 Meadow Match Track (Recycle Cup (A))",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S5 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Armored Armadillo Track (Recycle Cup (A))",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S5 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Clucky Farms Track (Recycle Cup (B))",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S5 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dried Battledune Track (Recycle Cup (B))",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S5 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Duel Busters Track (Lost & Found Cup)",
+      "category": [
+        "Tracks",
+        "Prisons",
+        "S5 Cups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
       "name": "Phantom Ruby",
       "category": [
         "Cups",
