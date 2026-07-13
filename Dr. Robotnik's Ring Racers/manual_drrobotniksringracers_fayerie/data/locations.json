@@ -4473,36 +4473,6 @@
       "requires": ""
     },
     {
-      "name": "Test Run 1st Place (Lost & Found Cup)",
-      "region": "Lost & Found Cup",
-      "category": [
-        "! Placement",
-        "Lost & Found Cup",
-        "S5 Cups"
-      ],
-      "requires": ""
-    },
-    {
-      "name": "Test Run 2nd Place (Lost & Found Cup)",
-      "region": "Lost & Found Cup",
-      "category": [
-        "! Placement",
-        "Lost & Found Cup",
-        "S5 Cups"
-      ],
-      "requires": ""
-    },
-    {
-      "name": "Test Run 3rd Place (Lost & Found Cup)",
-      "region": "Lost & Found Cup",
-      "category": [
-        "! Placement",
-        "Lost & Found Cup",
-        "S5 Cups"
-      ],
-      "requires": ""
-    },
-    {
       "name": "Test Track 1st Place (Lost & Found Cup)",
       "region": "Lost & Found Cup",
       "category": [
