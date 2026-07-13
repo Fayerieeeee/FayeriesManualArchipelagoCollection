@@ -52,6 +52,9 @@
       "prisons"
     ]
   },
+  "Prisons": {
+    "hidden": true
+  },
   "Melee": {
     "hidden": true
   },
