@@ -26,8 +26,7 @@
                 "Enable the section 1 cups? Ring Cup-Extra Cup"
             ],
             "type": "Toggle",
-            "default": true,
-            "group": "Vanilla Game Options"
+            "default": true
         },
         "section_2_cups":{
             "display_name": "Section 2 Cups",
@@ -35,8 +34,7 @@
                 "Enable the section 2 cups? S.P.B. Cup-Egg Cup"
             ],
             "type": "Toggle",
-            "default": true,
-            "group": "Vanilla Game Options"
+            "default": true
         },
         "section_3_cups":{
             "display_name": "Section 3 Cups",
@@ -44,8 +42,7 @@
                 "Enable the section 3 cups? Goggles Cup-Phantom Cup"
             ],
             "type": "Toggle",
-            "default": false,
-            "group": "Vanilla Game Options"
+            "default": false
         },
         "section_4_cups":{
             "display_name": "Section 4 Cups",
@@ -53,8 +50,7 @@
                 "Enable the section 4 cups? Flash Cup-Skate Cup"
             ],
             "type": "Toggle",
-            "default": false,
-            "group": "Vanilla Game Options"
+            "default": false
         },
         "extra_cups":{
             "display_name": "Section 5 Cups",
@@ -62,8 +58,7 @@
                 "Enable the section 5 cups? Recycle Cups, Lost & Found"
             ],
             "type": "Toggle",
-            "default": false,
-            "group": "Vanilla Game Options"
+            "default": false
         },
         "prisons":{
             "display_name": "Prisons",
@@ -71,8 +66,7 @@
                 "Enable the prisons based battle modes?"
             ],
             "type": "Toggle",
-            "default": true,
-            "group": "Vanilla Game Options"
+            "default": true
         },
         "boss_races":{
             "display_name": "Boss Races",
@@ -80,8 +74,7 @@
                 "Enable boss races? (Duel Races)"
             ],
             "type": "Toggle",
-            "default": false,
-            "group": "Vanilla Game Options"
+            "default": false
         },
         "special_stages":{
             "display_name": "Special Stages",
@@ -89,8 +82,16 @@
                 "Enable the special stages and its keys?"
             ],
             "type": "Toggle",
-            "default": true,
-            "group": "Vanilla Game Options"
+            "default": true
+        },
+        "tracksanity":{
+            "display_name": "tracksanity",
+            "description":[
+                "Have *every single track* be an item in the pool? (Race Tracks & Battle Arenas)",
+                "Note: This option is NOT recommended for casual play, as it will make the game extremely difficult to complete. This is intended for speedrunners and those who want a challenge"
+            ],
+            "type": "Toggle",
+            "default": false
         },
         "blend_eye_difficulty":{
             "display_name": "Blend Eye Difficulty",
@@ -151,7 +152,7 @@
             "display_name": "Non-Progressive Items",
             "description":[
                 "Use the non-progressive varient of items?",
-                "Example: Banana and Triple Banana separate items",
+                "Example: Banana and Triple Bananas separate items",
                 " ",
                 "### If this is toggled on, you MUST turn off 'Progressive Items' or things WILL break. ###"
             ],
