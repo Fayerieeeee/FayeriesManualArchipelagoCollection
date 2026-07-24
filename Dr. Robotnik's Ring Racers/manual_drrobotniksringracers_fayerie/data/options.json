@@ -84,15 +84,6 @@
             "type": "Toggle",
             "default": true
         },
-        "tracksanity":{
-            "display_name": "tracksanity",
-            "description":[
-                "Have *every single track* be an item in the pool? (Race Tracks & Battle Arenas)",
-                "Note: This option is NOT recommended for casual play, as it will make the game extremely difficult to complete. This is intended for speedrunners and those who want a challenge"
-            ],
-            "type": "Toggle",
-            "default": false
-        },
         "blend_eye_difficulty":{
             "display_name": "Blend Eye Difficulty",
             "description": [

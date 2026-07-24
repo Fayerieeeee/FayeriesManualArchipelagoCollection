@@ -17,35 +17,7 @@
       "item_categories": [
         "Cups"
       ],
-      "random": 1,
-      "yaml_option": [
-        "!tracksanity"
-      ]
-    },
-    {
-      "item_categories": [
-        "Tracks"
-      ],
-      "random": 5,
-      "yaml_option": [
-        "tracksanity"
-      ]
-    },
-    {
-      "item_categories": [
-        "Cups"
-      ],
-      "yaml_option": [
-        "tracksanity"
-      ]
-    },
-    {
-      "item_categories": [
-        "Tracks"
-      ],
-      "yaml_option": [
-        "!tracksanity"
-      ]
+      "random": 1
     },
     {
       "item_categories": [
