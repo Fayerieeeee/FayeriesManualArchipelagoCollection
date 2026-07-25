@@ -4659,7 +4659,7 @@
         "Invincible Cup",
         "S1 Cups"
       ],
-      "requires": "AND |Insta-Whip| OR (|@Gachaboms| OR |Progressive Gachaboms|)"
+      "requires": "|Insta-Whip| OR (|@Gachaboms| OR |Progressive Gachaboms|)"
     },
     {
       "name": "CD Special Stage 8 Prisons (Invincible Cup)",
