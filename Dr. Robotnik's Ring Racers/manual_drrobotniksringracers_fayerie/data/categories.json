@@ -56,6 +56,12 @@
   "Melee": {
     "hidden": true
   },
+  "Ring Teching": {
+    "hidden": true,
+    "yaml_option": [
+      "ring_teching"
+    ]
+  },
   "Tripwire": {
     "hidden": true
   },

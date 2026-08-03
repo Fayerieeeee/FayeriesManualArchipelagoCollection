@@ -291,7 +291,7 @@
     },
     {
       "count": 14,
-      "name": "UFO Catcher Key",
+      "name": "Specials Key",
       "category": [
         "Special Stage Keys",
         "Special Stages"
@@ -317,7 +317,7 @@
     },
     {
       "count": 1,
-      "name": "Ballhog",
+      "name": "Ballhog Unlock",
       "category": [
         "Item Unlocks",
         "Solo Items"
@@ -335,7 +335,7 @@
     },
     {
       "count": 1,
-      "name": "Banana",
+      "name": "Banana Unlock",
       "category": [
         "Item Unlocks",
         "Solo Items",
@@ -345,7 +345,7 @@
     },
     {
       "count": 1,
-      "name": "Triple Bananas",
+      "name": "Triple Bananas Unlock",
       "category": [
         "Item Unlocks",
         "Solo Items",
@@ -364,7 +364,7 @@
     },
     {
       "count": 1,
-      "name": "Bubble Shield",
+      "name": "Bubble Shield Unlock",
       "category": [
         "Item Unlocks",
         "Tripwire"
@@ -381,7 +381,7 @@
     },
     {
       "count": 1,
-      "name": "Eggmark",
+      "name": "Eggmark Unlock",
       "category": [
         "Item Unlocks"
       ],
@@ -389,7 +389,7 @@
     },
     {
       "count": 1,
-      "name": "Flame Shield",
+      "name": "Flame Shield Unlock",
       "category": [
         "Item Unlocks",
         "Tripwire"
@@ -398,21 +398,23 @@
     },
     {
       "count": 1,
-      "name": "Gachabom",
+      "name": "Gachabom Unlock",
       "category": [
         "Item Unlocks",
         "Solo Items",
-        "Gachaboms"
+        "Gachaboms",
+        "Prisons"
       ],
       "progression": true
     },
     {
       "count": 1,
-      "name": "Triple Gachaboms",
+      "name": "Triple Gachaboms Unlock",
       "category": [
         "Item Unlocks",
         "Solo Items",
-        "Gachaboms"
+        "Gachaboms",
+        "Prisons"
       ],
       "progression": true
     },
@@ -421,13 +423,14 @@
       "name": "Progressive Gachaboms",
       "category": [
         "Item Unlocks",
-        "Progressive Items"
+        "Progressive Items",
+        "Prisons"
       ],
       "progression": true
     },
     {
       "count": 1,
-      "name": "Gardentop",
+      "name": "Gardentop Unlock",
       "category": [
         "Item Unlocks",
         "Tripwire"
@@ -436,7 +439,7 @@
     },
     {
       "count": 1,
-      "name": "Grow",
+      "name": "Grow Unlock",
       "category": [
         "Item Unlocks",
         "Tripwire"
@@ -445,7 +448,7 @@
     },
     {
       "count": 1,
-      "name": "Hyudoro",
+      "name": "Hyudoro Unlock",
       "category": [
         "Item Unlocks"
       ],
@@ -455,14 +458,23 @@
       "count": 1,
       "name": "Insta-Whip",
       "category": [
-        "Item Unlocks",
+        "Kart Upgrades",
         "Melee"
       ],
       "progression": true
     },
     {
+      "count": 5,
+      "name": "Progressive Ring Teching",
+      "category": [
+        "Kart Upgrades",
+        "Ring Teching"
+      ],
+      "useful": true
+    },
+    {
       "count": 1,
-      "name": "Invincibility",
+      "name": "Invincibility Unlock",
       "category": [
         "Item Unlocks",
         "Tripwire"
@@ -471,7 +483,7 @@
     },
     {
       "count": 1,
-      "name": "Jawz",
+      "name": "Jawz Unlock",
       "category": [
         "Item Unlocks",
         "Solo Items",
@@ -481,7 +493,7 @@
     },
     {
       "count": 1,
-      "name": "Dual Jawz",
+      "name": "Dual Jawz Unlock",
       "category": [
         "Item Unlocks",
         "Solo Items",
@@ -500,7 +512,7 @@
     },
     {
       "count": 1,
-      "name": "Kitchen Sink",
+      "name": "Kitchen Sink Unlock",
       "category": [
         "Item Unlocks"
       ],
@@ -508,7 +520,7 @@
     },
     {
       "count": 1,
-      "name": "Land Mine",
+      "name": "Land Mine Unlock",
       "category": [
         "Item Unlocks"
       ],
@@ -516,7 +528,7 @@
     },
     {
       "count": 1,
-      "name": "Lightning Shield",
+      "name": "Lightning Shield Unlock",
       "category": [
         "Item Unlocks"
       ],
@@ -524,7 +536,7 @@
     },
     {
       "count": 1,
-      "name": "Orbinaut",
+      "name": "Orbinaut Unlock",
       "category": [
         "Item Unlocks",
         "Solo Items",
@@ -534,7 +546,7 @@
     },
     {
       "count": 1,
-      "name": "Triple Orbinauts",
+      "name": "Triple Orbinauts Unlock",
       "category": [
         "Item Unlocks",
         "Solo Items",
@@ -544,7 +556,7 @@
     },
     {
       "count": 1,
-      "name": "Quadriple Orbinauts",
+      "name": "Quadriple Orbinauts Unlock",
       "category": [
         "Item Unlocks",
         "Solo Items",
@@ -563,7 +575,15 @@
     },
     {
       "count": 1,
-      "name": "Pogo Spring",
+      "name": "Pogo Spring Unlock?",
+      "category": [
+        "Item Unlocks"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Proximity Mine Unlock",
       "category": [
         "Item Unlocks"
       ],
@@ -571,7 +591,7 @@
     },
     {
       "count": 1,
-      "name": "Proximity Mine",
+      "name": "Self-Propelled Bomb Unlock",
       "category": [
         "Item Unlocks"
       ],
@@ -579,7 +599,7 @@
     },
     {
       "count": 1,
-      "name": "Self-Propelled Bomb",
+      "name": "Shrink Unlock",
       "category": [
         "Item Unlocks"
       ],
@@ -587,15 +607,7 @@
     },
     {
       "count": 1,
-      "name": "Shrink",
-      "category": [
-        "Item Unlocks"
-      ],
-      "useful": true
-    },
-    {
-      "count": 1,
-      "name": "Sneaker",
+      "name": "Sneaker Unlock",
       "category": [
         "Item Unlocks",
         "Solo Items",
@@ -606,7 +618,7 @@
     },
     {
       "count": 1,
-      "name": "Dual Sneakers",
+      "name": "Dual Sneakers Unlock",
       "category": [
         "Item Unlocks",
         "Solo Items",
@@ -617,7 +629,7 @@
     },
     {
       "count": 1,
-      "name": "Triple Sneakers",
+      "name": "Triple Sneakers Unlock",
       "category": [
         "Item Unlocks",
         "Solo Items",
@@ -628,7 +640,7 @@
     },
     {
       "count": 1,
-      "name": "Rocket Sneaker",
+      "name": "Rocket Sneaker Unlock",
       "category": [
         "Item Unlocks",
         "Solo Items",
@@ -648,7 +660,7 @@
     },
     {
       "count": 1,
-      "name": "Stone Shoe",
+      "name": "Stone Shoe Unlock",
       "category": [
         "Item Unlocks"
       ],
@@ -656,7 +668,7 @@
     },
     {
       "count": 1,
-      "name": "Super Ring",
+      "name": "Super Ring Unlock",
       "category": [
         "Item Unlocks"
       ],
@@ -664,7 +676,7 @@
     },
     {
       "count": 1,
-      "name": "Toxomister",
+      "name": "Toxomister Unlock",
       "category": [
         "Item Unlocks"
       ],
@@ -672,216 +684,218 @@
     },
     {
       "count": 5,
-      "name": "Starting Ballhog",
+      "name": "Carpet Ballhog",
       "category": [
-        "Starting Items"
+        "Temporary Items"
       ],
       "filler": true
     },
     {
       "count": 5,
-      "name": "Starting Banana",
+      "name": "Banana Bunch",
       "category": [
-        "Starting Items"
+        "Temporary Items"
       ],
       "filler": true
     },
     {
       "count": 5,
-      "name": "Starting Bubble Shield",
+      "name": "Super Bubble Shield",
       "category": [
-        "Starting Items"
+        "Temporary Items"
       ],
       "filler": true
     },
     {
       "count": 5,
-      "name": "Starting Drop Target",
+      "name": "Drop Target Field",
       "category": [
-        "Starting Items"
+        "Temporary Items"
       ],
       "filler": true
     },
     {
       "count": 5,
-      "name": "Starting Eggmark",
+      "name": "Eggmarkers",
       "category": [
-        "Starting Items"
+        "Temporary Items"
       ],
       "filler": true
     },
     {
       "count": 5,
-      "name": "Starting Flame Shield",
+      "name": "Super Flame Shield",
       "category": [
-        "Starting Items"
+        "Temporary Items"
       ],
       "filler": true
     },
     {
       "count": 5,
-      "name": "Starting Gachabom",
+      "name": "Gachabom Pity",
       "category": [
-        "Starting Items"
+        "Temporary Items"
       ],
       "filler": true
     },
     {
       "count": 5,
-      "name": "Starting Gardentop",
+      "name": "Gardentopsy Turvy",
       "category": [
-        "Starting Items"
+        "Temporary Items"
       ],
       "filler": true
     },
     {
       "count": 5,
-      "name": "Starting Grow",
+      "name": "M-Monitor",
       "category": [
-        "Starting Items"
+        "Temporary Items"
       ],
       "filler": true
     },
     {
       "count": 5,
-      "name": "Starting Hyudoro",
+      "name": "Hyudoro Swarm",
       "category": [
-        "Starting Items"
+        "Temporary Items"
       ],
       "filler": true
     },
     {
       "count": 5,
-      "name": "Starting Invincibility",
+      "name": "Jawz Shield",
       "category": [
-        "Starting Items"
+        "Temporary Items"
       ],
       "filler": true
     },
     {
       "count": 5,
-      "name": "Starting Jawz",
+      "name": "Let That Sink In",
       "category": [
-        "Starting Items"
+        "Temporary Items"
       ],
       "filler": true
     },
     {
       "count": 5,
-      "name": "Starting Kitchen Sink",
+      "name": "Land Minesweeper",
       "category": [
-        "Starting Items"
+        "Temporary Items"
       ],
       "filler": true
     },
     {
       "count": 5,
-      "name": "Starting Land Mine",
+      "name": "Super Lightning Shield",
       "category": [
-        "Starting Items"
+        "Temporary Items"
       ],
       "filler": true
     },
     {
       "count": 5,
-      "name": "Starting Lightning Shield",
+      "name": "Orbinaut Shield",
       "category": [
-        "Starting Items"
+        "Temporary Items"
       ],
       "filler": true
     },
     {
       "count": 5,
-      "name": "Starting Orbinaut",
+      "name": "Temporary Jump",
       "category": [
-        "Starting Items"
+        "Temporary Items"
       ],
       "filler": true
     },
     {
       "count": 5,
-      "name": "Starting Pogo Spring",
+      "name": "Minesweeper",
       "category": [
-        "Starting Items"
+        "Temporary Items"
       ],
       "filler": true
     },
     {
       "count": 5,
-      "name": "Starting Proximity Mine",
+      "name": "Self-Propelled Bomb Trap",
       "category": [
-        "Starting Items"
+        "Temporary Items",
+        "Traps"
+      ],
+      "trap": true
+    },
+    {
+      "count": 5,
+      "name": "Shrink Lasers",
+      "category": [
+        "Temporary Items"
       ],
       "filler": true
     },
     {
       "count": 5,
-      "name": "Starting Self-Propelled Bomb",
+      "name": "Super Sneakers",
       "category": [
-        "Starting Items"
+        "Temporary Items"
       ],
       "filler": true
     },
     {
       "count": 5,
-      "name": "Starting Shrink",
+      "name": "Golden Rocket Sneakers",
       "category": [
-        "Starting Items"
+        "Temporary Items"
       ],
       "filler": true
     },
     {
       "count": 5,
-      "name": "Starting Sneaker",
+      "name": "Sonic Labyrinth Trap",
       "category": [
-        "Starting Items"
+        "Temporary Items",
+        "Traps"
+      ],
+      "trap": true
+    },
+    {
+      "count": 5,
+      "name": "Lucky Seven Slots",
+      "category": [
+        "Temporary Items"
       ],
       "filler": true
     },
     {
       "count": 5,
-      "name": "Starting Rocket Sneaker",
+      "name": "Jackpot Slots",
       "category": [
-        "Starting Items"
+        "Temporary Items"
       ],
       "filler": true
     },
     {
       "count": 5,
-      "name": "Starting Stone Shoe",
+      "name": "Toxomistifier",
       "category": [
-        "Starting Items"
+        "Temporary Items"
       ],
       "filler": true
     },
     {
-      "count": 5,
-      "name": "Starting Super Ring",
-      "category": [
-        "Starting Items"
-      ],
-      "filler": true
-    },
-    {
-      "count": 5,
-      "name": "Starting Toxomister",
-      "category": [
-        "Starting Items"
-      ],
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Mega Barrier",
+      "count": 0,
+      "name": "Fragile Trap",
       "category": [
         "Battlemode Items",
         "Traps"
       ],
-      "filler": true
+      "trap": true
     },
     {
       "count": 10,
-      "name": "Super Power",
+      "name": "S-Monitor",
       "category": [
         "Battlemode Items"
       ],
@@ -941,7 +955,8 @@
       "count": 9,
       "name": "Time Increase (+30s)",
       "category": [
-        "Mechanics"
+        "Mechanics",
+        "Prisons"
       ],
       "useful": true
     },
@@ -987,14 +1002,6 @@
     },
     {
       "count": 1,
-      "name": "Gravflip Trap",
-      "category": [
-        "Traps"
-      ],
-      "trap": true
-    },
-    {
-      "count": 1,
       "name": "Invisible Trap",
       "category": [
         "Traps"
@@ -1019,15 +1026,7 @@
     },
     {
       "count": 1,
-      "name": "Sting Trap",
-      "category": [
-        "Traps"
-      ],
-      "trap": true
-    },
-    {
-      "count": 1,
-      "name": "Stumble Trap",
+      "name": "Eggman Slots Trap",
       "category": [
         "Traps"
       ],

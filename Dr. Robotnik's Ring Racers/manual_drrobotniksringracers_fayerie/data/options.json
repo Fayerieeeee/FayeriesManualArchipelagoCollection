@@ -119,6 +119,15 @@
             "default": false,
             "group": "Items"
         },
+        "ring_teching":{
+            "display_name": "Ring Teching",
+            "description":[
+                "Enable Ring Teching? You will need the Ring Escape mod for this to function as intended."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Items"
+        },
         "phantom_ruby":{
             "display_name": "Starting Phantom Ruby",
             "description":[
