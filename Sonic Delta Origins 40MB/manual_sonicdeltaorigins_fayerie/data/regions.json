@@ -1,0 +1,35 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Green Hill": {
+    "connects_to": [],
+    "requires": "|Green Hill Zone| OR |South Island Access|"
+  },
+  "Marble": {
+    "connects_to": [],
+    "requires": "|Marble Zone| OR |South Island Access|"
+  },
+  "Spring Yard/Sparkling": {
+    "connects_to": [],
+    "requires": "(|Spring Yard Zone| OR |Sparkling Zone|) OR |South Island Access|"
+  },
+  "Labyrinth": {
+    "connects_to": [],
+    "requires": "|Labyrinth Zone| OR |South Island Access|"
+  },
+  "Star Light": {
+    "connects_to": [],
+    "requires": "|Star Light Zone| OR |South Island Access|"
+  },
+  "Scrap Brain": {
+    "connects_to": [],
+    "requires": "(|Scrap Brain Zone| OR |Clock Work Zone|) OR |South Island Access|"
+  },
+  "Final": {
+    "connects_to": [],
+    "requires": "|Final Zone| OR |South Island Access|"
+  },
+  "Bridge": {
+    "connects_to": [],
+    "requires": "|Bridge Zone| OR |South Island Access|"
+  }
+}
